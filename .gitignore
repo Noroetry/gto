@@ -1,1 +1,3 @@
 data/
+config/settings.py
+logs/

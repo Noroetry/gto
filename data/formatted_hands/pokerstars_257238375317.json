@@ -1,0 +1,76 @@
+{
+  "hand_id": "257238375317",
+  "date": "06-08-2025 18:52:23",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ad",
+    "9d"
+  ],
+  "stacks": {
+    "koldipk": 101.0,
+    "David98X": 110.5,
+    "JJer11": 195.0,
+    "SrLyce": 103.5,
+    "El Calvo 65": 201.0,
+    "ScarvBlack": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: koldipk (2.02 € en fichas)",
+      "Asiento 2: David98X (2.21 € en fichas)",
+      "Asiento 3: JJer11 (3.90 € en fichas)",
+      "Asiento 4: SrLyce (2.07 € en fichas)",
+      "Asiento 5: El Calvo 65 (4.02 € en fichas)",
+      "Asiento 6: ScarvBlack (2 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "El Calvo 65: pone la ciega grande 0.02 €",
+      "ScarvBlack: se retira",
+      "koldipk: iguala 0.02 €",
+      "David98X: se retira",
+      "JJer11: sube 0.06 € a 0.08 €",
+      "SrLyce: iguala 0.07 €",
+      "El Calvo 65: se retira",
+      "koldipk: iguala 0.06 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "koldipk: pasa",
+      "JJer11: pasa"
+    ],
+    "turn": [
+      "SrLyce: apuesta 0.08 €",
+      "koldipk: iguala 0.08 €",
+      "JJer11: sube 0.16 € a 0.24 €",
+      "SrLyce: iguala 0.16 €",
+      "koldipk: se retira"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "JJer11: pasa",
+      "SrLyce: muestra [Ad 9d] (carta alta as)",
+      "JJer11: muestra [3h 4h] (doble pareja, cuatros y treses)",
+      "Asiento 1: koldipk se retiró en el Turn",
+      "Asiento 2: David98X se retiró antes del Flop (no apostó)",
+      "Asiento 3: JJer11 (botón) muestra [3h 4h] y ganó (0.77 €) con doble pareja, cuatros y treses",
+      "Asiento 4: SrLyce (ciega pequeña) muestra [Ad 9d] y perdió con carta alta as",
+      "Asiento 5: El Calvo 65 (ciega grande) se retiró antes del Flop",
+      "Asiento 6: ScarvBlack se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "6s",
+    "Qh",
+    "3d",
+    "4d",
+    "Jc"
+  ],
+  "winner": "JJer11",
+  "win_amount": 38.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.5,
+  "raw_text": "Mano n.º 257238375317 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:52:23 CET [06-08-2025 12:52:23 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 3 es el botón\nAsiento 1: koldipk (2.02 € en fichas) \nAsiento 2: David98X (2.21 € en fichas) \nAsiento 3: JJer11 (3.90 € en fichas) \nAsiento 4: SrLyce (2.07 € en fichas) \nAsiento 5: El Calvo 65 (4.02 € en fichas) \nAsiento 6: ScarvBlack (2 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nEl Calvo 65: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ad 9d]\nScarvBlack: se retira \nkoldipk: iguala 0.02 €\nDavid98X: se retira \nJJer11: sube 0.06 € a 0.08 €\nSrLyce: iguala 0.07 €\nEl Calvo 65: se retira \nkoldipk: iguala 0.06 €\n*** FLOP *** [6s Qh 3d]\nEl Calvo 65 deja la mesa\nSrLyce: pasa \nkoldipk: pasa \nJJer11: pasa \n*** TURN *** [6s Qh 3d] [4d]\nSrLyce: apuesta 0.08 €\nkoldipk: iguala 0.08 €\nJJer11: sube 0.16 € a 0.24 €\nSrLyce: iguala 0.16 €\nkoldipk: se retira \n*** RIVER *** [6s Qh 3d 4d] [Jc]\nSrLyce: pasa \nJJer11: pasa \n*** SHOW DOWN ***\nSrLyce: muestra [Ad 9d] (carta alta as)\nJJer11: muestra [3h 4h] (doble pareja, cuatros y treses)\nJJer11 se lleva 0.77 € del bote \n*** RESUMEN ***\nBote total 0.82 € | Comisión 0.05 € \nComunitarias [6s Qh 3d 4d Jc]\nAsiento 1: koldipk se retiró en el Turn\nAsiento 2: David98X se retiró antes del Flop (no apostó)\nAsiento 3: JJer11 (botón) muestra [3h 4h] y ganó (0.77 €) con doble pareja, cuatros y treses\nAsiento 4: SrLyce (ciega pequeña) muestra [Ad 9d] y perdió con carta alta as\nAsiento 5: El Calvo 65 (ciega grande) se retiró antes del Flop\nAsiento 6: ScarvBlack se retiró antes del Flop (no apostó)"
+}

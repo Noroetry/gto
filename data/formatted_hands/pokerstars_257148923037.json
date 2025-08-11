@@ -1,0 +1,71 @@
+{
+  "hand_id": "257148923037",
+  "date": "30-07-2025 21:53:33",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6d",
+    "Jc"
+  ],
+  "stacks": {
+    "Zorgue1080": 89.5,
+    "SrLyce": 159.5,
+    "NoahBolete": 100.5,
+    "Davdgoni": 100.0,
+    "DiaZzZ1": 105.5,
+    "berlcht403": 37.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Zorgue1080 (1.79 € en fichas)",
+      "Asiento 2: SrLyce (3.19 € en fichas)",
+      "Asiento 3: NoahBolete (2.01 € en fichas)",
+      "Asiento 4: Davdgoni (2 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2.11 € en fichas)",
+      "Asiento 6: berlcht403 (0.74 € en fichas)",
+      "berlcht403: pone la ciega pequeña 0.01 €",
+      "Zorgue1080: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "NoahBolete: se retira",
+      "Davdgoni: se retira",
+      "DiaZzZ1: se retira",
+      "berlcht403: iguala 0.01 €",
+      "Zorgue1080: pasa"
+    ],
+    "flop": [
+      "berlcht403: apuesta 0.04 €",
+      "Zorgue1080: iguala 0.04 €"
+    ],
+    "turn": [
+      "berlcht403: pasa",
+      "Zorgue1080: pasa"
+    ],
+    "river": [
+      "berlcht403: apuesta 0.02 €",
+      "Zorgue1080: iguala 0.02 €",
+      "berlcht403: muestra [3h 7c] (escalera, de tres a siete)",
+      "Zorgue1080: descarta su mano sin mostrar",
+      "Asiento 1: Zorgue1080 (ciega grande) descartó sin mostrar [Kc 8h]",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: NoahBolete se retiró antes del Flop (no apostó)",
+      "Asiento 4: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 5: DiaZzZ1 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: berlcht403 (ciega pequeña) muestra [3h 7c] y ganó (0.15 €) con escalera, de tres a siete"
+    ]
+  },
+  "board": [
+    "5c",
+    "4s",
+    "3c",
+    "2d",
+    "6h"
+  ],
+  "winner": "berlcht403",
+  "win_amount": 7.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257148923037 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:53:33 CET [30-07-2025 15:53:33 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 5 es el botón\nAsiento 1: Zorgue1080 (1.79 € en fichas) \nAsiento 2: SrLyce (3.19 € en fichas) \nAsiento 3: NoahBolete (2.01 € en fichas) \nAsiento 4: Davdgoni (2 € en fichas) \nAsiento 5: DiaZzZ1 (2.11 € en fichas) \nAsiento 6: berlcht403 (0.74 € en fichas) \nberlcht403: pone la ciega pequeña 0.01 €\nZorgue1080: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6d Jc]\nSrLyce: se retira \nNoahBolete: se retira \nDavdgoni: se retira \nDiaZzZ1: se retira \nberlcht403: iguala 0.01 €\nZorgue1080: pasa \n*** FLOP *** [5c 4s 3c]\nberlcht403: apuesta 0.04 €\nZorgue1080: iguala 0.04 €\n*** TURN *** [5c 4s 3c] [2d]\nberlcht403: pasa \nZorgue1080: pasa \n*** RIVER *** [5c 4s 3c 2d] [6h]\nberlcht403: apuesta 0.02 €\nZorgue1080: iguala 0.02 €\n*** SHOW DOWN ***\nberlcht403: muestra [3h 7c] (escalera, de tres a siete)\nZorgue1080: descarta su mano sin mostrar \nberlcht403 se lleva 0.15 € del bote \n*** RESUMEN ***\nBote total 0.16 € | Comisión 0.01 € \nComunitarias [5c 4s 3c 2d 6h]\nAsiento 1: Zorgue1080 (ciega grande) descartó sin mostrar [Kc 8h]\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: NoahBolete se retiró antes del Flop (no apostó)\nAsiento 4: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 5: DiaZzZ1 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: berlcht403 (ciega pequeña) muestra [3h 7c] y ganó (0.15 €) con escalera, de tres a siete"
+}

@@ -1,0 +1,30 @@
+Mano n.º 257150448843 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:42:36 CET [30-07-2025 17:42:36 ET]
+Mesa "Martha" 6-max El asiento n.º 6 es el botón
+Asiento 1: mivipkr (2.13 € en fichas) 
+Asiento 2: NovacaineZxc (2.40 € en fichas) 
+Asiento 3: BudyXXIII (2.24 € en fichas) 
+Asiento 4: Sigiilo (2 € en fichas) 
+Asiento 5: SrLyce (1.96 € en fichas) 
+Asiento 6: alexfw300 (2 € en fichas) 
+mivipkr: pone la ciega pequeña 0.01 €
+NovacaineZxc: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3h 2h]
+BudyXXIII: se retira 
+Sigiilo: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+alexfw300: sube 0.12 € a 0.18 €
+mivipkr: se retira 
+NovacaineZxc: se retira 
+Sigiilo: se retira 
+La apuesta no igualada (0.12 €) ha sido devuelta a alexfw300
+alexfw300 se lleva 0.15 € del bote 
+alexfw300: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.15 € | Comisión 0 € 
+Asiento 1: mivipkr (ciega pequeña) se retiró antes del Flop
+Asiento 2: NovacaineZxc (ciega grande) se retiró antes del Flop
+Asiento 3: BudyXXIII se retiró antes del Flop (no apostó)
+Asiento 4: Sigiilo se retiró antes del Flop
+Asiento 5: SrLyce se retiró antes del Flop (no apostó)
+Asiento 6: alexfw300 (botón) recaudó (0.15 €)

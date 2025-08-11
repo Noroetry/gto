@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238460800",
+  "date": "06-08-2025 19:01:25",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kh",
+    "Jd"
+  ],
+  "stacks": {
+    "zoioachado": 0.0,
+    "SrLyce": 143.0,
+    "yonisanlu": 143.0,
+    "Nicanor Cast": 51.5,
+    "rayao32": 42.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: zoioachado (0 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2.86 € en fichas)",
+      "Asiento 3: yonisanlu (2.86 € en fichas)",
+      "Asiento 4: serviettski(fr) (2 € en fichas)",
+      "Asiento 5: Nicanor Cast (1.03 € en fichas)",
+      "Asiento 6: rayao32 (0.85 € en fichas)",
+      "Nicanor Cast: pone la ciega pequeña 0.01 €",
+      "rayao32: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "yonisanlu: se retira",
+      "serviettski(fr): se retira",
+      "Nicanor Cast: se retira",
+      "rayao32: iguala 0.03 €"
+    ],
+    "flop": [
+      "rayao32: pasa",
+      "SrLyce: apuesta 0.03 €",
+      "rayao32: iguala 0.03 €"
+    ],
+    "turn": [
+      "rayao32: pasa",
+      "SrLyce: apuesta 0.08 €",
+      "rayao32: iguala 0.08 €"
+    ],
+    "river": [
+      "rayao32: pasa",
+      "SrLyce: pasa",
+      "rayao32: muestra [3h 8c] (pareja de ochos)",
+      "SrLyce: muestra [Kh Jd] (pareja de jotas)",
+      "Asiento 2: zoioachado",
+      "Asiento 1: SrLyce muestra [Kh Jd] y ganó (0.31 €) con pareja de jotas",
+      "Asiento 3: yonisanlu se retiró antes del Flop (no apostó)",
+      "Asiento 4: serviettski(fr) (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: Nicanor Cast (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: rayao32 (ciega grande) muestra [3h 8c] y perdió con pareja de ochos"
+    ]
+  },
+  "board": [
+    "8d",
+    "9h",
+    "4s",
+    "Jh",
+    "Ac"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 15.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238460800 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:01:25 CET [06-08-2025 13:01:25 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 4 es el botón\nAsiento 2: zoioachado (0 € en fichas) está ausente\nAsiento 1: SrLyce (2.86 € en fichas) \nAsiento 3: yonisanlu (2.86 € en fichas) \nAsiento 4: serviettski(fr) (2 € en fichas) \nAsiento 5: Nicanor Cast (1.03 € en fichas) \nAsiento 6: rayao32 (0.85 € en fichas) \nNicanor Cast: pone la ciega pequeña 0.01 €\nrayao32: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kh Jd]\nSrLyce: sube 0.03 € a 0.05 €\nyonisanlu: se retira \nserviettski(fr): se retira \nNicanor Cast: se retira \nrayao32: iguala 0.03 €\n*** FLOP *** [8d 9h 4s]\nrayao32: pasa \nSrLyce: apuesta 0.03 €\nrayao32: iguala 0.03 €\n*** TURN *** [8d 9h 4s] [Jh]\nrayao32: pasa \nSrLyce: apuesta 0.08 €\nrayao32: iguala 0.08 €\n*** RIVER *** [8d 9h 4s Jh] [Ac]\nrayao32: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nrayao32: muestra [3h 8c] (pareja de ochos)\nSrLyce: muestra [Kh Jd] (pareja de jotas)\nSrLyce se lleva 0.31 € del bote \n*** RESUMEN ***\nBote total 0.33 € | Comisión 0.02 € \nComunitarias [8d 9h 4s Jh Ac]\nAsiento 2: zoioachado\nAsiento 1: SrLyce muestra [Kh Jd] y ganó (0.31 €) con pareja de jotas\nAsiento 3: yonisanlu se retiró antes del Flop (no apostó)\nAsiento 4: serviettski(fr) (botón) se retiró antes del Flop (no apostó)\nAsiento 5: Nicanor Cast (ciega pequeña) se retiró antes del Flop\nAsiento 6: rayao32 (ciega grande) muestra [3h 8c] y perdió con pareja de ochos"
+}

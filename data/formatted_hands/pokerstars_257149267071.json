@@ -1,0 +1,75 @@
+{
+  "hand_id": "257149267071",
+  "date": "30-07-2025 22:19:48",
+  "table": "Leverrier",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5d",
+    "2h"
+  ],
+  "stacks": {
+    "adrian15540": 87.5,
+    "SrLyce": 99.5,
+    "igonpar": 97.5,
+    "futur64": 95.0,
+    "denkweise": 101.0,
+    "NaruchoH1": 121.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: adrian15540 (1.75 € en fichas)",
+      "Asiento 2: SrLyce (1.99 € en fichas)",
+      "Asiento 3: igonpar (1.95 € en fichas)",
+      "Asiento 4: futur64 (1.90 € en fichas)",
+      "Asiento 5: denkweise (2.02 € en fichas)",
+      "Asiento 6: NaruchoH1 (2.43 € en fichas)",
+      "denkweise: pone la ciega pequeña 0.01 €",
+      "NaruchoH1: pone la ciega grande 0.02 €",
+      "adrian15540: se retira",
+      "SrLyce: se retira",
+      "igonpar: iguala 0.02 €",
+      "futur64: se retira",
+      "denkweise: iguala 0.01 €",
+      "NaruchoH1: pasa"
+    ],
+    "flop": [
+      "denkweise: pasa",
+      "NaruchoH1: pasa",
+      "igonpar: apuesta 0.04 €",
+      "denkweise: iguala 0.04 €",
+      "NaruchoH1: se retira"
+    ],
+    "turn": [
+      "denkweise: pasa",
+      "igonpar: apuesta 0.06 €",
+      "denkweise: iguala 0.06 €"
+    ],
+    "river": [
+      "denkweise: pasa",
+      "igonpar: pasa",
+      "denkweise: muestra [4d Ah] (pareja de cuatros)",
+      "igonpar: descarta su mano sin mostrar",
+      "Asiento 1: adrian15540 se retiró antes del Flop (no apostó)",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: igonpar descartó sin mostrar [As Kc]",
+      "Asiento 4: futur64 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: denkweise (ciega pequeña) muestra [4d Ah] y ganó (0.24 €) con pareja de cuatros",
+      "Asiento 6: NaruchoH1 (ciega grande) se retiró en el Flop"
+    ]
+  },
+  "board": [
+    "4h",
+    "6c",
+    "2s",
+    "Qh",
+    "7d"
+  ],
+  "winner": "denkweise",
+  "win_amount": 12.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257149267071 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:19:48 CET [30-07-2025 16:19:48 ET]\nMesa \"Leverrier\" 6-max El asiento n.º 4 es el botón\nAsiento 1: adrian15540 (1.75 € en fichas) \nAsiento 2: SrLyce (1.99 € en fichas) \nAsiento 3: igonpar (1.95 € en fichas) \nAsiento 4: futur64 (1.90 € en fichas) \nAsiento 5: denkweise (2.02 € en fichas) \nAsiento 6: NaruchoH1 (2.43 € en fichas) \ndenkweise: pone la ciega pequeña 0.01 €\nNaruchoH1: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5d 2h]\nadrian15540: se retira \nSrLyce: se retira \nigonpar: iguala 0.02 €\nfutur64: se retira \ndenkweise: iguala 0.01 €\nNaruchoH1: pasa \n*** FLOP *** [4h 6c 2s]\nadrian15540 deja la mesa\ndenkweise: pasa \nNaruchoH1: pasa \nigonpar: apuesta 0.04 €\ndenkweise: iguala 0.04 €\nNaruchoH1: se retira \n*** TURN *** [4h 6c 2s] [Qh]\ndenkweise: pasa \nigonpar: apuesta 0.06 €\ndenkweise: iguala 0.06 €\n*** RIVER *** [4h 6c 2s Qh] [7d]\ndenkweise: pasa \nigonpar: pasa \n*** SHOW DOWN ***\ndenkweise: muestra [4d Ah] (pareja de cuatros)\nigonpar: descarta su mano sin mostrar \ndenkweise se lleva 0.24 € del bote \nDavdgoni se une a la mesa en el asiento n.º 1 \n*** RESUMEN ***\nBote total 0.26 € | Comisión 0.02 € \nComunitarias [4h 6c 2s Qh 7d]\nAsiento 1: adrian15540 se retiró antes del Flop (no apostó)\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: igonpar descartó sin mostrar [As Kc]\nAsiento 4: futur64 (botón) se retiró antes del Flop (no apostó)\nAsiento 5: denkweise (ciega pequeña) muestra [4d Ah] y ganó (0.24 €) con pareja de cuatros\nAsiento 6: NaruchoH1 (ciega grande) se retiró en el Flop"
+}

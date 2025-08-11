@@ -1,0 +1,71 @@
+{
+  "hand_id": "257215269272",
+  "date": "04-08-2025 22:34:52",
+  "table": "Aldhafera II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6h",
+    "8d"
+  ],
+  "stacks": {
+    "wsx25": 65.5,
+    "BudyXXIII": 292.5,
+    "SrLyce": 98.5,
+    "rhidoxxx": 75.5,
+    "jte-ken": 123.0,
+    "betterrrrrr": 170.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: wsx25 (1.31 € en fichas)",
+      "Asiento 2: BudyXXIII (5.85 € en fichas)",
+      "Asiento 3: SrLyce (1.97 € en fichas)",
+      "Asiento 4: rhidoxxx (1.51 € en fichas)",
+      "Asiento 5: jte-ken (2.46 € en fichas)",
+      "Asiento 6: betterrrrrr (3.40 € en fichas)",
+      "jte-ken: pone la ciega pequeña 0.01 €",
+      "betterrrrrr: pone la ciega grande 0.02 €",
+      "wsx25: se retira",
+      "BudyXXIII: se retira",
+      "SrLyce: se retira",
+      "rhidoxxx: se retira",
+      "jte-ken: sube 0.02 € a 0.04 €",
+      "betterrrrrr: iguala 0.02 €"
+    ],
+    "flop": [
+      "jte-ken: pasa",
+      "betterrrrrr: pasa"
+    ],
+    "turn": [
+      "jte-ken: pasa",
+      "betterrrrrr: pasa"
+    ],
+    "river": [
+      "jte-ken: pasa",
+      "betterrrrrr: pasa",
+      "jte-ken: muestra [Tc 5c] (doble pareja, cuatros y treses)",
+      "betterrrrrr: muestra [6c Ac] (doble pareja, cuatros y treses - as kicker)",
+      "Asiento 1: wsx25 se retiró antes del Flop (no apostó)",
+      "Asiento 2: BudyXXIII se retiró antes del Flop (no apostó)",
+      "Asiento 3: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 4: rhidoxxx (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: jte-ken (ciega pequeña) muestra [Tc 5c] y perdió con doble pareja, cuatros y treses",
+      "Asiento 6: betterrrrrr (ciega grande) muestra [6c Ac] y ganó (0.08 €) con doble pareja, cuatros y treses"
+    ]
+  },
+  "board": [
+    "9s",
+    "4c",
+    "4h",
+    "3d",
+    "3c"
+  ],
+  "winner": "betterrrrrr",
+  "win_amount": 4.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257215269272 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:34:52 CET [04-08-2025 16:34:52 ET]\nMesa \"Aldhafera II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: wsx25 (1.31 € en fichas) \nAsiento 2: BudyXXIII (5.85 € en fichas) \nAsiento 3: SrLyce (1.97 € en fichas) \nAsiento 4: rhidoxxx (1.51 € en fichas) \nAsiento 5: jte-ken (2.46 € en fichas) \nAsiento 6: betterrrrrr (3.40 € en fichas) \njte-ken: pone la ciega pequeña 0.01 €\nbetterrrrrr: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6h 8d]\nwsx25: se retira \nBudyXXIII: se retira \nSrLyce: se retira \nrhidoxxx: se retira \njte-ken: sube 0.02 € a 0.04 €\nbetterrrrrr: iguala 0.02 €\n*** FLOP *** [9s 4c 4h]\njte-ken: pasa \nbetterrrrrr: pasa \n*** TURN *** [9s 4c 4h] [3d]\njte-ken: pasa \nbetterrrrrr: pasa \n*** RIVER *** [9s 4c 4h 3d] [3c]\njte-ken: pasa \nbetterrrrrr: pasa \n*** SHOW DOWN ***\njte-ken: muestra [Tc 5c] (doble pareja, cuatros y treses)\nbetterrrrrr: muestra [6c Ac] (doble pareja, cuatros y treses - as kicker)\nbetterrrrrr se lleva 0.08 € del bote \n*** RESUMEN ***\nBote total 0.08 € | Comisión 0 € \nComunitarias [9s 4c 4h 3d 3c]\nAsiento 1: wsx25 se retiró antes del Flop (no apostó)\nAsiento 2: BudyXXIII se retiró antes del Flop (no apostó)\nAsiento 3: SrLyce se retiró antes del Flop (no apostó)\nAsiento 4: rhidoxxx (botón) se retiró antes del Flop (no apostó)\nAsiento 5: jte-ken (ciega pequeña) muestra [Tc 5c] y perdió con doble pareja, cuatros y treses\nAsiento 6: betterrrrrr (ciega grande) muestra [6c Ac] y ganó (0.08 €) con doble pareja, cuatros y treses"
+}

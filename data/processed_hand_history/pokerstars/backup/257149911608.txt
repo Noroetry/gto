@@ -1,0 +1,42 @@
+Mano n.º 257149911608 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:05:22 CET [30-07-2025 17:05:22 ET]
+Mesa "Gilgamesh" 6-max El asiento n.º 2 es el botón
+Asiento 1: riverrrrrrmagic (2.20 € en fichas) 
+Asiento 2: SrLyce (2.46 € en fichas) 
+Asiento 3: Jumby34 (2 € en fichas) 
+Asiento 5: cbo54 (1.62 € en fichas) 
+Asiento 6: Fretzo67500 (2.34 € en fichas) 
+Jumby34: pone la ciega pequeña 0.01 €
+cbo54: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ts 9h]
+SiveSinouts se une a la mesa en el asiento n.º 4 
+Fretzo67500: se retira 
+riverrrrrrmagic: sube 0.02 € a 0.04 €
+SrLyce: iguala 0.04 €
+Jumby34: se retira 
+cbo54: iguala 0.02 €
+*** FLOP *** [Jd Ks 9c]
+SiveSinouts deja la mesa
+cbo54: apuesta 0.02 €
+riverrrrrrmagic: iguala 0.02 €
+SrLyce: iguala 0.02 €
+*** TURN *** [Jd Ks 9c] [6c]
+cbo54: apuesta 0.04 €
+riverrrrrrmagic: iguala 0.04 €
+SrLyce: iguala 0.04 €
+*** RIVER *** [Jd Ks 9c 6c] [2d]
+cbo54: apuesta 0.02 €
+riverrrrrrmagic: iguala 0.02 €
+SrLyce: se retira 
+*** SHOW DOWN ***
+cbo54: muestra [Ac 8h] (carta alta as)
+riverrrrrrmagic: muestra [6h Jh] (doble pareja, jotas y seises)
+riverrrrrrmagic se lleva 0.33 € del bote 
+*** RESUMEN ***
+Bote total 0.35 € | Comisión 0.02 € 
+Comunitarias [Jd Ks 9c 6c 2d]
+Asiento 1: riverrrrrrmagic muestra [6h Jh] y ganó (0.33 €) con doble pareja, jotas y seises
+Asiento 2: SrLyce (botón) se retiró en el River
+Asiento 3: Jumby34 (ciega pequeña) se retiró antes del Flop
+Asiento 5: cbo54 (ciega grande) muestra [Ac 8h] y perdió con carta alta as
+Asiento 6: Fretzo67500 se retiró antes del Flop (no apostó)

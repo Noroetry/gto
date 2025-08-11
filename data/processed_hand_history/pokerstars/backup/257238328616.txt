@@ -1,0 +1,46 @@
+Mano n.º 257238328616 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:48:16 CET [06-08-2025 12:48:16 ET]
+Mesa "Herculina II" 6-max El asiento n.º 5 es el botón
+Asiento 1: koldipk (1.49 € en fichas) 
+Asiento 2: David98X (2.19 € en fichas) 
+Asiento 3: JJer11 (3.93 € en fichas) 
+Asiento 4: SrLyce (1.86 € en fichas) 
+Asiento 5: El Calvo 65 (4.52 € en fichas) 
+Asiento 6: ScarvBlack (2 € en fichas) 
+ScarvBlack: pone la ciega pequeña 0.01 €
+koldipk: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6d 8h]
+David98X: se retira 
+JJer11: se retira 
+SrLyce: se retira 
+El Calvo 65: iguala 0.02 €
+ScarvBlack: iguala 0.01 €
+koldipk: sube 0.04 € a 0.06 €
+El Calvo 65: iguala 0.04 €
+ScarvBlack: iguala 0.04 €
+*** FLOP *** [Kc 6c 4d]
+ScarvBlack: pasa 
+koldipk: pasa 
+El Calvo 65: apuesta 0.17 €
+ScarvBlack: se retira 
+koldipk: iguala 0.17 €
+*** TURN *** [Kc 6c 4d] [Ah]
+koldipk: pasa 
+El Calvo 65: apuesta 0.34 €
+koldipk: iguala 0.34 €
+*** RIVER *** [Kc 6c 4d Ah] [Td]
+koldipk: pasa 
+El Calvo 65: pasa 
+*** SHOW DOWN ***
+koldipk: muestra [8c 9c] (carta alta as)
+El Calvo 65: descarta su mano sin mostrar 
+koldipk se lleva 1.13 € del bote 
+*** RESUMEN ***
+Bote total 1.20 € | Comisión 0.07 € 
+Comunitarias [Kc 6c 4d Ah Td]
+Asiento 1: koldipk (ciega grande) muestra [8c 9c] y ganó (1.13 €) con carta alta as
+Asiento 2: David98X se retiró antes del Flop (no apostó)
+Asiento 3: JJer11 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: El Calvo 65 (botón) descartó sin mostrar [5h 7s]
+Asiento 6: ScarvBlack (ciega pequeña) se retiró en el Flop

@@ -1,0 +1,36 @@
+Mano n.º 257168214409 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:05:46 CET [01-08-2025 5:05:46 ET]
+Mesa "Sekanina" 6-max El asiento n.º 4 es el botón
+Asiento 2: practikal_C23 (1.73 € en fichas) 
+Asiento 3: Alvii37 (1.90 € en fichas) 
+Asiento 4: SrLyce (2.07 € en fichas) 
+Asiento 5: davinci1962 (2 € en fichas) 
+Asiento 6: Elministrelas (1.92 € en fichas) 
+davinci1962: pone la ciega pequeña 0.01 €
+Elministrelas: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2s Kh]
+practikal_C23: iguala 0.02 €
+Alvii37: se retira 
+SrLyce: se retira 
+davinci1962: se retira 
+Elministrelas: pasa 
+*** FLOP *** [Jc 9c Th]
+Elministrelas: pasa 
+practikal_C23: pasa 
+*** TURN *** [Jc 9c Th] [5s]
+Elministrelas: apuesta 0.02 €
+practikal_C23: iguala 0.02 €
+*** RIVER *** [Jc 9c Th 5s] [Kd]
+Elministrelas: pasa 
+practikal_C23: apuesta 0.04 €
+Elministrelas: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a practikal_C23
+practikal_C23 se lleva 0.08 € del bote 
+*** RESUMEN ***
+Bote total 0.09 € | Comisión 0.01 € 
+Comunitarias [Jc 9c Th 5s Kd]
+Asiento 2: practikal_C23 recaudó (0.08 €)
+Asiento 3: Alvii37 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 5: davinci1962 (ciega pequeña) se retiró antes del Flop
+Asiento 6: Elministrelas (ciega grande) se retiró en el River

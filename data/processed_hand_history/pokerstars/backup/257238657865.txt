@@ -1,0 +1,44 @@
+Mano n.º 257238657865 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:18:14 CET [06-08-2025 13:18:14 ET]
+Mesa "Herculina II" 6-max El asiento n.º 6 es el botón
+Asiento 1: Alceo27 (2.45 € en fichas) 
+Asiento 2: David98X (3.28 € en fichas) 
+Asiento 3: JJer11 (3.84 € en fichas) 
+Asiento 4: SrLyce (1.98 € en fichas) 
+Asiento 5: Macklemore0 (2.05 € en fichas) 
+Asiento 6: ScarvBlack (2.25 € en fichas) 
+Alceo27: pone la ciega pequeña 0.01 €
+David98X: pone la ciega grande 0.02 €
+Macklemore0: pone la ciega pequeña y la grande 0.03 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ac Kh]
+JJer11: se retira 
+SrLyce: sube 0.03 € a 0.05 €
+Macklemore0: se retira 
+ScarvBlack: iguala 0.05 €
+Alceo27: se retira 
+David98X: iguala 0.03 €
+*** FLOP *** [8c 6c Qc]
+David98X: pasa 
+SrLyce: apuesta 0.06 €
+ScarvBlack: se retira 
+David98X: iguala 0.06 €
+*** TURN *** [8c 6c Qc] [7d]
+David98X: pasa 
+SrLyce: apuesta 0.15 €
+David98X: iguala 0.15 €
+*** RIVER *** [8c 6c Qc 7d] [Qd]
+David98X: pasa 
+SrLyce: pasa 
+*** SHOW DOWN ***
+David98X: muestra [Td Jc] (pareja de damas)
+SrLyce: muestra [Ac Kh] (pareja de damas - as kicker)
+SrLyce se lleva 0.57 € del bote 
+*** RESUMEN ***
+Bote total 0.61 € | Comisión 0.04 € 
+Comunitarias [8c 6c Qc 7d Qd]
+Asiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop
+Asiento 2: David98X (ciega grande) muestra [Td Jc] y perdió con pareja de damas
+Asiento 3: JJer11 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce muestra [Ac Kh] y ganó (0.57 €) con pareja de damas
+Asiento 5: Macklemore0 se retiró antes del Flop (no apostó)
+Asiento 6: ScarvBlack (botón) se retiró en el Flop

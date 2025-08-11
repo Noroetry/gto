@@ -1,0 +1,61 @@
+{
+  "hand_id": "257237840861",
+  "date": "06-08-2025 18:04:30",
+  "table": "Euneus III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6s",
+    "8h"
+  ],
+  "stacks": {
+    "Il_BM00": 100.0,
+    "djrojas9": 155.5,
+    "SrLyce": 109.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: Il_BM00 (2 € en fichas)",
+      "Asiento 3: djrojas9 (3.11 € en fichas)",
+      "Asiento 5: SrLyce (2.18 € en fichas)",
+      "djrojas9: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Il_BM00: iguala 0.02 €",
+      "djrojas9: iguala 0.01 €",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "djrojas9: pasa",
+      "SrLyce: pasa",
+      "Il_BM00: pasa"
+    ],
+    "turn": [
+      "djrojas9: apuesta 0.04 €",
+      "SrLyce: se retira",
+      "Il_BM00: iguala 0.04 €"
+    ],
+    "river": [
+      "djrojas9: apuesta 0.07 €",
+      "Il_BM00: sube 0.27 € a 0.34 €",
+      "djrojas9: se retira",
+      "Il_BM00: no muestra su mano",
+      "Asiento 2: Il_BM00 (botón) recaudó (0.26 €)",
+      "Asiento 3: djrojas9 (ciega pequeña) se retiró en el River",
+      "Asiento 5: SrLyce (ciega grande) se retiró en el Turn"
+    ]
+  },
+  "board": [
+    "2d",
+    "Ts",
+    "Qd",
+    "4h",
+    "7d"
+  ],
+  "winner": "Il_BM00",
+  "win_amount": 13.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257237840861 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:04:30 CET [06-08-2025 12:04:30 ET]\nMesa \"Euneus III\" 6-max El asiento n.º 2 es el botón\nAsiento 2: Il_BM00 (2 € en fichas) \nAsiento 3: djrojas9 (3.11 € en fichas) \nAsiento 5: SrLyce (2.18 € en fichas) \ndjrojas9: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6s 8h]\nIl_BM00: iguala 0.02 €\ndjrojas9: iguala 0.01 €\nSrLyce: pasa \n*** FLOP *** [2d Ts Qd]\ndjrojas9: pasa \nSrLyce: pasa \nIl_BM00: pasa \n*** TURN *** [2d Ts Qd] [4h]\ndjrojas9: apuesta 0.04 €\nSrLyce: se retira \nIl_BM00: iguala 0.04 €\n*** RIVER *** [2d Ts Qd 4h] [7d]\ndjrojas9: apuesta 0.07 €\nIl_BM00: sube 0.27 € a 0.34 €\ndjrojas9: se retira \nLa apuesta no igualada (0.27 €) ha sido devuelta a Il_BM00\nIl_BM00 se lleva 0.26 € del bote \nIl_BM00: no muestra su mano \n*** RESUMEN ***\nBote total 0.28 € | Comisión 0.02 € \nComunitarias [2d Ts Qd 4h 7d]\nAsiento 2: Il_BM00 (botón) recaudó (0.26 €)\nAsiento 3: djrojas9 (ciega pequeña) se retiró en el River\nAsiento 5: SrLyce (ciega grande) se retiró en el Turn"
+}

@@ -1,0 +1,53 @@
+{
+  "hand_id": "257237627984",
+  "date": "06-08-2025 17:42:37",
+  "table": "Themisto III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "Kc"
+  ],
+  "stacks": {
+    "chordewman": 100.0,
+    "idigon": 0.0,
+    "SrLyce": 122.5,
+    "fred2d23po": 84.5,
+    "mivipkr": 107.0,
+    "marignamo": 101.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: chordewman (2 € en fichas) está ausente",
+      "Asiento 3: idigon (0 € en fichas) está ausente",
+      "Asiento 2: SrLyce (2.45 € en fichas)",
+      "Asiento 4: fred2d23po (1.69 € en fichas)",
+      "Asiento 5: mivipkr (2.14 € en fichas)",
+      "Asiento 6: marignamo (2.02 € en fichas)",
+      "mivipkr: pone la ciega pequeña 0.01 €",
+      "marignamo: pone la ciega grande 0.02 €",
+      "chordewman: se ausenta",
+      "SrLyce: se retira",
+      "fred2d23po: sube 0.02 € a 0.04 €",
+      "mivipkr: se retira",
+      "marignamo: se retira",
+      "Asiento 1: chordewman",
+      "Asiento 3: idigon",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 4: fred2d23po (botón) recaudó (0.05 €)",
+      "Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: marignamo (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "fred2d23po",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237627984 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:42:37 CET [06-08-2025 11:42:37 ET]\nMesa \"Themisto III\" 6-max El asiento n.º 4 es el botón\nAsiento 1: chordewman (2 € en fichas) está ausente\nAsiento 3: idigon (0 € en fichas) está ausente\nAsiento 2: SrLyce (2.45 € en fichas) \nAsiento 4: fred2d23po (1.69 € en fichas) \nAsiento 5: mivipkr (2.14 € en fichas) \nAsiento 6: marignamo (2.02 € en fichas) \nmivipkr: pone la ciega pequeña 0.01 €\nmarignamo: pone la ciega grande 0.02 €\nchordewman: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h Kc]\nSrLyce ha agotado su tiempo\nSrLyce: se retira \nfred2d23po: sube 0.02 € a 0.04 €\nmivipkr: se retira \nmarignamo: se retira \nLa apuesta no igualada (0.02 €) ha sido devuelta a fred2d23po\nfred2d23po se lleva 0.05 € del bote \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: chordewman\nAsiento 3: idigon\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 4: fred2d23po (botón) recaudó (0.05 €)\nAsiento 5: mivipkr (ciega pequeña) se retiró antes del Flop\nAsiento 6: marignamo (ciega grande) se retiró antes del Flop"
+}

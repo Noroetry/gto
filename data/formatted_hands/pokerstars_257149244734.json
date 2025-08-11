@@ -1,0 +1,62 @@
+{
+  "hand_id": "257149244734",
+  "date": "30-07-2025 22:18:14",
+  "table": "Leverrier",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ah",
+    "Qs"
+  ],
+  "stacks": {
+    "adrian15540": 89.0,
+    "SrLyce": 102.5,
+    "igonpar": 98.0,
+    "futur64": 96.5,
+    "denkweise": 102.0,
+    "NaruchoH1": 115.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: adrian15540 (1.78 € en fichas)",
+      "Asiento 2: SrLyce (2.05 € en fichas)",
+      "Asiento 3: igonpar (1.96 € en fichas)",
+      "Asiento 4: futur64 (1.93 € en fichas)",
+      "Asiento 5: denkweise (2.04 € en fichas)",
+      "Asiento 6: NaruchoH1 (2.31 € en fichas)",
+      "igonpar: pone la ciega pequeña 0.01 €",
+      "futur64: pone la ciega grande 0.02 €",
+      "denkweise: se retira",
+      "NaruchoH1: se retira",
+      "adrian15540: iguala 0.02 €",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "igonpar: se retira",
+      "futur64: se retira",
+      "adrian15540: iguala 0.04 €"
+    ],
+    "flop": [
+      "adrian15540: apuesta 0.14 €",
+      "SrLyce: se retira",
+      "Asiento 1: adrian15540 recaudó (0.14 €)",
+      "Asiento 2: SrLyce (botón) se retiró en el Flop",
+      "Asiento 3: igonpar (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: futur64 (ciega grande) se retiró antes del Flop",
+      "Asiento 5: denkweise se retiró antes del Flop (no apostó)",
+      "Asiento 6: NaruchoH1 se retiró antes del Flop (no apostó)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "8d",
+    "9c",
+    "Td"
+  ],
+  "winner": "adrian15540",
+  "win_amount": 7.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257149244734 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:18:14 CET [30-07-2025 16:18:14 ET]\nMesa \"Leverrier\" 6-max El asiento n.º 2 es el botón\nAsiento 1: adrian15540 (1.78 € en fichas) \nAsiento 2: SrLyce (2.05 € en fichas) \nAsiento 3: igonpar (1.96 € en fichas) \nAsiento 4: futur64 (1.93 € en fichas) \nAsiento 5: denkweise (2.04 € en fichas) \nAsiento 6: NaruchoH1 (2.31 € en fichas) \nigonpar: pone la ciega pequeña 0.01 €\nfutur64: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ah Qs]\ndenkweise: se retira \nNaruchoH1: se retira \nadrian15540: iguala 0.02 €\nSrLyce: sube 0.04 € a 0.06 €\nigonpar: se retira \nfutur64: se retira \nadrian15540: iguala 0.04 €\n*** FLOP *** [8d 9c Td]\nadrian15540: apuesta 0.14 €\nSrLyce: se retira \nLa apuesta no igualada (0.14 €) ha sido devuelta a adrian15540\nadrian15540 se lleva 0.14 € del bote \n*** RESUMEN ***\nBote total 0.15 € | Comisión 0.01 € \nComunitarias [8d 9c Td]\nAsiento 1: adrian15540 recaudó (0.14 €)\nAsiento 2: SrLyce (botón) se retiró en el Flop\nAsiento 3: igonpar (ciega pequeña) se retiró antes del Flop\nAsiento 4: futur64 (ciega grande) se retiró antes del Flop\nAsiento 5: denkweise se retiró antes del Flop (no apostó)\nAsiento 6: NaruchoH1 se retiró antes del Flop (no apostó)"
+}

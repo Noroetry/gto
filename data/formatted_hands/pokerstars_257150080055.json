@@ -1,0 +1,71 @@
+{
+  "hand_id": "257150080055",
+  "date": "30-07-2025 23:16:55",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ah",
+    "3c"
+  ],
+  "stacks": {
+    "riverrrrrrmagic": 125.0,
+    "SrLyce": 59.0,
+    "Jumby34": 100.0,
+    "xapkk": 100.0,
+    "samaritano34": 92.5,
+    "Fretzo67500": 120.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: riverrrrrrmagic (2.50 € en fichas)",
+      "Asiento 2: SrLyce (1.18 € en fichas)",
+      "Asiento 3: Jumby34 (2 € en fichas)",
+      "Asiento 4: xapkk (2 € en fichas)",
+      "Asiento 5: samaritano34 (1.85 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.40 € en fichas)",
+      "riverrrrrrmagic: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Jumby34: se retira",
+      "xapkk: se retira",
+      "samaritano34: se retira",
+      "Fretzo67500: se retira",
+      "riverrrrrrmagic: sube 0.02 € a 0.04 €",
+      "SrLyce: iguala 0.02 €"
+    ],
+    "flop": [
+      "riverrrrrrmagic: pasa",
+      "SrLyce: pasa"
+    ],
+    "turn": [
+      "riverrrrrrmagic: pasa",
+      "SrLyce: pasa"
+    ],
+    "river": [
+      "riverrrrrrmagic: pasa",
+      "SrLyce: pasa",
+      "riverrrrrrmagic: muestra [8d Qd] (doble pareja, damas y seises)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 1: riverrrrrrmagic (ciega pequeña) muestra [8d Qd] y ganó (0.08 €) con doble pareja, damas y seises",
+      "Asiento 2: SrLyce (ciega grande) descartó sin mostrar [Ah 3c]",
+      "Asiento 3: Jumby34 se retiró antes del Flop (no apostó)",
+      "Asiento 4: xapkk se retiró antes del Flop (no apostó)",
+      "Asiento 5: samaritano34 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Fretzo67500 (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "6d",
+    "6s",
+    "5h",
+    "Qs",
+    "4d"
+  ],
+  "winner": "riverrrrrrmagic",
+  "win_amount": 4.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257150080055 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:16:55 CET [30-07-2025 17:16:55 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 6 es el botón\nAsiento 1: riverrrrrrmagic (2.50 € en fichas) \nAsiento 2: SrLyce (1.18 € en fichas) \nAsiento 3: Jumby34 (2 € en fichas) \nAsiento 4: xapkk (2 € en fichas) \nAsiento 5: samaritano34 (1.85 € en fichas) \nAsiento 6: Fretzo67500 (2.40 € en fichas) \nriverrrrrrmagic: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ah 3c]\nJumby34: se retira \nxapkk: se retira \nsamaritano34: se retira \nFretzo67500: se retira \nriverrrrrrmagic: sube 0.02 € a 0.04 €\nSrLyce: iguala 0.02 €\n*** FLOP *** [6d 6s 5h]\nriverrrrrrmagic: pasa \nSrLyce: pasa \n*** TURN *** [6d 6s 5h] [Qs]\nriverrrrrrmagic: pasa \nSrLyce: pasa \n*** RIVER *** [6d 6s 5h Qs] [4d]\nriverrrrrrmagic: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nriverrrrrrmagic: muestra [8d Qd] (doble pareja, damas y seises)\nSrLyce: descarta su mano sin mostrar \nriverrrrrrmagic se lleva 0.08 € del bote \n*** RESUMEN ***\nBote total 0.08 € | Comisión 0 € \nComunitarias [6d 6s 5h Qs 4d]\nAsiento 1: riverrrrrrmagic (ciega pequeña) muestra [8d Qd] y ganó (0.08 €) con doble pareja, damas y seises\nAsiento 2: SrLyce (ciega grande) descartó sin mostrar [Ah 3c]\nAsiento 3: Jumby34 se retiró antes del Flop (no apostó)\nAsiento 4: xapkk se retiró antes del Flop (no apostó)\nAsiento 5: samaritano34 se retiró antes del Flop (no apostó)\nAsiento 6: Fretzo67500 (botón) se retiró antes del Flop (no apostó)"
+}

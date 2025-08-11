@@ -1,0 +1,43 @@
+Mano n.º 257168320246 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:26:10 CET [01-08-2025 5:26:10 ET]
+Mesa "Jupiter" 6-max El asiento n.º 2 es el botón
+Asiento 1: sifilis5 (1.90 € en fichas) 
+Asiento 2: Filou203 (2.23 € en fichas) 
+Asiento 3: SrLyce (2.38 € en fichas) 
+Asiento 4: LOLA19711971 (0.61 € en fichas) 
+Asiento 5: dadou13mars (4.31 € en fichas) 
+Asiento 6: Alvii37 (2.16 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+LOLA19711971: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6h 6s]
+dadou13mars: se retira 
+Alvii37: se retira 
+sifilis5: sube 0.04 € a 0.06 €
+Filou203: se retira 
+SrLyce: iguala 0.05 €
+LOLA19711971: iguala 0.04 €
+*** FLOP *** [7s Kd 8d]
+SrLyce: pasa 
+LOLA19711971: pasa 
+sifilis5: apuesta 0.05 €
+SrLyce: iguala 0.05 €
+LOLA19711971: se retira 
+*** TURN *** [7s Kd 8d] [8s]
+SrLyce: pasa 
+sifilis5: pasa 
+*** RIVER *** [7s Kd 8d 8s] [4h]
+SrLyce: apuesta 0.13 €
+sifilis5: iguala 0.13 €
+*** SHOW DOWN ***
+SrLyce: muestra [6h 6s] (doble pareja, ochos y seises)
+sifilis5: muestra [Ac 7c] (doble pareja, ochos y sietes)
+sifilis5 se lleva 0.51 € del bote 
+*** RESUMEN ***
+Bote total 0.54 € | Comisión 0.03 € 
+Comunitarias [7s Kd 8d 8s 4h]
+Asiento 1: sifilis5 muestra [Ac 7c] y ganó (0.51 €) con doble pareja, ochos y sietes
+Asiento 2: Filou203 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) muestra [6h 6s] y perdió con doble pareja, ochos y seises
+Asiento 4: LOLA19711971 (ciega grande) se retiró en el Flop
+Asiento 5: dadou13mars se retiró antes del Flop (no apostó)
+Asiento 6: Alvii37 se retiró antes del Flop (no apostó)

@@ -1,0 +1,38 @@
+Mano n.º 257238360270 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:51:04 CET [06-08-2025 12:51:04 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 4 es el botón
+Asiento 1: N3xtTIm35 (2.01 € en fichas) 
+Asiento 2: aliendee07 (1.03 € en fichas) 
+Asiento 3: Ischadia (1.92 € en fichas) 
+Asiento 4: SrLyce (2 € en fichas) 
+Asiento 5: ismagonzalez7 (1.70 € en fichas) 
+ismagonzalez7: pone la ciega pequeña 0.01 €
+N3xtTIm35: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6s 4d]
+aliendee07: se retira 
+pauquair5 se une a la mesa en el asiento n.º 6 
+Ischadia: se retira 
+SrLyce: se retira 
+ismagonzalez7: sube 0.02 € a 0.04 €
+N3xtTIm35: iguala 0.02 €
+*** FLOP *** [6h Td Tc]
+ismagonzalez7: pasa 
+N3xtTIm35: pasa 
+*** TURN *** [6h Td Tc] [6c]
+ismagonzalez7: pasa 
+N3xtTIm35: pasa 
+*** RIVER *** [6h Td Tc 6c] [3h]
+ismagonzalez7: pasa 
+N3xtTIm35: pasa 
+*** SHOW DOWN ***
+ismagonzalez7: muestra [7c 8h] (doble pareja, dieces y seises)
+N3xtTIm35: muestra [Ks Qc] (doble pareja, dieces y seises - rey kicker)
+N3xtTIm35 se lleva 0.08 € del bote 
+*** RESUMEN ***
+Bote total 0.08 € | Comisión 0 € 
+Comunitarias [6h Td Tc 6c 3h]
+Asiento 1: N3xtTIm35 (ciega grande) muestra [Ks Qc] y ganó (0.08 €) con doble pareja, dieces y seises
+Asiento 2: aliendee07 se retiró antes del Flop (no apostó)
+Asiento 3: Ischadia se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 5: ismagonzalez7 (ciega pequeña) muestra [7c 8h] y perdió con doble pareja, dieces y seises

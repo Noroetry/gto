@@ -1,0 +1,72 @@
+{
+  "hand_id": "257238794601",
+  "date": "06-08-2025 19:29:37",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Jh",
+    "9d"
+  ],
+  "stacks": {
+    "FalcoNaumani": 100.0,
+    "practikal_C23": 70.5,
+    "niyomalo": 101.5,
+    "BuXHexter": 161.5,
+    "Andark47": 206.5,
+    "SrLyce": 50.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: FalcoNaumani (2 € en fichas) está ausente",
+      "Asiento 1: practikal_C23 (1.41 € en fichas)",
+      "Asiento 2: niyomalo (2.03 € en fichas)",
+      "Asiento 4: BuXHexter (3.23 € en fichas)",
+      "Asiento 5: Andark47 (4.13 € en fichas)",
+      "Asiento 6: SrLyce (1.01 € en fichas)",
+      "practikal_C23: pone la ciega pequeña 0.01 €",
+      "niyomalo: pone la ciega grande 0.02 €",
+      "FalcoNaumani: se ausenta",
+      "BuXHexter: se retira",
+      "Andark47: sube 0.03 € a 0.05 €",
+      "SrLyce: iguala 0.05 €",
+      "practikal_C23: se retira",
+      "niyomalo: se retira"
+    ],
+    "flop": [
+      "Andark47: apuesta 0.04 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "turn": [
+      "Andark47: apuesta 0.15 €",
+      "SrLyce: iguala 0.15 €"
+    ],
+    "river": [
+      "Andark47: apuesta 0.36 €",
+      "SrLyce: sube 0.41 € a 0.77 € y está all-in",
+      "Andark47: iguala 0.41 €",
+      "SrLyce: muestra [Jh 9d] (doble pareja, jotas y nueves)",
+      "Andark47: muestra [2c 2s] (trío de doses)",
+      "Asiento 3: FalcoNaumani",
+      "Asiento 1: practikal_C23 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 2: niyomalo (ciega grande) se retiró antes del Flop",
+      "Asiento 4: BuXHexter se retiró antes del Flop (no apostó)",
+      "Asiento 5: Andark47 muestra [2c 2s] y ganó (1.93 €) con trío de doses",
+      "Asiento 6: SrLyce (botón) muestra [Jh 9d] y perdió con doble pareja, jotas y nueves"
+    ]
+  },
+  "board": [
+    "5d",
+    "2h",
+    "Jd",
+    "7d",
+    "9s"
+  ],
+  "winner": "Andark47",
+  "win_amount": 96.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 6.0,
+  "raw_text": "Mano n.º 257238794601 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:29:37 CET [06-08-2025 13:29:37 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 6 es el botón\nAsiento 3: FalcoNaumani (2 € en fichas) está ausente\nAsiento 1: practikal_C23 (1.41 € en fichas) \nAsiento 2: niyomalo (2.03 € en fichas) \nAsiento 4: BuXHexter (3.23 € en fichas) \nAsiento 5: Andark47 (4.13 € en fichas) \nAsiento 6: SrLyce (1.01 € en fichas) \npractikal_C23: pone la ciega pequeña 0.01 €\nniyomalo: pone la ciega grande 0.02 €\nFalcoNaumani: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Jh 9d]\nBuXHexter: se retira \nAndark47: sube 0.03 € a 0.05 €\nSrLyce: iguala 0.05 €\npractikal_C23: se retira \nniyomalo: se retira \n*** FLOP *** [5d 2h Jd]\nAndark47: apuesta 0.04 €\nSrLyce: iguala 0.04 €\n*** TURN *** [5d 2h Jd] [7d]\nAndark47: apuesta 0.15 €\nSrLyce: iguala 0.15 €\n*** RIVER *** [5d 2h Jd 7d] [9s]\nAndark47: apuesta 0.36 €\nSrLyce: sube 0.41 € a 0.77 € y está all-in\nAndark47: iguala 0.41 €\n*** SHOW DOWN ***\nSrLyce: muestra [Jh 9d] (doble pareja, jotas y nueves)\nAndark47: muestra [2c 2s] (trío de doses)\nAndark47 se lleva 1.93 € del bote \n*** RESUMEN ***\nBote total 2.05 € | Comisión 0.12 € \nComunitarias [5d 2h Jd 7d 9s]\nAsiento 3: FalcoNaumani\nAsiento 1: practikal_C23 (ciega pequeña) se retiró antes del Flop\nAsiento 2: niyomalo (ciega grande) se retiró antes del Flop\nAsiento 4: BuXHexter se retiró antes del Flop (no apostó)\nAsiento 5: Andark47 muestra [2c 2s] y ganó (1.93 €) con trío de doses\nAsiento 6: SrLyce (botón) muestra [Jh 9d] y perdió con doble pareja, jotas y nueves"
+}

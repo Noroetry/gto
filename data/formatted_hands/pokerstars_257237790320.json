@@ -1,0 +1,72 @@
+{
+  "hand_id": "257237790320",
+  "date": "06-08-2025 17:59:07",
+  "table": "Atreus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7d",
+    "7s"
+  ],
+  "stacks": {
+    "PrendsCa": 112.0,
+    "NRules82": 82.0,
+    "JENOFONTE73": 126.5,
+    "JGDOBLAS": 93.5,
+    "SrLyce": 105.5,
+    "FishamanReggae": 50.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: PrendsCa (2.24 € en fichas)",
+      "Asiento 2: NRules82 (1.64 € en fichas)",
+      "Asiento 3: JENOFONTE73 (2.53 € en fichas)",
+      "Asiento 4: JGDOBLAS (1.87 € en fichas)",
+      "Asiento 5: SrLyce (2.11 € en fichas)",
+      "Asiento 6: FishamanReggae (1 € en fichas)",
+      "JENOFONTE73: pone la ciega pequeña 0.01 €",
+      "JGDOBLAS: pone la ciega grande 0.02 €",
+      "FishamanReggae: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.06 € a 0.08 €",
+      "FishamanReggae: se retira",
+      "PrendsCa: se retira",
+      "NRules82: iguala 0.08 €",
+      "JENOFONTE73: se retira",
+      "JGDOBLAS: se retira"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.07 €",
+      "NRules82: iguala 0.07 €"
+    ],
+    "turn": [
+      "SrLyce: apuesta 0.17 €",
+      "NRules82: iguala 0.17 €"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "NRules82: pasa",
+      "SrLyce: muestra [7d 7s] (doble pareja, sietes y cuatros)",
+      "NRules82: muestra [Td Kc] (doble pareja, cuatros y doses)",
+      "Asiento 1: PrendsCa se retiró antes del Flop (no apostó)",
+      "Asiento 2: NRules82 (botón) muestra [Td Kc] y perdió con doble pareja, cuatros y doses",
+      "Asiento 3: JENOFONTE73 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: JGDOBLAS (ciega grande) se retiró antes del Flop",
+      "Asiento 5: SrLyce muestra [7d 7s] y ganó (0.65 €) con doble pareja, sietes y cuatros",
+      "Asiento 6: FishamanReggae se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "2h",
+    "4c",
+    "4h",
+    "2d",
+    "9c"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 32.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257237790320 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:59:07 CET [06-08-2025 11:59:07 ET]\nMesa \"Atreus\" 6-max El asiento n.º 2 es el botón\nAsiento 1: PrendsCa (2.24 € en fichas) \nAsiento 2: NRules82 (1.64 € en fichas) \nAsiento 3: JENOFONTE73 (2.53 € en fichas) \nAsiento 4: JGDOBLAS (1.87 € en fichas) \nAsiento 5: SrLyce (2.11 € en fichas) \nAsiento 6: FishamanReggae (1 € en fichas) \nJENOFONTE73: pone la ciega pequeña 0.01 €\nJGDOBLAS: pone la ciega grande 0.02 €\nFishamanReggae: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7d 7s]\nSrLyce: sube 0.06 € a 0.08 €\nFishamanReggae: se retira \nPrendsCa: se retira \nNRules82: iguala 0.08 €\nJENOFONTE73: se retira \nJGDOBLAS: se retira \n*** FLOP *** [2h 4c 4h]\nSrLyce: apuesta 0.07 €\nNRules82: iguala 0.07 €\n*** TURN *** [2h 4c 4h] [2d]\nSrLyce: apuesta 0.17 €\nNRules82: iguala 0.17 €\n*** RIVER *** [2h 4c 4h 2d] [9c]\nSrLyce: pasa \nNRules82: pasa \n*** SHOW DOWN ***\nSrLyce: muestra [7d 7s] (doble pareja, sietes y cuatros)\nNRules82: muestra [Td Kc] (doble pareja, cuatros y doses)\nSrLyce se lleva 0.65 € del bote \n*** RESUMEN ***\nBote total 0.69 € | Comisión 0.04 € \nComunitarias [2h 4c 4h 2d 9c]\nAsiento 1: PrendsCa se retiró antes del Flop (no apostó)\nAsiento 2: NRules82 (botón) muestra [Td Kc] y perdió con doble pareja, cuatros y doses\nAsiento 3: JENOFONTE73 (ciega pequeña) se retiró antes del Flop\nAsiento 4: JGDOBLAS (ciega grande) se retiró antes del Flop\nAsiento 5: SrLyce muestra [7d 7s] y ganó (0.65 €) con doble pareja, sietes y cuatros\nAsiento 6: FishamanReggae se retiró antes del Flop (no apostó)"
+}

@@ -1,0 +1,69 @@
+{
+  "hand_id": "257238305399",
+  "date": "06-08-2025 18:46:15",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4h",
+    "4s"
+  ],
+  "stacks": {
+    "ScarvBlack": 100.0,
+    "koldipk": 173.0,
+    "David98X": 108.5,
+    "JJer11": 100.0,
+    "SrLyce": 97.0,
+    "El Calvo 65": 227.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 6: ScarvBlack (2 € en fichas) está ausente",
+      "Asiento 1: koldipk (3.46 € en fichas)",
+      "Asiento 2: David98X (2.17 € en fichas)",
+      "Asiento 3: JJer11 (2 € en fichas)",
+      "Asiento 4: SrLyce (1.94 € en fichas)",
+      "Asiento 5: El Calvo 65 (4.55 € en fichas)",
+      "David98X: pone la ciega pequeña 0.01 €",
+      "JJer11: pone la ciega grande 0.02 €",
+      "ScarvBlack: se ausenta",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "El Calvo 65: se retira",
+      "koldipk: sube 0.11 € a 0.16 €",
+      "David98X: se retira",
+      "JJer11: sube 0.32 € a 0.48 €",
+      "SrLyce: se retira",
+      "koldipk: iguala 0.32 €"
+    ],
+    "flop": [
+      "JJer11: apuesta 0.44 €",
+      "koldipk: sube 2.54 € a 2.98 € y está all-in",
+      "JJer11: iguala 1.08 € y está all-in"
+    ],
+    "turn": [],
+    "river": [
+      "JJer11: muestra [Ah Ac] (doble pareja, ases y doses)",
+      "koldipk: muestra [Kh Ad] (pareja de doses)",
+      "Asiento 6: ScarvBlack",
+      "Asiento 1: koldipk (botón) muestra [Kh Ad] y perdió con pareja de doses",
+      "Asiento 2: David98X (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: JJer11 (ciega grande) muestra [Ah Ac] y ganó (3.91 €) con doble pareja, ases y doses",
+      "Asiento 4: SrLyce se retiró antes del Flop",
+      "Asiento 5: El Calvo 65 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "2c",
+    "Td",
+    "8d",
+    "2h",
+    "Qs"
+  ],
+  "winner": "JJer11",
+  "win_amount": 195.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 7.5,
+  "raw_text": "Mano n.º 257238305399 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:46:15 CET [06-08-2025 12:46:15 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 1 es el botón\nAsiento 6: ScarvBlack (2 € en fichas) está ausente\nAsiento 1: koldipk (3.46 € en fichas) \nAsiento 2: David98X (2.17 € en fichas) \nAsiento 3: JJer11 (2 € en fichas) \nAsiento 4: SrLyce (1.94 € en fichas) \nAsiento 5: El Calvo 65 (4.55 € en fichas) \nDavid98X: pone la ciega pequeña 0.01 €\nJJer11: pone la ciega grande 0.02 €\nScarvBlack: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4h 4s]\nSrLyce: sube 0.03 € a 0.05 €\nEl Calvo 65: se retira \nkoldipk: sube 0.11 € a 0.16 €\nDavid98X: se retira \nJJer11: sube 0.32 € a 0.48 €\nSrLyce: se retira \nkoldipk: iguala 0.32 €\n*** FLOP *** [2c Td 8d]\nJJer11: apuesta 0.44 €\nkoldipk: sube 2.54 € a 2.98 € y está all-in\nJJer11: iguala 1.08 € y está all-in\nLa apuesta no igualada (1.46 €) ha sido devuelta a koldipk\n*** TURN *** [2c Td 8d] [2h]\n*** RIVER *** [2c Td 8d 2h] [Qs]\n*** SHOW DOWN ***\nJJer11: muestra [Ah Ac] (doble pareja, ases y doses)\nkoldipk: muestra [Kh Ad] (pareja de doses)\nJJer11 se lleva 3.91 € del bote \n*** RESUMEN ***\nBote total 4.06 € | Comisión 0.15 € \nComunitarias [2c Td 8d 2h Qs]\nAsiento 6: ScarvBlack\nAsiento 1: koldipk (botón) muestra [Kh Ad] y perdió con pareja de doses\nAsiento 2: David98X (ciega pequeña) se retiró antes del Flop\nAsiento 3: JJer11 (ciega grande) muestra [Ah Ac] y ganó (3.91 €) con doble pareja, ases y doses\nAsiento 4: SrLyce se retiró antes del Flop\nAsiento 5: El Calvo 65 se retiró antes del Flop (no apostó)"
+}

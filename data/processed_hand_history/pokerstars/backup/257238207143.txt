@@ -1,0 +1,43 @@
+Mano n.º 257238207143 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:37:36 CET [06-08-2025 12:37:36 ET]
+Mesa "Atreus" 6-max El asiento n.º 2 es el botón
+Asiento 1: PrendsCa (2 € en fichas) 
+Asiento 2: Homerob1987 (0.73 € en fichas) 
+Asiento 3: JENOFONTE73 (3.25 € en fichas) 
+Asiento 4: Fharock (1.78 € en fichas) 
+Asiento 5: SrLyce (2.86 € en fichas) 
+Asiento 6: FishamanReggae (0.62 € en fichas) 
+JENOFONTE73: pone la ciega pequeña 0.01 €
+Fharock: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5h Ks]
+SrLyce: se retira 
+FishamanReggae: iguala 0.02 €
+PrendsCa: se retira 
+Homerob1987: iguala 0.02 €
+JENOFONTE73: sube 0.03 € a 0.05 €
+Fharock: se retira 
+FishamanReggae: iguala 0.03 €
+Homerob1987: iguala 0.03 €
+*** FLOP *** [7d Qc Kd]
+JENOFONTE73: apuesta 0.08 €
+FishamanReggae: iguala 0.08 €
+Homerob1987: iguala 0.08 €
+*** TURN *** [7d Qc Kd] [Qh]
+JENOFONTE73: pasa 
+FishamanReggae: apuesta 0.06 €
+Homerob1987: iguala 0.06 €
+JENOFONTE73: se retira 
+*** RIVER *** [7d Qc Kd Qh] [2c]
+FishamanReggae: apuesta 0.06 €
+Homerob1987: se retira 
+La apuesta no igualada (0.06 €) ha sido devuelta a FishamanReggae
+FishamanReggae se lleva 0.50 € del bote 
+*** RESUMEN ***
+Bote total 0.53 € | Comisión 0.03 € 
+Comunitarias [7d Qc Kd Qh 2c]
+Asiento 1: PrendsCa se retiró antes del Flop (no apostó)
+Asiento 2: Homerob1987 (botón) se retiró en el River
+Asiento 3: JENOFONTE73 (ciega pequeña) se retiró en el Turn
+Asiento 4: Fharock (ciega grande) se retiró antes del Flop
+Asiento 5: SrLyce se retiró antes del Flop (no apostó)
+Asiento 6: FishamanReggae recaudó (0.50 €)

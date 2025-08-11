@@ -1,0 +1,36 @@
+Mano n.º 257237958366 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:15:24 CET [06-08-2025 12:15:24 ET]
+Mesa "Atreus" 6-max El asiento n.º 3 es el botón
+Asiento 1: PrendsCa (2 € en fichas) 
+Asiento 2: NRules82 (1.46 € en fichas) 
+Asiento 3: JENOFONTE73 (2.45 € en fichas) 
+Asiento 4: Fharock (2.12 € en fichas) 
+Asiento 5: SrLyce (2.39 € en fichas) 
+Asiento 6: FishamanReggae (0.66 € en fichas) 
+Fharock: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qs 6c]
+FishamanReggae: se retira 
+PrendsCa: sube 0.02 € a 0.04 €
+NRules82: iguala 0.04 €
+JENOFONTE73: sube 0.18 € a 0.22 €
+Fharock: se retira 
+SrLyce: se retira 
+PrendsCa: se retira 
+NRules82: iguala 0.18 €
+*** FLOP *** [Qh As 7s]
+NRules82: pasa 
+JENOFONTE73: apuesta 0.36 €
+NRules82: se retira 
+La apuesta no igualada (0.36 €) ha sido devuelta a JENOFONTE73
+JENOFONTE73 se lleva 0.48 € del bote 
+JENOFONTE73: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.51 € | Comisión 0.03 € 
+Comunitarias [Qh As 7s]
+Asiento 1: PrendsCa se retiró antes del Flop
+Asiento 2: NRules82 se retiró en el Flop
+Asiento 3: JENOFONTE73 (botón) recaudó (0.48 €)
+Asiento 4: Fharock (ciega pequeña) se retiró antes del Flop
+Asiento 5: SrLyce (ciega grande) se retiró antes del Flop
+Asiento 6: FishamanReggae se retiró antes del Flop (no apostó)

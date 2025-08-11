@@ -1,0 +1,73 @@
+{
+  "hand_id": "257238453162",
+  "date": "06-08-2025 19:00:39",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9s",
+    "6c"
+  ],
+  "stacks": {
+    "koldipk": 164.5,
+    "David98X": 116.5,
+    "JJer11": 199.0,
+    "SrLyce": 104.5,
+    "Macklemore0": 100.0,
+    "ScarvBlack": 120.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: koldipk (3.29 € en fichas)",
+      "Asiento 2: David98X (2.33 € en fichas)",
+      "Asiento 3: JJer11 (3.98 € en fichas)",
+      "Asiento 4: SrLyce (2.09 € en fichas)",
+      "Asiento 5: Macklemore0 (2 € en fichas)",
+      "Asiento 6: ScarvBlack (2.41 € en fichas)",
+      "JJer11: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Macklemore0: se retira",
+      "ScarvBlack: se retira",
+      "koldipk: sube 0.04 € a 0.06 €",
+      "David98X: se retira",
+      "JJer11: iguala 0.05 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "flop": [
+      "JJer11: pasa",
+      "SrLyce: pasa",
+      "koldipk: pasa"
+    ],
+    "turn": [
+      "JJer11: apuesta 0.07 €",
+      "SrLyce: se retira",
+      "koldipk: iguala 0.07 €"
+    ],
+    "river": [
+      "JJer11: pasa",
+      "koldipk: pasa",
+      "JJer11: muestra [8h Ah] (doble pareja, ases y cincos)",
+      "koldipk: descarta su mano sin mostrar",
+      "Asiento 1: koldipk descartó sin mostrar [Jh Ts]",
+      "Asiento 2: David98X (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: JJer11 (ciega pequeña) muestra [8h Ah] y ganó (0.30 €) con doble pareja, ases y cincos",
+      "Asiento 4: SrLyce (ciega grande) se retiró en el Turn",
+      "Asiento 5: Macklemore0 se retiró antes del Flop (no apostó)",
+      "Asiento 6: ScarvBlack se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "3s",
+    "5s",
+    "Ad",
+    "4s",
+    "5d"
+  ],
+  "winner": "JJer11",
+  "win_amount": 15.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238453162 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:00:39 CET [06-08-2025 13:00:39 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 2 es el botón\nAsiento 1: koldipk (3.29 € en fichas) \nAsiento 2: David98X (2.33 € en fichas) \nAsiento 3: JJer11 (3.98 € en fichas) \nAsiento 4: SrLyce (2.09 € en fichas) \nAsiento 5: Macklemore0 (2 € en fichas) \nAsiento 6: ScarvBlack (2.41 € en fichas) \nJJer11: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9s 6c]\nMacklemore0: se retira \nScarvBlack: se retira \nkoldipk: sube 0.04 € a 0.06 €\nDavid98X: se retira \nJJer11: iguala 0.05 €\nSrLyce: iguala 0.04 €\n*** FLOP *** [3s 5s Ad]\nJJer11: pasa \nSrLyce: pasa \nkoldipk: pasa \n*** TURN *** [3s 5s Ad] [4s]\nJJer11: apuesta 0.07 €\nSrLyce: se retira \nkoldipk: iguala 0.07 €\n*** RIVER *** [3s 5s Ad 4s] [5d]\nJJer11: pasa \nkoldipk: pasa \n*** SHOW DOWN ***\nJJer11: muestra [8h Ah] (doble pareja, ases y cincos)\nkoldipk: descarta su mano sin mostrar \nJJer11 se lleva 0.30 € del bote \n*** RESUMEN ***\nBote total 0.32 € | Comisión 0.02 € \nComunitarias [3s 5s Ad 4s 5d]\nAsiento 1: koldipk descartó sin mostrar [Jh Ts]\nAsiento 2: David98X (botón) se retiró antes del Flop (no apostó)\nAsiento 3: JJer11 (ciega pequeña) muestra [8h Ah] y ganó (0.30 €) con doble pareja, ases y cincos\nAsiento 4: SrLyce (ciega grande) se retiró en el Turn\nAsiento 5: Macklemore0 se retiró antes del Flop (no apostó)\nAsiento 6: ScarvBlack se retiró antes del Flop (no apostó)"
+}

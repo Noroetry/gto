@@ -1,0 +1,42 @@
+Mano n.º 257237953702 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:14:59 CET [06-08-2025 12:14:59 ET]
+Mesa "Nuwa III" 6-max El asiento n.º 1 es el botón
+Asiento 2: BuXHexter (2.02 € en fichas) está ausente
+Asiento 5: serviettski(fr) (2 € en fichas) está ausente
+Asiento 1: xododo (0.76 € en fichas) 
+Asiento 3: kcg_rm (2.07 € en fichas) 
+Asiento 4: SrLyce (2.17 € en fichas) 
+Asiento 6: acavada (2.06 € en fichas) 
+kcg_rm: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+serviettski(fr): se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7c Qc]
+acavada: se retira 
+xododo: se retira 
+kcg_rm: sube 0.04 € a 0.06 €
+SrLyce: iguala 0.04 €
+*** FLOP *** [Jc Kc 9c]
+kcg_rm: apuesta 0.04 €
+SrLyce: sube 0.08 € a 0.12 €
+kcg_rm: iguala 0.08 €
+*** TURN *** [Jc Kc 9c] [8h]
+kcg_rm: pasa 
+SrLyce: apuesta 0.17 €
+kcg_rm: iguala 0.17 €
+*** RIVER *** [Jc Kc 9c 8h] [8d]
+kcg_rm: pasa 
+SrLyce: apuesta 0.53 €
+kcg_rm: iguala 0.53 €
+*** SHOW DOWN ***
+SrLyce: muestra [7c Qc] (color, carta alta rey)
+kcg_rm: descarta su mano sin mostrar 
+SrLyce se lleva 1.66 € del bote 
+*** RESUMEN ***
+Bote total 1.76 € | Comisión 0.10 € 
+Comunitarias [Jc Kc 9c 8h 8d]
+Asiento 2: BuXHexter
+Asiento 5: serviettski(fr)
+Asiento 1: xododo (botón) se retiró antes del Flop (no apostó)
+Asiento 3: kcg_rm (ciega pequeña) descartó sin mostrar [Ah Ad]
+Asiento 4: SrLyce (ciega grande) muestra [7c Qc] y ganó (1.66 €) con color, carta alta rey
+Asiento 6: acavada se retiró antes del Flop (no apostó)

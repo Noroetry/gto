@@ -1,0 +1,42 @@
+Mano n.º 257238468895 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:02:10 CET [06-08-2025 13:02:10 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 5 es el botón
+Asiento 2: zoioachado (0 € en fichas) está ausente
+Asiento 1: SrLyce (3.01 € en fichas) 
+Asiento 3: yonisanlu (2.86 € en fichas) 
+Asiento 4: serviettski(fr) (2 € en fichas) 
+Asiento 5: Nicanor Cast (1.02 € en fichas) 
+Asiento 6: rayao32 (0.69 € en fichas) 
+rayao32: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kh 4h]
+yonisanlu: se retira 
+serviettski(fr): se retira 
+Nicanor Cast: sube 0.02 € a 0.04 €
+rayao32: iguala 0.03 €
+SrLyce: iguala 0.02 €
+*** FLOP *** [8c 8d 7d]
+rayao32: pasa 
+SrLyce: pasa 
+Nicanor Cast: pasa 
+*** TURN *** [8c 8d 7d] [5s]
+rayao32: pasa 
+SrLyce: pasa 
+Nicanor Cast: pasa 
+*** RIVER *** [8c 8d 7d 5s] [4d]
+rayao32: apuesta 0.10 €
+SrLyce: iguala 0.10 €
+Nicanor Cast: se retira 
+*** SHOW DOWN ***
+rayao32: muestra [9c 6s] (escalera, de cinco a nueve)
+SrLyce: descarta su mano sin mostrar 
+rayao32 se lleva 0.30 € del bote 
+*** RESUMEN ***
+Bote total 0.32 € | Comisión 0.02 € 
+Comunitarias [8c 8d 7d 5s 4d]
+Asiento 2: zoioachado
+Asiento 1: SrLyce (ciega grande) descartó sin mostrar [Kh 4h]
+Asiento 3: yonisanlu se retiró antes del Flop (no apostó)
+Asiento 4: serviettski(fr) se retiró antes del Flop (no apostó)
+Asiento 5: Nicanor Cast (botón) se retiró en el River
+Asiento 6: rayao32 (ciega pequeña) muestra [9c 6s] y ganó (0.30 €) con escalera, de cinco a nueve

@@ -1,0 +1,34 @@
+Mano n.º 257190031976 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 1:03:44 CET [02-08-2025 19:03:44 ET]
+Mesa "Tamariwa" 6-max El asiento n.º 4 es el botón
+Asiento 1: datmawi (1.21 € en fichas) 
+Asiento 2: BluesMyWay (4.32 € en fichas) 
+Asiento 3: arthurtfa (0.66 € en fichas) 
+Asiento 4: toonsy2010 (3.31 € en fichas) 
+Asiento 5: SrLyce (2.22 € en fichas) 
+Asiento 6: DiaZzZ1 (2.89 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+DiaZzZ1: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ts 4c]
+datmawi: se retira 
+BluesMyWay: se retira 
+arthurtfa: se retira 
+toonsy2010: iguala 0.02 €
+SrLyce: se retira 
+DiaZzZ1: pasa 
+*** FLOP *** [9c 6d 5h]
+DiaZzZ1: pasa 
+toonsy2010: apuesta 0.05 €
+DiaZzZ1: se retira 
+La apuesta no igualada (0.05 €) ha sido devuelta a toonsy2010
+toonsy2010 se lleva 0.05 € del bote 
+toonsy2010: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Comunitarias [9c 6d 5h]
+Asiento 1: datmawi se retiró antes del Flop (no apostó)
+Asiento 2: BluesMyWay se retiró antes del Flop (no apostó)
+Asiento 3: arthurtfa se retiró antes del Flop (no apostó)
+Asiento 4: toonsy2010 (botón) recaudó (0.05 €)
+Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 6: DiaZzZ1 (ciega grande) se retiró en el Flop

@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238072883",
+  "date": "06-08-2025 18:25:39",
+  "table": "Atreus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kd",
+    "3d"
+  ],
+  "stacks": {
+    "PrendsCa": 105.0,
+    "NRules82": 55.5,
+    "JENOFONTE73": 139.5,
+    "Fharock": 90.5,
+    "SrLyce": 126.0,
+    "FishamanReggae": 36.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: PrendsCa (2.10 € en fichas)",
+      "Asiento 2: NRules82 (1.11 € en fichas)",
+      "Asiento 3: JENOFONTE73 (2.79 € en fichas)",
+      "Asiento 4: Fharock (1.81 € en fichas)",
+      "Asiento 5: SrLyce (2.52 € en fichas)",
+      "Asiento 6: FishamanReggae (0.72 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "FishamanReggae: pone la ciega grande 0.02 €",
+      "PrendsCa: se retira",
+      "NRules82: sube 0.02 € a 0.04 €",
+      "JENOFONTE73: sube 0.08 € a 0.12 €",
+      "Fharock: se retira",
+      "SrLyce: se retira",
+      "FishamanReggae: se retira",
+      "NRules82: iguala 0.08 €"
+    ],
+    "flop": [
+      "NRules82: pasa",
+      "JENOFONTE73: apuesta 0.13 €",
+      "NRules82: iguala 0.13 €"
+    ],
+    "turn": [
+      "NRules82: pasa",
+      "JENOFONTE73: apuesta 0.19 €",
+      "NRules82: sube 0.19 € a 0.38 €",
+      "JENOFONTE73: sube 0.19 € a 0.57 €",
+      "NRules82: se retira",
+      "JENOFONTE73: no muestra su mano",
+      "Asiento 1: PrendsCa se retiró antes del Flop (no apostó)",
+      "Asiento 2: NRules82 se retiró en el Turn",
+      "Asiento 3: JENOFONTE73 recaudó (1.21 €)",
+      "Asiento 4: Fharock (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: FishamanReggae (ciega grande) se retiró antes del Flop"
+    ],
+    "river": []
+  },
+  "board": [
+    "5c",
+    "7s",
+    "Td",
+    "Ac"
+  ],
+  "winner": "JENOFONTE73",
+  "win_amount": 60.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 4.0,
+  "raw_text": "Mano n.º 257238072883 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:25:39 CET [06-08-2025 12:25:39 ET]\nMesa \"Atreus\" 6-max El asiento n.º 4 es el botón\nAsiento 1: PrendsCa (2.10 € en fichas) \nAsiento 2: NRules82 (1.11 € en fichas) \nAsiento 3: JENOFONTE73 (2.79 € en fichas) \nAsiento 4: Fharock (1.81 € en fichas) \nAsiento 5: SrLyce (2.52 € en fichas) \nAsiento 6: FishamanReggae (0.72 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nFishamanReggae: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kd 3d]\nPrendsCa: se retira \nNRules82: sube 0.02 € a 0.04 €\nJENOFONTE73: sube 0.08 € a 0.12 €\nFharock: se retira \nSrLyce: se retira \nFishamanReggae: se retira \nNRules82: iguala 0.08 €\n*** FLOP *** [5c 7s Td]\nNRules82: pasa \nJENOFONTE73: apuesta 0.13 €\nNRules82: iguala 0.13 €\n*** TURN *** [5c 7s Td] [Ac]\nNRules82: pasa \nJENOFONTE73: apuesta 0.19 €\nNRules82: sube 0.19 € a 0.38 €\nJENOFONTE73: sube 0.19 € a 0.57 €\nNRules82: se retira \nLa apuesta no igualada (0.19 €) ha sido devuelta a JENOFONTE73\nJENOFONTE73 se lleva 1.21 € del bote \nJENOFONTE73: no muestra su mano \n*** RESUMEN ***\nBote total 1.29 € | Comisión 0.08 € \nComunitarias [5c 7s Td Ac]\nAsiento 1: PrendsCa se retiró antes del Flop (no apostó)\nAsiento 2: NRules82 se retiró en el Turn\nAsiento 3: JENOFONTE73 recaudó (1.21 €)\nAsiento 4: Fharock (botón) se retiró antes del Flop (no apostó)\nAsiento 5: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 6: FishamanReggae (ciega grande) se retiró antes del Flop"
+}

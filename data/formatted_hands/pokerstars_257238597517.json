@@ -1,0 +1,66 @@
+{
+  "hand_id": "257238597517",
+  "date": "06-08-2025 19:13:11",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kc",
+    "2c"
+  ],
+  "stacks": {
+    "Alceo27": 100.0,
+    "aliendee07": 67.0,
+    "Macklemore0": 107.5,
+    "SrLyce": 125.0,
+    "ismagonzalez7": 37.5,
+    "pauquair5": 50.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Alceo27 (2 € en fichas)",
+      "Asiento 2: aliendee07 (1.34 € en fichas)",
+      "Asiento 3: Macklemore0 (2.15 € en fichas)",
+      "Asiento 4: SrLyce (2.50 € en fichas)",
+      "Asiento 5: ismagonzalez7 (0.75 € en fichas)",
+      "Asiento 6: pauquair5 (1.01 € en fichas)",
+      "Alceo27: pone la ciega pequeña 0.01 €",
+      "aliendee07: pone la ciega grande 0.02 €",
+      "Macklemore0: se retira",
+      "SrLyce: se retira",
+      "ismagonzalez7: sube 0.02 € a 0.04 €",
+      "pauquair5: iguala 0.04 €",
+      "Alceo27: se retira",
+      "aliendee07: se retira"
+    ],
+    "flop": [
+      "ismagonzalez7: apuesta 0.05 €",
+      "pauquair5: iguala 0.05 €"
+    ],
+    "turn": [
+      "ismagonzalez7: apuesta 0.10 €",
+      "pauquair5: se retira",
+      "ismagonzalez7: no muestra su mano",
+      "Asiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 2: aliendee07 (ciega grande) se retiró antes del Flop",
+      "Asiento 3: Macklemore0 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: ismagonzalez7 recaudó (0.20 €)",
+      "Asiento 6: pauquair5 (botón) se retiró en el Turn"
+    ],
+    "river": []
+  },
+  "board": [
+    "Tc",
+    "Td",
+    "2d",
+    "7c"
+  ],
+  "winner": "ismagonzalez7",
+  "win_amount": 10.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238597517 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:13:11 CET [06-08-2025 13:13:11 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 6 es el botón\nAsiento 1: Alceo27 (2 € en fichas) \nAsiento 2: aliendee07 (1.34 € en fichas) \nAsiento 3: Macklemore0 (2.15 € en fichas) \nAsiento 4: SrLyce (2.50 € en fichas) \nAsiento 5: ismagonzalez7 (0.75 € en fichas) \nAsiento 6: pauquair5 (1.01 € en fichas) \nAlceo27: pone la ciega pequeña 0.01 €\naliendee07: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kc 2c]\nMacklemore0: se retira \nSrLyce: se retira \nismagonzalez7: sube 0.02 € a 0.04 €\npauquair5: iguala 0.04 €\nAlceo27: se retira \naliendee07: se retira \n*** FLOP *** [Tc Td 2d]\nismagonzalez7: apuesta 0.05 €\npauquair5: iguala 0.05 €\n*** TURN *** [Tc Td 2d] [7c]\nismagonzalez7: apuesta 0.10 €\npauquair5: se retira \nLa apuesta no igualada (0.10 €) ha sido devuelta a ismagonzalez7\nismagonzalez7 se lleva 0.20 € del bote \nismagonzalez7: no muestra su mano \n*** RESUMEN ***\nBote total 0.21 € | Comisión 0.01 € \nComunitarias [Tc Td 2d 7c]\nAsiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop\nAsiento 2: aliendee07 (ciega grande) se retiró antes del Flop\nAsiento 3: Macklemore0 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: ismagonzalez7 recaudó (0.20 €)\nAsiento 6: pauquair5 (botón) se retiró en el Turn"
+}

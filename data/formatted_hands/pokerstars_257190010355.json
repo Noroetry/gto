@@ -1,0 +1,38 @@
+{
+  "hand_id": "257190010355",
+  "date": "03-08-2025 1:01:55",
+  "table": "Polydoros II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8s",
+    "9d"
+  ],
+  "stacks": {
+    "SrLyce": 143.5,
+    "djulkk421": 81.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: SrLyce (2.87 € en fichas)",
+      "Asiento 6: djulkk421 (1.62 € en fichas)",
+      "djulkk421: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "djulkk421: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 4: SrLyce (ciega grande) recaudó (0.02 €)",
+      "Asiento 6: djulkk421 (botón) (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257190010355 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 1:01:55 CET [02-08-2025 19:01:55 ET]\nMesa \"Polydoros II\" 6-max El asiento n.º 6 es el botón\nAsiento 4: SrLyce (2.87 € en fichas) \nAsiento 6: djulkk421 (1.62 € en fichas) \ndjulkk421: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8s 9d]\ndjulkk421: se retira \nLa apuesta no igualada (0.01 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.02 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.02 € | Comisión 0 € \nAsiento 4: SrLyce (ciega grande) recaudó (0.02 €)\nAsiento 6: djulkk421 (botón) (ciega pequeña) se retiró antes del Flop"
+}

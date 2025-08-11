@@ -1,0 +1,75 @@
+{
+  "hand_id": "257148796478",
+  "date": "30-07-2025 21:44:38",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6h",
+    "8h"
+  ],
+  "stacks": {
+    "SrLyce": 100.0,
+    "lecontrebandier": 95.5,
+    "christoph363": 179.0,
+    "oliverdu70": 128.0,
+    "olibellier": 27.5,
+    "Dakoo44": 115.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2 € en fichas)",
+      "Asiento 2: lecontrebandier (1.91 € en fichas)",
+      "Asiento 3: christoph363 (3.58 € en fichas)",
+      "Asiento 4: oliverdu70 (2.56 € en fichas)",
+      "Asiento 5: olibellier (0.55 € en fichas)",
+      "Asiento 6: Dakoo44 (2.31 € en fichas)",
+      "olibellier: pone la ciega pequeña 0.01 €",
+      "Dakoo44: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "lecontrebandier: se retira",
+      "christoph363: se retira",
+      "oliverdu70: iguala 0.06 €",
+      "olibellier: iguala 0.05 €",
+      "Dakoo44: iguala 0.04 €"
+    ],
+    "flop": [
+      "olibellier: pasa",
+      "Dakoo44: apuesta 0.04 €",
+      "SrLyce: se retira",
+      "oliverdu70: iguala 0.04 €",
+      "olibellier: se retira"
+    ],
+    "turn": [
+      "Dakoo44: apuesta 0.09 €",
+      "oliverdu70: iguala 0.09 €"
+    ],
+    "river": [
+      "Dakoo44: pasa",
+      "oliverdu70: apuesta 0.12 €",
+      "Dakoo44: iguala 0.12 €",
+      "oliverdu70: muestra [Qh Ah] (doble pareja, damas y treses)",
+      "Dakoo44: descarta su mano sin mostrar",
+      "Asiento 1: SrLyce se retiró en el Flop",
+      "Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 se retiró antes del Flop (no apostó)",
+      "Asiento 4: oliverdu70 (botón) muestra [Qh Ah] y ganó (0.70 €) con doble pareja, damas y treses",
+      "Asiento 5: olibellier (ciega pequeña) se retiró en el Flop",
+      "Asiento 6: Dakoo44 (ciega grande) descartó sin mostrar [Jc Qc]"
+    ]
+  },
+  "board": [
+    "Tc",
+    "3h",
+    "4c",
+    "Qd",
+    "3s"
+  ],
+  "winner": "oliverdu70",
+  "win_amount": 35.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257148796478 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:44:38 CET [30-07-2025 15:44:38 ET]\nMesa \"Sirona\" 6-max El asiento n.º 4 es el botón\nAsiento 1: SrLyce (2 € en fichas) \nAsiento 2: lecontrebandier (1.91 € en fichas) \nAsiento 3: christoph363 (3.58 € en fichas) \nAsiento 4: oliverdu70 (2.56 € en fichas) \nAsiento 5: olibellier (0.55 € en fichas) \nAsiento 6: Dakoo44 (2.31 € en fichas) \nolibellier: pone la ciega pequeña 0.01 €\nDakoo44: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6h 8h]\nSrLyce: sube 0.04 € a 0.06 €\nlecontrebandier: se retira \nchristoph363: se retira \noliverdu70: iguala 0.06 €\nolibellier: iguala 0.05 €\nDakoo44: iguala 0.04 €\n*** FLOP *** [Tc 3h 4c]\nolibellier: pasa \nDakoo44: apuesta 0.04 €\nSrLyce: se retira \noliverdu70: iguala 0.04 €\nolibellier: se retira \n*** TURN *** [Tc 3h 4c] [Qd]\nchristoph363 no tiene conexión \nDakoo44: apuesta 0.09 €\noliverdu70: iguala 0.09 €\n*** RIVER *** [Tc 3h 4c Qd] [3s]\nDakoo44: pasa \noliverdu70: apuesta 0.12 €\nDakoo44: iguala 0.12 €\n*** SHOW DOWN ***\noliverdu70: muestra [Qh Ah] (doble pareja, damas y treses)\nDakoo44: descarta su mano sin mostrar \noliverdu70 se lleva 0.70 € del bote \n*** RESUMEN ***\nBote total 0.74 € | Comisión 0.04 € \nComunitarias [Tc 3h 4c Qd 3s]\nAsiento 1: SrLyce se retiró en el Flop\nAsiento 2: lecontrebandier se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 se retiró antes del Flop (no apostó)\nAsiento 4: oliverdu70 (botón) muestra [Qh Ah] y ganó (0.70 €) con doble pareja, damas y treses\nAsiento 5: olibellier (ciega pequeña) se retiró en el Flop\nAsiento 6: Dakoo44 (ciega grande) descartó sin mostrar [Jc Qc]"
+}

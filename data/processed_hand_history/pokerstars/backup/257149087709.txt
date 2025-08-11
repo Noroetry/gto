@@ -1,0 +1,26 @@
+Mano n.º 257149087709 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:07:08 CET [30-07-2025 16:07:08 ET]
+Mesa "Esclangona" 6-max El asiento n.º 3 es el botón
+Asiento 1: Zorgue1080 (1.35 € en fichas) 
+Asiento 2: SrLyce (3.60 € en fichas) 
+Asiento 3: NoahBolete (1.96 € en fichas) 
+Asiento 4: Davdgoni (2.27 € en fichas) 
+Asiento 5: DiaZzZ1 (1.89 € en fichas) 
+Davdgoni: pone la ciega pequeña 0.01 €
+DiaZzZ1: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qd 9c]
+Zorgue1080: se retira 
+SrLyce: se retira 
+NoahBolete: se retira 
+Davdgoni: sube 0.04 € a 0.06 €
+DiaZzZ1: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a Davdgoni
+Davdgoni se lleva 0.04 € del bote 
+Davdgoni: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: Zorgue1080 se retiró antes del Flop (no apostó)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: NoahBolete (botón) se retiró antes del Flop (no apostó)
+Asiento 4: Davdgoni (ciega pequeña) recaudó (0.04 €)
+Asiento 5: DiaZzZ1 (ciega grande) se retiró antes del Flop

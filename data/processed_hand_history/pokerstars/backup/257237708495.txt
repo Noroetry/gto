@@ -1,0 +1,28 @@
+﻿Mano n.º 257237708495 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:50:19 CET [06-08-2025 11:50:19 ET]
+Mesa "Virtus" 6-max El asiento n.º 5 es el botón
+Asiento 6: rudik34385 (0 € en fichas) está ausente
+Asiento 1: Kingzilla87 (3.21 € en fichas) 
+Asiento 2: SrLyce (2 € en fichas) 
+Asiento 3: zzranger_03 (3.61 € en fichas) 
+Asiento 4: JGDOBLAS (1.83 € en fichas) 
+Asiento 5: don.corle (2.86 € en fichas) 
+Kingzilla87: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td 3s]
+zzranger_03: se retira 
+JGDOBLAS: se retira 
+don.corle: se retira 
+Kingzilla87: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a Kingzilla87
+Kingzilla87 se lleva 0.04 € del bote 
+Kingzilla87: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 6: rudik34385
+Asiento 1: Kingzilla87 (ciega pequeña) recaudó (0.04 €)
+Asiento 2: SrLyce (ciega grande) se retiró antes del Flop
+Asiento 3: zzranger_03 se retiró antes del Flop (no apostó)
+Asiento 4: JGDOBLAS se retiró antes del Flop (no apostó)
+Asiento 5: don.corle (botón) se retiró antes del Flop (no apostó)

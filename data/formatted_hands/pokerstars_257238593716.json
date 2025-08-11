@@ -1,0 +1,65 @@
+{
+  "hand_id": "257238593716",
+  "date": "06-08-2025 19:12:52",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9s",
+    "3s"
+  ],
+  "stacks": {
+    "BuXHexter": 145.5,
+    "practikal_C23": 48.5,
+    "davinci1962": 131.5,
+    "Andark47": 185.5,
+    "SrLyce": 109.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: BuXHexter (2.91 € en fichas) está ausente",
+      "Asiento 1: practikal_C23 (0.97 € en fichas)",
+      "Asiento 3: davinci1962 (2.63 € en fichas)",
+      "Asiento 5: Andark47 (3.71 € en fichas)",
+      "Asiento 6: SrLyce (2.18 € en fichas)",
+      "Andark47: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "practikal_C23: iguala 0.02 €",
+      "davinci1962: sube 0.03 € a 0.05 €",
+      "Andark47: sube 0.10 € a 0.15 €",
+      "SrLyce: se retira",
+      "practikal_C23: se retira",
+      "davinci1962: iguala 0.10 €"
+    ],
+    "flop": [
+      "Andark47: pasa",
+      "davinci1962: apuesta 0.24 €",
+      "Andark47: iguala 0.24 €"
+    ],
+    "turn": [
+      "Andark47: pasa",
+      "davinci1962: apuesta 0.25 €",
+      "Andark47: se retira",
+      "davinci1962: no muestra su mano",
+      "Asiento 4: BuXHexter",
+      "Asiento 1: practikal_C23 se retiró antes del Flop",
+      "Asiento 3: davinci1962 (botón) recaudó (0.77 €)",
+      "Asiento 5: Andark47 (ciega pequeña) se retiró en el Turn",
+      "Asiento 6: SrLyce (ciega grande) se retiró antes del Flop"
+    ],
+    "river": []
+  },
+  "board": [
+    "4d",
+    "7h",
+    "Kh",
+    "6c"
+  ],
+  "winner": "davinci1962",
+  "win_amount": 38.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.5,
+  "raw_text": "Mano n.º 257238593716 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:12:52 CET [06-08-2025 13:12:52 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 3 es el botón\nAsiento 4: BuXHexter (2.91 € en fichas) está ausente\nAsiento 1: practikal_C23 (0.97 € en fichas) \nAsiento 3: davinci1962 (2.63 € en fichas) \nAsiento 5: Andark47 (3.71 € en fichas) \nAsiento 6: SrLyce (2.18 € en fichas) \nAndark47: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9s 3s]\npractikal_C23: iguala 0.02 €\ndavinci1962: sube 0.03 € a 0.05 €\nAndark47: sube 0.10 € a 0.15 €\nSrLyce: se retira \npractikal_C23: se retira \ndavinci1962: iguala 0.10 €\n*** FLOP *** [4d 7h Kh]\nAndark47: pasa \ndavinci1962: apuesta 0.24 €\nAndark47: iguala 0.24 €\n*** TURN *** [4d 7h Kh] [6c]\nAndark47: pasa \ndavinci1962: apuesta 0.25 €\nAndark47: se retira \nLa apuesta no igualada (0.25 €) ha sido devuelta a davinci1962\ndavinci1962 se lleva 0.77 € del bote \ndavinci1962: no muestra su mano \n*** RESUMEN ***\nBote total 0.82 € | Comisión 0.05 € \nComunitarias [4d 7h Kh 6c]\nAsiento 4: BuXHexter\nAsiento 1: practikal_C23 se retiró antes del Flop\nAsiento 3: davinci1962 (botón) recaudó (0.77 €)\nAsiento 5: Andark47 (ciega pequeña) se retiró en el Turn\nAsiento 6: SrLyce (ciega grande) se retiró antes del Flop"
+}

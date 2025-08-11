@@ -1,0 +1,69 @@
+{
+  "hand_id": "257238233631",
+  "date": "06-08-2025 18:39:57",
+  "table": "Aidamina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qc",
+    "5d"
+  ],
+  "stacks": {
+    "erdillu": 104.0,
+    "niyomalo": 115.0,
+    "durahimovic": 132.0,
+    "Abrelatas787": 147.5,
+    "SrLyce": 130.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: erdillu (2.08 € en fichas)",
+      "Asiento 3: niyomalo (2.30 € en fichas)",
+      "Asiento 4: durahimovic (2.64 € en fichas)",
+      "Asiento 5: Abrelatas787 (2.95 € en fichas)",
+      "Asiento 6: SrLyce (2.61 € en fichas)",
+      "durahimovic: pone la ciega pequeña 0.01 €",
+      "Abrelatas787: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "erdillu: sube 0.02 € a 0.04 €",
+      "niyomalo: iguala 0.04 €",
+      "durahimovic: se retira",
+      "Abrelatas787: iguala 0.02 €"
+    ],
+    "flop": [
+      "Abrelatas787: pasa",
+      "erdillu: apuesta 0.04 €",
+      "niyomalo: iguala 0.04 €",
+      "Abrelatas787: se retira"
+    ],
+    "turn": [
+      "erdillu: apuesta 0.15 €",
+      "niyomalo: iguala 0.15 €"
+    ],
+    "river": [
+      "erdillu: apuesta 0.72 €",
+      "niyomalo: iguala 0.72 €",
+      "erdillu: muestra [3s Ac] (escalera, de as a cinco)",
+      "niyomalo: descarta su mano sin mostrar",
+      "Asiento 2: erdillu muestra [3s Ac] y ganó (1.83 €) con escalera, de as a cinco",
+      "Asiento 3: niyomalo (botón) descartó sin mostrar [Ad Ks]",
+      "Asiento 4: durahimovic (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: Abrelatas787 (ciega grande) se retiró en el Flop",
+      "Asiento 6: SrLyce se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Kc",
+    "5c",
+    "4d",
+    "2s",
+    "7d"
+  ],
+  "winner": "erdillu",
+  "win_amount": 91.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 6.0,
+  "raw_text": "Mano n.º 257238233631 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:39:57 CET [06-08-2025 12:39:57 ET]\nMesa \"Aidamina II\" 6-max El asiento n.º 3 es el botón\nAsiento 2: erdillu (2.08 € en fichas) \nAsiento 3: niyomalo (2.30 € en fichas) \nAsiento 4: durahimovic (2.64 € en fichas) \nAsiento 5: Abrelatas787 (2.95 € en fichas) \nAsiento 6: SrLyce (2.61 € en fichas) \ndurahimovic: pone la ciega pequeña 0.01 €\nAbrelatas787: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qc 5d]\nSrLyce: se retira \nerdillu: sube 0.02 € a 0.04 €\nniyomalo: iguala 0.04 €\ndurahimovic: se retira \nAbrelatas787: iguala 0.02 €\n*** FLOP *** [Kc 5c 4d]\nAbrelatas787: pasa \nerdillu: apuesta 0.04 €\nniyomalo: iguala 0.04 €\nAbrelatas787: se retira \n*** TURN *** [Kc 5c 4d] [2s]\nGarciaTT416 se une a la mesa en el asiento n.º 1 \nerdillu: apuesta 0.15 €\nniyomalo: iguala 0.15 €\n*** RIVER *** [Kc 5c 4d 2s] [7d]\nerdillu: apuesta 0.72 €\nniyomalo: iguala 0.72 €\n*** SHOW DOWN ***\nerdillu: muestra [3s Ac] (escalera, de as a cinco)\nniyomalo: descarta su mano sin mostrar \nerdillu se lleva 1.83 € del bote \n*** RESUMEN ***\nBote total 1.95 € | Comisión 0.12 € \nComunitarias [Kc 5c 4d 2s 7d]\nAsiento 2: erdillu muestra [3s Ac] y ganó (1.83 €) con escalera, de as a cinco\nAsiento 3: niyomalo (botón) descartó sin mostrar [Ad Ks]\nAsiento 4: durahimovic (ciega pequeña) se retiró antes del Flop\nAsiento 5: Abrelatas787 (ciega grande) se retiró en el Flop\nAsiento 6: SrLyce se retiró antes del Flop (no apostó)"
+}

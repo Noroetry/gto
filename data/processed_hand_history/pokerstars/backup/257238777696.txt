@@ -1,0 +1,40 @@
+Mano n.º 257238777696 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:28:12 CET [06-08-2025 13:28:12 ET]
+Mesa "Leonteus" 6-max El asiento n.º 4 es el botón
+Asiento 3: FalcoNaumani (2 € en fichas) está ausente
+Asiento 1: practikal_C23 (0.97 € en fichas) 
+Asiento 2: niyomalo (2.03 € en fichas) 
+Asiento 4: BuXHexter (3.23 € en fichas) 
+Asiento 5: Andark47 (4.13 € en fichas) 
+Asiento 6: SrLyce (1.52 € en fichas) 
+Andark47: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+FalcoNaumani: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td 9h]
+practikal_C23: se retira 
+niyomalo: se retira 
+BuXHexter: se retira 
+Andark47: sube 0.04 € a 0.06 €
+SrLyce: iguala 0.04 €
+*** FLOP *** [5s 6s 6c]
+Andark47: pasa 
+SrLyce: pasa 
+*** TURN *** [5s 6s 6c] [8c]
+Andark47: pasa 
+SrLyce: pasa 
+*** RIVER *** [5s 6s 6c 8c] [Kc]
+Andark47: pasa 
+SrLyce: pasa 
+*** SHOW DOWN ***
+Andark47: muestra [Kh Tc] (doble pareja, reyes y seises)
+SrLyce: descarta su mano sin mostrar 
+Andark47 se lleva 0.11 € del bote 
+*** RESUMEN ***
+Bote total 0.12 € | Comisión 0.01 € 
+Comunitarias [5s 6s 6c 8c Kc]
+Asiento 3: FalcoNaumani
+Asiento 1: practikal_C23 se retiró antes del Flop (no apostó)
+Asiento 2: niyomalo se retiró antes del Flop (no apostó)
+Asiento 4: BuXHexter (botón) se retiró antes del Flop (no apostó)
+Asiento 5: Andark47 (ciega pequeña) muestra [Kh Tc] y ganó (0.11 €) con doble pareja, reyes y seises
+Asiento 6: SrLyce (ciega grande) descartó sin mostrar [Td 9h]

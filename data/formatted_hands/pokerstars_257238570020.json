@@ -1,0 +1,55 @@
+{
+  "hand_id": "257238570020",
+  "date": "06-08-2025 19:10:53",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3c",
+    "6d"
+  ],
+  "stacks": {
+    "Alceo27": 100.0,
+    "David98X": 176.5,
+    "JJer11": 203.0,
+    "SrLyce": 95.5,
+    "Macklemore0": 100.0,
+    "ScarvBlack": 121.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Alceo27 (2 € en fichas)",
+      "Asiento 2: David98X (3.53 € en fichas)",
+      "Asiento 3: JJer11 (4.06 € en fichas)",
+      "Asiento 4: SrLyce (1.91 € en fichas)",
+      "Asiento 5: Macklemore0 (2 € en fichas)",
+      "Asiento 6: ScarvBlack (2.42 € en fichas)",
+      "ScarvBlack: pone la ciega pequeña 0.01 €",
+      "Alceo27: pone la ciega grande 0.02 €",
+      "David98X: sube 0.04 € a 0.06 €",
+      "JJer11: se retira",
+      "SrLyce: se retira",
+      "Macklemore0: se retira",
+      "ScarvBlack: se retira",
+      "Alceo27: se retira",
+      "David98X: no muestra su mano",
+      "Asiento 1: Alceo27 (ciega grande) se retiró antes del Flop",
+      "Asiento 2: David98X recaudó (0.05 €)",
+      "Asiento 3: JJer11 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: Macklemore0 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: ScarvBlack (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "David98X",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238570020 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:10:53 CET [06-08-2025 13:10:53 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 5 es el botón\nAsiento 1: Alceo27 (2 € en fichas) \nAsiento 2: David98X (3.53 € en fichas) \nAsiento 3: JJer11 (4.06 € en fichas) \nAsiento 4: SrLyce (1.91 € en fichas) \nAsiento 5: Macklemore0 (2 € en fichas) \nAsiento 6: ScarvBlack (2.42 € en fichas) \nScarvBlack: pone la ciega pequeña 0.01 €\nAlceo27: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3c 6d]\nDavid98X: sube 0.04 € a 0.06 €\nJJer11: se retira \nSrLyce: se retira \nMacklemore0: se retira \nScarvBlack: se retira \nAlceo27: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a David98X\nDavid98X se lleva 0.05 € del bote \nDavid98X: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: Alceo27 (ciega grande) se retiró antes del Flop\nAsiento 2: David98X recaudó (0.05 €)\nAsiento 3: JJer11 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: Macklemore0 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: ScarvBlack (ciega pequeña) se retiró antes del Flop"
+}

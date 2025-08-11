@@ -1,0 +1,76 @@
+{
+  "hand_id": "257168303965",
+  "date": "01-08-2025 11:23:07",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ac",
+    "6s"
+  ],
+  "stacks": {
+    "SrLyce": 92.0,
+    "Fharock": 88.0,
+    "ecuinas": 102.5,
+    "LxckxStrxkx": 105.0,
+    "erCampos23": 32.5,
+    "Akourdideh": 120.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.84 € en fichas)",
+      "Asiento 2: Fharock (1.76 € en fichas)",
+      "Asiento 3: ecuinas (2.05 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2.10 € en fichas)",
+      "Asiento 5: erCampos23 (0.65 € en fichas)",
+      "Asiento 6: Akourdideh (2.40 € en fichas)",
+      "Akourdideh: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Fharock: se retira",
+      "ecuinas: se retira",
+      "LxckxStrxkx: se retira",
+      "erCampos23: iguala 0.02 €",
+      "Akourdideh: iguala 0.01 €",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "Akourdideh: pasa",
+      "SrLyce: pasa",
+      "erCampos23: apuesta 0.04 €",
+      "Akourdideh: se retira",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "erCampos23: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "erCampos23: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €",
+      "erCampos23: muestra [As 7d] (doble pareja, ases y jotas)",
+      "SrLyce: muestra [Ac 6s] (doble pareja, ases y jotas)",
+      "Asiento 1: SrLyce (ciega grande) muestra [Ac 6s] y ganó (0.18 €) con doble pareja, ases y jotas",
+      "Asiento 2: Fharock se retiró antes del Flop (no apostó)",
+      "Asiento 3: ecuinas se retiró antes del Flop (no apostó)",
+      "Asiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)",
+      "Asiento 5: erCampos23 (botón) muestra [As 7d] y ganó (0.18 €) con doble pareja, ases y jotas",
+      "Asiento 6: Akourdideh (ciega pequeña) se retiró en el Flop"
+    ]
+  },
+  "board": [
+    "Ad",
+    "Jc",
+    "Js",
+    "3h",
+    "Td"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 9.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257168303965 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:23:07 CET [01-08-2025 5:23:07 ET]\nMesa \"Atlas\" 6-max El asiento n.º 5 es el botón\nAsiento 1: SrLyce (1.84 € en fichas) \nAsiento 2: Fharock (1.76 € en fichas) \nAsiento 3: ecuinas (2.05 € en fichas) \nAsiento 4: LxckxStrxkx (2.10 € en fichas) \nAsiento 5: erCampos23 (0.65 € en fichas) \nAsiento 6: Akourdideh (2.40 € en fichas) \nAkourdideh: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ac 6s]\nFharock: se retira \necuinas: se retira \nLxckxStrxkx: se retira \nerCampos23: iguala 0.02 €\nAkourdideh: iguala 0.01 €\nSrLyce: pasa \n*** FLOP *** [Ad Jc Js]\nAkourdideh: pasa \nSrLyce: pasa \nerCampos23: apuesta 0.04 €\nAkourdideh: se retira \nSrLyce: iguala 0.04 €\n*** TURN *** [Ad Jc Js] [3h]\nSrLyce: pasa \nerCampos23: apuesta 0.06 €\nSrLyce: iguala 0.06 €\n*** RIVER *** [Ad Jc Js 3h] [Td]\nSrLyce: pasa \nerCampos23: apuesta 0.06 €\nSrLyce: iguala 0.06 €\n*** SHOW DOWN ***\nerCampos23: muestra [As 7d] (doble pareja, ases y jotas)\nSrLyce: muestra [Ac 6s] (doble pareja, ases y jotas)\nSrLyce se lleva 0.18 € del bote \nerCampos23 se lleva 0.18 € del bote \n*** RESUMEN ***\nBote total 0.38 € | Comisión 0.02 € \nComunitarias [Ad Jc Js 3h Td]\nAsiento 1: SrLyce (ciega grande) muestra [Ac 6s] y ganó (0.18 €) con doble pareja, ases y jotas\nAsiento 2: Fharock se retiró antes del Flop (no apostó)\nAsiento 3: ecuinas se retiró antes del Flop (no apostó)\nAsiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)\nAsiento 5: erCampos23 (botón) muestra [As 7d] y ganó (0.18 €) con doble pareja, ases y jotas\nAsiento 6: Akourdideh (ciega pequeña) se retiró en el Flop"
+}

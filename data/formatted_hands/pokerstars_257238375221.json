@@ -1,0 +1,70 @@
+{
+  "hand_id": "257238375221",
+  "date": "06-08-2025 18:52:22",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Jd",
+    "5c"
+  ],
+  "stacks": {
+    "pauquair5": 75.0,
+    "N3xtTIm35": 102.0,
+    "aliendee07": 50.5,
+    "Ischadia": 96.0,
+    "SrLyce": 100.0,
+    "ismagonzalez7": 84.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 6: pauquair5 (1.50 € en fichas) está ausente",
+      "Asiento 1: N3xtTIm35 (2.04 € en fichas)",
+      "Asiento 2: aliendee07 (1.01 € en fichas)",
+      "Asiento 3: Ischadia (1.92 € en fichas)",
+      "Asiento 4: SrLyce (2 € en fichas)",
+      "Asiento 5: ismagonzalez7 (1.69 € en fichas)",
+      "aliendee07: pone la ciega pequeña 0.01 €",
+      "Ischadia: pone la ciega grande 0.02 €",
+      "pauquair5: se ausenta",
+      "SrLyce: se retira",
+      "ismagonzalez7: sube 0.02 € a 0.04 €",
+      "N3xtTIm35: se retira",
+      "aliendee07: iguala 0.03 €",
+      "Ischadia: iguala 0.02 €"
+    ],
+    "flop": [
+      "aliendee07: pasa",
+      "Ischadia: pasa",
+      "ismagonzalez7: apuesta 0.06 €",
+      "aliendee07: se retira",
+      "Ischadia: iguala 0.06 €"
+    ],
+    "turn": [
+      "Ischadia: pasa",
+      "ismagonzalez7: apuesta 0.12 €",
+      "Ischadia: se retira",
+      "ismagonzalez7: no muestra su mano",
+      "Asiento 6: pauquair5",
+      "Asiento 1: N3xtTIm35 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: aliendee07 (ciega pequeña) se retiró en el Flop",
+      "Asiento 3: Ischadia (ciega grande) se retiró en el Turn",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: ismagonzalez7 recaudó (0.23 €)"
+    ],
+    "river": []
+  },
+  "board": [
+    "6c",
+    "3d",
+    "5s",
+    "Jh"
+  ],
+  "winner": "ismagonzalez7",
+  "win_amount": 11.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238375221 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:52:22 CET [06-08-2025 12:52:22 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 1 es el botón\nAsiento 6: pauquair5 (1.50 € en fichas) está ausente\nAsiento 1: N3xtTIm35 (2.04 € en fichas) \nAsiento 2: aliendee07 (1.01 € en fichas) \nAsiento 3: Ischadia (1.92 € en fichas) \nAsiento 4: SrLyce (2 € en fichas) \nAsiento 5: ismagonzalez7 (1.69 € en fichas) \naliendee07: pone la ciega pequeña 0.01 €\nIschadia: pone la ciega grande 0.02 €\npauquair5: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Jd 5c]\nSrLyce: se retira \nismagonzalez7: sube 0.02 € a 0.04 €\nN3xtTIm35: se retira \naliendee07: iguala 0.03 €\nIschadia: iguala 0.02 €\n*** FLOP *** [6c 3d 5s]\naliendee07: pasa \nIschadia: pasa \nismagonzalez7: apuesta 0.06 €\naliendee07: se retira \nIschadia: iguala 0.06 €\n*** TURN *** [6c 3d 5s] [Jh]\nIschadia: pasa \nismagonzalez7: apuesta 0.12 €\nIschadia: se retira \nLa apuesta no igualada (0.12 €) ha sido devuelta a ismagonzalez7\nismagonzalez7 se lleva 0.23 € del bote \nismagonzalez7: no muestra su mano \n*** RESUMEN ***\nBote total 0.24 € | Comisión 0.01 € \nComunitarias [6c 3d 5s Jh]\nAsiento 6: pauquair5\nAsiento 1: N3xtTIm35 (botón) se retiró antes del Flop (no apostó)\nAsiento 2: aliendee07 (ciega pequeña) se retiró en el Flop\nAsiento 3: Ischadia (ciega grande) se retiró en el Turn\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: ismagonzalez7 recaudó (0.23 €)"
+}

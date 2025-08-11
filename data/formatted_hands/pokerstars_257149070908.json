@@ -1,0 +1,74 @@
+{
+  "hand_id": "257149070908",
+  "date": "30-07-2025 22:05:57",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qh",
+    "9d"
+  ],
+  "stacks": {
+    "SrLyce": 140.5,
+    "lecontrebandier": 75.5,
+    "christoph363": 213.0,
+    "oliverdu70": 185.5,
+    "NaruchoH1": 100.0,
+    "MitchATP65": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.81 € en fichas)",
+      "Asiento 2: lecontrebandier (1.51 € en fichas)",
+      "Asiento 3: christoph363 (4.26 € en fichas)",
+      "Asiento 4: oliverdu70 (3.71 € en fichas)",
+      "Asiento 5: NaruchoH1 (2 € en fichas)",
+      "Asiento 6: MitchATP65 (2 € en fichas)",
+      "christoph363: pone la ciega pequeña 0.01 €",
+      "oliverdu70: pone la ciega grande 0.02 €",
+      "NaruchoH1: se retira",
+      "MitchATP65: se retira",
+      "SrLyce: se retira",
+      "lecontrebandier: sube 0.02 € a 0.04 €",
+      "christoph363: iguala 0.03 €",
+      "oliverdu70: iguala 0.02 €"
+    ],
+    "flop": [
+      "christoph363: pasa",
+      "oliverdu70: pasa",
+      "lecontrebandier: pasa"
+    ],
+    "turn": [
+      "christoph363: apuesta 0.02 €",
+      "oliverdu70: iguala 0.02 €",
+      "lecontrebandier: se retira"
+    ],
+    "river": [
+      "christoph363: apuesta 0.15 €",
+      "oliverdu70: sube 0.15 € a 0.30 €",
+      "christoph363: iguala 0.15 €",
+      "oliverdu70: muestra [4s Ah] (escalera, de diez a as)",
+      "christoph363: muestra [5s Ad] (escalera, de diez a as)",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: lecontrebandier (botón) se retiró en el Turn",
+      "Asiento 3: christoph363 (ciega pequeña) muestra [5s Ad] y ganó (0.36 €) con escalera, de diez a as",
+      "Asiento 4: oliverdu70 (ciega grande) muestra [4s Ah] y ganó (0.35 €) con escalera, de diez a as",
+      "Asiento 5: NaruchoH1 se retiró antes del Flop (no apostó)",
+      "Asiento 6: MitchATP65 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Qd",
+    "Jc",
+    "9h",
+    "Kh",
+    "Tc"
+  ],
+  "winner": "christoph363",
+  "win_amount": 18.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.5,
+  "raw_text": "Mano n.º 257149070908 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:05:57 CET [30-07-2025 16:05:57 ET]\nMesa \"Sirona\" 6-max El asiento n.º 2 es el botón\nAsiento 1: SrLyce (2.81 € en fichas) \nAsiento 2: lecontrebandier (1.51 € en fichas) \nAsiento 3: christoph363 (4.26 € en fichas) \nAsiento 4: oliverdu70 (3.71 € en fichas) \nAsiento 5: NaruchoH1 (2 € en fichas) \nAsiento 6: MitchATP65 (2 € en fichas) \nchristoph363: pone la ciega pequeña 0.01 €\noliverdu70: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qh 9d]\nNaruchoH1: se retira \nMitchATP65: se retira \nSrLyce: se retira \nlecontrebandier: sube 0.02 € a 0.04 €\nchristoph363: iguala 0.03 €\noliverdu70: iguala 0.02 €\n*** FLOP *** [Qd Jc 9h]\nchristoph363: pasa \noliverdu70: pasa \nlecontrebandier: pasa \n*** TURN *** [Qd Jc 9h] [Kh]\nchristoph363: apuesta 0.02 €\noliverdu70: iguala 0.02 €\nlecontrebandier: se retira \n*** RIVER *** [Qd Jc 9h Kh] [Tc]\nchristoph363: apuesta 0.15 €\noliverdu70: sube 0.15 € a 0.30 €\nchristoph363: iguala 0.15 €\n*** SHOW DOWN ***\noliverdu70: muestra [4s Ah] (escalera, de diez a as)\nchristoph363: muestra [5s Ad] (escalera, de diez a as)\nchristoph363 se lleva 0.36 € del bote \noliverdu70 se lleva 0.35 € del bote \n*** RESUMEN ***\nBote total 0.76 € | Comisión 0.05 € \nComunitarias [Qd Jc 9h Kh Tc]\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: lecontrebandier (botón) se retiró en el Turn\nAsiento 3: christoph363 (ciega pequeña) muestra [5s Ad] y ganó (0.36 €) con escalera, de diez a as\nAsiento 4: oliverdu70 (ciega grande) muestra [4s Ah] y ganó (0.35 €) con escalera, de diez a as\nAsiento 5: NaruchoH1 se retiró antes del Flop (no apostó)\nAsiento 6: MitchATP65 se retiró antes del Flop (no apostó)"
+}

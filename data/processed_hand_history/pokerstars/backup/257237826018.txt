@@ -1,0 +1,29 @@
+Mano n.º 257237826018 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:03:03 CET [06-08-2025 12:03:03 ET]
+Mesa "Nuwa III" 6-max El asiento n.º 5 es el botón
+Asiento 1: davinci1962 (2.36 € en fichas) 
+Asiento 2: BuXHexter (2.09 € en fichas) 
+Asiento 3: kcg_rm (2.14 € en fichas) 
+Asiento 4: SrLyce (1.91 € en fichas) 
+Asiento 5: RiskAllinkali (2.29 € en fichas) 
+Asiento 6: acavada (2.03 € en fichas) 
+acavada: pone la ciega pequeña 0.01 €
+davinci1962: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Js 2h]
+BuXHexter: se retira 
+kcg_rm: se retira 
+SrLyce: se retira 
+RiskAllinkali: sube 0.04 € a 0.06 €
+acavada: se retira 
+davinci1962: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a RiskAllinkali
+RiskAllinkali se lleva 0.05 € del bote 
+RiskAllinkali: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: davinci1962 (ciega grande) se retiró antes del Flop
+Asiento 2: BuXHexter se retiró antes del Flop (no apostó)
+Asiento 3: kcg_rm se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: RiskAllinkali (botón) recaudó (0.05 €)
+Asiento 6: acavada (ciega pequeña) se retiró antes del Flop

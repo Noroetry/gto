@@ -1,0 +1,71 @@
+{
+  "hand_id": "257149997900",
+  "date": "30-07-2025 23:11:16",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8d",
+    "Kd"
+  ],
+  "stacks": {
+    "LeVbks": 85.5,
+    "fcis666": 49.5,
+    "Dlaguancha": 84.5,
+    "SrLyce": 91.5,
+    "riverluck444": 92.5,
+    "Kiffou39": 46.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (1.71 € en fichas)",
+      "Asiento 2: fcis666 (0.99 € en fichas)",
+      "Asiento 3: Dlaguancha (1.69 € en fichas)",
+      "Asiento 4: SrLyce (1.83 € en fichas)",
+      "Asiento 5: riverluck444 (1.85 € en fichas)",
+      "Asiento 6: Kiffou39 (0.93 € en fichas)",
+      "fcis666: pone la ciega pequeña 0.01 €",
+      "Dlaguancha: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "riverluck444: sube 0.08 € a 0.10 €",
+      "Kiffou39: se retira",
+      "LeVbks: se retira",
+      "fcis666: se retira",
+      "Dlaguancha: iguala 0.08 €"
+    ],
+    "flop": [
+      "Dlaguancha: pasa",
+      "riverluck444: pasa"
+    ],
+    "turn": [
+      "Dlaguancha: pasa",
+      "riverluck444: pasa"
+    ],
+    "river": [
+      "Dlaguancha: pasa",
+      "riverluck444: pasa",
+      "Dlaguancha: muestra [Qs Ts] (carta alta as)",
+      "riverluck444: muestra [8h 8c] (pareja de ochos)",
+      "Asiento 1: LeVbks (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: fcis666 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: Dlaguancha (ciega grande) muestra [Qs Ts] y perdió con carta alta as",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 muestra [8h 8c] y ganó (0.20 €) con pareja de ochos",
+      "Asiento 6: Kiffou39 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Ac",
+    "6s",
+    "2d",
+    "5h",
+    "9d"
+  ],
+  "winner": "riverluck444",
+  "win_amount": 10.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257149997900 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:11:16 CET [30-07-2025 17:11:16 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 1 es el botón\nAsiento 1: LeVbks (1.71 € en fichas) \nAsiento 2: fcis666 (0.99 € en fichas) \nAsiento 3: Dlaguancha (1.69 € en fichas) \nAsiento 4: SrLyce (1.83 € en fichas) \nAsiento 5: riverluck444 (1.85 € en fichas) \nAsiento 6: Kiffou39 (0.93 € en fichas) \nfcis666: pone la ciega pequeña 0.01 €\nDlaguancha: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8d Kd]\nSrLyce: se retira \nriverluck444: sube 0.08 € a 0.10 €\nKiffou39: se retira \nLeVbks: se retira \nfcis666: se retira \nDlaguancha: iguala 0.08 €\n*** FLOP *** [Ac 6s 2d]\nDlaguancha: pasa \nriverluck444: pasa \n*** TURN *** [Ac 6s 2d] [5h]\nDlaguancha: pasa \nriverluck444: pasa \n*** RIVER *** [Ac 6s 2d 5h] [9d]\nDlaguancha: pasa \nriverluck444: pasa \n*** SHOW DOWN ***\nDlaguancha: muestra [Qs Ts] (carta alta as)\nriverluck444: muestra [8h 8c] (pareja de ochos)\nriverluck444 se lleva 0.20 € del bote \n*** RESUMEN ***\nBote total 0.21 € | Comisión 0.01 € \nComunitarias [Ac 6s 2d 5h 9d]\nAsiento 1: LeVbks (botón) se retiró antes del Flop (no apostó)\nAsiento 2: fcis666 (ciega pequeña) se retiró antes del Flop\nAsiento 3: Dlaguancha (ciega grande) muestra [Qs Ts] y perdió con carta alta as\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 muestra [8h 8c] y ganó (0.20 €) con pareja de ochos\nAsiento 6: Kiffou39 se retiró antes del Flop (no apostó)"
+}

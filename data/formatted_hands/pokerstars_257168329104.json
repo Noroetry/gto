@@ -1,0 +1,64 @@
+{
+  "hand_id": "257168329104",
+  "date": "01-08-2025 11:27:49",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4s",
+    "2h"
+  ],
+  "stacks": {
+    "SrLyce": 105.5,
+    "Fharock": 103.0,
+    "ecuinas": 93.0,
+    "LxckxStrxkx": 103.5,
+    "erCampos23": 10.5,
+    "Akourdideh": 119.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.11 € en fichas)",
+      "Asiento 2: Fharock (2.06 € en fichas)",
+      "Asiento 3: ecuinas (1.86 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2.07 € en fichas)",
+      "Asiento 5: erCampos23 (0.21 € en fichas)",
+      "Asiento 6: Akourdideh (2.38 € en fichas)",
+      "erCampos23: pone la ciega pequeña 0.01 €",
+      "Akourdideh: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Fharock: se retira",
+      "ecuinas: se retira",
+      "LxckxStrxkx: sube 0.04 € a 0.06 €",
+      "erCampos23: sube 0.15 € a 0.21 € y está all-in",
+      "Akourdideh: se retira",
+      "LxckxStrxkx: iguala 0.15 €"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": [
+      "erCampos23: muestra [Td Jh] (pareja de ochos)",
+      "LxckxStrxkx: muestra [Qd Ad] (doble pareja, ases y ochos)",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: Fharock se retiró antes del Flop (no apostó)",
+      "Asiento 3: ecuinas se retiró antes del Flop (no apostó)",
+      "Asiento 4: LxckxStrxkx (botón) muestra [Qd Ad] y ganó (0.41 €) con doble pareja, ases y ochos",
+      "Asiento 5: erCampos23 (ciega pequeña) muestra [Td Jh] y perdió con pareja de ochos",
+      "Asiento 6: Akourdideh (ciega grande) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "7c",
+    "8c",
+    "8d",
+    "5d",
+    "Ah"
+  ],
+  "winner": "LxckxStrxkx",
+  "win_amount": 20.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.5,
+  "raw_text": "Mano n.º 257168329104 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:27:49 CET [01-08-2025 5:27:49 ET]\nMesa \"Atlas\" 6-max El asiento n.º 4 es el botón\nAsiento 1: SrLyce (2.11 € en fichas) \nAsiento 2: Fharock (2.06 € en fichas) \nAsiento 3: ecuinas (1.86 € en fichas) \nAsiento 4: LxckxStrxkx (2.07 € en fichas) \nAsiento 5: erCampos23 (0.21 € en fichas) \nAsiento 6: Akourdideh (2.38 € en fichas) \nerCampos23: pone la ciega pequeña 0.01 €\nAkourdideh: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4s 2h]\nSrLyce: se retira \nFharock: se retira \necuinas: se retira \nLxckxStrxkx: sube 0.04 € a 0.06 €\nerCampos23: sube 0.15 € a 0.21 € y está all-in\nAkourdideh: se retira \nLxckxStrxkx: iguala 0.15 €\n*** FLOP *** [7c 8c 8d]\n*** TURN *** [7c 8c 8d] [5d]\n*** RIVER *** [7c 8c 8d 5d] [Ah]\n*** SHOW DOWN ***\nerCampos23: muestra [Td Jh] (pareja de ochos)\nLxckxStrxkx: muestra [Qd Ad] (doble pareja, ases y ochos)\nLxckxStrxkx se lleva 0.41 € del bote \n*** RESUMEN ***\nBote total 0.44 € | Comisión 0.03 € \nComunitarias [7c 8c 8d 5d Ah]\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: Fharock se retiró antes del Flop (no apostó)\nAsiento 3: ecuinas se retiró antes del Flop (no apostó)\nAsiento 4: LxckxStrxkx (botón) muestra [Qd Ad] y ganó (0.41 €) con doble pareja, ases y ochos\nAsiento 5: erCampos23 (ciega pequeña) muestra [Td Jh] y perdió con pareja de ochos\nAsiento 6: Akourdideh (ciega grande) se retiró antes del Flop"
+}

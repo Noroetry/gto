@@ -1,0 +1,58 @@
+{
+  "hand_id": "257238624171",
+  "date": "06-08-2025 19:15:24",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9c",
+    "Qc"
+  ],
+  "stacks": {
+    "Macklemore0": 106.5,
+    "Alceo27": 100.0,
+    "aliendee07": 69.5,
+    "SrLyce": 133.0,
+    "ismagonzalez7": 30.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: Macklemore0 (2.13 € en fichas) está ausente",
+      "Asiento 1: Alceo27 (2 € en fichas)",
+      "Asiento 2: aliendee07 (1.39 € en fichas)",
+      "Asiento 4: SrLyce (2.66 € en fichas)",
+      "Asiento 5: ismagonzalez7 (0.61 € en fichas)",
+      "Alceo27: pone la ciega pequeña 0.01 €",
+      "aliendee07: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "ismagonzalez7: iguala 0.05 €",
+      "Alceo27: se retira",
+      "aliendee07: se retira"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "ismagonzalez7: apuesta 0.06 €",
+      "SrLyce: se retira",
+      "ismagonzalez7: no muestra su mano",
+      "Asiento 3: Macklemore0",
+      "Asiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 2: aliendee07 (ciega grande) se retiró antes del Flop",
+      "Asiento 4: SrLyce se retiró en el Flop",
+      "Asiento 5: ismagonzalez7 (botón) recaudó (0.12 €)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "Ad",
+    "Kd",
+    "7h"
+  ],
+  "winner": "ismagonzalez7",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238624171 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:15:24 CET [06-08-2025 13:15:24 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 5 es el botón\nAsiento 3: Macklemore0 (2.13 € en fichas) está ausente\nAsiento 1: Alceo27 (2 € en fichas) \nAsiento 2: aliendee07 (1.39 € en fichas) \nAsiento 4: SrLyce (2.66 € en fichas) \nAsiento 5: ismagonzalez7 (0.61 € en fichas) \nAlceo27: pone la ciega pequeña 0.01 €\naliendee07: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9c Qc]\nSrLyce: sube 0.03 € a 0.05 €\nismagonzalez7: iguala 0.05 €\nAlceo27: se retira \naliendee07: se retira \n*** FLOP *** [Ad Kd 7h]\nSrLyce: pasa \nismagonzalez7: apuesta 0.06 €\nSrLyce: se retira \nLa apuesta no igualada (0.06 €) ha sido devuelta a ismagonzalez7\nismagonzalez7 se lleva 0.12 € del bote \nismagonzalez7: no muestra su mano \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [Ad Kd 7h]\nAsiento 3: Macklemore0\nAsiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop\nAsiento 2: aliendee07 (ciega grande) se retiró antes del Flop\nAsiento 4: SrLyce se retiró en el Flop\nAsiento 5: ismagonzalez7 (botón) recaudó (0.12 €)"
+}

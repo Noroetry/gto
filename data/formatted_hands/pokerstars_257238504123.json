@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238504123",
+  "date": "06-08-2025 19:05:14",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "As",
+    "8h"
+  ],
+  "stacks": {
+    "koldipk": 151.5,
+    "David98X": 127.5,
+    "JJer11": 207.5,
+    "SrLyce": 109.0,
+    "Macklemore0": 100.0,
+    "ScarvBlack": 117.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: koldipk (3.03 € en fichas)",
+      "Asiento 2: David98X (2.55 € en fichas)",
+      "Asiento 3: JJer11 (4.15 € en fichas)",
+      "Asiento 4: SrLyce (2.18 € en fichas)",
+      "Asiento 5: Macklemore0 (2 € en fichas)",
+      "Asiento 6: ScarvBlack (2.35 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Macklemore0: pone la ciega grande 0.02 €",
+      "ScarvBlack: sube 0.04 € a 0.06 €",
+      "koldipk: se retira",
+      "David98X: iguala 0.06 €",
+      "JJer11: se retira",
+      "SrLyce: iguala 0.05 €",
+      "Macklemore0: se retira"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.06 €",
+      "ScarvBlack: se retira",
+      "David98X: iguala 0.06 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "David98X: pasa"
+    ],
+    "river": [
+      "SrLyce: apuesta 0.24 €",
+      "David98X: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: koldipk se retiró antes del Flop (no apostó)",
+      "Asiento 2: David98X se retiró en el River",
+      "Asiento 3: JJer11 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce (ciega pequeña) recaudó (0.30 €)",
+      "Asiento 5: Macklemore0 (ciega grande) se retiró antes del Flop",
+      "Asiento 6: ScarvBlack se retiró en el Flop"
+    ]
+  },
+  "board": [
+    "Qh",
+    "Ah",
+    "5c",
+    "9d",
+    "2s"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 15.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238504123 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:05:14 CET [06-08-2025 13:05:14 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 3 es el botón\nAsiento 1: koldipk (3.03 € en fichas) \nAsiento 2: David98X (2.55 € en fichas) \nAsiento 3: JJer11 (4.15 € en fichas) \nAsiento 4: SrLyce (2.18 € en fichas) \nAsiento 5: Macklemore0 (2 € en fichas) \nAsiento 6: ScarvBlack (2.35 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nMacklemore0: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [As 8h]\nScarvBlack: sube 0.04 € a 0.06 €\nkoldipk: se retira \nDavid98X: iguala 0.06 €\nJJer11: se retira \nSrLyce: iguala 0.05 €\nMacklemore0: se retira \n*** FLOP *** [Qh Ah 5c]\nSrLyce: apuesta 0.06 €\nScarvBlack: se retira \nDavid98X: iguala 0.06 €\n*** TURN *** [Qh Ah 5c] [9d]\nSrLyce: pasa \nDavid98X: pasa \n*** RIVER *** [Qh Ah 5c 9d] [2s]\nSrLyce: apuesta 0.24 €\nDavid98X: se retira \nLa apuesta no igualada (0.24 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.30 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.32 € | Comisión 0.02 € \nComunitarias [Qh Ah 5c 9d 2s]\nAsiento 1: koldipk se retiró antes del Flop (no apostó)\nAsiento 2: David98X se retiró en el River\nAsiento 3: JJer11 (botón) se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce (ciega pequeña) recaudó (0.30 €)\nAsiento 5: Macklemore0 (ciega grande) se retiró antes del Flop\nAsiento 6: ScarvBlack se retiró en el Flop"
+}

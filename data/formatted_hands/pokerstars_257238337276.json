@@ -1,0 +1,55 @@
+{
+  "hand_id": "257238337276",
+  "date": "06-08-2025 18:49:02",
+  "table": "Aidamina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2d",
+    "Ts"
+  ],
+  "stacks": {
+    "GarciaTT416": 100.0,
+    "McFlash3": 102.5,
+    "niyomalo": 119.5,
+    "durahimovic": 132.5,
+    "JustWin9960": 25.0,
+    "SrLyce": 162.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: GarciaTT416 (2 € en fichas)",
+      "Asiento 2: McFlash3 (2.05 € en fichas)",
+      "Asiento 3: niyomalo (2.39 € en fichas)",
+      "Asiento 4: durahimovic (2.65 € en fichas)",
+      "Asiento 5: JustWin9960 (0.50 € en fichas)",
+      "Asiento 6: SrLyce (3.25 € en fichas)",
+      "durahimovic: pone la ciega pequeña 0.01 €",
+      "JustWin9960: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "GarciaTT416: se retira",
+      "McFlash3: sube 0.04 € a 0.06 €",
+      "niyomalo: se retira",
+      "durahimovic: se retira",
+      "JustWin9960: se retira",
+      "McFlash3: no muestra su mano",
+      "Asiento 1: GarciaTT416 se retiró antes del Flop (no apostó)",
+      "Asiento 2: McFlash3 recaudó (0.05 €)",
+      "Asiento 3: niyomalo (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: durahimovic (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: JustWin9960 (ciega grande) se retiró antes del Flop",
+      "Asiento 6: SrLyce se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "McFlash3",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238337276 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:49:02 CET [06-08-2025 12:49:02 ET]\nMesa \"Aidamina II\" 6-max El asiento n.º 3 es el botón\nAsiento 1: GarciaTT416 (2 € en fichas) \nAsiento 2: McFlash3 (2.05 € en fichas) \nAsiento 3: niyomalo (2.39 € en fichas) \nAsiento 4: durahimovic (2.65 € en fichas) \nAsiento 5: JustWin9960 (0.50 € en fichas) \nAsiento 6: SrLyce (3.25 € en fichas) \ndurahimovic: pone la ciega pequeña 0.01 €\nJustWin9960: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2d Ts]\nSrLyce: se retira \nGarciaTT416: se retira \nMcFlash3: sube 0.04 € a 0.06 €\nniyomalo: se retira \ndurahimovic: se retira \nJustWin9960: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a McFlash3\nMcFlash3 se lleva 0.05 € del bote \nMcFlash3: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: GarciaTT416 se retiró antes del Flop (no apostó)\nAsiento 2: McFlash3 recaudó (0.05 €)\nAsiento 3: niyomalo (botón) se retiró antes del Flop (no apostó)\nAsiento 4: durahimovic (ciega pequeña) se retiró antes del Flop\nAsiento 5: JustWin9960 (ciega grande) se retiró antes del Flop\nAsiento 6: SrLyce se retiró antes del Flop (no apostó)"
+}

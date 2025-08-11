@@ -1,0 +1,54 @@
+{
+  "hand_id": "257149198538",
+  "date": "30-07-2025 22:14:59",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kc",
+    "3d"
+  ],
+  "stacks": {
+    "ansiedadd": 40.0,
+    "SrLyce": 91.0,
+    "NoahBolete": 130.5,
+    "Davdgoni": 235.0,
+    "DiaZzZ1": 100.0,
+    "elketefaka1": 87.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: ansiedadd (0.80 € en fichas) está ausente",
+      "Asiento 2: SrLyce (1.82 € en fichas)",
+      "Asiento 3: NoahBolete (2.61 € en fichas)",
+      "Asiento 4: Davdgoni (4.70 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2 € en fichas)",
+      "Asiento 6: elketefaka1 (1.74 € en fichas)",
+      "Davdgoni: pone la ciega pequeña 0.01 €",
+      "DiaZzZ1: pone la ciega grande 0.02 €",
+      "ansiedadd: se ausenta",
+      "elketefaka1: sube 0.04 € a 0.06 €",
+      "SrLyce: se retira",
+      "NoahBolete: se retira",
+      "Davdgoni: se retira",
+      "DiaZzZ1: se retira",
+      "Asiento 1: ansiedadd",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: NoahBolete (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: Davdgoni (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: DiaZzZ1 (ciega grande) se retiró antes del Flop",
+      "Asiento 6: elketefaka1 recaudó (0.05 €)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "elketefaka1",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149198538 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:14:59 CET [30-07-2025 16:14:59 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 3 es el botón\nAsiento 1: ansiedadd (0.80 € en fichas) está ausente\nAsiento 2: SrLyce (1.82 € en fichas) \nAsiento 3: NoahBolete (2.61 € en fichas) \nAsiento 4: Davdgoni (4.70 € en fichas) \nAsiento 5: DiaZzZ1 (2 € en fichas) \nAsiento 6: elketefaka1 (1.74 € en fichas) \nDavdgoni: pone la ciega pequeña 0.01 €\nDiaZzZ1: pone la ciega grande 0.02 €\nansiedadd: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kc 3d]\nelketefaka1: sube 0.04 € a 0.06 €\nSrLyce: se retira \nNoahBolete: se retira \nDavdgoni: se retira \nDiaZzZ1: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a elketefaka1\nelketefaka1 se lleva 0.05 € del bote \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: ansiedadd\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: NoahBolete (botón) se retiró antes del Flop (no apostó)\nAsiento 4: Davdgoni (ciega pequeña) se retiró antes del Flop\nAsiento 5: DiaZzZ1 (ciega grande) se retiró antes del Flop\nAsiento 6: elketefaka1 recaudó (0.05 €)"
+}

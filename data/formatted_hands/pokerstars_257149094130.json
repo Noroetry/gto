@@ -1,0 +1,49 @@
+{
+  "hand_id": "257149094130",
+  "date": "30-07-2025 22:07:35",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2s",
+    "7c"
+  ],
+  "stacks": {
+    "SrLyce": 140.5,
+    "lecontrebandier": 74.0,
+    "christoph363": 213.0,
+    "oliverdu70": 186.0,
+    "MitchATP65": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.81 € en fichas)",
+      "Asiento 2: lecontrebandier (1.48 € en fichas)",
+      "Asiento 3: christoph363 (4.26 € en fichas)",
+      "Asiento 4: oliverdu70 (3.72 € en fichas)",
+      "Asiento 6: MitchATP65 (2 € en fichas)",
+      "lecontrebandier: pone la ciega pequeña 0.01 €",
+      "christoph363: pone la ciega grande 0.02 €",
+      "oliverdu70: se retira",
+      "MitchATP65: se retira",
+      "SrLyce: se retira",
+      "lecontrebandier: se retira",
+      "Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: lecontrebandier (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: christoph363 (ciega grande) recaudó (0.02 €)",
+      "Asiento 4: oliverdu70 se retiró antes del Flop (no apostó)",
+      "Asiento 6: MitchATP65 se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "christoph363",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149094130 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:07:35 CET [30-07-2025 16:07:35 ET]\nMesa \"Sirona\" 6-max El asiento n.º 1 es el botón\nAsiento 1: SrLyce (2.81 € en fichas) \nAsiento 2: lecontrebandier (1.48 € en fichas) \nAsiento 3: christoph363 (4.26 € en fichas) \nAsiento 4: oliverdu70 (3.72 € en fichas) \nAsiento 6: MitchATP65 (2 € en fichas) \nlecontrebandier: pone la ciega pequeña 0.01 €\nchristoph363: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2s 7c]\noliverdu70: se retira \nMitchATP65: se retira \nSrLyce: se retira \nlecontrebandier: se retira \nLa apuesta no igualada (0.01 €) ha sido devuelta a christoph363\nchristoph363 se lleva 0.02 € del bote \n*** RESUMEN ***\nBote total 0.02 € | Comisión 0 € \nAsiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 2: lecontrebandier (ciega pequeña) se retiró antes del Flop\nAsiento 3: christoph363 (ciega grande) recaudó (0.02 €)\nAsiento 4: oliverdu70 se retiró antes del Flop (no apostó)\nAsiento 6: MitchATP65 se retiró antes del Flop (no apostó)"
+}

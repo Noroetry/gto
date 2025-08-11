@@ -1,0 +1,74 @@
+{
+  "hand_id": "257215134219",
+  "date": "04-08-2025 22:26:30",
+  "table": "Anneliese II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4s",
+    "2c"
+  ],
+  "stacks": {
+    "betterrrrrr": 100.0,
+    "piropanzer": 49.5,
+    "ElManu62": 117.5,
+    "SrLyce": 102.0,
+    "Mr_Pkr98": 136.0,
+    "Spotick": 115.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: betterrrrrr (2 € en fichas)",
+      "Asiento 2: piropanzer (0.99 € en fichas)",
+      "Asiento 3: ElManu62 (2.35 € en fichas)",
+      "Asiento 4: SrLyce (2.04 € en fichas)",
+      "Asiento 5: Mr_Pkr98 (2.72 € en fichas)",
+      "Asiento 6: Spotick (2.30 € en fichas)",
+      "ElManu62: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Mr_Pkr98: se retira",
+      "Spotick: se retira",
+      "betterrrrrr: se retira",
+      "piropanzer: iguala 0.02 €",
+      "ElManu62: iguala 0.01 €",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "ElManu62: pasa",
+      "SrLyce: pasa",
+      "piropanzer: pasa"
+    ],
+    "turn": [
+      "ElManu62: pasa",
+      "SrLyce: pasa",
+      "piropanzer: pasa"
+    ],
+    "river": [
+      "ElManu62: apuesta 0.06 €",
+      "SrLyce: se retira",
+      "piropanzer: iguala 0.06 €",
+      "ElManu62: muestra [7c 7h] (full de ochos y sietes)",
+      "piropanzer: descarta su mano sin mostrar",
+      "Asiento 1: betterrrrrr se retiró antes del Flop (no apostó)",
+      "Asiento 2: piropanzer (botón) descartó sin mostrar [As 7s]",
+      "Asiento 3: ElManu62 (ciega pequeña) muestra [7c 7h] y ganó (0.17 €) con full de ochos y sietes",
+      "Asiento 4: SrLyce (ciega grande) se retiró en el River",
+      "Asiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Spotick se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "5c",
+    "8s",
+    "Qs",
+    "8c",
+    "8h"
+  ],
+  "winner": "ElManu62",
+  "win_amount": 8.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257215134219 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:26:30 CET [04-08-2025 16:26:30 ET]\nMesa \"Anneliese II\" 6-max El asiento n.º 2 es el botón\nAsiento 1: betterrrrrr (2 € en fichas) \nAsiento 2: piropanzer (0.99 € en fichas) \nAsiento 3: ElManu62 (2.35 € en fichas) \nAsiento 4: SrLyce (2.04 € en fichas) \nAsiento 5: Mr_Pkr98 (2.72 € en fichas) \nAsiento 6: Spotick (2.30 € en fichas) \nElManu62: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4s 2c]\nMr_Pkr98: se retira \nSpotick: se retira \nbetterrrrrr: se retira \npiropanzer: iguala 0.02 €\nElManu62: iguala 0.01 €\nSrLyce: pasa \n*** FLOP *** [5c 8s Qs]\nElManu62: pasa \nSrLyce: pasa \npiropanzer: pasa \n*** TURN *** [5c 8s Qs] [8c]\nElManu62: pasa \nSrLyce: pasa \npiropanzer: pasa \n*** RIVER *** [5c 8s Qs 8c] [8h]\nElManu62: apuesta 0.06 €\nSrLyce: se retira \npiropanzer: iguala 0.06 €\n*** SHOW DOWN ***\nElManu62: muestra [7c 7h] (full de ochos y sietes)\npiropanzer: descarta su mano sin mostrar \nElManu62 se lleva 0.17 € del bote \n*** RESUMEN ***\nBote total 0.18 € | Comisión 0.01 € \nComunitarias [5c 8s Qs 8c 8h]\nAsiento 1: betterrrrrr se retiró antes del Flop (no apostó)\nAsiento 2: piropanzer (botón) descartó sin mostrar [As 7s]\nAsiento 3: ElManu62 (ciega pequeña) muestra [7c 7h] y ganó (0.17 €) con full de ochos y sietes\nAsiento 4: SrLyce (ciega grande) se retiró en el River\nAsiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)\nAsiento 6: Spotick se retiró antes del Flop (no apostó)"
+}

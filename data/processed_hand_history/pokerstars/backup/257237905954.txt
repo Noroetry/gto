@@ -1,0 +1,27 @@
+Mano n.º 257237905954 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:10:38 CET [06-08-2025 12:10:38 ET]
+Mesa "Nuwa III" 6-max El asiento n.º 3 es el botón
+Asiento 1: Begoton (2 € en fichas) está ausente
+Asiento 2: BuXHexter (2 € en fichas) 
+Asiento 3: kcg_rm (2.14 € en fichas) 
+Asiento 4: SrLyce (2.07 € en fichas) 
+Asiento 6: acavada (2.06 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+acavada: pone la ciega grande 0.02 €
+Begoton: está ausente 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5h Th]
+Begoton deja la mesa
+BuXHexter: se retira 
+kcg_rm: se retira 
+SrLyce: sube 0.02 € a 0.04 €
+acavada: se retira 
+La apuesta no igualada (0.02 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.04 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: Begoton
+Asiento 2: BuXHexter se retiró antes del Flop (no apostó)
+Asiento 3: kcg_rm (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (ciega pequeña) recaudó (0.04 €)
+Asiento 6: acavada (ciega grande) se retiró antes del Flop

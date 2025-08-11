@@ -1,0 +1,75 @@
+{
+  "hand_id": "257237026533",
+  "date": "06-08-2025 17:32:43",
+  "table": "Vanadis II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9c",
+    "Qh"
+  ],
+  "stacks": {
+    "sarabiagar": 98.0,
+    "SrLyce": 100.0,
+    "Il_BM00": 58.5,
+    "noreihh": 149.0,
+    "chordewman": 103.5,
+    "idigon": 178.5
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257237026533 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:32:43 CET [06-08-2025 11:32:43 ET]",
+      "Asiento 5: sarabiagar (1.96 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2 € en fichas)",
+      "Asiento 2: Il_BM00 (1.17 € en fichas)",
+      "Asiento 3: noreihh (2.98 € en fichas)",
+      "Asiento 4: chordewman (2.07 € en fichas)",
+      "Asiento 6: idigon (3.57 € en fichas)",
+      "idigon: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Il_BM00: se retira",
+      "noreihh: se retira",
+      "chordewman: sube 0.03 € a 0.05 €",
+      "idigon: iguala 0.04 €",
+      "SrLyce: iguala 0.03 €"
+    ],
+    "flop": [
+      "idigon: pasa",
+      "SrLyce: pasa",
+      "chordewman: pasa"
+    ],
+    "turn": [
+      "idigon: pasa",
+      "SrLyce: pasa",
+      "chordewman: pasa"
+    ],
+    "river": [
+      "idigon: pasa",
+      "SrLyce: pasa",
+      "chordewman: apuesta 0.11 €",
+      "idigon: se retira",
+      "SrLyce: se retira",
+      "chordewman: no muestra su mano",
+      "Asiento 5: sarabiagar",
+      "Asiento 1: SrLyce (ciega grande) se retiró en el River",
+      "Asiento 2: Il_BM00 se retiró antes del Flop (no apostó)",
+      "Asiento 3: noreihh se retiró antes del Flop (no apostó)",
+      "Asiento 4: chordewman (botón) recaudó (0.14 €)",
+      "Asiento 6: idigon (ciega pequeña) se retiró en el River"
+    ]
+  },
+  "board": [
+    "3h",
+    "5h",
+    "8h",
+    "Ks",
+    "7d"
+  ],
+  "winner": "chordewman",
+  "win_amount": 7.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "﻿Mano n.º 257237026533 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:32:43 CET [06-08-2025 11:32:43 ET]\nMesa \"Vanadis II\" 6-max El asiento n.º 4 es el botón\nAsiento 5: sarabiagar (1.96 € en fichas) está ausente\nAsiento 1: SrLyce (2 € en fichas) \nAsiento 2: Il_BM00 (1.17 € en fichas) \nAsiento 3: noreihh (2.98 € en fichas) \nAsiento 4: chordewman (2.07 € en fichas) \nAsiento 6: idigon (3.57 € en fichas) \nidigon: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9c Qh]\nIl_BM00: se retira \nIl_BM00 deja la mesa\nnoreihh: se retira \nchordewman: sube 0.03 € a 0.05 €\nidigon: iguala 0.04 €\nSrLyce: iguala 0.03 €\n*** FLOP *** [3h 5h 8h]\nidigon: pasa \nSrLyce: pasa \nchordewman: pasa \n*** TURN *** [3h 5h 8h] [Ks]\nidigon: pasa \nSrLyce: pasa \nchordewman: pasa \n*** RIVER *** [3h 5h 8h Ks] [7d]\nidigon: pasa \nSrLyce: pasa \nchordewman: apuesta 0.11 €\nidigon: se retira \nSrLyce: se retira \nLa apuesta no igualada (0.11 €) ha sido devuelta a chordewman\nchordewman se lleva 0.14 € del bote \nchordewman: no muestra su mano \ndjrojas9 se une a la mesa en el asiento n.º 2 \n*** RESUMEN ***\nBote total 0.15 € | Comisión 0.01 € \nComunitarias [3h 5h 8h Ks 7d]\nAsiento 5: sarabiagar\nAsiento 1: SrLyce (ciega grande) se retiró en el River\nAsiento 2: Il_BM00 se retiró antes del Flop (no apostó)\nAsiento 3: noreihh se retiró antes del Flop (no apostó)\nAsiento 4: chordewman (botón) recaudó (0.14 €)\nAsiento 6: idigon (ciega pequeña) se retiró en el River"
+}

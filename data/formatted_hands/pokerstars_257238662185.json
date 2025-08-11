@@ -1,0 +1,69 @@
+{
+  "hand_id": "257238662185",
+  "date": "06-08-2025 19:18:36",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "As",
+    "Ah"
+  ],
+  "stacks": {
+    "practikal_C23": 47.5,
+    "niyomalo": 97.5,
+    "davinci1962": 145.5,
+    "BuXHexter": 154.0,
+    "Andark47": 204.0,
+    "SrLyce": 102.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: practikal_C23 (0.95 € en fichas) está ausente",
+      "Asiento 2: niyomalo (1.95 € en fichas)",
+      "Asiento 3: davinci1962 (2.91 € en fichas)",
+      "Asiento 4: BuXHexter (3.08 € en fichas)",
+      "Asiento 5: Andark47 (4.08 € en fichas)",
+      "Asiento 6: SrLyce (2.04 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "niyomalo: pone la ciega grande 0.02 €",
+      "davinci1962: se retira",
+      "BuXHexter: se retira",
+      "Andark47: se retira",
+      "SrLyce: iguala 0.01 €",
+      "niyomalo: pasa"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "niyomalo: pasa"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "niyomalo: pasa"
+    ],
+    "river": [
+      "SrLyce: apuesta 2.02 € y está all-in",
+      "niyomalo: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: practikal_C23",
+      "Asiento 2: niyomalo (ciega grande) se retiró en el River",
+      "Asiento 3: davinci1962 se retiró antes del Flop (no apostó)",
+      "Asiento 4: BuXHexter se retiró antes del Flop (no apostó)",
+      "Asiento 5: Andark47 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: SrLyce (ciega pequeña) recaudó (0.04 €)"
+    ]
+  },
+  "board": [
+    "2h",
+    "Qc",
+    "6h",
+    "Qs",
+    "9h"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238662185 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:18:36 CET [06-08-2025 13:18:36 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 5 es el botón\nAsiento 1: practikal_C23 (0.95 € en fichas) está ausente\nAsiento 2: niyomalo (1.95 € en fichas) \nAsiento 3: davinci1962 (2.91 € en fichas) \nAsiento 4: BuXHexter (3.08 € en fichas) \nAsiento 5: Andark47 (4.08 € en fichas) \nAsiento 6: SrLyce (2.04 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nniyomalo: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [As Ah]\ndavinci1962: se retira \nBuXHexter: se retira \nAndark47 ha agotado su tiempo\nAndark47: se retira \nSrLyce: iguala 0.01 €\nniyomalo: pasa \n*** FLOP *** [2h Qc 6h]\nSrLyce: pasa \nniyomalo: pasa \n*** TURN *** [2h Qc 6h] [Qs]\nSrLyce: pasa \nniyomalo: pasa \n*** RIVER *** [2h Qc 6h Qs] [9h]\nSrLyce: apuesta 2.02 € y está all-in\nniyomalo: se retira \nLa apuesta no igualada (2.02 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.04 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nComunitarias [2h Qc 6h Qs 9h]\nAsiento 1: practikal_C23\nAsiento 2: niyomalo (ciega grande) se retiró en el River\nAsiento 3: davinci1962 se retiró antes del Flop (no apostó)\nAsiento 4: BuXHexter se retiró antes del Flop (no apostó)\nAsiento 5: Andark47 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: SrLyce (ciega pequeña) recaudó (0.04 €)"
+}

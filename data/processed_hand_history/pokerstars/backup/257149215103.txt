@@ -1,0 +1,37 @@
+Mano n.º 257149215103 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:16:08 CET [30-07-2025 16:16:08 ET]
+Mesa "Esclangona" 6-max El asiento n.º 6 es el botón
+Asiento 1: ansiedadd (0.78 € en fichas) 
+Asiento 2: SrLyce (1.82 € en fichas) 
+Asiento 3: NoahBolete (2.61 € en fichas) 
+Asiento 4: Davdgoni (4.72 € en fichas) 
+Asiento 5: DiaZzZ1 (1.97 € en fichas) 
+Asiento 6: elketefaka1 (1.77 € en fichas) 
+ansiedadd: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5s 5c]
+NoahBolete: se retira 
+Davdgoni: se retira 
+DiaZzZ1: sube 0.02 € a 0.04 €
+elketefaka1: se retira 
+ansiedadd: iguala 0.03 €
+SrLyce: iguala 0.02 €
+*** FLOP *** [Td 9d 2h]
+ansiedadd: apuesta 0.04 €
+SrLyce: iguala 0.04 €
+DiaZzZ1: se retira 
+*** TURN *** [Td 9d 2h] [6d]
+ansiedadd: apuesta 0.12 €
+SrLyce: se retira 
+La apuesta no igualada (0.12 €) ha sido devuelta a ansiedadd
+ansiedadd se lleva 0.19 € del bote 
+ansiedadd: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0.01 € 
+Comunitarias [Td 9d 2h 6d]
+Asiento 1: ansiedadd (ciega pequeña) recaudó (0.19 €)
+Asiento 2: SrLyce (ciega grande) se retiró en el Turn
+Asiento 3: NoahBolete se retiró antes del Flop (no apostó)
+Asiento 4: Davdgoni se retiró antes del Flop (no apostó)
+Asiento 5: DiaZzZ1 se retiró en el Flop
+Asiento 6: elketefaka1 (botón) se retiró antes del Flop (no apostó)

@@ -1,0 +1,75 @@
+{
+  "hand_id": "257148593092",
+  "date": "30-07-2025 21:30:18",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qd",
+    "6s"
+  ],
+  "stacks": {
+    "MorganKapone": 61.5,
+    "SrLyce": 99.0,
+    "gabriella657": 292.5,
+    "Davdgoni": 100.0,
+    "DiaZzZ1": 108.0,
+    "berlcht403": 40.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: MorganKapone (1.23 € en fichas)",
+      "Asiento 2: SrLyce (1.98 € en fichas)",
+      "Asiento 3: gabriella657 (5.85 € en fichas)",
+      "Asiento 4: Davdgoni (2 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2.16 € en fichas)",
+      "Asiento 6: berlcht403 (0.81 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "gabriella657: pone la ciega grande 0.02 €",
+      "Davdgoni: sube 0.04 € a 0.06 €",
+      "DiaZzZ1: se retira",
+      "berlcht403: se retira",
+      "MorganKapone: iguala 0.06 €",
+      "SrLyce: se retira",
+      "gabriella657: iguala 0.04 €"
+    ],
+    "flop": [
+      "gabriella657: pasa",
+      "Davdgoni: apuesta 0.09 €",
+      "MorganKapone: iguala 0.09 €",
+      "gabriella657: iguala 0.09 €"
+    ],
+    "turn": [
+      "gabriella657: pasa",
+      "Davdgoni: apuesta 0.43 €",
+      "MorganKapone: iguala 0.43 €",
+      "gabriella657: se retira"
+    ],
+    "river": [
+      "Davdgoni: apuesta 1.24 €",
+      "MorganKapone: iguala 0.65 € y está all-in",
+      "Davdgoni: muestra [8h Th] (full de dieces y sietes)",
+      "MorganKapone: muestra [Ac 8d] (doble pareja, ases y dieces)",
+      "Asiento 1: MorganKapone (botón) muestra [Ac 8d] y perdió con doble pareja, ases y dieces",
+      "Asiento 2: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: gabriella657 (ciega grande) se retiró en el Turn",
+      "Asiento 4: Davdgoni muestra [8h Th] y ganó (2.46 €) con full de dieces y sietes",
+      "Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)",
+      "Asiento 6: berlcht403 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Ad",
+    "Td",
+    "Ts",
+    "7h",
+    "7c"
+  ],
+  "winner": "Davdgoni",
+  "win_amount": 123.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 8.0,
+  "raw_text": "Mano n.º 257148593092 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:30:18 CET [30-07-2025 15:30:18 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 1 es el botón\nAsiento 1: MorganKapone (1.23 € en fichas) \nAsiento 2: SrLyce (1.98 € en fichas) \nAsiento 3: gabriella657 (5.85 € en fichas) \nAsiento 4: Davdgoni (2 € en fichas) \nAsiento 5: DiaZzZ1 (2.16 € en fichas) \nAsiento 6: berlcht403 (0.81 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\ngabriella657: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qd 6s]\nDavdgoni: sube 0.04 € a 0.06 €\nDiaZzZ1: se retira \nberlcht403: se retira \nMorganKapone: iguala 0.06 €\nSrLyce: se retira \ngabriella657: iguala 0.04 €\n*** FLOP *** [Ad Td Ts]\ngabriella657: pasa \nDavdgoni: apuesta 0.09 €\nMorganKapone: iguala 0.09 €\ngabriella657: iguala 0.09 €\n*** TURN *** [Ad Td Ts] [7h]\ngabriella657: pasa \nDavdgoni: apuesta 0.43 €\nMorganKapone: iguala 0.43 €\ngabriella657: se retira \n*** RIVER *** [Ad Td Ts 7h] [7c]\ngabriella657 no tiene conexión \nDavdgoni: apuesta 1.24 €\nMorganKapone: iguala 0.65 € y está all-in\nLa apuesta no igualada (0.59 €) ha sido devuelta a Davdgoni\n*** SHOW DOWN ***\nDavdgoni: muestra [8h Th] (full de dieces y sietes)\nMorganKapone: muestra [Ac 8d] (doble pareja, ases y dieces)\nDavdgoni se lleva 2.46 € del bote \n*** RESUMEN ***\nBote total 2.62 € | Comisión 0.16 € \nComunitarias [Ad Td Ts 7h 7c]\nAsiento 1: MorganKapone (botón) muestra [Ac 8d] y perdió con doble pareja, ases y dieces\nAsiento 2: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 3: gabriella657 (ciega grande) se retiró en el Turn\nAsiento 4: Davdgoni muestra [8h Th] y ganó (2.46 €) con full de dieces y sietes\nAsiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)\nAsiento 6: berlcht403 se retiró antes del Flop (no apostó)"
+}

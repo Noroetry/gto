@@ -1,0 +1,68 @@
+{
+  "hand_id": "257237743188",
+  "date": "06-08-2025 17:53:40",
+  "table": "Virtus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9s",
+    "Ts"
+  ],
+  "stacks": {
+    "Kingzilla87": 170.5,
+    "SrLyce": 102.0,
+    "JGDOBLAS": 100.0,
+    "don.corle": 143.0,
+    "rudik34385": 82.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Kingzilla87 (3.41 € en fichas)",
+      "Asiento 2: SrLyce (2.04 € en fichas)",
+      "Asiento 4: JGDOBLAS (2 € en fichas)",
+      "Asiento 5: don.corle (2.86 € en fichas)",
+      "Asiento 6: rudik34385 (1.65 € en fichas)",
+      "JGDOBLAS: pone la ciega pequeña 0.01 €",
+      "don.corle: pone la ciega grande 0.02 €",
+      "rudik34385: sube 0.02 € a 0.04 €",
+      "Kingzilla87: se retira",
+      "SrLyce: iguala 0.04 €",
+      "JGDOBLAS: se retira",
+      "don.corle: se retira"
+    ],
+    "flop": [
+      "rudik34385: pasa",
+      "SrLyce: pasa"
+    ],
+    "turn": [
+      "rudik34385: pasa",
+      "SrLyce: apuesta 0.05 €",
+      "rudik34385: iguala 0.05 €"
+    ],
+    "river": [
+      "rudik34385: pasa",
+      "SrLyce: apuesta 0.20 €",
+      "rudik34385: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: Kingzilla87 se retiró antes del Flop (no apostó)",
+      "Asiento 2: SrLyce (botón) recaudó (0.20 €)",
+      "Asiento 4: JGDOBLAS (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: don.corle (ciega grande) se retiró antes del Flop",
+      "Asiento 6: rudik34385 se retiró en el River"
+    ]
+  },
+  "board": [
+    "Jh",
+    "8c",
+    "3d",
+    "7c",
+    "7d"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 10.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257237743188 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:53:40 CET [06-08-2025 11:53:40 ET]\nMesa \"Virtus\" 6-max El asiento n.º 2 es el botón\nAsiento 1: Kingzilla87 (3.41 € en fichas) \nAsiento 2: SrLyce (2.04 € en fichas) \nAsiento 4: JGDOBLAS (2 € en fichas) \nAsiento 5: don.corle (2.86 € en fichas) \nAsiento 6: rudik34385 (1.65 € en fichas) \nJGDOBLAS: pone la ciega pequeña 0.01 €\ndon.corle: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9s Ts]\nrudik34385: sube 0.02 € a 0.04 €\nKingzilla87: se retira \nSrLyce: iguala 0.04 €\nJGDOBLAS: se retira \ndon.corle: se retira \n*** FLOP *** [Jh 8c 3d]\nrudik34385: pasa \npullup0 se une a la mesa en el asiento n.º 3 \nSrLyce: pasa \n*** TURN *** [Jh 8c 3d] [7c]\nrudik34385: pasa \nSrLyce: apuesta 0.05 €\nrudik34385: iguala 0.05 €\n*** RIVER *** [Jh 8c 3d 7c] [7d]\nrudik34385: pasa \nSrLyce: apuesta 0.20 €\nrudik34385: se retira \nLa apuesta no igualada (0.20 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.20 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.21 € | Comisión 0.01 € \nComunitarias [Jh 8c 3d 7c 7d]\nAsiento 1: Kingzilla87 se retiró antes del Flop (no apostó)\nAsiento 2: SrLyce (botón) recaudó (0.20 €)\nAsiento 4: JGDOBLAS (ciega pequeña) se retiró antes del Flop\nAsiento 5: don.corle (ciega grande) se retiró antes del Flop\nAsiento 6: rudik34385 se retiró en el River"
+}

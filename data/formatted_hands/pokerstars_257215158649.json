@@ -1,0 +1,77 @@
+{
+  "hand_id": "257215158649",
+  "date": "04-08-2025 22:28:01",
+  "table": "Anneliese II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "As",
+    "8d"
+  ],
+  "stacks": {
+    "betterrrrrr": 100.0,
+    "piropanzer": 45.5,
+    "ElManu62": 122.0,
+    "SrLyce": 101.0,
+    "Mr_Pkr98": 136.0,
+    "Spotick": 115.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: betterrrrrr (2 € en fichas)",
+      "Asiento 2: piropanzer (0.91 € en fichas)",
+      "Asiento 3: ElManu62 (2.44 € en fichas)",
+      "Asiento 4: SrLyce (2.02 € en fichas)",
+      "Asiento 5: Mr_Pkr98 (2.72 € en fichas)",
+      "Asiento 6: Spotick (2.30 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Mr_Pkr98: pone la ciega grande 0.02 €",
+      "Spotick: se retira",
+      "betterrrrrr: se retira",
+      "piropanzer: iguala 0.02 €",
+      "ElManu62: se retira",
+      "SrLyce: iguala 0.01 €",
+      "Mr_Pkr98: pasa"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "Mr_Pkr98: pasa",
+      "piropanzer: apuesta 0.03 €",
+      "SrLyce: iguala 0.03 €",
+      "Mr_Pkr98: iguala 0.03 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "Mr_Pkr98: pasa",
+      "piropanzer: apuesta 0.07 €",
+      "SrLyce: se retira",
+      "Mr_Pkr98: iguala 0.07 €"
+    ],
+    "river": [
+      "Mr_Pkr98: pasa",
+      "piropanzer: pasa",
+      "Mr_Pkr98: muestra [9h 3h] (color, carta alta dama)",
+      "piropanzer: descarta su mano sin mostrar",
+      "Asiento 1: betterrrrrr se retiró antes del Flop (no apostó)",
+      "Asiento 2: piropanzer descartó sin mostrar [Ks 9d]",
+      "Asiento 3: ElManu62 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce (ciega pequeña) se retiró en el Turn",
+      "Asiento 5: Mr_Pkr98 (ciega grande) muestra [9h 3h] y ganó (0.27 €) con color, carta alta dama",
+      "Asiento 6: Spotick se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "9s",
+    "4h",
+    "Qh",
+    "5d",
+    "5h"
+  ],
+  "winner": "Mr_Pkr98",
+  "win_amount": 13.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257215158649 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:28:01 CET [04-08-2025 16:28:01 ET]\nMesa \"Anneliese II\" 6-max El asiento n.º 3 es el botón\nAsiento 1: betterrrrrr (2 € en fichas) \nAsiento 2: piropanzer (0.91 € en fichas) \nAsiento 3: ElManu62 (2.44 € en fichas) \nAsiento 4: SrLyce (2.02 € en fichas) \nAsiento 5: Mr_Pkr98 (2.72 € en fichas) \nAsiento 6: Spotick (2.30 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nMr_Pkr98: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [As 8d]\nSpotick: se retira \nbetterrrrrr: se retira \npiropanzer: iguala 0.02 €\nElManu62: se retira \nSrLyce: iguala 0.01 €\nMr_Pkr98: pasa \n*** FLOP *** [9s 4h Qh]\nSrLyce: pasa \nMr_Pkr98: pasa \npiropanzer: apuesta 0.03 €\nSrLyce: iguala 0.03 €\nMr_Pkr98: iguala 0.03 €\n*** TURN *** [9s 4h Qh] [5d]\nSrLyce: pasa \nMr_Pkr98: pasa \npiropanzer: apuesta 0.07 €\nSrLyce: se retira \nMr_Pkr98: iguala 0.07 €\n*** RIVER *** [9s 4h Qh 5d] [5h]\nMr_Pkr98: pasa \npiropanzer: pasa \n*** SHOW DOWN ***\nMr_Pkr98: muestra [9h 3h] (color, carta alta dama)\npiropanzer: descarta su mano sin mostrar \nMr_Pkr98 se lleva 0.27 € del bote \n*** RESUMEN ***\nBote total 0.29 € | Comisión 0.02 € \nComunitarias [9s 4h Qh 5d 5h]\nAsiento 1: betterrrrrr se retiró antes del Flop (no apostó)\nAsiento 2: piropanzer descartó sin mostrar [Ks 9d]\nAsiento 3: ElManu62 (botón) se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce (ciega pequeña) se retiró en el Turn\nAsiento 5: Mr_Pkr98 (ciega grande) muestra [9h 3h] y ganó (0.27 €) con color, carta alta dama\nAsiento 6: Spotick se retiró antes del Flop (no apostó)"
+}

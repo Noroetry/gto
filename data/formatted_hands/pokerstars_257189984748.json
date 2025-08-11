@@ -1,0 +1,48 @@
+{
+  "hand_id": "257189984748",
+  "date": "03-08-2025 0:59:29",
+  "table": "Polydoros II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ks",
+    "Kc"
+  ],
+  "stacks": {
+    "SrLyce": 100.0,
+    "etiz870": 50.0
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257189984748 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 0:59:29 CET [02-08-2025 18:59:29 ET]",
+      "Asiento 4: SrLyce (2 € en fichas)",
+      "Asiento 5: etiz870 (1 € en fichas)",
+      "etiz870: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "etiz870: iguala 0.01 €",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "etiz870: iguala 0.04 €"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.06 €",
+      "etiz870: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 4: SrLyce (ciega grande) recaudó (0.11 €)",
+      "Asiento 5: etiz870 (botón) (ciega pequeña) se retiró en el Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "5h",
+    "Jd",
+    "4c"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 5.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "﻿Mano n.º 257189984748 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 0:59:29 CET [02-08-2025 18:59:29 ET]\nMesa \"Polydoros II\" 6-max El asiento n.º 5 es el botón\nAsiento 4: SrLyce (2 € en fichas) \nAsiento 5: etiz870 (1 € en fichas) \netiz870: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ks Kc]\netiz870: iguala 0.01 €\nSrLyce: sube 0.04 € a 0.06 €\netiz870: iguala 0.04 €\n*** FLOP *** [5h Jd 4c]\nSrLyce: apuesta 0.06 €\netiz870: se retira \nLa apuesta no igualada (0.06 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.11 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.12 € | Comisión 0.01 € \nComunitarias [5h Jd 4c]\nAsiento 4: SrLyce (ciega grande) recaudó (0.11 €)\nAsiento 5: etiz870 (botón) (ciega pequeña) se retiró en el Flop"
+}

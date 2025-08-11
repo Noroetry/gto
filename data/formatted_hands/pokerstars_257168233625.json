@@ -1,0 +1,74 @@
+{
+  "hand_id": "257168233625",
+  "date": "01-08-2025 11:09:30",
+  "table": "Sekanina",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "As",
+    "Kc"
+  ],
+  "stacks": {
+    "DagonBZH56": 80.0,
+    "practikal_C23": 82.5,
+    "Alvii37": 101.0,
+    "SrLyce": 92.0,
+    "davinci1962": 106.5,
+    "Elministrelas": 96.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: DagonBZH56 (1.60 € en fichas) está ausente",
+      "Asiento 2: practikal_C23 (1.65 € en fichas)",
+      "Asiento 3: Alvii37 (2.02 € en fichas)",
+      "Asiento 4: SrLyce (1.84 € en fichas)",
+      "Asiento 5: davinci1962 (2.13 € en fichas)",
+      "Asiento 6: Elministrelas (1.92 € en fichas)",
+      "Alvii37: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "DagonBZH56: se ausenta",
+      "davinci1962: se retira",
+      "Elministrelas: se retira",
+      "practikal_C23: iguala 0.02 €",
+      "Alvii37: se retira",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "practikal_C23: iguala 0.04 €"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.04 €",
+      "practikal_C23: sube 0.04 € a 0.08 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "practikal_C23: apuesta 0.04 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "river": [
+      "SrLyce: apuesta 1.66 € y está all-in",
+      "practikal_C23: iguala 1.47 € y está all-in",
+      "SrLyce: muestra [As Kc] (escalera, de diez a as)",
+      "practikal_C23: muestra [Qh Qc] (trío de damas)",
+      "Asiento 1: DagonBZH56",
+      "Asiento 2: practikal_C23 (botón) muestra [Qh Qc] y perdió con trío de damas",
+      "Asiento 3: Alvii37 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: SrLyce (ciega grande) muestra [As Kc] y ganó (3.16 €) con escalera, de diez a as",
+      "Asiento 5: davinci1962 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Elministrelas se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Js",
+    "8d",
+    "7s",
+    "Ts",
+    "Qd"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 158.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 7.5,
+  "raw_text": "Mano n.º 257168233625 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:09:30 CET [01-08-2025 5:09:30 ET]\nMesa \"Sekanina\" 6-max El asiento n.º 2 es el botón\nAsiento 1: DagonBZH56 (1.60 € en fichas) está ausente\nAsiento 2: practikal_C23 (1.65 € en fichas) \nAsiento 3: Alvii37 (2.02 € en fichas) \nAsiento 4: SrLyce (1.84 € en fichas) \nAsiento 5: davinci1962 (2.13 € en fichas) \nAsiento 6: Elministrelas (1.92 € en fichas) \nAlvii37: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\nDagonBZH56: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [As Kc]\ndavinci1962: se retira \nElministrelas: se retira \npractikal_C23: iguala 0.02 €\nAlvii37: se retira \nSrLyce: sube 0.04 € a 0.06 €\npractikal_C23: iguala 0.04 €\n*** FLOP *** [Js 8d 7s]\nSrLyce: apuesta 0.04 €\npractikal_C23: sube 0.04 € a 0.08 €\nSrLyce: iguala 0.04 €\n*** TURN *** [Js 8d 7s] [Ts]\nAlvii37 no tiene conexión \nSrLyce: pasa \npractikal_C23: apuesta 0.04 €\nSrLyce: iguala 0.04 €\n*** RIVER *** [Js 8d 7s Ts] [Qd]\nSrLyce: apuesta 1.66 € y está all-in\npractikal_C23: iguala 1.47 € y está all-in\nLa apuesta no igualada (0.19 €) ha sido devuelta a SrLyce\n*** SHOW DOWN ***\nSrLyce: muestra [As Kc] (escalera, de diez a as)\npractikal_C23: muestra [Qh Qc] (trío de damas)\nSrLyce se lleva 3.16 € del bote \n*** RESUMEN ***\nBote total 3.31 € | Comisión 0.15 € \nComunitarias [Js 8d 7s Ts Qd]\nAsiento 1: DagonBZH56\nAsiento 2: practikal_C23 (botón) muestra [Qh Qc] y perdió con trío de damas\nAsiento 3: Alvii37 (ciega pequeña) se retiró antes del Flop\nAsiento 4: SrLyce (ciega grande) muestra [As Kc] y ganó (3.16 €) con escalera, de diez a as\nAsiento 5: davinci1962 se retiró antes del Flop (no apostó)\nAsiento 6: Elministrelas se retiró antes del Flop (no apostó)"
+}

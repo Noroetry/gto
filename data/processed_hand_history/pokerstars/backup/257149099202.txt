@@ -1,0 +1,36 @@
+Mano n.º 257149099202 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:07:57 CET [30-07-2025 16:07:57 ET]
+Mesa "Sirona" 6-max El asiento n.º 2 es el botón
+Asiento 4: oliverdu70 (3.72 € en fichas) está ausente
+Asiento 1: SrLyce (2.81 € en fichas) 
+Asiento 2: lecontrebandier (1.47 € en fichas) 
+Asiento 3: christoph363 (4.27 € en fichas) 
+Asiento 6: MitchATP65 (2 € en fichas) 
+christoph363: pone la ciega pequeña 0.01 €
+MitchATP65: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ac 6h]
+SrLyce: se retira 
+lecontrebandier: sube 0.02 € a 0.04 €
+christoph363: se retira 
+MitchATP65: iguala 0.02 €
+*** FLOP *** [5d 2s Qd]
+MitchATP65: pasa 
+lecontrebandier: pasa 
+*** TURN *** [5d 2s Qd] [2c]
+MitchATP65: pasa 
+lecontrebandier: pasa 
+*** RIVER *** [5d 2s Qd 2c] [Ks]
+MitchATP65: apuesta 0.08 €
+lecontrebandier: sube 0.08 € a 0.16 €
+MitchATP65: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a lecontrebandier
+lecontrebandier se lleva 0.23 € del bote 
+lecontrebandier: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 € 
+Comunitarias [5d 2s Qd 2c Ks]
+Asiento 4: oliverdu70
+Asiento 1: SrLyce se retiró antes del Flop (no apostó)
+Asiento 2: lecontrebandier (botón) recaudó (0.23 €)
+Asiento 3: christoph363 (ciega pequeña) se retiró antes del Flop
+Asiento 6: MitchATP65 (ciega grande) se retiró en el River

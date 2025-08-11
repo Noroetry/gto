@@ -1,0 +1,39 @@
+Mano n.º 257148868524 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:49:44 CET [30-07-2025 15:49:44 ET]
+Mesa "Esclangona" 6-max El asiento n.º 3 es el botón
+Asiento 1: Zorgue1080 (1.70 € en fichas) 
+Asiento 2: SrLyce (3.18 € en fichas) 
+Asiento 3: NoahBolete (2.01 € en fichas) 
+Asiento 4: Davdgoni (2.14 € en fichas) 
+Asiento 5: DiaZzZ1 (1.93 € en fichas) 
+Asiento 6: berlcht403 (0.80 € en fichas) 
+Davdgoni: pone la ciega pequeña 0.01 €
+DiaZzZ1: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3h 9s]
+berlcht403: iguala 0.02 €
+Zorgue1080: se retira 
+SrLyce: se retira 
+NoahBolete: se retira 
+Davdgoni: se retira 
+DiaZzZ1: pasa 
+*** FLOP *** [4h 4d 5h]
+DiaZzZ1: pasa 
+berlcht403: pasa 
+*** TURN *** [4h 4d 5h] [4s]
+DiaZzZ1: pasa 
+berlcht403: pasa 
+*** RIVER *** [4h 4d 5h 4s] [9h]
+DiaZzZ1: apuesta 0.10 €
+berlcht403: se retira 
+La apuesta no igualada (0.10 €) ha sido devuelta a DiaZzZ1
+DiaZzZ1 se lleva 0.05 € del bote 
+DiaZzZ1: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Comunitarias [4h 4d 5h 4s 9h]
+Asiento 1: Zorgue1080 se retiró antes del Flop (no apostó)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: NoahBolete (botón) se retiró antes del Flop (no apostó)
+Asiento 4: Davdgoni (ciega pequeña) se retiró antes del Flop
+Asiento 5: DiaZzZ1 (ciega grande) recaudó (0.05 €)
+Asiento 6: berlcht403 se retiró en el River

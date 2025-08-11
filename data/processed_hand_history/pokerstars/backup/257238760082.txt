@@ -1,0 +1,28 @@
+Mano n.º 257238760082 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:26:45 CET [06-08-2025 13:26:45 ET]
+Mesa "Leonteus" 6-max El asiento n.º 6 es el botón
+Asiento 5: Andark47 (4.15 € en fichas) está ausente
+Asiento 1: practikal_C23 (1.02 € en fichas) 
+Asiento 2: niyomalo (1.97 € en fichas) 
+Asiento 3: davinci1962 (3.02 € en fichas) 
+Asiento 4: BuXHexter (3.26 € en fichas) 
+Asiento 6: SrLyce (1.49 € en fichas) 
+practikal_C23: pone la ciega pequeña 0.01 €
+niyomalo: pone la ciega grande 0.02 €
+Andark47: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6c 9h]
+davinci1962: se retira 
+BuXHexter: se retira 
+SrLyce: se retira 
+practikal_C23: se retira 
+La apuesta no igualada (0.01 €) ha sido devuelta a niyomalo
+niyomalo se lleva 0.02 € del bote 
+niyomalo: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.02 € | Comisión 0 € 
+Asiento 5: Andark47
+Asiento 1: practikal_C23 (ciega pequeña) se retiró antes del Flop
+Asiento 2: niyomalo (ciega grande) recaudó (0.02 €)
+Asiento 3: davinci1962 se retiró antes del Flop (no apostó)
+Asiento 4: BuXHexter se retiró antes del Flop (no apostó)
+Asiento 6: SrLyce (botón) se retiró antes del Flop (no apostó)

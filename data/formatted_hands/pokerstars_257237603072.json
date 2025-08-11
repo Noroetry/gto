@@ -1,0 +1,71 @@
+{
+  "hand_id": "257237603072",
+  "date": "06-08-2025 17:40:12",
+  "table": "Kale III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qc",
+    "6s"
+  ],
+  "stacks": {
+    "x__Nest__x": 93.0,
+    "SrLyce": 121.0,
+    "Dracoline000": 108.0,
+    "jeffounet33": 97.5,
+    "Begoton": 101.0,
+    "juanmemol": 103.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: x__Nest__x (1.86 € en fichas)",
+      "Asiento 2: SrLyce (2.42 € en fichas)",
+      "Asiento 3: Dracoline000 (2.16 € en fichas)",
+      "Asiento 4: jeffounet33 (1.95 € en fichas)",
+      "Asiento 5: Begoton (2.02 € en fichas)",
+      "Asiento 6: juanmemol (2.06 € en fichas)",
+      "juanmemol: pone la ciega pequeña 0.01 €",
+      "x__Nest__x: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Dracoline000: se retira",
+      "jeffounet33: iguala 0.02 €",
+      "Begoton: se retira",
+      "juanmemol: se retira",
+      "x__Nest__x: pasa"
+    ],
+    "flop": [
+      "x__Nest__x: pasa",
+      "jeffounet33: pasa"
+    ],
+    "turn": [
+      "x__Nest__x: pasa",
+      "jeffounet33: pasa"
+    ],
+    "river": [
+      "x__Nest__x: pasa",
+      "jeffounet33: apuesta 0.04 €",
+      "x__Nest__x: se retira",
+      "jeffounet33: no muestra su mano",
+      "Asiento 1: x__Nest__x (ciega grande) se retiró en el River",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dracoline000 se retiró antes del Flop (no apostó)",
+      "Asiento 4: jeffounet33 recaudó (0.05 €)",
+      "Asiento 5: Begoton (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: juanmemol (ciega pequeña) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "Qs",
+    "8h",
+    "As",
+    "Th",
+    "8s"
+  ],
+  "winner": "jeffounet33",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237603072 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:40:12 CET [06-08-2025 11:40:12 ET]\nMesa \"Kale III\" 6-max El asiento n.º 5 es el botón\nAsiento 1: x__Nest__x (1.86 € en fichas) \nAsiento 2: SrLyce (2.42 € en fichas) \nAsiento 3: Dracoline000 (2.16 € en fichas) \nAsiento 4: jeffounet33 (1.95 € en fichas) \nAsiento 5: Begoton (2.02 € en fichas) \nAsiento 6: juanmemol (2.06 € en fichas) \njuanmemol: pone la ciega pequeña 0.01 €\nx__Nest__x: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qc 6s]\nSrLyce: se retira \nDracoline000: se retira \njeffounet33: iguala 0.02 €\nBegoton: se retira \njuanmemol: se retira \nx__Nest__x: pasa \n*** FLOP *** [Qs 8h As]\nx__Nest__x: pasa \njeffounet33: pasa \n*** TURN *** [Qs 8h As] [Th]\nx__Nest__x: pasa \njeffounet33: pasa \n*** RIVER *** [Qs 8h As Th] [8s]\nx__Nest__x: pasa \njeffounet33: apuesta 0.04 €\nx__Nest__x: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a jeffounet33\njeffounet33 se lleva 0.05 € del bote \njeffounet33: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nComunitarias [Qs 8h As Th 8s]\nAsiento 1: x__Nest__x (ciega grande) se retiró en el River\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: Dracoline000 se retiró antes del Flop (no apostó)\nAsiento 4: jeffounet33 recaudó (0.05 €)\nAsiento 5: Begoton (botón) se retiró antes del Flop (no apostó)\nAsiento 6: juanmemol (ciega pequeña) se retiró antes del Flop"
+}

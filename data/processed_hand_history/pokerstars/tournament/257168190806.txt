@@ -1,0 +1,16 @@
+Mano n.º 257168190806 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:01:07 CET [01-08-2025 5:01:07 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (480 en fichas) 
+Asiento 3: SrLyce (1020 en fichas) 
+weedamax09: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td 7c]
+weedamax09: se retira 
+La apuesta no igualada (10) ha sido devuelta a SrLyce
+SrLyce se lleva 20 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 20 | Comisión 0 
+Asiento 1: weedamax09 (botón) (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyce (ciega grande) recaudó (20)

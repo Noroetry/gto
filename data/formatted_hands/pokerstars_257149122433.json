@@ -1,0 +1,49 @@
+{
+  "hand_id": "257149122433",
+  "date": "30-07-2025 22:09:35",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8s",
+    "2s"
+  ],
+  "stacks": {
+    "oliverdu70": 186.0,
+    "SrLyce": 136.5,
+    "christoph363": 212.5,
+    "hadhod1976": 40.5,
+    "MitchATP65": 103.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: oliverdu70 (3.72 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2.73 € en fichas)",
+      "Asiento 3: christoph363 (4.25 € en fichas)",
+      "Asiento 5: hadhod1976 (0.81 € en fichas)",
+      "Asiento 6: MitchATP65 (2.07 € en fichas)",
+      "hadhod1976: pone la ciega pequeña 0.01 €",
+      "MitchATP65: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "christoph363: sube 0.02 € a 0.04 €",
+      "hadhod1976: se retira",
+      "MitchATP65: se retira",
+      "Asiento 4: oliverdu70",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 (botón) recaudó (0.05 €)",
+      "Asiento 5: hadhod1976 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: MitchATP65 (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "christoph363",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149122433 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:09:35 CET [30-07-2025 16:09:35 ET]\nMesa \"Sirona\" 6-max El asiento n.º 3 es el botón\nAsiento 4: oliverdu70 (3.72 € en fichas) está ausente\nAsiento 1: SrLyce (2.73 € en fichas) \nAsiento 3: christoph363 (4.25 € en fichas) \nAsiento 5: hadhod1976 (0.81 € en fichas) \nAsiento 6: MitchATP65 (2.07 € en fichas) \nhadhod1976: pone la ciega pequeña 0.01 €\nMitchATP65: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8s 2s]\nSrLyce: se retira \nchristoph363: sube 0.02 € a 0.04 €\nCuka Fab se une a la mesa en el asiento n.º 2 \nCuka Fab deja la mesa\nhadhod1976 ha agotado su tiempo\nhadhod1976: se retira \nMitchATP65: se retira \nLa apuesta no igualada (0.02 €) ha sido devuelta a christoph363\nchristoph363 se lleva 0.05 € del bote \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 4: oliverdu70\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 (botón) recaudó (0.05 €)\nAsiento 5: hadhod1976 (ciega pequeña) se retiró antes del Flop\nAsiento 6: MitchATP65 (ciega grande) se retiró antes del Flop"
+}

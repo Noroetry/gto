@@ -1,0 +1,29 @@
+Mano n.º 257237596578 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:39:35 CET [06-08-2025 11:39:35 ET]
+Mesa "Kale III" 6-max El asiento n.º 3 es el botón
+Asiento 1: x__Nest__x (1.83 € en fichas) 
+Asiento 2: SrLyce (2.42 € en fichas) 
+Asiento 3: Dracoline000 (2.16 € en fichas) 
+Asiento 4: jeffounet33 (1.96 € en fichas) 
+Asiento 5: Begoton (2.02 € en fichas) 
+Asiento 6: juanmemol (2.08 € en fichas) 
+jeffounet33: pone la ciega pequeña 0.01 €
+Begoton: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3h Jc]
+juanmemol: se retira 
+x__Nest__x: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+Dracoline000: se retira 
+jeffounet33: se retira 
+Begoton: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a x__Nest__x
+x__Nest__x se lleva 0.05 € del bote 
+x__Nest__x: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: x__Nest__x recaudó (0.05 €)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: Dracoline000 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: jeffounet33 (ciega pequeña) se retiró antes del Flop
+Asiento 5: Begoton (ciega grande) se retiró antes del Flop
+Asiento 6: juanmemol se retiró antes del Flop (no apostó)

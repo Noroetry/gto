@@ -1,0 +1,72 @@
+{
+  "hand_id": "257238022109",
+  "date": "06-08-2025 18:21:06",
+  "table": "Euneus III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qh",
+    "2c"
+  ],
+  "stacks": {
+    "christgear": 100.0,
+    "Il_BM00": 119.5,
+    "djrojas9": 140.5,
+    "lol-in 2000": 96.0,
+    "SrLyce": 133.5,
+    "kcg_rm": 109.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: christgear (2 € en fichas)",
+      "Asiento 2: Il_BM00 (2.39 € en fichas)",
+      "Asiento 3: djrojas9 (2.81 € en fichas)",
+      "Asiento 4: lol-in 2000 (1.92 € en fichas)",
+      "Asiento 5: SrLyce (2.67 € en fichas)",
+      "Asiento 6: kcg_rm (2.18 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "kcg_rm: pone la ciega grande 0.02 €",
+      "christgear: se retira",
+      "Il_BM00: sube 0.04 € a 0.06 €",
+      "djrojas9: se retira",
+      "lol-in 2000: iguala 0.06 €",
+      "SrLyce: se retira",
+      "kcg_rm: se retira"
+    ],
+    "flop": [
+      "Il_BM00: apuesta 0.07 €",
+      "lol-in 2000: iguala 0.07 €"
+    ],
+    "turn": [
+      "Il_BM00: pasa",
+      "lol-in 2000: pasa"
+    ],
+    "river": [
+      "Il_BM00: pasa",
+      "lol-in 2000: apuesta 0.20 €",
+      "Il_BM00: iguala 0.20 €",
+      "lol-in 2000: muestra [5d 8d] (full de seises y jotas)",
+      "Il_BM00: muestra [Qs 9s] (full de seises y jotas)",
+      "Asiento 1: christgear se retiró antes del Flop (no apostó)",
+      "Asiento 2: Il_BM00 muestra [Qs 9s] y ganó (0.33 €) con full de seises y jotas",
+      "Asiento 3: djrojas9 se retiró antes del Flop (no apostó)",
+      "Asiento 4: lol-in 2000 (botón) muestra [5d 8d] y ganó (0.32 €) con full de seises y jotas",
+      "Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: kcg_rm (ciega grande) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "6c",
+    "6d",
+    "Jc",
+    "Jd",
+    "6h"
+  ],
+  "winner": "Il_BM00",
+  "win_amount": 16.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257238022109 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:21:06 CET [06-08-2025 12:21:06 ET]\nMesa \"Euneus III\" 6-max El asiento n.º 4 es el botón\nAsiento 1: christgear (2 € en fichas) \nAsiento 2: Il_BM00 (2.39 € en fichas) \nAsiento 3: djrojas9 (2.81 € en fichas) \nAsiento 4: lol-in 2000 (1.92 € en fichas) \nAsiento 5: SrLyce (2.67 € en fichas) \nAsiento 6: kcg_rm (2.18 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nkcg_rm: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qh 2c]\nchristgear: se retira \nIl_BM00: sube 0.04 € a 0.06 €\ndjrojas9: se retira \nlol-in 2000: iguala 0.06 €\nSrLyce: se retira \nkcg_rm: se retira \n*** FLOP *** [6c 6d Jc]\nIl_BM00: apuesta 0.07 €\nlol-in 2000: iguala 0.07 €\n*** TURN *** [6c 6d Jc] [Jd]\nIl_BM00: pasa \nlol-in 2000: pasa \n*** RIVER *** [6c 6d Jc Jd] [6h]\nIl_BM00: pasa \nlol-in 2000: apuesta 0.20 €\nIl_BM00 no tiene conexión \nIl_BM00 tiene conexión \nIl_BM00: iguala 0.20 €\n*** SHOW DOWN ***\nlol-in 2000: muestra [5d 8d] (full de seises y jotas)\nIl_BM00: muestra [Qs 9s] (full de seises y jotas)\nIl_BM00 se lleva 0.33 € del bote \nlol-in 2000 se lleva 0.32 € del bote \n*** RESUMEN ***\nBote total 0.69 € | Comisión 0.04 € \nComunitarias [6c 6d Jc Jd 6h]\nAsiento 1: christgear se retiró antes del Flop (no apostó)\nAsiento 2: Il_BM00 muestra [Qs 9s] y ganó (0.33 €) con full de seises y jotas\nAsiento 3: djrojas9 se retiró antes del Flop (no apostó)\nAsiento 4: lol-in 2000 (botón) muestra [5d 8d] y ganó (0.32 €) con full de seises y jotas\nAsiento 5: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 6: kcg_rm (ciega grande) se retiró antes del Flop"
+}

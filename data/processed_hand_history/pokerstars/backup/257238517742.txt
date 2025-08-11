@@ -1,0 +1,46 @@
+Mano n.º 257238517742 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:06:25 CET [06-08-2025 13:06:25 ET]
+Mesa "Herculina II" 6-max El asiento n.º 4 es el botón
+Asiento 1: koldipk (3.03 € en fichas) 
+Asiento 2: David98X (2.43 € en fichas) 
+Asiento 3: JJer11 (4.15 € en fichas) 
+Asiento 4: SrLyce (2.36 € en fichas) 
+Asiento 5: Macklemore0 (2 € en fichas) 
+Asiento 6: ScarvBlack (2.29 € en fichas) 
+Macklemore0: pone la ciega pequeña 0.01 €
+ScarvBlack: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6c Ac]
+koldipk: sube 0.02 € a 0.04 €
+David98X: sube 0.10 € a 0.14 €
+JJer11: se retira 
+SrLyce: iguala 0.14 €
+Macklemore0: se retira 
+ScarvBlack: se retira 
+koldipk: iguala 0.10 €
+*** FLOP *** [9c Js Jc]
+koldipk: pasa 
+David98X: apuesta 0.34 €
+SrLyce: iguala 0.34 €
+koldipk: sube 2.55 € a 2.89 € y está all-in
+David98X: iguala 1.95 € y está all-in
+SrLyce: iguala 1.88 € y está all-in
+La apuesta no igualada (0.60 €) ha sido devuelta a koldipk
+*** TURN *** [9c Js Jc] [6h]
+*** RIVER *** [9c Js Jc 6h] [Jd]
+*** SHOW DOWN ***
+koldipk: muestra [9h Th] (full de jotas y nueves)
+David98X: muestra [9s Ks] (full de jotas y nueves)
+koldipk se lleva 0.07 € del bote  secundario
+David98X se lleva 0.07 € del bote  secundario
+SrLyce: muestra [6c Ac] (full de jotas y seises)
+koldipk se lleva 3.43 € del bote  principal
+David98X se lleva 3.43 € del bote  principal
+*** RESUMEN ***
+Bote total 7.25 € Bote principal 6.86 €. Bote secundario 0.14 €. | Comisión 0.25 € 
+Comunitarias [9c Js Jc 6h Jd]
+Asiento 1: koldipk muestra [9h Th] y ganó (3.50 €) con full de jotas y nueves
+Asiento 2: David98X muestra [9s Ks] y ganó (3.50 €) con full de jotas y nueves
+Asiento 3: JJer11 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (botón) muestra [6c Ac] y perdió con full de jotas y seises
+Asiento 5: Macklemore0 (ciega pequeña) se retiró antes del Flop
+Asiento 6: ScarvBlack (ciega grande) se retiró antes del Flop

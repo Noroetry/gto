@@ -1,0 +1,44 @@
+Mano n.º 257150259070 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:29:18 CET [30-07-2025 17:29:18 ET]
+Mesa "Gilgamesh" 6-max El asiento n.º 6 es el botón
+Asiento 5: ozil111 (2 € en fichas) está ausente
+Asiento 1: riverrrrrrmagic (2.53 € en fichas) 
+Asiento 2: SrLyce (2.15 € en fichas) 
+Asiento 3: Jumby34 (2.03 € en fichas) 
+Asiento 4: xapkk (2 € en fichas) 
+Asiento 6: Fretzo67500 (2.84 € en fichas) 
+riverrrrrrmagic: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+ozil111: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8c 7s]
+Jumby34: se retira 
+xapkk ha agotado su tiempo
+xapkk: se retira 
+Fretzo67500: iguala 0.02 €
+riverrrrrrmagic: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [3c Ah 9d]
+riverrrrrrmagic: pasa 
+SrLyce: pasa 
+Fretzo67500: pasa 
+*** TURN *** [3c Ah 9d] [3s]
+riverrrrrrmagic: pasa 
+SrLyce: pasa 
+Fretzo67500: pasa 
+*** RIVER *** [3c Ah 9d 3s] [Kc]
+riverrrrrrmagic: pasa 
+SrLyce: pasa 
+Fretzo67500: apuesta 0.06 €
+riverrrrrrmagic: se retira 
+SrLyce: se retira 
+La apuesta no igualada (0.06 €) ha sido devuelta a Fretzo67500
+Fretzo67500 se lleva 0.06 € del bote 
+*** RESUMEN ***
+Bote total 0.06 € | Comisión 0 € 
+Comunitarias [3c Ah 9d 3s Kc]
+Asiento 5: ozil111
+Asiento 1: riverrrrrrmagic (ciega pequeña) se retiró en el River
+Asiento 2: SrLyce (ciega grande) se retiró en el River
+Asiento 3: Jumby34 se retiró antes del Flop (no apostó)
+Asiento 4: xapkk se retiró antes del Flop (no apostó)
+Asiento 6: Fretzo67500 (botón) recaudó (0.06 €)

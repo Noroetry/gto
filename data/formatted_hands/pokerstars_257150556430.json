@@ -1,0 +1,76 @@
+{
+  "hand_id": "257150556430",
+  "date": "30-07-2025 23:50:27",
+  "table": "Mizuho",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qs",
+    "Th"
+  ],
+  "stacks": {
+    "AFR29": 80.0,
+    "SrLyce": 275.5,
+    "JstLeonel": 110.0,
+    "Ozzy3110": 297.0,
+    "toonsy2010": 93.0,
+    "mivipkr": 105.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: AFR29 (1.60 € en fichas) está ausente",
+      "Asiento 2: SrLyce (5.51 € en fichas)",
+      "Asiento 3: JstLeonel (2.20 € en fichas)",
+      "Asiento 4: Ozzy3110 (5.94 € en fichas)",
+      "Asiento 5: toonsy2010 (1.86 € en fichas)",
+      "Asiento 6: mivipkr (2.11 € en fichas)",
+      "JstLeonel: pone la ciega pequeña 0.01 €",
+      "Ozzy3110: pone la ciega grande 0.02 €",
+      "AFR29: se ausenta",
+      "toonsy2010: iguala 0.02 €",
+      "mivipkr: se retira",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "JstLeonel: se retira",
+      "Ozzy3110: iguala 0.04 €",
+      "toonsy2010: iguala 0.04 €"
+    ],
+    "flop": [
+      "Ozzy3110: pasa",
+      "toonsy2010: pasa",
+      "SrLyce: apuesta 0.06 €",
+      "Ozzy3110: iguala 0.06 €",
+      "toonsy2010: se retira"
+    ],
+    "turn": [
+      "Ozzy3110: pasa",
+      "SrLyce: apuesta 0.19 €",
+      "Ozzy3110: iguala 0.19 €"
+    ],
+    "river": [
+      "Ozzy3110: pasa",
+      "SrLyce: pasa",
+      "Ozzy3110: muestra [9h Kh] (trío de nueves)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 1: AFR29",
+      "Asiento 2: SrLyce (botón) descartó sin mostrar [Qs Th]",
+      "Asiento 3: JstLeonel (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: Ozzy3110 (ciega grande) muestra [9h Kh] y ganó (0.65 €) con trío de nueves",
+      "Asiento 5: toonsy2010 se retiró en el Flop",
+      "Asiento 6: mivipkr se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Qc",
+    "9d",
+    "8s",
+    "9c",
+    "As"
+  ],
+  "winner": "Ozzy3110",
+  "win_amount": 32.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257150556430 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:50:27 CET [30-07-2025 17:50:27 ET]\nMesa \"Mizuho\" 6-max El asiento n.º 2 es el botón\nAsiento 1: AFR29 (1.60 € en fichas) está ausente\nAsiento 2: SrLyce (5.51 € en fichas) \nAsiento 3: JstLeonel (2.20 € en fichas) \nAsiento 4: Ozzy3110 (5.94 € en fichas) \nAsiento 5: toonsy2010 (1.86 € en fichas) \nAsiento 6: mivipkr (2.11 € en fichas) \nJstLeonel: pone la ciega pequeña 0.01 €\nOzzy3110: pone la ciega grande 0.02 €\nAFR29: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qs Th]\ntoonsy2010: iguala 0.02 €\nAFR29 deja la mesa\nmivipkr ha agotado su tiempo\nmivipkr: se retira \nSrLyce: sube 0.04 € a 0.06 €\nJstLeonel: se retira \nOzzy3110: iguala 0.04 €\ntoonsy2010: iguala 0.04 €\n*** FLOP *** [Qc 9d 8s]\nOzzy3110: pasa \ntoonsy2010: pasa \nSrLyce: apuesta 0.06 €\nOzzy3110: iguala 0.06 €\ntoonsy2010: se retira \n*** TURN *** [Qc 9d 8s] [9c]\nOzzy3110: pasa \nSrLyce: apuesta 0.19 €\nOzzy3110: iguala 0.19 €\n*** RIVER *** [Qc 9d 8s 9c] [As]\nOzzy3110: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nOzzy3110: muestra [9h Kh] (trío de nueves)\nSrLyce: descarta su mano sin mostrar \nOzzy3110 se lleva 0.65 € del bote \n*** RESUMEN ***\nBote total 0.69 € | Comisión 0.04 € \nComunitarias [Qc 9d 8s 9c As]\nAsiento 1: AFR29\nAsiento 2: SrLyce (botón) descartó sin mostrar [Qs Th]\nAsiento 3: JstLeonel (ciega pequeña) se retiró antes del Flop\nAsiento 4: Ozzy3110 (ciega grande) muestra [9h Kh] y ganó (0.65 €) con trío de nueves\nAsiento 5: toonsy2010 se retiró en el Flop\nAsiento 6: mivipkr se retiró antes del Flop (no apostó)"
+}

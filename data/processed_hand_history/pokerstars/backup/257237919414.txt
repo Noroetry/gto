@@ -1,0 +1,27 @@
+Mano n.º 257237919414 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:11:52 CET [06-08-2025 12:11:52 ET]
+Mesa "Euneus III" 6-max El asiento n.º 2 es el botón
+Asiento 3: djrojas9 (3.06 € en fichas) está ausente
+Asiento 4: lol-in 2000 (2 € en fichas) está ausente
+Asiento 1: christgear (2.04 € en fichas) 
+Asiento 2: Il_BM00 (2.72 € en fichas) 
+Asiento 5: SrLyce (1.42 € en fichas) 
+Asiento 6: kcg_rm (2 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+kcg_rm: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7h 2s]
+christgear: sube 0.03 € a 0.05 €
+Il_BM00: se retira 
+SrLyce: se retira 
+kcg_rm: se retira 
+La apuesta no igualada (0.03 €) ha sido devuelta a christgear
+christgear se lleva 0.05 € del bote 
+christgear: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 3: djrojas9
+Asiento 4: lol-in 2000
+Asiento 1: christgear recaudó (0.05 €)
+Asiento 2: Il_BM00 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 6: kcg_rm (ciega grande) se retiró antes del Flop

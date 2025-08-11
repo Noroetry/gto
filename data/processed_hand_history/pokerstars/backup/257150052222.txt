@@ -1,0 +1,41 @@
+Mano n.º 257150052222 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:15:00 CET [30-07-2025 17:15:00 ET]
+Mesa "Gilgamesh" 6-max El asiento n.º 4 es el botón
+Asiento 1: riverrrrrrmagic (2.44 € en fichas) 
+Asiento 2: SrLyce (2.15 € en fichas) 
+Asiento 3: Jumby34 (2 € en fichas) 
+Asiento 4: xapkk (2 € en fichas) 
+Asiento 5: samaritano34 (0.98 € en fichas) 
+Asiento 6: Fretzo67500 (2.49 € en fichas) 
+samaritano34: pone la ciega pequeña 0.01 €
+Fretzo67500: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3s Kc]
+riverrrrrrmagic: iguala 0.02 €
+SrLyce: se retira 
+Jumby34: se retira 
+xapkk: se retira 
+samaritano34: se retira 
+Fretzo67500: pasa 
+*** FLOP *** [7c 9d 5s]
+Fretzo67500: pasa 
+riverrrrrrmagic: apuesta 0.02 €
+Fretzo67500: iguala 0.02 €
+*** TURN *** [7c 9d 5s] [4s]
+Fretzo67500: apuesta 0.02 €
+riverrrrrrmagic: iguala 0.02 €
+*** RIVER *** [7c 9d 5s 4s] [5d]
+Fretzo67500: apuesta 0.02 €
+riverrrrrrmagic: iguala 0.02 €
+*** SHOW DOWN ***
+Fretzo67500: muestra [3d 4h] (doble pareja, cincos y cuatros)
+riverrrrrrmagic: muestra [9h 6d] (doble pareja, nueves y cincos)
+riverrrrrrmagic se lleva 0.16 € del bote 
+*** RESUMEN ***
+Bote total 0.17 € | Comisión 0.01 € 
+Comunitarias [7c 9d 5s 4s 5d]
+Asiento 1: riverrrrrrmagic muestra [9h 6d] y ganó (0.16 €) con doble pareja, nueves y cincos
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: Jumby34 se retiró antes del Flop (no apostó)
+Asiento 4: xapkk (botón) se retiró antes del Flop (no apostó)
+Asiento 5: samaritano34 (ciega pequeña) se retiró antes del Flop
+Asiento 6: Fretzo67500 (ciega grande) muestra [3d 4h] y perdió con doble pareja, cincos y cuatros

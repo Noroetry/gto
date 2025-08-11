@@ -1,0 +1,42 @@
+Mano n.º 257149124392 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:09:44 CET [30-07-2025 16:09:44 ET]
+Mesa "Esclangona" 6-max El asiento n.º 2 es el botón
+Asiento 6: elketefaka1 (2 € en fichas) está ausente
+Asiento 1: Zorgue1080 (1.32 € en fichas) 
+Asiento 2: SrLyce (0.68 € en fichas) 
+Asiento 3: NoahBolete (2.48 € en fichas) 
+Asiento 4: Davdgoni (4.51 € en fichas) 
+Asiento 5: DiaZzZ1 (1.86 € en fichas) 
+NoahBolete: pone la ciega pequeña 0.01 €
+Davdgoni: pone la ciega grande 0.02 €
+elketefaka1: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td 9c]
+DiaZzZ1: se retira 
+Zorgue1080: sube 0.03 € a 0.05 €
+SrLyce: iguala 0.05 €
+NoahBolete: se retira 
+Davdgoni: se retira 
+*** FLOP *** [8d Js Ah]
+Zorgue1080: pasa 
+SrLyce: apuesta 0.04 €
+Zorgue1080: iguala 0.04 €
+*** TURN *** [8d Js Ah] [9s]
+Zorgue1080: pasa 
+SrLyce: apuesta 0.10 €
+Zorgue1080: iguala 0.10 €
+*** RIVER *** [8d Js Ah 9s] [8s]
+Zorgue1080: pasa 
+SrLyce: apuesta 0.20 €
+Zorgue1080: se retira 
+La apuesta no igualada (0.20 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.39 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.41 € | Comisión 0.02 € 
+Comunitarias [8d Js Ah 9s 8s]
+Asiento 6: elketefaka1
+Asiento 1: Zorgue1080 se retiró en el River
+Asiento 2: SrLyce (botón) recaudó (0.39 €)
+Asiento 3: NoahBolete (ciega pequeña) se retiró antes del Flop
+Asiento 4: Davdgoni (ciega grande) se retiró antes del Flop
+Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)

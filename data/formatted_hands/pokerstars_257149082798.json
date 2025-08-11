@@ -1,0 +1,54 @@
+{
+  "hand_id": "257149082798",
+  "date": "30-07-2025 22:06:47",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3s",
+    "5s"
+  ],
+  "stacks": {
+    "NaruchoH1": 100.0,
+    "SrLyce": 140.5,
+    "lecontrebandier": 73.5,
+    "christoph363": 213.0,
+    "oliverdu70": 185.0,
+    "MitchATP65": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 5: NaruchoH1 (2 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2.81 € en fichas)",
+      "Asiento 2: lecontrebandier (1.47 € en fichas)",
+      "Asiento 3: christoph363 (4.26 € en fichas)",
+      "Asiento 4: oliverdu70 (3.70 € en fichas)",
+      "Asiento 6: MitchATP65 (2 € en fichas)",
+      "oliverdu70: pone la ciega pequeña 0.01 €",
+      "NaruchoH1: está ausente",
+      "MitchATP65: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "lecontrebandier: se retira",
+      "christoph363: se retira",
+      "oliverdu70: sube 0.04 € a 0.06 €",
+      "MitchATP65: se retira",
+      "Asiento 5: NaruchoH1",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: oliverdu70 (ciega pequeña) recaudó (0.04 €)",
+      "Asiento 6: MitchATP65 (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "oliverdu70",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149082798 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:06:47 CET [30-07-2025 16:06:47 ET]\nMesa \"Sirona\" 6-max El asiento n.º 3 es el botón\nAsiento 5: NaruchoH1 (2 € en fichas) está ausente\nAsiento 1: SrLyce (2.81 € en fichas) \nAsiento 2: lecontrebandier (1.47 € en fichas) \nAsiento 3: christoph363 (4.26 € en fichas) \nAsiento 4: oliverdu70 (3.70 € en fichas) \nAsiento 6: MitchATP65 (2 € en fichas) \noliverdu70: pone la ciega pequeña 0.01 €\nNaruchoH1: está ausente \nMitchATP65: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3s 5s]\nNaruchoH1 deja la mesa\nSrLyce: se retira \nlecontrebandier: se retira \nchristoph363: se retira \noliverdu70: sube 0.04 € a 0.06 €\nMitchATP65: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a oliverdu70\noliverdu70 se lleva 0.04 € del bote \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nAsiento 5: NaruchoH1\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: lecontrebandier se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 (botón) se retiró antes del Flop (no apostó)\nAsiento 4: oliverdu70 (ciega pequeña) recaudó (0.04 €)\nAsiento 6: MitchATP65 (ciega grande) se retiró antes del Flop"
+}

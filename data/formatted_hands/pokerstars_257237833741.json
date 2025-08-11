@@ -1,0 +1,74 @@
+{
+  "hand_id": "257237833741",
+  "date": "06-08-2025 18:03:48",
+  "table": "Nuwa III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5h",
+    "2d"
+  ],
+  "stacks": {
+    "davinci1962": 116.5,
+    "BuXHexter": 103.5,
+    "kcg_rm": 107.0,
+    "SrLyce": 97.0,
+    "RiskAllinkali": 116.0,
+    "acavada": 101.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: davinci1962 (2.33 € en fichas)",
+      "Asiento 2: BuXHexter (2.07 € en fichas)",
+      "Asiento 3: kcg_rm (2.14 € en fichas)",
+      "Asiento 4: SrLyce (1.94 € en fichas)",
+      "Asiento 5: RiskAllinkali (2.32 € en fichas)",
+      "Asiento 6: acavada (2.02 € en fichas)",
+      "BuXHexter: pone la ciega pequeña 0.01 €",
+      "kcg_rm: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "RiskAllinkali: se retira",
+      "acavada: se retira",
+      "davinci1962: sube 0.03 € a 0.05 €",
+      "BuXHexter: iguala 0.04 €",
+      "kcg_rm: iguala 0.03 €"
+    ],
+    "flop": [
+      "BuXHexter: pasa",
+      "kcg_rm: pasa",
+      "davinci1962: apuesta 0.07 €",
+      "BuXHexter: iguala 0.07 €",
+      "kcg_rm: se retira"
+    ],
+    "turn": [
+      "BuXHexter: pasa",
+      "davinci1962: pasa"
+    ],
+    "river": [
+      "BuXHexter: pasa",
+      "davinci1962: pasa",
+      "BuXHexter: muestra [Ah 8h] (doble pareja, damas y ochos)",
+      "davinci1962: muestra [Tc Td] (doble pareja, damas y dieces)",
+      "Asiento 1: davinci1962 (botón) muestra [Tc Td] y ganó (0.27 €) con doble pareja, damas y dieces",
+      "Asiento 2: BuXHexter (ciega pequeña) muestra [Ah 8h] y perdió con doble pareja, damas y ochos",
+      "Asiento 3: kcg_rm (ciega grande) se retiró en el Flop",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: RiskAllinkali se retiró antes del Flop (no apostó)",
+      "Asiento 6: acavada se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "8s",
+    "7s",
+    "3d",
+    "Qh",
+    "Qd"
+  ],
+  "winner": "davinci1962",
+  "win_amount": 13.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257237833741 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:03:48 CET [06-08-2025 12:03:48 ET]\nMesa \"Nuwa III\" 6-max El asiento n.º 1 es el botón\nAsiento 1: davinci1962 (2.33 € en fichas) \nAsiento 2: BuXHexter (2.07 € en fichas) \nAsiento 3: kcg_rm (2.14 € en fichas) \nAsiento 4: SrLyce (1.94 € en fichas) \nAsiento 5: RiskAllinkali (2.32 € en fichas) \nAsiento 6: acavada (2.02 € en fichas) \nBuXHexter: pone la ciega pequeña 0.01 €\nkcg_rm: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5h 2d]\nSrLyce: se retira \nRiskAllinkali: se retira \nacavada: se retira \ndavinci1962: sube 0.03 € a 0.05 €\nBuXHexter: iguala 0.04 €\nkcg_rm: iguala 0.03 €\n*** FLOP *** [8s 7s 3d]\nBuXHexter: pasa \nkcg_rm: pasa \ndavinci1962: apuesta 0.07 €\nBuXHexter: iguala 0.07 €\nkcg_rm: se retira \n*** TURN *** [8s 7s 3d] [Qh]\nBuXHexter: pasa \ndavinci1962: pasa \n*** RIVER *** [8s 7s 3d Qh] [Qd]\nBuXHexter: pasa \ndavinci1962: pasa \n*** SHOW DOWN ***\nBuXHexter: muestra [Ah 8h] (doble pareja, damas y ochos)\ndavinci1962: muestra [Tc Td] (doble pareja, damas y dieces)\ndavinci1962 se lleva 0.27 € del bote \n*** RESUMEN ***\nBote total 0.29 € | Comisión 0.02 € \nComunitarias [8s 7s 3d Qh Qd]\nAsiento 1: davinci1962 (botón) muestra [Tc Td] y ganó (0.27 €) con doble pareja, damas y dieces\nAsiento 2: BuXHexter (ciega pequeña) muestra [Ah 8h] y perdió con doble pareja, damas y ochos\nAsiento 3: kcg_rm (ciega grande) se retiró en el Flop\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: RiskAllinkali se retiró antes del Flop (no apostó)\nAsiento 6: acavada se retiró antes del Flop (no apostó)"
+}

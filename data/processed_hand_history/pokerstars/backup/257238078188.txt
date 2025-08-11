@@ -1,0 +1,40 @@
+Mano n.º 257238078188 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:26:07 CET [06-08-2025 12:26:07 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (1.98 € en fichas) 
+Asiento 2: Davdgoni (5.28 € en fichas) 
+Asiento 3: PerroBestia (0.83 € en fichas) 
+Asiento 4: serviettski(fr) (2.03 € en fichas) 
+Asiento 5: Nicanor Cast (1.08 € en fichas) 
+Asiento 6: THEBLACK972 (3.43 € en fichas) 
+THEBLACK972: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7h 4s]
+Davdgoni: se retira 
+PerroBestia: se retira 
+serviettski(fr) ha agotado su tiempo
+serviettski(fr): se retira 
+Nicanor Cast: se retira 
+THEBLACK972: sube 0.02 € a 0.04 €
+SrLyce: iguala 0.02 €
+*** FLOP *** [8h Qh 9d]
+THEBLACK972: pasa 
+SrLyce: pasa 
+*** TURN *** [8h Qh 9d] [2d]
+THEBLACK972: pasa 
+SrLyce: pasa 
+*** RIVER *** [8h Qh 9d 2d] [As]
+THEBLACK972: apuesta 0.02 €
+SrLyce: se retira 
+La apuesta no igualada (0.02 €) ha sido devuelta a THEBLACK972
+THEBLACK972 se lleva 0.08 € del bote 
+THEBLACK972: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.08 € | Comisión 0 € 
+Comunitarias [8h Qh 9d 2d As]
+Asiento 1: SrLyce (ciega grande) se retiró en el River
+Asiento 2: Davdgoni se retiró antes del Flop (no apostó)
+Asiento 3: PerroBestia se retiró antes del Flop (no apostó)
+Asiento 4: serviettski(fr) se retiró antes del Flop (no apostó)
+Asiento 5: Nicanor Cast (botón) se retiró antes del Flop (no apostó)
+Asiento 6: THEBLACK972 (ciega pequeña) recaudó (0.08 €)

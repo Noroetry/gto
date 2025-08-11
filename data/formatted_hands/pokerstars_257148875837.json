@@ -1,0 +1,75 @@
+{
+  "hand_id": "257148875837",
+  "date": "30-07-2025 21:50:14",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Tc",
+    "Kd"
+  ],
+  "stacks": {
+    "SrLyce": 110.5,
+    "lecontrebandier": 101.5,
+    "christoph363": 177.5,
+    "oliverdu70": 141.0,
+    "olibellier": 24.5,
+    "Dakoo44": 84.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.21 € en fichas)",
+      "Asiento 2: lecontrebandier (2.03 € en fichas)",
+      "Asiento 3: christoph363 (3.55 € en fichas)",
+      "Asiento 4: oliverdu70 (2.82 € en fichas)",
+      "Asiento 5: olibellier (0.49 € en fichas)",
+      "Asiento 6: Dakoo44 (1.68 € en fichas)",
+      "oliverdu70: pone la ciega pequeña 0.01 €",
+      "olibellier: pone la ciega grande 0.02 €",
+      "Dakoo44: sube 0.03 € a 0.05 €",
+      "SrLyce: se retira",
+      "lecontrebandier: se retira",
+      "christoph363: iguala 0.05 €",
+      "oliverdu70: se retira",
+      "olibellier: iguala 0.03 €"
+    ],
+    "flop": [
+      "olibellier: pasa",
+      "Dakoo44: apuesta 0.05 €",
+      "christoph363: iguala 0.05 €",
+      "olibellier: se retira"
+    ],
+    "turn": [
+      "Dakoo44: pasa",
+      "christoph363: apuesta 0.02 €",
+      "Dakoo44: iguala 0.02 €"
+    ],
+    "river": [
+      "Dakoo44: pasa",
+      "christoph363: apuesta 0.02 €",
+      "Dakoo44: iguala 0.02 €",
+      "christoph363: muestra [Qd Js] (pareja de jotas)",
+      "Dakoo44: descarta su mano sin mostrar",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 (botón) muestra [Qd Js] y ganó (0.32 €) con pareja de jotas",
+      "Asiento 4: oliverdu70 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: olibellier (ciega grande) se retiró en el Flop",
+      "Asiento 6: Dakoo44 descartó sin mostrar [Ad 5s]"
+    ]
+  },
+  "board": [
+    "Ks",
+    "8s",
+    "Jc",
+    "7d",
+    "6d"
+  ],
+  "winner": "christoph363",
+  "win_amount": 16.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257148875837 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:50:14 CET [30-07-2025 15:50:14 ET]\nMesa \"Sirona\" 6-max El asiento n.º 3 es el botón\nAsiento 1: SrLyce (2.21 € en fichas) \nAsiento 2: lecontrebandier (2.03 € en fichas) \nAsiento 3: christoph363 (3.55 € en fichas) \nAsiento 4: oliverdu70 (2.82 € en fichas) \nAsiento 5: olibellier (0.49 € en fichas) \nAsiento 6: Dakoo44 (1.68 € en fichas) \noliverdu70: pone la ciega pequeña 0.01 €\nolibellier: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Tc Kd]\nDakoo44: sube 0.03 € a 0.05 €\nSrLyce: se retira \nlecontrebandier: se retira \nchristoph363: iguala 0.05 €\noliverdu70: se retira \nolibellier: iguala 0.03 €\n*** FLOP *** [Ks 8s Jc]\nolibellier: pasa \nDakoo44: apuesta 0.05 €\nchristoph363: iguala 0.05 €\nolibellier: se retira \n*** TURN *** [Ks 8s Jc] [7d]\nDakoo44: pasa \nchristoph363: apuesta 0.02 €\nDakoo44: iguala 0.02 €\n*** RIVER *** [Ks 8s Jc 7d] [6d]\nDakoo44: pasa \nchristoph363: apuesta 0.02 €\nDakoo44: iguala 0.02 €\n*** SHOW DOWN ***\nchristoph363: muestra [Qd Js] (pareja de jotas)\nDakoo44: descarta su mano sin mostrar \nchristoph363 se lleva 0.32 € del bote \n*** RESUMEN ***\nBote total 0.34 € | Comisión 0.02 € \nComunitarias [Ks 8s Jc 7d 6d]\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: lecontrebandier se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 (botón) muestra [Qd Js] y ganó (0.32 €) con pareja de jotas\nAsiento 4: oliverdu70 (ciega pequeña) se retiró antes del Flop\nAsiento 5: olibellier (ciega grande) se retiró en el Flop\nAsiento 6: Dakoo44 descartó sin mostrar [Ad 5s]"
+}

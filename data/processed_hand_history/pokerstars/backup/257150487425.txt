@@ -1,0 +1,42 @@
+Mano n.º 257150487425 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:45:25 CET [30-07-2025 17:45:25 ET]
+Mesa "Mizuho" 6-max El asiento n.º 1 es el botón
+Asiento 1: benipoker123 (1.99 € en fichas) 
+Asiento 2: SrLyce (1.51 € en fichas) 
+Asiento 3: JstLeonel (2.34 € en fichas) 
+Asiento 4: Ozzy3110 (6.22 € en fichas) 
+Asiento 5: toonsy2010 (2.04 € en fichas) 
+Asiento 6: mivipkr (3.33 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+JstLeonel: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2c 9s]
+Ozzy3110: se retira 
+toonsy2010: iguala 0.02 €
+mivipkr: se retira 
+benipoker123 ha agotado su tiempo
+benipoker123: se retira 
+SrLyce: se retira 
+JstLeonel: pasa 
+*** FLOP *** [Ah 7s 9c]
+JstLeonel: pasa 
+toonsy2010: apuesta 0.05 €
+JstLeonel: iguala 0.05 €
+*** TURN *** [Ah 7s 9c] [Qd]
+JstLeonel: pasa 
+toonsy2010: pasa 
+*** RIVER *** [Ah 7s 9c Qd] [9h]
+JstLeonel: pasa 
+toonsy2010: pasa 
+*** SHOW DOWN ***
+JstLeonel: muestra [Ad 6s] (doble pareja, ases y nueves)
+toonsy2010: descarta su mano sin mostrar 
+JstLeonel se lleva 0.14 € del bote 
+*** RESUMEN ***
+Bote total 0.15 € | Comisión 0.01 € 
+Comunitarias [Ah 7s 9c Qd 9h]
+Asiento 1: benipoker123 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 3: JstLeonel (ciega grande) muestra [Ad 6s] y ganó (0.14 €) con doble pareja, ases y nueves
+Asiento 4: Ozzy3110 se retiró antes del Flop (no apostó)
+Asiento 5: toonsy2010 descartó sin mostrar [8s 6h]
+Asiento 6: mivipkr se retiró antes del Flop (no apostó)

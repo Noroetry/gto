@@ -1,0 +1,47 @@
+Mano n.º 257150556430 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:50:27 CET [30-07-2025 17:50:27 ET]
+Mesa "Mizuho" 6-max El asiento n.º 2 es el botón
+Asiento 1: AFR29 (1.60 € en fichas) está ausente
+Asiento 2: SrLyce (5.51 € en fichas) 
+Asiento 3: JstLeonel (2.20 € en fichas) 
+Asiento 4: Ozzy3110 (5.94 € en fichas) 
+Asiento 5: toonsy2010 (1.86 € en fichas) 
+Asiento 6: mivipkr (2.11 € en fichas) 
+JstLeonel: pone la ciega pequeña 0.01 €
+Ozzy3110: pone la ciega grande 0.02 €
+AFR29: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qs Th]
+toonsy2010: iguala 0.02 €
+AFR29 deja la mesa
+mivipkr ha agotado su tiempo
+mivipkr: se retira 
+SrLyce: sube 0.04 € a 0.06 €
+JstLeonel: se retira 
+Ozzy3110: iguala 0.04 €
+toonsy2010: iguala 0.04 €
+*** FLOP *** [Qc 9d 8s]
+Ozzy3110: pasa 
+toonsy2010: pasa 
+SrLyce: apuesta 0.06 €
+Ozzy3110: iguala 0.06 €
+toonsy2010: se retira 
+*** TURN *** [Qc 9d 8s] [9c]
+Ozzy3110: pasa 
+SrLyce: apuesta 0.19 €
+Ozzy3110: iguala 0.19 €
+*** RIVER *** [Qc 9d 8s 9c] [As]
+Ozzy3110: pasa 
+SrLyce: pasa 
+*** SHOW DOWN ***
+Ozzy3110: muestra [9h Kh] (trío de nueves)
+SrLyce: descarta su mano sin mostrar 
+Ozzy3110 se lleva 0.65 € del bote 
+*** RESUMEN ***
+Bote total 0.69 € | Comisión 0.04 € 
+Comunitarias [Qc 9d 8s 9c As]
+Asiento 1: AFR29
+Asiento 2: SrLyce (botón) descartó sin mostrar [Qs Th]
+Asiento 3: JstLeonel (ciega pequeña) se retiró antes del Flop
+Asiento 4: Ozzy3110 (ciega grande) muestra [9h Kh] y ganó (0.65 €) con trío de nueves
+Asiento 5: toonsy2010 se retiró en el Flop
+Asiento 6: mivipkr se retiró antes del Flop (no apostó)

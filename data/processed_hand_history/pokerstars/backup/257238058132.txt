@@ -1,0 +1,39 @@
+Mano n.º 257238058132 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:24:20 CET [06-08-2025 12:24:20 ET]
+Mesa "Euneus III" 6-max El asiento n.º 1 es el botón
+Asiento 6: kcg_rm (0 € en fichas) está ausente
+Asiento 1: christgear (2 € en fichas) 
+Asiento 2: Il_BM00 (2.37 € en fichas) 
+Asiento 3: djrojas9 (2.81 € en fichas) 
+Asiento 4: lol-in 2000 (1.91 € en fichas) 
+Asiento 5: SrLyce (4.62 € en fichas) 
+Il_BM00: pone la ciega pequeña 0.01 €
+djrojas9: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5s Qd]
+lol-in 2000: se retira 
+SrLyce: se retira 
+christgear: se retira 
+Il_BM00: iguala 0.01 €
+djrojas9: pasa 
+*** FLOP *** [Qh 3c Ts]
+Il_BM00: pasa 
+djrojas9: pasa 
+*** TURN *** [Qh 3c Ts] [9c]
+Il_BM00: apuesta 0.04 €
+djrojas9: iguala 0.04 €
+*** RIVER *** [Qh 3c Ts 9c] [4d]
+Il_BM00: apuesta 0.06 €
+djrojas9: sube 0.12 € a 0.18 €
+Il_BM00: se retira 
+La apuesta no igualada (0.12 €) ha sido devuelta a djrojas9
+djrojas9 se lleva 0.23 € del bote 
+djrojas9: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.24 € | Comisión 0.01 € 
+Comunitarias [Qh 3c Ts 9c 4d]
+Asiento 6: kcg_rm
+Asiento 1: christgear (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Il_BM00 (ciega pequeña) se retiró en el River
+Asiento 3: djrojas9 (ciega grande) recaudó (0.23 €)
+Asiento 4: lol-in 2000 se retiró antes del Flop (no apostó)
+Asiento 5: SrLyce se retiró antes del Flop (no apostó)

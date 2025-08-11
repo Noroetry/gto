@@ -1,0 +1,42 @@
+Mano n.º 257148686290 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:36:52 CET [30-07-2025 15:36:52 ET]
+Mesa "Esclangona" 6-max El asiento n.º 6 es el botón
+Asiento 3: gabriella657 (5.70 € en fichas) está ausente
+Asiento 1: Zorgue1080 (2.08 € en fichas) 
+Asiento 2: SrLyce (1.91 € en fichas) 
+Asiento 4: Davdgoni (3.19 € en fichas) 
+Asiento 5: DiaZzZ1 (2.31 € en fichas) 
+Asiento 6: berlcht403 (0.58 € en fichas) 
+Zorgue1080: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jc Js]
+Davdgoni: sube 0.04 € a 0.06 €
+DiaZzZ1: se retira 
+berlcht403: se retira 
+Zorgue1080: iguala 0.05 €
+SrLyce: sube 0.12 € a 0.18 €
+Davdgoni: iguala 0.12 €
+Zorgue1080: iguala 0.12 €
+*** FLOP *** [5d Td 5s]
+Zorgue1080: pasa 
+SrLyce: apuesta 0.16 €
+Davdgoni: iguala 0.16 €
+Zorgue1080: se retira 
+*** TURN *** [5d Td 5s] [9c]
+SrLyce: apuesta 0.41 €
+Davdgoni: iguala 0.41 €
+*** RIVER *** [5d Td 5s 9c] [2c]
+SrLyce: apuesta 1.16 € y está all-in
+Davdgoni: se retira 
+La apuesta no igualada (1.16 €) ha sido devuelta a SrLyce
+SrLyce se lleva 1.58 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 1.68 € | Comisión 0.10 € 
+Comunitarias [5d Td 5s 9c 2c]
+Asiento 3: gabriella657
+Asiento 1: Zorgue1080 (ciega pequeña) se retiró en el Flop
+Asiento 2: SrLyce (ciega grande) recaudó (1.58 €)
+Asiento 4: Davdgoni se retiró en el River
+Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)
+Asiento 6: berlcht403 (botón) se retiró antes del Flop (no apostó)

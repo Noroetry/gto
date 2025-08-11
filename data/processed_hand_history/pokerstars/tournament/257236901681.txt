@@ -1,0 +1,38 @@
+Mano n.º 257236901681 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel II (50/100) - 06-08-2025 17:20:20 CET [06-08-2025 11:20:20 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 6 es el botón
+Asiento 1: SrLyce (1660 en fichas) 
+Asiento 3: Jimyelkaiser (620 en fichas) 
+Asiento 6: joaquinrecle67 (980 en fichas) 
+Asiento 7: Bernesaragon (740 en fichas) 
+SrLyce: pone el ante 20
+Jimyelkaiser: pone el ante 20
+joaquinrecle67: pone el ante 20
+Bernesaragon: pone el ante 20
+Bernesaragon: pone la ciega pequeña 50
+SrLyce: pone la ciega grande 100
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Tc Kh]
+Jimyelkaiser: se retira 
+joaquinrecle67: iguala 100
+Bernesaragon: se retira 
+SrLyce: pasa 
+*** FLOP *** [Td 8c Qh]
+SrLyce: pasa 
+joaquinrecle67: pasa 
+*** TURN *** [Td 8c Qh] [Jc]
+SrLyce: apuesta 100
+joaquinrecle67: iguala 100
+*** RIVER *** [Td 8c Qh Jc] [Kd]
+SrLyce: pasa 
+joaquinrecle67: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [Tc Kh] (doble pareja, reyes y dieces)
+joaquinrecle67: descarta su mano sin mostrar 
+SrLyce se lleva 530 del bote 
+*** RESUMEN ***
+Bote total 530 | Comisión 0 
+Comunitarias [Td 8c Qh Jc Kd]
+Asiento 1: SrLyce (ciega grande) muestra [Tc Kh] y ganó (530) con doble pareja, reyes y dieces
+Asiento 3: Jimyelkaiser se retiró antes del Flop (no apostó)
+Asiento 6: joaquinrecle67 (botón) descartó sin mostrar [7c Kc]
+Asiento 7: Bernesaragon (ciega pequeña) se retiró antes del Flop

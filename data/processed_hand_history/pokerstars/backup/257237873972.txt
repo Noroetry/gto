@@ -1,0 +1,41 @@
+Mano n.º 257237873972 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:07:38 CET [06-08-2025 12:07:38 ET]
+Mesa "Nuwa III" 6-max El asiento n.º 1 es el botón
+Asiento 1: davinci1962 (4.09 € en fichas) 
+Asiento 2: BuXHexter (2 € en fichas) 
+Asiento 3: kcg_rm (2.18 € en fichas) 
+Asiento 4: SrLyce (2 € en fichas) 
+Asiento 5: RiskAllinkali (2.30 € en fichas) 
+Asiento 6: acavada (2.07 € en fichas) 
+BuXHexter: pone la ciega pequeña 0.01 €
+kcg_rm: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jd 4h]
+SrLyce: se retira 
+RiskAllinkali: se retira 
+acavada: sube 0.02 € a 0.04 €
+davinci1962: se retira 
+BuXHexter: se retira 
+kcg_rm: iguala 0.02 €
+*** FLOP *** [3s Ac 4s]
+kcg_rm: pasa 
+acavada: apuesta 0.04 €
+kcg_rm: iguala 0.04 €
+*** TURN *** [3s Ac 4s] [8c]
+kcg_rm: pasa 
+acavada: pasa 
+*** RIVER *** [3s Ac 4s 8c] [Ad]
+kcg_rm: pasa 
+acavada: apuesta 0.08 €
+kcg_rm: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a acavada
+acavada se lleva 0.16 € del bote 
+acavada: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.17 € | Comisión 0.01 € 
+Comunitarias [3s Ac 4s 8c Ad]
+Asiento 1: davinci1962 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: BuXHexter (ciega pequeña) se retiró antes del Flop
+Asiento 3: kcg_rm (ciega grande) se retiró en el River
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: RiskAllinkali se retiró antes del Flop (no apostó)
+Asiento 6: acavada recaudó (0.16 €)

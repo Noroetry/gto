@@ -1,0 +1,30 @@
+Mano n.º 257238624171 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:15:24 CET [06-08-2025 13:15:24 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 5 es el botón
+Asiento 3: Macklemore0 (2.13 € en fichas) está ausente
+Asiento 1: Alceo27 (2 € en fichas) 
+Asiento 2: aliendee07 (1.39 € en fichas) 
+Asiento 4: SrLyce (2.66 € en fichas) 
+Asiento 5: ismagonzalez7 (0.61 € en fichas) 
+Alceo27: pone la ciega pequeña 0.01 €
+aliendee07: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9c Qc]
+SrLyce: sube 0.03 € a 0.05 €
+ismagonzalez7: iguala 0.05 €
+Alceo27: se retira 
+aliendee07: se retira 
+*** FLOP *** [Ad Kd 7h]
+SrLyce: pasa 
+ismagonzalez7: apuesta 0.06 €
+SrLyce: se retira 
+La apuesta no igualada (0.06 €) ha sido devuelta a ismagonzalez7
+ismagonzalez7 se lleva 0.12 € del bote 
+ismagonzalez7: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.13 € | Comisión 0.01 € 
+Comunitarias [Ad Kd 7h]
+Asiento 3: Macklemore0
+Asiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop
+Asiento 2: aliendee07 (ciega grande) se retiró antes del Flop
+Asiento 4: SrLyce se retiró en el Flop
+Asiento 5: ismagonzalez7 (botón) recaudó (0.12 €)

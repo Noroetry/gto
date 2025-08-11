@@ -1,0 +1,54 @@
+{
+  "hand_id": "257150253517",
+  "date": "30-07-2025 23:28:54",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9h",
+    "4s"
+  ],
+  "stacks": {
+    "ozil111": 100.0,
+    "riverrrrrrmagic": 127.5,
+    "SrLyce": 107.5,
+    "Jumby34": 100.0,
+    "xapkk": 100.0,
+    "Fretzo67500": 142.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 5: ozil111 (2 € en fichas) está ausente",
+      "Asiento 1: riverrrrrrmagic (2.55 € en fichas)",
+      "Asiento 2: SrLyce (2.15 € en fichas)",
+      "Asiento 3: Jumby34 (2 € en fichas)",
+      "Asiento 4: xapkk (2 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.85 € en fichas)",
+      "Fretzo67500: pone la ciega pequeña 0.01 €",
+      "riverrrrrrmagic: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Jumby34: sube 0.05 € a 0.07 €",
+      "xapkk: se retira",
+      "Fretzo67500: se retira",
+      "riverrrrrrmagic: se retira",
+      "Jumby34: no muestra su mano",
+      "Asiento 5: ozil111",
+      "Asiento 1: riverrrrrrmagic (ciega grande) se retiró antes del Flop",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: Jumby34 recaudó (0.05 €)",
+      "Asiento 4: xapkk (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: Fretzo67500 (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "Jumby34",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257150253517 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:28:54 CET [30-07-2025 17:28:54 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 4 es el botón\nAsiento 5: ozil111 (2 € en fichas) está ausente\nAsiento 1: riverrrrrrmagic (2.55 € en fichas) \nAsiento 2: SrLyce (2.15 € en fichas) \nAsiento 3: Jumby34 (2 € en fichas) \nAsiento 4: xapkk (2 € en fichas) \nAsiento 6: Fretzo67500 (2.85 € en fichas) \nFretzo67500: pone la ciega pequeña 0.01 €\nriverrrrrrmagic: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9h 4s]\nSrLyce: se retira \nJumby34: sube 0.05 € a 0.07 €\nxapkk: se retira \nFretzo67500: se retira \nriverrrrrrmagic: se retira \nLa apuesta no igualada (0.05 €) ha sido devuelta a Jumby34\nJumby34 se lleva 0.05 € del bote \nJumby34: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 5: ozil111\nAsiento 1: riverrrrrrmagic (ciega grande) se retiró antes del Flop\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: Jumby34 recaudó (0.05 €)\nAsiento 4: xapkk (botón) se retiró antes del Flop (no apostó)\nAsiento 6: Fretzo67500 (ciega pequeña) se retiró antes del Flop"
+}

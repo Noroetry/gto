@@ -1,0 +1,73 @@
+{
+  "hand_id": "257149181901",
+  "date": "30-07-2025 22:13:49",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "Qs"
+  ],
+  "stacks": {
+    "ansiedadd": 40.0,
+    "SrLyce": 91.0,
+    "NoahBolete": 117.0,
+    "Davdgoni": 238.0,
+    "DiaZzZ1": 100.0,
+    "elketefaka1": 99.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: ansiedadd (0.80 € en fichas) está ausente",
+      "Asiento 2: SrLyce (1.82 € en fichas)",
+      "Asiento 3: NoahBolete (2.34 € en fichas)",
+      "Asiento 4: Davdgoni (4.76 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2 € en fichas)",
+      "Asiento 6: elketefaka1 (1.98 € en fichas)",
+      "NoahBolete: pone la ciega pequeña 0.01 €",
+      "Davdgoni: pone la ciega grande 0.02 €",
+      "ansiedadd: se ausenta",
+      "DiaZzZ1: se retira",
+      "elketefaka1: sube 0.02 € a 0.04 €",
+      "SrLyce: se retira",
+      "NoahBolete: sube 0.02 € a 0.06 €",
+      "Davdgoni: iguala 0.04 €",
+      "elketefaka1: iguala 0.02 €"
+    ],
+    "flop": [
+      "NoahBolete: apuesta 0.05 €",
+      "Davdgoni: se retira",
+      "elketefaka1: iguala 0.05 €"
+    ],
+    "turn": [
+      "NoahBolete: pasa",
+      "elketefaka1: apuesta 0.13 €",
+      "NoahBolete: iguala 0.13 €"
+    ],
+    "river": [
+      "NoahBolete: apuesta 0.26 €",
+      "elketefaka1: se retira",
+      "NoahBolete: no muestra su mano",
+      "Asiento 1: ansiedadd",
+      "Asiento 2: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: NoahBolete (ciega pequeña) recaudó (0.51 €)",
+      "Asiento 4: Davdgoni (ciega grande) se retiró en el Flop",
+      "Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)",
+      "Asiento 6: elketefaka1 se retiró en el River"
+    ]
+  },
+  "board": [
+    "6s",
+    "5h",
+    "7d",
+    "7c",
+    "3c"
+  ],
+  "winner": "NoahBolete",
+  "win_amount": 25.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.5,
+  "raw_text": "Mano n.º 257149181901 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:13:49 CET [30-07-2025 16:13:49 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 2 es el botón\nAsiento 1: ansiedadd (0.80 € en fichas) está ausente\nAsiento 2: SrLyce (1.82 € en fichas) \nAsiento 3: NoahBolete (2.34 € en fichas) \nAsiento 4: Davdgoni (4.76 € en fichas) \nAsiento 5: DiaZzZ1 (2 € en fichas) \nAsiento 6: elketefaka1 (1.98 € en fichas) \nNoahBolete: pone la ciega pequeña 0.01 €\nDavdgoni: pone la ciega grande 0.02 €\nansiedadd: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h Qs]\nDiaZzZ1: se retira \nelketefaka1: sube 0.02 € a 0.04 €\nSrLyce: se retira \nNoahBolete: sube 0.02 € a 0.06 €\nDavdgoni: iguala 0.04 €\nelketefaka1: iguala 0.02 €\n*** FLOP *** [6s 5h 7d]\nNoahBolete: apuesta 0.05 €\nDavdgoni: se retira \nelketefaka1: iguala 0.05 €\n*** TURN *** [6s 5h 7d] [7c]\nNoahBolete: pasa \nelketefaka1: apuesta 0.13 €\nNoahBolete: iguala 0.13 €\n*** RIVER *** [6s 5h 7d 7c] [3c]\nNoahBolete: apuesta 0.26 €\nelketefaka1: se retira \nLa apuesta no igualada (0.26 €) ha sido devuelta a NoahBolete\nNoahBolete se lleva 0.51 € del bote \nNoahBolete: no muestra su mano \n*** RESUMEN ***\nBote total 0.54 € | Comisión 0.03 € \nComunitarias [6s 5h 7d 7c 3c]\nAsiento 1: ansiedadd\nAsiento 2: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 3: NoahBolete (ciega pequeña) recaudó (0.51 €)\nAsiento 4: Davdgoni (ciega grande) se retiró en el Flop\nAsiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)\nAsiento 6: elketefaka1 se retiró en el River"
+}

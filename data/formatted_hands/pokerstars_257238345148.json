@@ -1,0 +1,63 @@
+{
+  "hand_id": "257238345148",
+  "date": "06-08-2025 18:49:44",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Jh",
+    "9h"
+  ],
+  "stacks": {
+    "koldipk": 102.5,
+    "David98X": 109.5,
+    "JJer11": 196.5,
+    "SrLyce": 93.0,
+    "El Calvo 65": 197.5,
+    "ScarvBlack": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: koldipk (2.05 € en fichas)",
+      "Asiento 2: David98X (2.19 € en fichas)",
+      "Asiento 3: JJer11 (3.93 € en fichas)",
+      "Asiento 4: SrLyce (1.86 € en fichas)",
+      "Asiento 5: El Calvo 65 (3.95 € en fichas)",
+      "Asiento 6: ScarvBlack (2 € en fichas)",
+      "koldipk: pone la ciega pequeña 0.01 €",
+      "David98X: pone la ciega grande 0.02 €",
+      "JJer11: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "El Calvo 65: iguala 0.05 €",
+      "ScarvBlack: se retira",
+      "koldipk: se retira",
+      "David98X: se retira"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "El Calvo 65: apuesta 0.08 €",
+      "SrLyce: se retira",
+      "El Calvo 65: no muestra su mano",
+      "Asiento 1: koldipk (ciega pequeña) se retiró antes del Flop",
+      "Asiento 2: David98X (ciega grande) se retiró antes del Flop",
+      "Asiento 3: JJer11 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró en el Flop",
+      "Asiento 5: El Calvo 65 recaudó (0.12 €)",
+      "Asiento 6: ScarvBlack (botón) se retiró antes del Flop (no apostó)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "8s",
+    "Qh",
+    "4d"
+  ],
+  "winner": "65",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238345148 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:49:44 CET [06-08-2025 12:49:44 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 6 es el botón\nAsiento 1: koldipk (2.05 € en fichas) \nAsiento 2: David98X (2.19 € en fichas) \nAsiento 3: JJer11 (3.93 € en fichas) \nAsiento 4: SrLyce (1.86 € en fichas) \nAsiento 5: El Calvo 65 (3.95 € en fichas) \nAsiento 6: ScarvBlack (2 € en fichas) \nkoldipk: pone la ciega pequeña 0.01 €\nDavid98X: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Jh 9h]\nJJer11: se retira \nSrLyce: sube 0.03 € a 0.05 €\nEl Calvo 65: iguala 0.05 €\nScarvBlack: se retira \nkoldipk: se retira \nDavid98X: se retira \n*** FLOP *** [8s Qh 4d]\nSrLyce: pasa \nEl Calvo 65: apuesta 0.08 €\nSrLyce: se retira \nLa apuesta no igualada (0.08 €) ha sido devuelta a El Calvo 65\nEl Calvo 65 se lleva 0.12 € del bote \nEl Calvo 65: no muestra su mano \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [8s Qh 4d]\nAsiento 1: koldipk (ciega pequeña) se retiró antes del Flop\nAsiento 2: David98X (ciega grande) se retiró antes del Flop\nAsiento 3: JJer11 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró en el Flop\nAsiento 5: El Calvo 65 recaudó (0.12 €)\nAsiento 6: ScarvBlack (botón) se retiró antes del Flop (no apostó)"
+}

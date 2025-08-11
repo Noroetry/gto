@@ -1,0 +1,75 @@
+{
+  "hand_id": "257237608783",
+  "date": "06-08-2025 17:40:46",
+  "table": "Kale III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8d",
+    "9d"
+  ],
+  "stacks": {
+    "x__Nest__x": 92.0,
+    "SrLyce": 121.0,
+    "Dracoline000": 108.0,
+    "jeffounet33": 99.0,
+    "Begoton": 101.0,
+    "juanmemol": 102.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: x__Nest__x (1.84 € en fichas)",
+      "Asiento 2: SrLyce (2.42 € en fichas)",
+      "Asiento 3: Dracoline000 (2.16 € en fichas)",
+      "Asiento 4: jeffounet33 (1.98 € en fichas)",
+      "Asiento 5: Begoton (2.02 € en fichas)",
+      "Asiento 6: juanmemol (2.05 € en fichas)",
+      "x__Nest__x: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Dracoline000: se retira",
+      "jeffounet33: iguala 0.02 €",
+      "Begoton: se retira",
+      "juanmemol: se retira",
+      "x__Nest__x: iguala 0.01 €",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "x__Nest__x: pasa",
+      "SrLyce: pasa",
+      "jeffounet33: pasa"
+    ],
+    "turn": [
+      "x__Nest__x: pasa",
+      "SrLyce: pasa",
+      "jeffounet33: pasa"
+    ],
+    "river": [
+      "x__Nest__x: pasa",
+      "SrLyce: pasa",
+      "jeffounet33: pasa",
+      "x__Nest__x: muestra [Qd 8c] (doble pareja, reyes y jotas)",
+      "SrLyce: descarta su mano sin mostrar",
+      "jeffounet33: descarta su mano sin mostrar",
+      "Asiento 1: x__Nest__x (ciega pequeña) muestra [Qd 8c] y ganó (0.06 €) con doble pareja, reyes y jotas",
+      "Asiento 2: SrLyce (ciega grande) descartó sin mostrar [8d 9d]",
+      "Asiento 3: Dracoline000 se retiró antes del Flop (no apostó)",
+      "Asiento 4: jeffounet33 descartó sin mostrar [7c 5c]",
+      "Asiento 5: Begoton se retiró antes del Flop (no apostó)",
+      "Asiento 6: juanmemol (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Kh",
+    "3c",
+    "Jh",
+    "Jc",
+    "Kd"
+  ],
+  "winner": "x__Nest__x",
+  "win_amount": 3.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237608783 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:40:46 CET [06-08-2025 11:40:46 ET]\nMesa \"Kale III\" 6-max El asiento n.º 6 es el botón\nAsiento 1: x__Nest__x (1.84 € en fichas) \nAsiento 2: SrLyce (2.42 € en fichas) \nAsiento 3: Dracoline000 (2.16 € en fichas) \nAsiento 4: jeffounet33 (1.98 € en fichas) \nAsiento 5: Begoton (2.02 € en fichas) \nAsiento 6: juanmemol (2.05 € en fichas) \nx__Nest__x: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8d 9d]\nDracoline000 ha agotado su tiempo\nDracoline000: se retira \njeffounet33: iguala 0.02 €\nBegoton: se retira \njuanmemol: se retira \nx__Nest__x: iguala 0.01 €\nSrLyce: pasa \n*** FLOP *** [Kh 3c Jh]\nx__Nest__x: pasa \nSrLyce: pasa \njeffounet33: pasa \n*** TURN *** [Kh 3c Jh] [Jc]\nx__Nest__x: pasa \nSrLyce: pasa \njeffounet33: pasa \n*** RIVER *** [Kh 3c Jh Jc] [Kd]\nx__Nest__x: pasa \nSrLyce: pasa \njeffounet33: pasa \n*** SHOW DOWN ***\nx__Nest__x: muestra [Qd 8c] (doble pareja, reyes y jotas)\nSrLyce: descarta su mano sin mostrar \njeffounet33: descarta su mano sin mostrar \nx__Nest__x se lleva 0.06 € del bote \n*** RESUMEN ***\nBote total 0.06 € | Comisión 0 € \nComunitarias [Kh 3c Jh Jc Kd]\nAsiento 1: x__Nest__x (ciega pequeña) muestra [Qd 8c] y ganó (0.06 €) con doble pareja, reyes y jotas\nAsiento 2: SrLyce (ciega grande) descartó sin mostrar [8d 9d]\nAsiento 3: Dracoline000 se retiró antes del Flop (no apostó)\nAsiento 4: jeffounet33 descartó sin mostrar [7c 5c]\nAsiento 5: Begoton se retiró antes del Flop (no apostó)\nAsiento 6: juanmemol (botón) se retiró antes del Flop (no apostó)"
+}

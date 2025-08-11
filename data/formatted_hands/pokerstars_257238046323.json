@@ -1,0 +1,73 @@
+{
+  "hand_id": "257238046323",
+  "date": "06-08-2025 18:23:17",
+  "table": "Euneus III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7h",
+    "9h"
+  ],
+  "stacks": {
+    "christgear": 100.0,
+    "Il_BM00": 119.5,
+    "djrojas9": 140.5,
+    "lol-in 2000": 95.5,
+    "SrLyce": 133.0,
+    "kcg_rm": 109.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: christgear (2 € en fichas)",
+      "Asiento 2: Il_BM00 (2.39 € en fichas)",
+      "Asiento 3: djrojas9 (2.81 € en fichas)",
+      "Asiento 4: lol-in 2000 (1.91 € en fichas)",
+      "Asiento 5: SrLyce (2.66 € en fichas)",
+      "Asiento 6: kcg_rm (2.18 € en fichas)",
+      "christgear: pone la ciega pequeña 0.01 €",
+      "Il_BM00: pone la ciega grande 0.02 €",
+      "djrojas9: se retira",
+      "lol-in 2000: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "kcg_rm: sube 0.13 € a 0.18 €",
+      "christgear: se retira",
+      "Il_BM00: se retira",
+      "SrLyce: iguala 0.13 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "kcg_rm: apuesta 0.12 €",
+      "SrLyce: sube 0.20 € a 0.32 €",
+      "kcg_rm: iguala 0.20 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "kcg_rm: apuesta 1.68 € y está all-in",
+      "SrLyce: iguala 1.68 €"
+    ],
+    "river": [
+      "SrLyce: muestra [7h 9h] (doble pareja, nueves y sietes)",
+      "kcg_rm: muestra [Qc Qd] (pareja de damas)",
+      "Asiento 1: christgear (ciega pequeña) se retiró antes del Flop",
+      "Asiento 2: Il_BM00 (ciega grande) se retiró antes del Flop",
+      "Asiento 3: djrojas9 se retiró antes del Flop (no apostó)",
+      "Asiento 4: lol-in 2000 se retiró antes del Flop (no apostó)",
+      "Asiento 5: SrLyce muestra [7h 9h] y ganó (4.14 €) con doble pareja, nueves y sietes",
+      "Asiento 6: kcg_rm (botón) muestra [Qc Qd] y perdió con pareja de damas"
+    ]
+  },
+  "board": [
+    "7s",
+    "9s",
+    "4h",
+    "Kd",
+    "2h"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 207.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 12.5,
+  "raw_text": "Mano n.º 257238046323 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:23:17 CET [06-08-2025 12:23:17 ET]\nMesa \"Euneus III\" 6-max El asiento n.º 6 es el botón\nAsiento 1: christgear (2 € en fichas) \nAsiento 2: Il_BM00 (2.39 € en fichas) \nAsiento 3: djrojas9 (2.81 € en fichas) \nAsiento 4: lol-in 2000 (1.91 € en fichas) \nAsiento 5: SrLyce (2.66 € en fichas) \nAsiento 6: kcg_rm (2.18 € en fichas) \nchristgear: pone la ciega pequeña 0.01 €\nIl_BM00: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7h 9h]\ndjrojas9: se retira \nlol-in 2000: se retira \nSrLyce: sube 0.03 € a 0.05 €\nkcg_rm: sube 0.13 € a 0.18 €\nchristgear: se retira \nIl_BM00: se retira \nSrLyce: iguala 0.13 €\n*** FLOP *** [7s 9s 4h]\nSrLyce: pasa \nkcg_rm: apuesta 0.12 €\nSrLyce: sube 0.20 € a 0.32 €\nkcg_rm: iguala 0.20 €\n*** TURN *** [7s 9s 4h] [Kd]\nSrLyce: pasa \nkcg_rm: apuesta 1.68 € y está all-in\nSrLyce: iguala 1.68 €\n*** RIVER *** [7s 9s 4h Kd] [2h]\n*** SHOW DOWN ***\nSrLyce: muestra [7h 9h] (doble pareja, nueves y sietes)\nkcg_rm: muestra [Qc Qd] (pareja de damas)\nSrLyce se lleva 4.14 € del bote \n*** RESUMEN ***\nBote total 4.39 € | Comisión 0.25 € \nComunitarias [7s 9s 4h Kd 2h]\nAsiento 1: christgear (ciega pequeña) se retiró antes del Flop\nAsiento 2: Il_BM00 (ciega grande) se retiró antes del Flop\nAsiento 3: djrojas9 se retiró antes del Flop (no apostó)\nAsiento 4: lol-in 2000 se retiró antes del Flop (no apostó)\nAsiento 5: SrLyce muestra [7h 9h] y ganó (4.14 €) con doble pareja, nueves y sietes\nAsiento 6: kcg_rm (botón) muestra [Qc Qd] y perdió con pareja de damas"
+}

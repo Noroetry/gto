@@ -1,0 +1,27 @@
+Mano n.º 257149159313 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:12:13 CET [30-07-2025 16:12:13 ET]
+Mesa "Sirona" 6-max El asiento n.º 3 es el botón
+Asiento 4: oliverdu70 (3.72 € en fichas) está ausente
+Asiento 5: hadhod1976 (0.80 € en fichas) está ausente
+Asiento 1: SrLyce (2.65 € en fichas) 
+Asiento 2: Tropki (2 € en fichas) 
+Asiento 3: christoph363 (4.45 € en fichas) 
+Asiento 6: MitchATP65 (2.04 € en fichas) 
+MitchATP65: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6h 3s]
+Tropki: se retira 
+christoph363: se retira 
+MitchATP65: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a MitchATP65
+MitchATP65 se lleva 0.04 € del bote 
+MitchATP65: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 4: oliverdu70
+Asiento 5: hadhod1976
+Asiento 1: SrLyce (ciega grande) se retiró antes del Flop
+Asiento 2: Tropki se retiró antes del Flop (no apostó)
+Asiento 3: christoph363 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: MitchATP65 (ciega pequeña) recaudó (0.04 €)

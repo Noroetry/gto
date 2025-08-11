@@ -1,0 +1,31 @@
+Mano n.º 257236911280 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel III (100/200) - 06-08-2025 17:21:17 CET [06-08-2025 11:21:17 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (1390 en fichas) 
+Asiento 3: Jimyelkaiser (2400 en fichas) 
+Asiento 7: Bernesaragon (210 en fichas) 
+SrLyce: pone el ante 40
+Jimyelkaiser: pone el ante 40
+Bernesaragon: pone el ante 40
+Jimyelkaiser: pone la ciega pequeña 100
+Bernesaragon: pone la ciega grande 170 y está all-in
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6h 5d]
+SrLyce: sube 230 a 400
+Jimyelkaiser: sube 1960 a 2360 y está all-in
+SrLyce: iguala 950 y está all-in
+La apuesta no igualada (1010) ha sido devuelta a Jimyelkaiser
+*** FLOP *** [3h 3s 4h]
+*** TURN *** [3h 3s 4h] [2h]
+*** RIVER *** [3h 3s 4h 2h] [8s]
+*** SHOW DOWN ***
+Jimyelkaiser: muestra [Ac 8d] (doble pareja, ochos y treses)
+SrLyce: muestra [6h 5d] (escalera, de dos a seis)
+SrLyce se lleva 2360 del bote  secundario
+Bernesaragon: muestra [9h Th] (color, carta alta diez)
+Bernesaragon se lleva 630 del bote  principal
+*** RESUMEN ***
+Bote total 2990 Bote principal 630. Bote secundario 2360. | Comisión 0 
+Comunitarias [3h 3s 4h 2h 8s]
+Asiento 1: SrLyce (botón) muestra [6h 5d] y ganó (2360) con escalera, de dos a seis
+Asiento 3: Jimyelkaiser (ciega pequeña) muestra [Ac 8d] y perdió con doble pareja, ochos y treses
+Asiento 7: Bernesaragon (ciega grande) muestra [9h Th] y ganó (630) con color, carta alta diez

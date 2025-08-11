@@ -1,0 +1,17 @@
+﻿Mano n.º 257168250089 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:12:44 CET [01-08-2025 5:12:44 ET]
+Mesa "Atlas" 6-max El asiento n.º 2 es el botón
+Asiento 2: ecuinas (2 € en fichas) 
+Asiento 3: SrLyce (2 € en fichas) 
+ecuinas: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2h 9h]
+ecuinas: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a ecuinas
+ecuinas se lleva 0.04 € del bote 
+ecuinas: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 2: ecuinas (botón) (ciega pequeña) recaudó (0.04 €)
+Asiento 3: SrLyce (ciega grande) se retiró antes del Flop

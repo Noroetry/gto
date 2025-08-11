@@ -1,0 +1,75 @@
+{
+  "hand_id": "257149967133",
+  "date": "30-07-2025 23:09:10",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kh",
+    "7c"
+  ],
+  "stacks": {
+    "LeVbks": 91.5,
+    "fcis666": 50.5,
+    "Dlaguancha": 73.5,
+    "SrLyce": 91.5,
+    "riverluck444": 92.5,
+    "Kiffou39": 51.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (1.83 € en fichas)",
+      "Asiento 2: fcis666 (1.01 € en fichas)",
+      "Asiento 3: Dlaguancha (1.47 € en fichas)",
+      "Asiento 4: SrLyce (1.83 € en fichas)",
+      "Asiento 5: riverluck444 (1.85 € en fichas)",
+      "Asiento 6: Kiffou39 (1.03 € en fichas)",
+      "Kiffou39: pone la ciega pequeña 0.01 €",
+      "LeVbks: pone la ciega grande 0.02 €",
+      "fcis666: se retira",
+      "Dlaguancha: iguala 0.02 €",
+      "SrLyce: se retira",
+      "riverluck444: se retira",
+      "Kiffou39: iguala 0.01 €",
+      "LeVbks: pasa"
+    ],
+    "flop": [
+      "Kiffou39: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa"
+    ],
+    "turn": [
+      "Kiffou39: apuesta 0.03 €",
+      "LeVbks: iguala 0.03 €",
+      "Dlaguancha: iguala 0.03 €"
+    ],
+    "river": [
+      "Kiffou39: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa",
+      "Kiffou39: muestra [4c 8c] (pareja de cuatros)",
+      "LeVbks: muestra [5c 9s] (pareja de nueves)",
+      "Dlaguancha: muestra [9c Qh] (pareja de nueves - dama kicker)",
+      "Asiento 1: LeVbks (ciega grande) muestra [5c 9s] y perdió con pareja de nueves",
+      "Asiento 2: fcis666 se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dlaguancha muestra [9c Qh] y ganó (0.14 €) con pareja de nueves",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: Kiffou39 (ciega pequeña) muestra [4c 8c] y perdió con pareja de cuatros"
+    ]
+  },
+  "board": [
+    "Jd",
+    "2h",
+    "Ts",
+    "9h",
+    "4d"
+  ],
+  "winner": "Dlaguancha",
+  "win_amount": 7.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257149967133 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:09:10 CET [30-07-2025 17:09:10 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 5 es el botón\nAsiento 1: LeVbks (1.83 € en fichas) \nAsiento 2: fcis666 (1.01 € en fichas) \nAsiento 3: Dlaguancha (1.47 € en fichas) \nAsiento 4: SrLyce (1.83 € en fichas) \nAsiento 5: riverluck444 (1.85 € en fichas) \nAsiento 6: Kiffou39 (1.03 € en fichas) \nKiffou39: pone la ciega pequeña 0.01 €\nLeVbks: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kh 7c]\nfcis666: se retira \nDlaguancha: iguala 0.02 €\nSrLyce: se retira \nriverluck444: se retira \nKiffou39: iguala 0.01 €\nLeVbks: pasa \n*** FLOP *** [Jd 2h Ts]\nKiffou39: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** TURN *** [Jd 2h Ts] [9h]\nKiffou39: apuesta 0.03 €\nLeVbks: iguala 0.03 €\nDlaguancha: iguala 0.03 €\n*** RIVER *** [Jd 2h Ts 9h] [4d]\nKiffou39: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** SHOW DOWN ***\nKiffou39: muestra [4c 8c] (pareja de cuatros)\nLeVbks: muestra [5c 9s] (pareja de nueves)\nDlaguancha: muestra [9c Qh] (pareja de nueves - dama kicker)\nDlaguancha se lleva 0.14 € del bote \n*** RESUMEN ***\nBote total 0.15 € | Comisión 0.01 € \nComunitarias [Jd 2h Ts 9h 4d]\nAsiento 1: LeVbks (ciega grande) muestra [5c 9s] y perdió con pareja de nueves\nAsiento 2: fcis666 se retiró antes del Flop (no apostó)\nAsiento 3: Dlaguancha muestra [9c Qh] y ganó (0.14 €) con pareja de nueves\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: Kiffou39 (ciega pequeña) muestra [4c 8c] y perdió con pareja de cuatros"
+}

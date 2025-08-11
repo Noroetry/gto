@@ -1,0 +1,45 @@
+Mano n.º 257148726535 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:39:42 CET [30-07-2025 15:39:42 ET]
+Mesa "Sirona" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (1.83 € en fichas) 
+Asiento 2: lecontrebandier (1.94 € en fichas) 
+Asiento 3: christoph363 (3.61 € en fichas) 
+Asiento 4: oliverdu70 (2.10 € en fichas) 
+Asiento 5: olibellier (0.62 € en fichas) 
+Asiento 6: Dakoo44 (2.19 € en fichas) 
+Dakoo44: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9c 7c]
+lecontrebandier: se retira 
+christoph363: se retira 
+oliverdu70: iguala 0.02 €
+olibellier: iguala 0.02 €
+Dakoo44: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [6s Jh 6c]
+Dakoo44: pasa 
+SrLyce: pasa 
+oliverdu70: pasa 
+olibellier: pasa 
+*** TURN *** [6s Jh 6c] [2d]
+Dakoo44: pasa 
+SrLyce: pasa 
+oliverdu70: pasa 
+olibellier: pasa 
+*** RIVER *** [6s Jh 6c 2d] [Qd]
+Dakoo44: apuesta 0.06 €
+SrLyce: se retira 
+oliverdu70: se retira 
+olibellier: se retira 
+La apuesta no igualada (0.06 €) ha sido devuelta a Dakoo44
+Dakoo44 se lleva 0.08 € del bote 
+Dakoo44: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.08 € | Comisión 0 € 
+Comunitarias [6s Jh 6c 2d Qd]
+Asiento 1: SrLyce (ciega grande) se retiró en el River
+Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)
+Asiento 3: christoph363 se retiró antes del Flop (no apostó)
+Asiento 4: oliverdu70 se retiró en el River
+Asiento 5: olibellier (botón) se retiró en el River
+Asiento 6: Dakoo44 (ciega pequeña) recaudó (0.08 €)

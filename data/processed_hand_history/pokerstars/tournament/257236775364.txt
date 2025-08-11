@@ -1,0 +1,29 @@
+Mano n.º 257236775364 de PokerStars: Torneo n.º 3916266352, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 06-08-2025 17:07:45 CET [06-08-2025 11:07:45 ET]
+Mesa "3916266352 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: filcher94 (455 en fichas) 
+Asiento 2: Petejan (450 en fichas) 
+Asiento 3: SrLyce (595 en fichas) 
+filcher94: pone la ciega pequeña 15
+Petejan: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9s Ac]
+SrLyce: sube 30 a 60
+filcher94: iguala 45
+Petejan: se retira 
+*** FLOP *** [2h 3d 7d]
+filcher94: pasa 
+SrLyce: pasa 
+*** TURN *** [2h 3d 7d] [Kc]
+filcher94: pasa 
+SrLyce: pasa 
+*** RIVER *** [2h 3d 7d Kc] [5s]
+filcher94: apuesta 30
+SrLyce: se retira 
+La apuesta no igualada (30) ha sido devuelta a filcher94
+filcher94 se lleva 150 del bote 
+*** RESUMEN ***
+Bote total 150 | Comisión 0 
+Comunitarias [2h 3d 7d Kc 5s]
+Asiento 1: filcher94 (ciega pequeña) recaudó (150)
+Asiento 2: Petejan (ciega grande) se retiró antes del Flop
+Asiento 3: SrLyce (botón) se retiró en el River

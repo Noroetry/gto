@@ -1,0 +1,55 @@
+{
+  "hand_id": "257150073031",
+  "date": "30-07-2025 23:16:25",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ah",
+    "8d"
+  ],
+  "stacks": {
+    "javipondio": 40.0,
+    "LeVbks": 123.5,
+    "fcis666": 46.0,
+    "Dlaguancha": 98.0,
+    "SrLyce": 98.0,
+    "riverluck444": 94.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 6: javipondio (0.80 € en fichas) está ausente",
+      "Asiento 1: LeVbks (2.47 € en fichas)",
+      "Asiento 2: fcis666 (0.92 € en fichas)",
+      "Asiento 3: Dlaguancha (1.96 € en fichas)",
+      "Asiento 4: SrLyce (1.96 € en fichas)",
+      "Asiento 5: riverluck444 (1.89 € en fichas)",
+      "fcis666: pone la ciega pequeña 0.01 €",
+      "Dlaguancha: pone la ciega grande 0.02 €",
+      "javipondio: se ausenta",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "riverluck444: se retira",
+      "LeVbks: se retira",
+      "fcis666: se retira",
+      "Dlaguancha: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 6: javipondio",
+      "Asiento 1: LeVbks (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: fcis666 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: Dlaguancha (ciega grande) se retiró antes del Flop",
+      "Asiento 4: SrLyce recaudó (0.05 €)",
+      "Asiento 5: riverluck444 se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257150073031 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:16:25 CET [30-07-2025 17:16:25 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 1 es el botón\nAsiento 6: javipondio (0.80 € en fichas) está ausente\nAsiento 1: LeVbks (2.47 € en fichas) \nAsiento 2: fcis666 (0.92 € en fichas) \nAsiento 3: Dlaguancha (1.96 € en fichas) \nAsiento 4: SrLyce (1.96 € en fichas) \nAsiento 5: riverluck444 (1.89 € en fichas) \nfcis666: pone la ciega pequeña 0.01 €\nDlaguancha: pone la ciega grande 0.02 €\njavipondio: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ah 8d]\nSrLyce: sube 0.04 € a 0.06 €\nriverluck444: se retira \nLeVbks: se retira \nfcis666: se retira \nDlaguancha: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.05 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 6: javipondio\nAsiento 1: LeVbks (botón) se retiró antes del Flop (no apostó)\nAsiento 2: fcis666 (ciega pequeña) se retiró antes del Flop\nAsiento 3: Dlaguancha (ciega grande) se retiró antes del Flop\nAsiento 4: SrLyce recaudó (0.05 €)\nAsiento 5: riverluck444 se retiró antes del Flop (no apostó)"
+}

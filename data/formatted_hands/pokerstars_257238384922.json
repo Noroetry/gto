@@ -1,0 +1,74 @@
+{
+  "hand_id": "257238384922",
+  "date": "06-08-2025 18:53:14",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6s",
+    "As"
+  ],
+  "stacks": {
+    "pauquair5": 75.0,
+    "N3xtTIm35": 102.0,
+    "aliendee07": 48.5,
+    "Ischadia": 91.0,
+    "SrLyce": 100.0,
+    "ismagonzalez7": 91.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 6: pauquair5 (1.50 € en fichas) está ausente",
+      "Asiento 1: N3xtTIm35 (2.04 € en fichas)",
+      "Asiento 2: aliendee07 (0.97 € en fichas)",
+      "Asiento 3: Ischadia (1.82 € en fichas)",
+      "Asiento 4: SrLyce (2 € en fichas)",
+      "Asiento 5: ismagonzalez7 (1.82 € en fichas)",
+      "Ischadia: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "pauquair5: se ausenta",
+      "ismagonzalez7: se retira",
+      "N3xtTIm35: se retira",
+      "aliendee07: iguala 0.02 €",
+      "Ischadia: se retira",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "aliendee07: apuesta 0.04 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "aliendee07: apuesta 0.04 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "aliendee07: apuesta 0.10 €",
+      "SrLyce: iguala 0.10 €",
+      "aliendee07: muestra [Kc Tc] (pareja de reyes)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 6: pauquair5",
+      "Asiento 1: N3xtTIm35 se retiró antes del Flop (no apostó)",
+      "Asiento 2: aliendee07 (botón) muestra [Kc Tc] y ganó (0.39 €) con pareja de reyes",
+      "Asiento 3: Ischadia (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: SrLyce (ciega grande) descartó sin mostrar [6s As]",
+      "Asiento 5: ismagonzalez7 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "6h",
+    "Kd",
+    "9c",
+    "2d",
+    "3h"
+  ],
+  "winner": "aliendee07",
+  "win_amount": 19.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238384922 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:53:14 CET [06-08-2025 12:53:14 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 2 es el botón\nAsiento 6: pauquair5 (1.50 € en fichas) está ausente\nAsiento 1: N3xtTIm35 (2.04 € en fichas) \nAsiento 2: aliendee07 (0.97 € en fichas) \nAsiento 3: Ischadia (1.82 € en fichas) \nAsiento 4: SrLyce (2 € en fichas) \nAsiento 5: ismagonzalez7 (1.82 € en fichas) \nIschadia: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\npauquair5: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6s As]\nismagonzalez7: se retira \nN3xtTIm35: se retira \naliendee07: iguala 0.02 €\nIschadia: se retira \nSrLyce: pasa \n*** FLOP *** [6h Kd 9c]\nSrLyce: pasa \naliendee07: apuesta 0.04 €\nSrLyce: iguala 0.04 €\n*** TURN *** [6h Kd 9c] [2d]\nSrLyce: pasa \naliendee07: apuesta 0.04 €\nSrLyce: iguala 0.04 €\n*** RIVER *** [6h Kd 9c 2d] [3h]\nSrLyce: pasa \naliendee07: apuesta 0.10 €\nSrLyce: iguala 0.10 €\n*** SHOW DOWN ***\naliendee07: muestra [Kc Tc] (pareja de reyes)\nSrLyce: descarta su mano sin mostrar \naliendee07 se lleva 0.39 € del bote \n*** RESUMEN ***\nBote total 0.41 € | Comisión 0.02 € \nComunitarias [6h Kd 9c 2d 3h]\nAsiento 6: pauquair5\nAsiento 1: N3xtTIm35 se retiró antes del Flop (no apostó)\nAsiento 2: aliendee07 (botón) muestra [Kc Tc] y ganó (0.39 €) con pareja de reyes\nAsiento 3: Ischadia (ciega pequeña) se retiró antes del Flop\nAsiento 4: SrLyce (ciega grande) descartó sin mostrar [6s As]\nAsiento 5: ismagonzalez7 se retiró antes del Flop (no apostó)"
+}

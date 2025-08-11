@@ -1,0 +1,29 @@
+Mano n.º 257168388883 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:38:48 CET [01-08-2025 5:38:48 ET]
+Mesa "Jupiter" 6-max El asiento n.º 2 es el botón
+Asiento 1: sifilis5 (2 € en fichas) 
+Asiento 2: Filou203 (2.08 € en fichas) 
+Asiento 3: SrLyce (2.25 € en fichas) 
+Asiento 4: LOLA19711971 (0.80 € en fichas) 
+Asiento 5: dadou13mars (4.18 € en fichas) 
+Asiento 6: Alvii37 (2.35 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+LOLA19711971: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9c 3s]
+dadou13mars: sube 0.04 € a 0.06 €
+Alvii37: se retira 
+sifilis5: se retira 
+Filou203: se retira 
+SrLyce: se retira 
+LOLA19711971: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a dadou13mars
+dadou13mars se lleva 0.05 € del bote 
+dadou13mars: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: sifilis5 se retiró antes del Flop (no apostó)
+Asiento 2: Filou203 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 4: LOLA19711971 (ciega grande) se retiró antes del Flop
+Asiento 5: dadou13mars recaudó (0.05 €)
+Asiento 6: Alvii37 se retiró antes del Flop (no apostó)

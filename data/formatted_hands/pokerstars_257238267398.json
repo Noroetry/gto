@@ -1,0 +1,49 @@
+{
+  "hand_id": "257238267398",
+  "date": "06-08-2025 18:42:55",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2d",
+    "4h"
+  ],
+  "stacks": {
+    "rayao32": 52.0,
+    "SrLyce": 81.0,
+    "Davdgoni": 275.5,
+    "Nicanor Cast": 52.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 6: rayao32 (1.04 € en fichas) está ausente",
+      "Asiento 1: SrLyce (1.62 € en fichas)",
+      "Asiento 2: Davdgoni (5.51 € en fichas)",
+      "Asiento 4: serviettski(fr) (2 € en fichas)",
+      "Asiento 5: Nicanor Cast (1.04 € en fichas)",
+      "Nicanor Cast: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Davdgoni: se retira",
+      "serviettski(fr): sube 0.03 € a 0.05 €",
+      "Nicanor Cast: se retira",
+      "SrLyce: se retira",
+      "serviettski(fr): no muestra su mano",
+      "Asiento 6: rayao32",
+      "Asiento 1: SrLyce (ciega grande) se retiró antes del Flop",
+      "Asiento 2: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 4: serviettski(fr) (botón) recaudó (0.05 €)",
+      "Asiento 5: Nicanor Cast (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "serviettski(fr)",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238267398 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:42:55 CET [06-08-2025 12:42:55 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 4 es el botón\nAsiento 6: rayao32 (1.04 € en fichas) está ausente\nAsiento 1: SrLyce (1.62 € en fichas) \nAsiento 2: Davdgoni (5.51 € en fichas) \nAsiento 4: serviettski(fr) (2 € en fichas) \nAsiento 5: Nicanor Cast (1.04 € en fichas) \nNicanor Cast: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2d 4h]\nDavdgoni: se retira \nserviettski(fr): sube 0.03 € a 0.05 €\nNicanor Cast: se retira \nSrLyce: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a serviettski(fr)\nserviettski(fr) se lleva 0.05 € del bote \nserviettski(fr): no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 6: rayao32\nAsiento 1: SrLyce (ciega grande) se retiró antes del Flop\nAsiento 2: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 4: serviettski(fr) (botón) recaudó (0.05 €)\nAsiento 5: Nicanor Cast (ciega pequeña) se retiró antes del Flop"
+}

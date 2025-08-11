@@ -1,0 +1,38 @@
+Mano n.º 257150060361 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:15:33 CET [30-07-2025 17:15:33 ET]
+Mesa "Lobelia" 6-max El asiento n.º 5 es el botón
+Asiento 1: LeVbks (2.42 € en fichas) 
+Asiento 2: fcis666 (0.94 € en fichas) 
+Asiento 3: Dlaguancha (2 € en fichas) 
+Asiento 4: SrLyce (1.96 € en fichas) 
+Asiento 5: riverluck444 (1.89 € en fichas) 
+LeVbks: pone la ciega pequeña 0.01 €
+fcis666: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jh 2d]
+javipondio se une a la mesa en el asiento n.º 6 
+Dlaguancha: sube 0.02 € a 0.04 €
+SrLyce: se retira 
+riverluck444: se retira 
+LeVbks: iguala 0.03 €
+fcis666: se retira 
+*** FLOP *** [3s 7s Ah]
+LeVbks: pasa 
+Dlaguancha: pasa 
+*** TURN *** [3s 7s Ah] [6d]
+LeVbks: pasa 
+Dlaguancha: pasa 
+*** RIVER *** [3s 7s Ah 6d] [4h]
+LeVbks: pasa 
+Dlaguancha: pasa 
+*** SHOW DOWN ***
+LeVbks: muestra [7d 9h] (pareja de sietes)
+Dlaguancha: descarta su mano sin mostrar 
+LeVbks se lleva 0.09 € del bote 
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0.01 € 
+Comunitarias [3s 7s Ah 6d 4h]
+Asiento 1: LeVbks (ciega pequeña) muestra [7d 9h] y ganó (0.09 €) con pareja de sietes
+Asiento 2: fcis666 (ciega grande) se retiró antes del Flop
+Asiento 3: Dlaguancha descartó sin mostrar [Kh Qs]
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)

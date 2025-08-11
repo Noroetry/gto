@@ -1,0 +1,55 @@
+{
+  "hand_id": "257148993926",
+  "date": "30-07-2025 22:00:12",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Tc",
+    "Ah"
+  ],
+  "stacks": {
+    "Zorgue1080": 72.5,
+    "SrLyce": 179.0,
+    "NoahBolete": 96.5,
+    "Davdgoni": 104.0,
+    "DiaZzZ1": 100.0,
+    "berlcht403": 37.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Zorgue1080 (1.45 € en fichas)",
+      "Asiento 2: SrLyce (3.58 € en fichas)",
+      "Asiento 3: NoahBolete (1.93 € en fichas)",
+      "Asiento 4: Davdgoni (2.08 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2 € en fichas)",
+      "Asiento 6: berlcht403 (0.75 € en fichas)",
+      "berlcht403: pone la ciega pequeña 0.01 €",
+      "Zorgue1080: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "NoahBolete: se retira",
+      "Davdgoni: se retira",
+      "DiaZzZ1: se retira",
+      "berlcht403: se retira",
+      "Zorgue1080: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: Zorgue1080 (ciega grande) se retiró antes del Flop",
+      "Asiento 2: SrLyce recaudó (0.05 €)",
+      "Asiento 3: NoahBolete se retiró antes del Flop (no apostó)",
+      "Asiento 4: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 5: DiaZzZ1 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: berlcht403 (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257148993926 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:00:12 CET [30-07-2025 16:00:12 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 5 es el botón\nAsiento 1: Zorgue1080 (1.45 € en fichas) \nAsiento 2: SrLyce (3.58 € en fichas) \nAsiento 3: NoahBolete (1.93 € en fichas) \nAsiento 4: Davdgoni (2.08 € en fichas) \nAsiento 5: DiaZzZ1 (2 € en fichas) \nAsiento 6: berlcht403 (0.75 € en fichas) \nberlcht403: pone la ciega pequeña 0.01 €\nZorgue1080: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Tc Ah]\nSrLyce: sube 0.04 € a 0.06 €\nNoahBolete: se retira \nDavdgoni: se retira \nDiaZzZ1: se retira \nberlcht403: se retira \nZorgue1080: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.05 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: Zorgue1080 (ciega grande) se retiró antes del Flop\nAsiento 2: SrLyce recaudó (0.05 €)\nAsiento 3: NoahBolete se retiró antes del Flop (no apostó)\nAsiento 4: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 5: DiaZzZ1 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: berlcht403 (ciega pequeña) se retiró antes del Flop"
+}

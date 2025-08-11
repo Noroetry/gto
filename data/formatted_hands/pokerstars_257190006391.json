@@ -1,0 +1,42 @@
+{
+  "hand_id": "257190006391",
+  "date": "03-08-2025 1:01:35",
+  "table": "Polydoros II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2s",
+    "7h"
+  ],
+  "stacks": {
+    "JIglesias37": 99.0,
+    "SrLyce": 145.0,
+    "djulkk421": 80.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: JIglesias37 (1.98 € en fichas)",
+      "Asiento 4: SrLyce (2.90 € en fichas)",
+      "Asiento 6: djulkk421 (1.61 € en fichas)",
+      "JIglesias37: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "djulkk421: se retira",
+      "JIglesias37: sube 0.04 € a 0.06 €",
+      "SrLyce: se retira",
+      "Asiento 1: JIglesias37 (ciega pequeña) recaudó (0.04 €)",
+      "Asiento 4: SrLyce (ciega grande) se retiró antes del Flop",
+      "Asiento 6: djulkk421 (botón) se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "JIglesias37",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257190006391 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 1:01:35 CET [02-08-2025 19:01:35 ET]\nMesa \"Polydoros II\" 6-max El asiento n.º 6 es el botón\nAsiento 1: JIglesias37 (1.98 € en fichas) \nAsiento 4: SrLyce (2.90 € en fichas) \nAsiento 6: djulkk421 (1.61 € en fichas) \nJIglesias37: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2s 7h]\ndjulkk421: se retira \nJIglesias37: sube 0.04 € a 0.06 €\nSrLyce: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a JIglesias37\nJIglesias37 se lleva 0.04 € del bote \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nAsiento 1: JIglesias37 (ciega pequeña) recaudó (0.04 €)\nAsiento 4: SrLyce (ciega grande) se retiró antes del Flop\nAsiento 6: djulkk421 (botón) se retiró antes del Flop (no apostó)"
+}

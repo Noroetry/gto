@@ -1,0 +1,40 @@
+Mano n.º 257215229724 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:32:25 CET [04-08-2025 16:32:25 ET]
+Mesa "Anneliese II" 6-max El asiento n.º 1 es el botón
+Asiento 1: betterrrrrr (2.05 € en fichas) 
+Asiento 2: piropanzer (0.65 € en fichas) 
+Asiento 3: ElManu62 (2.44 € en fichas) 
+Asiento 4: SrLyce (2 € en fichas) 
+Asiento 5: Mr_Pkr98 (2.86 € en fichas) 
+Asiento 6: Spotick (2.65 € en fichas) 
+piropanzer: pone la ciega pequeña 0.01 €
+ElManu62: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Tc 9h]
+SrLyce: se retira 
+Mr_Pkr98: se retira 
+Spotick: se retira 
+betterrrrrr: se retira 
+piropanzer: iguala 0.01 €
+ElManu62: pasa 
+*** FLOP *** [7d 4c Ks]
+piropanzer: pasa 
+ElManu62: pasa 
+*** TURN *** [7d 4c Ks] [4d]
+piropanzer: pasa 
+ElManu62: pasa 
+*** RIVER *** [7d 4c Ks 4d] [3c]
+piropanzer: pasa 
+ElManu62: pasa 
+*** SHOW DOWN ***
+piropanzer: muestra [8d As] (pareja de cuatros)
+ElManu62: descarta su mano sin mostrar 
+piropanzer se lleva 0.04 € del bote 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Comunitarias [7d 4c Ks 4d 3c]
+Asiento 1: betterrrrrr (botón) se retiró antes del Flop (no apostó)
+Asiento 2: piropanzer (ciega pequeña) muestra [8d As] y ganó (0.04 €) con pareja de cuatros
+Asiento 3: ElManu62 (ciega grande) descartó sin mostrar [2c 8h]
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)
+Asiento 6: Spotick se retiró antes del Flop (no apostó)

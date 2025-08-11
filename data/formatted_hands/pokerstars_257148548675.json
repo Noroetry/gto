@@ -1,0 +1,65 @@
+{
+  "hand_id": "257148548675",
+  "date": "30-07-2025 21:27:07",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kh",
+    "7c"
+  ],
+  "stacks": {
+    "SrLyce": 100.0,
+    "christoph363": 182.5,
+    "varvase": 200.5,
+    "Dakoo44": 39.0
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257148548675 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:27:07 CET [30-07-2025 15:27:07 ET]",
+      "Asiento 1: SrLyce (2 € en fichas)",
+      "Asiento 3: christoph363 (3.65 € en fichas)",
+      "Asiento 5: varvase (4.01 € en fichas)",
+      "Asiento 6: Dakoo44 (0.78 € en fichas)",
+      "Dakoo44: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "christoph363: se retira",
+      "varvase: se retira",
+      "Dakoo44: sube 0.04 € a 0.06 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "flop": [
+      "Dakoo44: pasa",
+      "SrLyce: pasa"
+    ],
+    "turn": [
+      "Dakoo44: pasa",
+      "SrLyce: apuesta 0.04 €",
+      "Dakoo44: iguala 0.04 €"
+    ],
+    "river": [
+      "Dakoo44: apuesta 0.16 €",
+      "SrLyce: iguala 0.16 €",
+      "Dakoo44: muestra [3c Ah] (full de ases y damas)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 1: SrLyce (ciega grande) descartó sin mostrar [Kh 7c]",
+      "Asiento 3: christoph363 se retiró antes del Flop (no apostó)",
+      "Asiento 5: varvase (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: Dakoo44 (ciega pequeña) muestra [3c Ah] y ganó (0.49 €) con full de ases y damas"
+    ]
+  },
+  "board": [
+    "As",
+    "Ad",
+    "Qs",
+    "Qh",
+    "5c"
+  ],
+  "winner": "Dakoo44",
+  "win_amount": 24.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.5,
+  "raw_text": "﻿Mano n.º 257148548675 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:27:07 CET [30-07-2025 15:27:07 ET]\nMesa \"Sirona\" 6-max El asiento n.º 5 es el botón\nAsiento 1: SrLyce (2 € en fichas) \nAsiento 3: christoph363 (3.65 € en fichas) \nAsiento 5: varvase (4.01 € en fichas) \nAsiento 6: Dakoo44 (0.78 € en fichas) \nDakoo44: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kh 7c]\nchristoph363: se retira \nvarvase: se retira \nAlfi11111 se une a la mesa en el asiento n.º 2 \nLyya79 se une a la mesa en el asiento n.º 4 \nDakoo44: sube 0.04 € a 0.06 €\nSrLyce: iguala 0.04 €\n*** FLOP *** [As Ad Qs]\nDakoo44: pasa \nSrLyce: pasa \n*** TURN *** [As Ad Qs] [Qh]\nLyya79 deja la mesa\nDakoo44: pasa \nSrLyce: apuesta 0.04 €\nDakoo44: iguala 0.04 €\n*** RIVER *** [As Ad Qs Qh] [5c]\nDakoo44: apuesta 0.16 €\nSrLyce: iguala 0.16 €\n*** SHOW DOWN ***\nDakoo44: muestra [3c Ah] (full de ases y damas)\nSrLyce: descarta su mano sin mostrar \nDakoo44 se lleva 0.49 € del bote \n*** RESUMEN ***\nBote total 0.52 € | Comisión 0.03 € \nComunitarias [As Ad Qs Qh 5c]\nAsiento 1: SrLyce (ciega grande) descartó sin mostrar [Kh 7c]\nAsiento 3: christoph363 se retiró antes del Flop (no apostó)\nAsiento 5: varvase (botón) se retiró antes del Flop (no apostó)\nAsiento 6: Dakoo44 (ciega pequeña) muestra [3c Ah] y ganó (0.49 €) con full de ases y damas"
+}

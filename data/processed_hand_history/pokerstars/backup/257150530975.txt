@@ -1,0 +1,39 @@
+Mano n.º 257150530975 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:48:35 CET [30-07-2025 17:48:35 ET]
+Mesa "Mizuho" 6-max El asiento n.º 5 es el botón
+Asiento 1: benipoker123 (2.58 € en fichas) 
+Asiento 2: SrLyce (1.89 € en fichas) 
+Asiento 3: JstLeonel (2.30 € en fichas) 
+Asiento 4: Ozzy3110 (5.95 € en fichas) 
+Asiento 5: toonsy2010 (1.86 € en fichas) 
+Asiento 6: mivipkr (3.31 € en fichas) 
+mivipkr: pone la ciega pequeña 0.01 €
+benipoker123: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4s 3s]
+SrLyce: sube 0.04 € a 0.06 €
+JstLeonel: se retira 
+Ozzy3110: sube 0.08 € a 0.14 €
+toonsy2010: se retira 
+mivipkr: sube 0.28 € a 0.42 €
+benipoker123: sube 2.16 € a 2.58 € y está all-in
+SrLyce: iguala 1.83 € y está all-in
+Ozzy3110: se retira 
+mivipkr: iguala 2.16 €
+*** FLOP *** [9h 4h 4d]
+*** TURN *** [9h 4h 4d] [9c]
+*** RIVER *** [9h 4h 4d 9c] [Ts]
+*** SHOW DOWN ***
+mivipkr: muestra [Qd Qs] (doble pareja, damas y nueves)
+benipoker123: muestra [Kc Ad] (doble pareja, nueves y cuatros)
+mivipkr se lleva 1.38 € del bote  secundario
+SrLyce: muestra [4s 3s] (full de cuatros y nueves)
+SrLyce se lleva 5.56 € del bote  principal
+*** RESUMEN ***
+Bote total 7.19 € Bote principal 5.56 €. Bote secundario 1.38 €. | Comisión 0.25 € 
+Comunitarias [9h 4h 4d 9c Ts]
+Asiento 1: benipoker123 (ciega grande) muestra [Kc Ad] y perdió con doble pareja, nueves y cuatros
+Asiento 2: SrLyce muestra [4s 3s] y ganó (5.56 €) con full de cuatros y nueves
+Asiento 3: JstLeonel se retiró antes del Flop (no apostó)
+Asiento 4: Ozzy3110 se retiró antes del Flop
+Asiento 5: toonsy2010 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: mivipkr (ciega pequeña) muestra [Qd Qs] y ganó (1.38 €) con doble pareja, damas y nueves

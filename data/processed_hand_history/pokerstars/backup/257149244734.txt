@@ -1,0 +1,33 @@
+Mano n.º 257149244734 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:18:14 CET [30-07-2025 16:18:14 ET]
+Mesa "Leverrier" 6-max El asiento n.º 2 es el botón
+Asiento 1: adrian15540 (1.78 € en fichas) 
+Asiento 2: SrLyce (2.05 € en fichas) 
+Asiento 3: igonpar (1.96 € en fichas) 
+Asiento 4: futur64 (1.93 € en fichas) 
+Asiento 5: denkweise (2.04 € en fichas) 
+Asiento 6: NaruchoH1 (2.31 € en fichas) 
+igonpar: pone la ciega pequeña 0.01 €
+futur64: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ah Qs]
+denkweise: se retira 
+NaruchoH1: se retira 
+adrian15540: iguala 0.02 €
+SrLyce: sube 0.04 € a 0.06 €
+igonpar: se retira 
+futur64: se retira 
+adrian15540: iguala 0.04 €
+*** FLOP *** [8d 9c Td]
+adrian15540: apuesta 0.14 €
+SrLyce: se retira 
+La apuesta no igualada (0.14 €) ha sido devuelta a adrian15540
+adrian15540 se lleva 0.14 € del bote 
+*** RESUMEN ***
+Bote total 0.15 € | Comisión 0.01 € 
+Comunitarias [8d 9c Td]
+Asiento 1: adrian15540 recaudó (0.14 €)
+Asiento 2: SrLyce (botón) se retiró en el Flop
+Asiento 3: igonpar (ciega pequeña) se retiró antes del Flop
+Asiento 4: futur64 (ciega grande) se retiró antes del Flop
+Asiento 5: denkweise se retiró antes del Flop (no apostó)
+Asiento 6: NaruchoH1 se retiró antes del Flop (no apostó)

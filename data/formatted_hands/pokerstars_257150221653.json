@@ -1,0 +1,72 @@
+{
+  "hand_id": "257150221653",
+  "date": "30-07-2025 23:26:43",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Js",
+    "7s"
+  ],
+  "stacks": {
+    "riverrrrrrmagic": 123.5,
+    "SrLyce": 108.0,
+    "Jumby34": 100.0,
+    "xapkk": 100.0,
+    "samaritano34": 90.5,
+    "Fretzo67500": 128.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: riverrrrrrmagic (2.47 € en fichas)",
+      "Asiento 2: SrLyce (2.16 € en fichas)",
+      "Asiento 3: Jumby34 (2 € en fichas)",
+      "Asiento 4: xapkk (2 € en fichas)",
+      "Asiento 5: samaritano34 (1.81 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.57 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Jumby34: pone la ciega grande 0.02 €",
+      "xapkk: se retira",
+      "samaritano34: se retira",
+      "Fretzo67500: sube 0.06 € a 0.08 €",
+      "riverrrrrrmagic: se retira",
+      "SrLyce: se retira",
+      "Jumby34: iguala 0.06 €"
+    ],
+    "flop": [
+      "Jumby34: pasa",
+      "Fretzo67500: apuesta 0.16 €",
+      "Jumby34: iguala 0.16 €"
+    ],
+    "turn": [
+      "Jumby34: pasa",
+      "Fretzo67500: pasa"
+    ],
+    "river": [
+      "Jumby34: apuesta 0.12 €",
+      "Fretzo67500: iguala 0.12 €",
+      "Jumby34: muestra [9h 9d] (pareja de nueves)",
+      "Fretzo67500: muestra [Kh Tc] (pareja de dieces)",
+      "Asiento 1: riverrrrrrmagic (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: Jumby34 (ciega grande) muestra [9h 9d] y perdió con pareja de nueves",
+      "Asiento 4: xapkk se retiró antes del Flop (no apostó)",
+      "Asiento 5: samaritano34 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Fretzo67500 muestra [Kh Tc] y ganó (0.69 €) con pareja de dieces"
+    ]
+  },
+  "board": [
+    "Th",
+    "4d",
+    "6c",
+    "Qs",
+    "2c"
+  ],
+  "winner": "Fretzo67500",
+  "win_amount": 34.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257150221653 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:26:43 CET [30-07-2025 17:26:43 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 1 es el botón\nAsiento 1: riverrrrrrmagic (2.47 € en fichas) \nAsiento 2: SrLyce (2.16 € en fichas) \nAsiento 3: Jumby34 (2 € en fichas) \nAsiento 4: xapkk (2 € en fichas) \nAsiento 5: samaritano34 (1.81 € en fichas) \nAsiento 6: Fretzo67500 (2.57 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nJumby34: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Js 7s]\nxapkk: se retira \nsamaritano34: se retira \nFretzo67500: sube 0.06 € a 0.08 €\nriverrrrrrmagic: se retira \nSrLyce: se retira \nJumby34: iguala 0.06 €\n*** FLOP *** [Th 4d 6c]\nJumby34: pasa \nFretzo67500: apuesta 0.16 €\nJumby34: iguala 0.16 €\n*** TURN *** [Th 4d 6c] [Qs]\nJumby34: pasa \nFretzo67500: pasa \n*** RIVER *** [Th 4d 6c Qs] [2c]\nJumby34: apuesta 0.12 €\nFretzo67500: iguala 0.12 €\n*** SHOW DOWN ***\nJumby34: muestra [9h 9d] (pareja de nueves)\nFretzo67500: muestra [Kh Tc] (pareja de dieces)\nFretzo67500 se lleva 0.69 € del bote \n*** RESUMEN ***\nBote total 0.73 € | Comisión 0.04 € \nComunitarias [Th 4d 6c Qs 2c]\nAsiento 1: riverrrrrrmagic (botón) se retiró antes del Flop (no apostó)\nAsiento 2: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 3: Jumby34 (ciega grande) muestra [9h 9d] y perdió con pareja de nueves\nAsiento 4: xapkk se retiró antes del Flop (no apostó)\nAsiento 5: samaritano34 se retiró antes del Flop (no apostó)\nAsiento 6: Fretzo67500 muestra [Kh Tc] y ganó (0.69 €) con pareja de dieces"
+}

@@ -1,0 +1,48 @@
+Mano n.º 257150470655 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:44:11 CET [30-07-2025 17:44:11 ET]
+Mesa "Mizuho" 6-max El asiento n.º 6 es el botón
+Asiento 1: benipoker123 (1.92 € en fichas) 
+Asiento 2: SrLyce (1.90 € en fichas) 
+Asiento 3: JstLeonel (2.34 € en fichas) 
+Asiento 4: Ozzy3110 (4.77 € en fichas) 
+Asiento 5: toonsy2010 (3.26 € en fichas) 
+Asiento 6: mivipkr (3.33 € en fichas) 
+benipoker123: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qc As]
+JstLeonel: se retira 
+Ozzy3110: sube 0.03 € a 0.05 €
+toonsy2010: iguala 0.05 €
+mivipkr: se retira 
+benipoker123: se retira 
+SrLyce: sube 0.05 € a 0.10 €
+Ozzy3110: iguala 0.05 €
+toonsy2010: iguala 0.05 €
+*** FLOP *** [5c Jd 9d]
+SrLyce: pasa 
+Ozzy3110: apuesta 0.10 €
+toonsy2010: iguala 0.10 €
+SrLyce: iguala 0.10 €
+*** TURN *** [5c Jd 9d] [Js]
+SrLyce: pasa 
+Ozzy3110: apuesta 0.19 €
+toonsy2010: iguala 0.19 €
+SrLyce: iguala 0.19 €
+*** RIVER *** [5c Jd 9d Js] [3h]
+SrLyce: pasa 
+Ozzy3110: apuesta 0.83 €
+toonsy2010: iguala 0.83 €
+SrLyce: se retira 
+*** SHOW DOWN ***
+Ozzy3110: muestra [Jc Qh] (trío de jotas)
+toonsy2010: descarta su mano sin mostrar 
+Ozzy3110 se lleva 2.67 € del bote 
+*** RESUMEN ***
+Bote total 2.84 € | Comisión 0.17 € 
+Comunitarias [5c Jd 9d Js 3h]
+Asiento 1: benipoker123 (ciega pequeña) se retiró antes del Flop
+Asiento 2: SrLyce (ciega grande) se retiró en el River
+Asiento 3: JstLeonel se retiró antes del Flop (no apostó)
+Asiento 4: Ozzy3110 muestra [Jc Qh] y ganó (2.67 €) con trío de jotas
+Asiento 5: toonsy2010 descartó sin mostrar [Jh 8d]
+Asiento 6: mivipkr (botón) se retiró antes del Flop (no apostó)

@@ -1,0 +1,38 @@
+Mano n.º 257236880479 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel II (50/100) - 06-08-2025 17:18:12 CET [06-08-2025 11:18:12 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 3 es el botón
+Asiento 1: SrLyce (1220 en fichas) 
+Asiento 3: Jimyelkaiser (970 en fichas) 
+Asiento 5: heretik2b (410 en fichas) 
+Asiento 6: joaquinrecle67 (690 en fichas) 
+Asiento 7: Bernesaragon (710 en fichas) 
+SrLyce: pone el ante 20
+Jimyelkaiser: pone el ante 20
+heretik2b: pone el ante 20
+joaquinrecle67: pone el ante 20
+Bernesaragon: pone el ante 20
+heretik2b: pone la ciega pequeña 50
+joaquinrecle67: pone la ciega grande 100
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qh 4d]
+Bernesaragon: iguala 100
+SrLyce: se retira 
+Jimyelkaiser: se retira 
+heretik2b: sube 290 a 390 y está all-in
+joaquinrecle67: iguala 290
+Bernesaragon: se retira 
+*** FLOP *** [2c Th Kc]
+*** TURN *** [2c Th Kc] [4h]
+*** RIVER *** [2c Th Kc 4h] [9d]
+*** SHOW DOWN ***
+heretik2b: muestra [7c 7d] (pareja de sietes)
+joaquinrecle67: muestra [Ac Tc] (pareja de dieces)
+joaquinrecle67 se lleva 980 del bote 
+heretik2b ha finalizado el torneo en 5.º posición
+*** RESUMEN ***
+Bote total 980 | Comisión 0 
+Comunitarias [2c Th Kc 4h 9d]
+Asiento 1: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: Jimyelkaiser (botón) se retiró antes del Flop (no apostó)
+Asiento 5: heretik2b (ciega pequeña) muestra [7c 7d] y perdió con pareja de sietes
+Asiento 6: joaquinrecle67 (ciega grande) muestra [Ac Tc] y ganó (980) con pareja de dieces
+Asiento 7: Bernesaragon se retiró antes del Flop

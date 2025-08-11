@@ -1,0 +1,42 @@
+Mano n.º 257149092600 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:07:28 CET [30-07-2025 16:07:28 ET]
+Mesa "Esclangona" 6-max El asiento n.º 4 es el botón
+Asiento 1: Zorgue1080 (1.35 € en fichas) 
+Asiento 2: SrLyce (3.60 € en fichas) 
+Asiento 3: NoahBolete (1.96 € en fichas) 
+Asiento 4: Davdgoni (2.29 € en fichas) 
+Asiento 5: DiaZzZ1 (1.87 € en fichas) 
+DiaZzZ1: pone la ciega pequeña 0.01 €
+Zorgue1080: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jh Kd]
+Cuka Fab se une a la mesa en el asiento n.º 6 
+SrLyce: sube 0.04 € a 0.06 €
+Cuka Fab deja la mesa
+NoahBolete: sube 0.12 € a 0.18 €
+Davdgoni: se retira 
+DiaZzZ1: se retira 
+Zorgue1080: se retira 
+SrLyce: iguala 0.12 €
+*** FLOP *** [2d Js 5h]
+SrLyce: pasa 
+NoahBolete: apuesta 0.11 €
+SrLyce: iguala 0.11 €
+*** TURN *** [2d Js 5h] [Qs]
+SrLyce: pasa 
+NoahBolete: apuesta 0.29 €
+SrLyce: iguala 0.29 €
+*** RIVER *** [2d Js 5h Qs] [Qh]
+SrLyce: pasa 
+NoahBolete: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [Jh Kd] (doble pareja, damas y jotas)
+NoahBolete: muestra [As Ac] (doble pareja, ases y damas)
+NoahBolete se lleva 1.12 € del bote 
+*** RESUMEN ***
+Bote total 1.19 € | Comisión 0.07 € 
+Comunitarias [2d Js 5h Qs Qh]
+Asiento 1: Zorgue1080 (ciega grande) se retiró antes del Flop
+Asiento 2: SrLyce muestra [Jh Kd] y perdió con doble pareja, damas y jotas
+Asiento 3: NoahBolete muestra [As Ac] y ganó (1.12 €) con doble pareja, ases y damas
+Asiento 4: Davdgoni (botón) se retiró antes del Flop (no apostó)
+Asiento 5: DiaZzZ1 (ciega pequeña) se retiró antes del Flop

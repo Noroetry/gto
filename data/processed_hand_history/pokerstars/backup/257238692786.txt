@@ -1,0 +1,40 @@
+Mano n.º 257238692786 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:21:09 CET [06-08-2025 13:21:09 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 5 es el botón
+Asiento 1: Alceo27 (2.22 € en fichas) 
+Asiento 2: aliendee07 (0.86 € en fichas) 
+Asiento 3: Macklemore0 (2.10 € en fichas) 
+Asiento 4: SrLyce (2.67 € en fichas) 
+Asiento 5: ismagonzalez7 (0.92 € en fichas) 
+Asiento 6: McFlash3 (2 € en fichas) 
+McFlash3: pone la ciega pequeña 0.01 €
+Alceo27: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3h 6s]
+aliendee07: se retira 
+Macklemore0: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+ismagonzalez7: se retira 
+McFlash3: iguala 0.05 €
+Alceo27: se retira 
+*** FLOP *** [8h Qd Kc]
+McFlash3: pasa 
+Macklemore0: pasa 
+*** TURN *** [8h Qd Kc] [4d]
+McFlash3: pasa 
+Macklemore0: pasa 
+*** RIVER *** [8h Qd Kc 4d] [6c]
+McFlash3: pasa 
+Macklemore0: pasa 
+*** SHOW DOWN ***
+McFlash3: muestra [9c 7c] (carta alta rey)
+Macklemore0: muestra [Jc Js] (pareja de jotas)
+Macklemore0 se lleva 0.13 € del bote 
+*** RESUMEN ***
+Bote total 0.14 € | Comisión 0.01 € 
+Comunitarias [8h Qd Kc 4d 6c]
+Asiento 1: Alceo27 (ciega grande) se retiró antes del Flop
+Asiento 2: aliendee07 se retiró antes del Flop (no apostó)
+Asiento 3: Macklemore0 muestra [Jc Js] y ganó (0.13 €) con pareja de jotas
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: ismagonzalez7 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: McFlash3 (ciega pequeña) muestra [9c 7c] y perdió con carta alta rey

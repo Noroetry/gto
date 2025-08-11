@@ -1,0 +1,67 @@
+{
+  "hand_id": "257237919804",
+  "date": "06-08-2025 18:11:54",
+  "table": "Nuwa III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ts",
+    "Qh"
+  ],
+  "stacks": {
+    "JGDOBLAS": 100.0,
+    "xododo": 40.0,
+    "BuXHexter": 101.0,
+    "kcg_rm": 104.0,
+    "SrLyce": 104.5,
+    "acavada": 104.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 5: JGDOBLAS (2 € en fichas) está ausente",
+      "Asiento 1: xododo (0.80 € en fichas)",
+      "Asiento 2: BuXHexter (2.02 € en fichas)",
+      "Asiento 3: kcg_rm (2.08 € en fichas)",
+      "Asiento 4: SrLyce (2.09 € en fichas)",
+      "Asiento 6: acavada (2.09 € en fichas)",
+      "kcg_rm: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "JGDOBLAS: se ausenta",
+      "xododo: pone la ciega grande 0.02 €",
+      "acavada: se retira",
+      "xododo: pasa",
+      "BuXHexter: se retira",
+      "kcg_rm: se retira",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "xododo: pasa"
+    ],
+    "turn": [
+      "SrLyce: apuesta 0.02 €",
+      "xododo: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 5: JGDOBLAS",
+      "Asiento 1: xododo se retiró en el Turn (no apostó)",
+      "Asiento 2: BuXHexter (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: kcg_rm (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: SrLyce (ciega grande) recaudó (0.05 €)",
+      "Asiento 6: acavada se retiró antes del Flop (no apostó)"
+    ],
+    "river": []
+  },
+  "board": [
+    "3c",
+    "Ad",
+    "4d",
+    "Qc"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237919804 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:11:54 CET [06-08-2025 12:11:54 ET]\nMesa \"Nuwa III\" 6-max El asiento n.º 2 es el botón\nAsiento 5: JGDOBLAS (2 € en fichas) está ausente\nAsiento 1: xododo (0.80 € en fichas) \nAsiento 2: BuXHexter (2.02 € en fichas) \nAsiento 3: kcg_rm (2.08 € en fichas) \nAsiento 4: SrLyce (2.09 € en fichas) \nAsiento 6: acavada (2.09 € en fichas) \nkcg_rm: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\nJGDOBLAS: se ausenta \nxododo: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ts Qh]\nJGDOBLAS deja la mesa\nacavada: se retira \nxododo: pasa \nBuXHexter: se retira \nkcg_rm: se retira \nSrLyce: pasa \n*** FLOP *** [3c Ad 4d]\nSrLyce: pasa \nxododo: pasa \n*** TURN *** [3c Ad 4d] [Qc]\nSrLyce: apuesta 0.02 €\nxododo: se retira \nLa apuesta no igualada (0.02 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.05 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nComunitarias [3c Ad 4d Qc]\nAsiento 5: JGDOBLAS\nAsiento 1: xododo se retiró en el Turn (no apostó)\nAsiento 2: BuXHexter (botón) se retiró antes del Flop (no apostó)\nAsiento 3: kcg_rm (ciega pequeña) se retiró antes del Flop\nAsiento 4: SrLyce (ciega grande) recaudó (0.05 €)\nAsiento 6: acavada se retiró antes del Flop (no apostó)"
+}

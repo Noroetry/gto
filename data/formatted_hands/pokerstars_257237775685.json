@@ -1,0 +1,52 @@
+{
+  "hand_id": "257237775685",
+  "date": "06-08-2025 17:57:17",
+  "table": "Virtus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7d",
+    "4d"
+  ],
+  "stacks": {
+    "Kingzilla87": 169.5,
+    "SrLyce": 96.5,
+    "pullup0": 37.5,
+    "JGDOBLAS": 100.0,
+    "don.corle": 140.5,
+    "rudik34385": 105.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Kingzilla87 (3.39 € en fichas) está ausente",
+      "Asiento 2: SrLyce (1.93 € en fichas)",
+      "Asiento 3: pullup0 (0.75 € en fichas)",
+      "Asiento 4: JGDOBLAS (2 € en fichas)",
+      "Asiento 5: don.corle (2.81 € en fichas)",
+      "Asiento 6: rudik34385 (2.11 € en fichas)",
+      "don.corle: pone la ciega pequeña 0.01 €",
+      "rudik34385: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "pullup0: se retira",
+      "JGDOBLAS: se retira",
+      "don.corle: se retira",
+      "Asiento 1: Kingzilla87",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: pullup0 se retiró antes del Flop (no apostó)",
+      "Asiento 4: JGDOBLAS (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: don.corle (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: rudik34385 (ciega grande) recaudó (0.02 €)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "rudik34385",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237775685 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:57:17 CET [06-08-2025 11:57:17 ET]\nMesa \"Virtus\" 6-max El asiento n.º 4 es el botón\nAsiento 1: Kingzilla87 (3.39 € en fichas) está ausente\nAsiento 2: SrLyce (1.93 € en fichas) \nAsiento 3: pullup0 (0.75 € en fichas) \nAsiento 4: JGDOBLAS (2 € en fichas) \nAsiento 5: don.corle (2.81 € en fichas) \nAsiento 6: rudik34385 (2.11 € en fichas) \ndon.corle: pone la ciega pequeña 0.01 €\nrudik34385: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7d 4d]\nSrLyce: se retira \npullup0: se retira \nJGDOBLAS: se retira \ndon.corle: se retira \nLa apuesta no igualada (0.01 €) ha sido devuelta a rudik34385\nrudik34385 se lleva 0.02 € del bote \n*** RESUMEN ***\nBote total 0.02 € | Comisión 0 € \nAsiento 1: Kingzilla87\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: pullup0 se retiró antes del Flop (no apostó)\nAsiento 4: JGDOBLAS (botón) se retiró antes del Flop (no apostó)\nAsiento 5: don.corle (ciega pequeña) se retiró antes del Flop\nAsiento 6: rudik34385 (ciega grande) recaudó (0.02 €)"
+}

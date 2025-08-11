@@ -1,0 +1,32 @@
+Mano n.º 257190000741 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 1:01:06 CET [02-08-2025 19:01:06 ET]
+Mesa "Polydoros II" 6-max El asiento n.º 4 es el botón
+Asiento 1: JIglesias37 (2 € en fichas) 
+Asiento 4: SrLyce (2.90 € en fichas) 
+Asiento 6: djulkk421 (1.59 € en fichas) 
+djulkk421: pone la ciega pequeña 0.01 €
+JIglesias37 tiene conexión 
+JIglesias37: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3s 8s]
+SrLyce: se retira 
+djulkk421: iguala 0.01 €
+JIglesias37: pasa 
+*** FLOP *** [As 8c Td]
+djulkk421: pasa 
+JIglesias37: pasa 
+*** TURN *** [As 8c Td] [8d]
+djulkk421: pasa 
+JIglesias37: pasa 
+*** RIVER *** [As 8c Td 8d] [2h]
+djulkk421: pasa 
+JIglesias37: pasa 
+*** SHOW DOWN ***
+djulkk421: muestra [Js Qh] (pareja de ochos)
+JIglesias37: descarta su mano sin mostrar 
+djulkk421 se lleva 0.04 € del bote 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Comunitarias [As 8c Td 8d 2h]
+Asiento 1: JIglesias37 (ciega grande) descartó sin mostrar [6s 5s]
+Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 6: djulkk421 (ciega pequeña) muestra [Js Qh] y ganó (0.04 €) con pareja de ochos

@@ -1,0 +1,66 @@
+{
+  "hand_id": "257168267524",
+  "date": "01-08-2025 11:16:11",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qc",
+    "Jd"
+  ],
+  "stacks": {
+    "erCampos23": 42.5,
+    "SrLyce": 96.0,
+    "Fharock": 93.5,
+    "ecuinas": 98.5,
+    "LxckxStrxkx": 100.0,
+    "Akourdideh": 112.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 5: erCampos23 (0.85 € en fichas) está ausente",
+      "Asiento 1: SrLyce (1.92 € en fichas)",
+      "Asiento 2: Fharock (1.87 € en fichas)",
+      "Asiento 3: ecuinas (1.97 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2 € en fichas)",
+      "Asiento 6: Akourdideh (2.24 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Fharock: pone la ciega grande 0.02 €",
+      "erCampos23: se ausenta",
+      "ecuinas: se retira",
+      "LxckxStrxkx: se retira",
+      "Akourdideh: sube 0.04 € a 0.06 €",
+      "SrLyce: iguala 0.05 €",
+      "Fharock: se retira"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "Akourdideh: pasa"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "Akourdideh: apuesta 0.07 €",
+      "SrLyce: se retira",
+      "Asiento 5: erCampos23",
+      "Asiento 1: SrLyce (ciega pequeña) se retiró en el Turn",
+      "Asiento 2: Fharock (ciega grande) se retiró antes del Flop",
+      "Asiento 3: ecuinas se retiró antes del Flop (no apostó)",
+      "Asiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)",
+      "Asiento 6: Akourdideh (botón) recaudó (0.13 €)"
+    ],
+    "river": []
+  },
+  "board": [
+    "4c",
+    "8c",
+    "8d",
+    "Ah"
+  ],
+  "winner": "Akourdideh",
+  "win_amount": 6.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257168267524 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:16:11 CET [01-08-2025 5:16:11 ET]\nMesa \"Atlas\" 6-max El asiento n.º 6 es el botón\nAsiento 5: erCampos23 (0.85 € en fichas) está ausente\nAsiento 1: SrLyce (1.92 € en fichas) \nAsiento 2: Fharock (1.87 € en fichas) \nAsiento 3: ecuinas (1.97 € en fichas) \nAsiento 4: LxckxStrxkx (2 € en fichas) \nAsiento 6: Akourdideh (2.24 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nFharock: pone la ciega grande 0.02 €\nerCampos23: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qc Jd]\necuinas: se retira \nLxckxStrxkx: se retira \nAkourdideh: sube 0.04 € a 0.06 €\nSrLyce: iguala 0.05 €\nFharock: se retira \n*** FLOP *** [4c 8c 8d]\nSrLyce: pasa \nAkourdideh: pasa \n*** TURN *** [4c 8c 8d] [Ah]\nSrLyce: pasa \nAkourdideh: apuesta 0.07 €\nSrLyce: se retira \nLa apuesta no igualada (0.07 €) ha sido devuelta a Akourdideh\nAkourdideh se lleva 0.13 € del bote \n*** RESUMEN ***\nBote total 0.14 € | Comisión 0.01 € \nComunitarias [4c 8c 8d Ah]\nAsiento 5: erCampos23\nAsiento 1: SrLyce (ciega pequeña) se retiró en el Turn\nAsiento 2: Fharock (ciega grande) se retiró antes del Flop\nAsiento 3: ecuinas se retiró antes del Flop (no apostó)\nAsiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)\nAsiento 6: Akourdideh (botón) recaudó (0.13 €)"
+}

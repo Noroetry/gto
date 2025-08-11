@@ -1,0 +1,73 @@
+{
+  "hand_id": "257238325850",
+  "date": "06-08-2025 18:48:02",
+  "table": "Aidamina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ts",
+    "Tc"
+  ],
+  "stacks": {
+    "GarciaTT416": 100.0,
+    "McFlash3": 102.5,
+    "niyomalo": 125.5,
+    "durahimovic": 133.5,
+    "JustWin9960": 108.0,
+    "SrLyce": 83.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: GarciaTT416 (2 € en fichas)",
+      "Asiento 2: McFlash3 (2.05 € en fichas)",
+      "Asiento 3: niyomalo (2.51 € en fichas)",
+      "Asiento 4: durahimovic (2.67 € en fichas)",
+      "Asiento 5: JustWin9960 (2.16 € en fichas)",
+      "Asiento 6: SrLyce (1.66 € en fichas)",
+      "niyomalo: pone la ciega pequeña 0.01 €",
+      "durahimovic: pone la ciega grande 0.02 €",
+      "JustWin9960: sube 0.02 € a 0.04 €",
+      "SrLyce: sube 0.08 € a 0.12 €",
+      "GarciaTT416: se retira",
+      "McFlash3: se retira",
+      "niyomalo: iguala 0.11 €",
+      "durahimovic: se retira",
+      "JustWin9960: iguala 0.08 €"
+    ],
+    "flop": [
+      "niyomalo: pasa",
+      "JustWin9960: pasa",
+      "SrLyce: apuesta 0.12 €",
+      "niyomalo: se retira",
+      "JustWin9960: sube 0.12 € a 0.24 €",
+      "SrLyce: sube 0.42 € a 0.66 €",
+      "JustWin9960: sube 1.38 € a 2.04 € y está all-in",
+      "SrLyce: iguala 0.88 € y está all-in"
+    ],
+    "turn": [],
+    "river": [
+      "JustWin9960: muestra [Ac 8c] (doble pareja, ochos y cuatros)",
+      "SrLyce: muestra [Ts Tc] (full de dieces y cuatros)",
+      "Asiento 1: GarciaTT416 se retiró antes del Flop (no apostó)",
+      "Asiento 2: McFlash3 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: niyomalo (ciega pequeña) se retiró en el Flop",
+      "Asiento 4: durahimovic (ciega grande) se retiró antes del Flop",
+      "Asiento 5: JustWin9960 muestra [Ac 8c] y perdió con doble pareja, ochos y cuatros",
+      "Asiento 6: SrLyce muestra [Ts Tc] y ganó (3.25 €) con full de dieces y cuatros"
+    ]
+  },
+  "board": [
+    "4c",
+    "Td",
+    "4d",
+    "7s",
+    "8s"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 162.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 10.5,
+  "raw_text": "Mano n.º 257238325850 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:48:02 CET [06-08-2025 12:48:02 ET]\nMesa \"Aidamina II\" 6-max El asiento n.º 2 es el botón\nAsiento 1: GarciaTT416 (2 € en fichas) \nAsiento 2: McFlash3 (2.05 € en fichas) \nAsiento 3: niyomalo (2.51 € en fichas) \nAsiento 4: durahimovic (2.67 € en fichas) \nAsiento 5: JustWin9960 (2.16 € en fichas) \nAsiento 6: SrLyce (1.66 € en fichas) \nniyomalo: pone la ciega pequeña 0.01 €\ndurahimovic: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ts Tc]\nJustWin9960: sube 0.02 € a 0.04 €\nSrLyce: sube 0.08 € a 0.12 €\nGarciaTT416: se retira \nMcFlash3: se retira \nniyomalo: iguala 0.11 €\ndurahimovic: se retira \nJustWin9960: iguala 0.08 €\n*** FLOP *** [4c Td 4d]\nniyomalo: pasa \nJustWin9960: pasa \nSrLyce: apuesta 0.12 €\nniyomalo: se retira \nJustWin9960: sube 0.12 € a 0.24 €\nSrLyce: sube 0.42 € a 0.66 €\nJustWin9960: sube 1.38 € a 2.04 € y está all-in\nSrLyce: iguala 0.88 € y está all-in\nLa apuesta no igualada (0.50 €) ha sido devuelta a JustWin9960\n*** TURN *** [4c Td 4d] [7s]\n*** RIVER *** [4c Td 4d 7s] [8s]\n*** SHOW DOWN ***\nJustWin9960: muestra [Ac 8c] (doble pareja, ochos y cuatros)\nSrLyce: muestra [Ts Tc] (full de dieces y cuatros)\nSrLyce se lleva 3.25 € del bote \n*** RESUMEN ***\nBote total 3.46 € | Comisión 0.21 € \nComunitarias [4c Td 4d 7s 8s]\nAsiento 1: GarciaTT416 se retiró antes del Flop (no apostó)\nAsiento 2: McFlash3 (botón) se retiró antes del Flop (no apostó)\nAsiento 3: niyomalo (ciega pequeña) se retiró en el Flop\nAsiento 4: durahimovic (ciega grande) se retiró antes del Flop\nAsiento 5: JustWin9960 muestra [Ac 8c] y perdió con doble pareja, ochos y cuatros\nAsiento 6: SrLyce muestra [Ts Tc] y ganó (3.25 €) con full de dieces y cuatros"
+}

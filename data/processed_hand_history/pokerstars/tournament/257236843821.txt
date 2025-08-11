@@ -1,0 +1,59 @@
+﻿Mano n.º 257236843821 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel I (25/50) - 06-08-2025 17:14:35 CET [06-08-2025 11:14:35 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (500 en fichas) 
+Asiento 2: sylvyb (500 en fichas) 
+Asiento 3: Jimyelkaiser (500 en fichas) 
+Asiento 4: soriano73 (500 en fichas) 
+Asiento 5: heretik2b (500 en fichas) 
+Asiento 6: joaquinrecle67 (500 en fichas) 
+Asiento 7: Bernesaragon (500 en fichas) 
+Asiento 8: Zweimoncuvo (500 en fichas) 
+SrLyce: pone el ante 10
+sylvyb: pone el ante 10
+Jimyelkaiser: pone el ante 10
+soriano73: pone el ante 10
+heretik2b: pone el ante 10
+joaquinrecle67: pone el ante 10
+Bernesaragon: pone el ante 10
+Zweimoncuvo: pone el ante 10
+sylvyb: pone la ciega pequeña 25
+Jimyelkaiser: pone la ciega grande 50
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jd 4s]
+soriano73: se retira 
+heretik2b: se retira 
+joaquinrecle67: iguala 50
+Bernesaragon: se retira 
+Zweimoncuvo: se retira 
+SrLyce: se retira 
+sylvyb: iguala 25
+Jimyelkaiser: pasa 
+*** FLOP *** [9c 6h 3s]
+sylvyb: pasa 
+Jimyelkaiser: pasa 
+joaquinrecle67: pasa 
+*** TURN *** [9c 6h 3s] [5s]
+sylvyb: pasa 
+Zweimoncuvo está ausente
+Jimyelkaiser: pasa 
+joaquinrecle67: pasa 
+*** RIVER *** [9c 6h 3s 5s] [Ad]
+sylvyb: pasa 
+Jimyelkaiser: pasa 
+joaquinrecle67: apuesta 100
+sylvyb: se retira 
+Jimyelkaiser: se retira 
+La apuesta no igualada (100) ha sido devuelta a joaquinrecle67
+joaquinrecle67 se lleva 230 del bote 
+joaquinrecle67: no muestra su mano 
+*** RESUMEN ***
+Bote total 230 | Comisión 0 
+Comunitarias [9c 6h 3s 5s Ad]
+Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 2: sylvyb (ciega pequeña) se retiró en el River
+Asiento 3: Jimyelkaiser (ciega grande) se retiró en el River
+Asiento 4: soriano73 se retiró antes del Flop (no apostó)
+Asiento 5: heretik2b se retiró antes del Flop (no apostó)
+Asiento 6: joaquinrecle67 recaudó (230)
+Asiento 7: Bernesaragon se retiró antes del Flop (no apostó)
+Asiento 8: Zweimoncuvo se retiró antes del Flop (no apostó)

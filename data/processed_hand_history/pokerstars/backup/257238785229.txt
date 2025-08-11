@@ -1,0 +1,44 @@
+Mano n.º 257238785229 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:28:50 CET [06-08-2025 13:28:50 ET]
+Mesa "Leonteus" 6-max El asiento n.º 5 es el botón
+Asiento 3: FalcoNaumani (2 € en fichas) está ausente
+Asiento 1: practikal_C23 (0.97 € en fichas) 
+Asiento 2: niyomalo (2.03 € en fichas) 
+Asiento 4: BuXHexter (3.23 € en fichas) 
+Asiento 5: Andark47 (4.18 € en fichas) 
+Asiento 6: SrLyce (1.46 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+practikal_C23: pone la ciega grande 0.02 €
+FalcoNaumani: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9c Ks]
+niyomalo: se retira 
+BuXHexter: se retira 
+Andark47: sube 0.03 € a 0.05 €
+SrLyce: iguala 0.04 €
+practikal_C23: sube 0.05 € a 0.10 €
+Andark47: se retira 
+SrLyce: iguala 0.05 €
+*** FLOP *** [3d 9d Tc]
+SrLyce: pasa 
+practikal_C23: apuesta 0.06 €
+SrLyce: iguala 0.06 €
+*** TURN *** [3d 9d Tc] [6d]
+SrLyce: pasa 
+practikal_C23: apuesta 0.06 €
+SrLyce: iguala 0.06 €
+*** RIVER *** [3d 9d Tc 6d] [6c]
+SrLyce: apuesta 0.23 €
+practikal_C23: iguala 0.23 €
+*** SHOW DOWN ***
+SrLyce: muestra [9c Ks] (doble pareja, nueves y seises)
+practikal_C23: muestra [As Ad] (doble pareja, ases y seises)
+practikal_C23 se lleva 0.89 € del bote 
+*** RESUMEN ***
+Bote total 0.95 € | Comisión 0.06 € 
+Comunitarias [3d 9d Tc 6d 6c]
+Asiento 3: FalcoNaumani
+Asiento 1: practikal_C23 (ciega grande) muestra [As Ad] y ganó (0.89 €) con doble pareja, ases y seises
+Asiento 2: niyomalo se retiró antes del Flop (no apostó)
+Asiento 4: BuXHexter se retiró antes del Flop (no apostó)
+Asiento 5: Andark47 (botón) se retiró antes del Flop
+Asiento 6: SrLyce (ciega pequeña) muestra [9c Ks] y perdió con doble pareja, nueves y seises

@@ -1,0 +1,78 @@
+{
+  "hand_id": "257237727125",
+  "date": "06-08-2025 17:52:08",
+  "table": "Freia III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5d",
+    "Ts"
+  ],
+  "stacks": {
+    "TrueJungleman": 100.0,
+    "SrLyce": 100.0,
+    "BenjaminUrda": 63.0,
+    "Dralex777978": 36.5,
+    "Leskai17": 82.5,
+    "psycadra": 50.0
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257237727125 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:52:08 CET [06-08-2025 11:52:08 ET]",
+      "Asiento 3: TrueJungleman (2 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2 € en fichas)",
+      "Asiento 2: BenjaminUrda (1.26 € en fichas)",
+      "Asiento 4: Dralex777978 (0.73 € en fichas)",
+      "Asiento 5: Leskai17 (1.65 € en fichas)",
+      "Asiento 6: psycadra (1 € en fichas)",
+      "psycadra: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "TrueJungleman: se ausenta",
+      "BenjaminUrda: se retira",
+      "Dralex777978: sube 0.02 € a 0.04 €",
+      "Leskai17: se retira",
+      "psycadra: iguala 0.03 €",
+      "SrLyce: iguala 0.02 €"
+    ],
+    "flop": [
+      "psycadra: pasa",
+      "SrLyce: pasa",
+      "Dralex777978: pasa"
+    ],
+    "turn": [
+      "psycadra: pasa",
+      "SrLyce: pasa",
+      "Dralex777978: apuesta 0.10 €",
+      "psycadra: iguala 0.10 €",
+      "SrLyce: iguala 0.10 €"
+    ],
+    "river": [
+      "psycadra: pasa",
+      "SrLyce: pasa",
+      "Dralex777978: pasa",
+      "psycadra: muestra [9c Js] (carta alta as)",
+      "SrLyce: muestra [5d Ts] (pareja de dieces)",
+      "Dralex777978: muestra [Jc Td] (pareja de dieces - as+dama+jota kicker)",
+      "Asiento 3: TrueJungleman",
+      "Asiento 1: SrLyce (ciega grande) muestra [5d Ts] y perdió con pareja de dieces",
+      "Asiento 2: BenjaminUrda se retiró antes del Flop (no apostó)",
+      "Asiento 4: Dralex777978 muestra [Jc Td] y ganó (0.39 €) con pareja de dieces",
+      "Asiento 5: Leskai17 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: psycadra (ciega pequeña) muestra [9c Js] y perdió con carta alta as"
+    ]
+  },
+  "board": [
+    "7c",
+    "2c",
+    "As",
+    "Tc",
+    "Qs"
+  ],
+  "winner": "Dralex777978",
+  "win_amount": 19.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.5,
+  "raw_text": "﻿Mano n.º 257237727125 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:52:08 CET [06-08-2025 11:52:08 ET]\nMesa \"Freia III\" 6-max El asiento n.º 5 es el botón\nAsiento 3: TrueJungleman (2 € en fichas) está ausente\nAsiento 1: SrLyce (2 € en fichas) \nAsiento 2: BenjaminUrda (1.26 € en fichas) \nAsiento 4: Dralex777978 (0.73 € en fichas) \nAsiento 5: Leskai17 (1.65 € en fichas) \nAsiento 6: psycadra (1 € en fichas) \npsycadra: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\nTrueJungleman tiene conexión \nTrueJungleman: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5d Ts]\nBenjaminUrda: se retira \nDralex777978: sube 0.02 € a 0.04 €\nLeskai17: se retira \npsycadra: iguala 0.03 €\nSrLyce: iguala 0.02 €\n*** FLOP *** [7c 2c As]\npsycadra: pasa \nTrueJungleman deja la mesa\nSrLyce: pasa \nDralex777978: pasa \n*** TURN *** [7c 2c As] [Tc]\npsycadra: pasa \nSrLyce: pasa \nDralex777978: apuesta 0.10 €\npsycadra: iguala 0.10 €\nSrLyce: iguala 0.10 €\n*** RIVER *** [7c 2c As Tc] [Qs]\npsycadra: pasa \nSrLyce: pasa \nDralex777978: pasa \n*** SHOW DOWN ***\npsycadra: muestra [9c Js] (carta alta as)\nSrLyce: muestra [5d Ts] (pareja de dieces)\nDralex777978: muestra [Jc Td] (pareja de dieces - as+dama+jota kicker)\nDralex777978 se lleva 0.39 € del bote \n*** RESUMEN ***\nBote total 0.42 € | Comisión 0.03 € \nComunitarias [7c 2c As Tc Qs]\nAsiento 3: TrueJungleman\nAsiento 1: SrLyce (ciega grande) muestra [5d Ts] y perdió con pareja de dieces\nAsiento 2: BenjaminUrda se retiró antes del Flop (no apostó)\nAsiento 4: Dralex777978 muestra [Jc Td] y ganó (0.39 €) con pareja de dieces\nAsiento 5: Leskai17 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: psycadra (ciega pequeña) muestra [9c Js] y perdió con carta alta as"
+}

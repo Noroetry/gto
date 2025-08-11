@@ -1,0 +1,50 @@
+Mano n.º 257236852710 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel I (25/50) - 06-08-2025 17:15:28 CET [06-08-2025 11:15:28 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 2 es el botón
+Asiento 1: SrLyce (490 en fichas) 
+Asiento 2: sylvyb (440 en fichas) 
+Asiento 3: Jimyelkaiser (440 en fichas) 
+Asiento 4: soriano73 (490 en fichas) 
+Asiento 5: heretik2b (490 en fichas) 
+Asiento 6: joaquinrecle67 (670 en fichas) 
+Asiento 7: Bernesaragon (490 en fichas) 
+Asiento 8: Zweimoncuvo (490 en fichas) está ausente
+SrLyce: pone el ante 10
+sylvyb: pone el ante 10
+Jimyelkaiser: pone el ante 10
+soriano73: pone el ante 10
+heretik2b: pone el ante 10
+joaquinrecle67: pone el ante 10
+Bernesaragon: pone el ante 10
+Zweimoncuvo: pone el ante 10
+Jimyelkaiser: pone la ciega pequeña 25
+soriano73: pone la ciega grande 50
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6c 4h]
+heretik2b: sube 430 a 480 y está all-in
+joaquinrecle67: se retira 
+Bernesaragon: se retira 
+Zweimoncuvo: se retira 
+Zweimoncuvo ha vuelto
+SrLyce: se retira 
+sylvyb: se retira 
+Jimyelkaiser: iguala 405 y está all-in
+soriano73: se retira 
+La apuesta no igualada (50) ha sido devuelta a heretik2b
+*** FLOP *** [2h 5s 3d]
+*** TURN *** [2h 5s 3d] [5h]
+*** RIVER *** [2h 5s 3d 5h] [6h]
+*** SHOW DOWN ***
+Jimyelkaiser: muestra [Ts Td] (doble pareja, dieces y cincos)
+heretik2b: muestra [As 9d] (pareja de cincos)
+Jimyelkaiser se lleva 990 del bote 
+*** RESUMEN ***
+Bote total 990 | Comisión 0 
+Comunitarias [2h 5s 3d 5h 6h]
+Asiento 1: SrLyce se retiró antes del Flop (no apostó)
+Asiento 2: sylvyb (botón) se retiró antes del Flop (no apostó)
+Asiento 3: Jimyelkaiser (ciega pequeña) muestra [Ts Td] y ganó (990) con doble pareja, dieces y cincos
+Asiento 4: soriano73 (ciega grande) se retiró antes del Flop
+Asiento 5: heretik2b muestra [As 9d] y perdió con pareja de cincos
+Asiento 6: joaquinrecle67 se retiró antes del Flop (no apostó)
+Asiento 7: Bernesaragon se retiró antes del Flop (no apostó)
+Asiento 8: Zweimoncuvo se retiró antes del Flop (no apostó)

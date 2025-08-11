@@ -1,0 +1,54 @@
+Mano n.º 257149229305 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:17:09 CET [30-07-2025 16:17:09 ET]
+Mesa "Esclangona" 6-max El asiento n.º 1 es el botón
+Asiento 1: ansiedadd (0.89 € en fichas) 
+Asiento 2: SrLyce (1.74 € en fichas) 
+Asiento 3: NoahBolete (2.61 € en fichas) 
+Asiento 4: Davdgoni (4.72 € en fichas) 
+Asiento 5: DiaZzZ1 (1.93 € en fichas) 
+Asiento 6: elketefaka1 (1.77 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+NoahBolete: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8s Ac]
+Davdgoni: sube 0.05 € a 0.07 €
+DiaZzZ1: se retira 
+elketefaka1: iguala 0.07 €
+ansiedadd: iguala 0.07 €
+Davdgoni no tiene conexión 
+SrLyce: iguala 0.06 €
+NoahBolete: sube 0.08 € a 0.15 €
+Davdgoni: iguala 0.08 €
+elketefaka1: iguala 0.08 €
+ansiedadd: se retira 
+SrLyce: iguala 0.08 €
+*** FLOP *** [As 5d 8c]
+SrLyce: pasa 
+NoahBolete: pasa 
+Davdgoni: pasa 
+elketefaka1: pasa 
+*** TURN *** [As 5d 8c] [Ks]
+SrLyce: apuesta 0.32 €
+NoahBolete: se retira 
+Davdgoni: iguala 0.32 €
+elketefaka1: iguala 0.32 €
+*** RIVER *** [As 5d 8c Ks] [Th]
+SrLyce: pasa 
+Davdgoni: pasa 
+elketefaka1: apuesta 1.30 € y está all-in
+SrLyce: iguala 1.27 € y está all-in
+Davdgoni: se retira 
+La apuesta no igualada (0.03 €) ha sido devuelta a elketefaka1
+Davdgoni deja la mesa
+*** SHOW DOWN ***
+elketefaka1: muestra [6d 7d] (carta alta as)
+SrLyce: muestra [8s Ac] (doble pareja, ases y ochos)
+SrLyce se lleva 3.92 € del bote 
+*** RESUMEN ***
+Bote total 4.17 € | Comisión 0.25 € 
+Comunitarias [As 5d 8c Ks Th]
+Asiento 1: ansiedadd (botón) se retiró antes del Flop
+Asiento 2: SrLyce (ciega pequeña) muestra [8s Ac] y ganó (3.92 €) con doble pareja, ases y ochos
+Asiento 3: NoahBolete (ciega grande) se retiró en el Turn
+Asiento 4: Davdgoni se retiró en el River
+Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)
+Asiento 6: elketefaka1 muestra [6d 7d] y perdió con carta alta as

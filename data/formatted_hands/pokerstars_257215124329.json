@@ -1,0 +1,71 @@
+{
+  "hand_id": "257215124329",
+  "date": "04-08-2025 22:25:53",
+  "table": "Anneliese II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9s",
+    "7d"
+  ],
+  "stacks": {
+    "betterrrrrr": 100.0,
+    "piropanzer": 50.5,
+    "ElManu62": 116.5,
+    "SrLyce": 102.0,
+    "Mr_Pkr98": 136.0,
+    "Spotick": 115.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: betterrrrrr (2 € en fichas)",
+      "Asiento 2: piropanzer (1.01 € en fichas)",
+      "Asiento 3: ElManu62 (2.33 € en fichas)",
+      "Asiento 4: SrLyce (2.04 € en fichas)",
+      "Asiento 5: Mr_Pkr98 (2.72 € en fichas)",
+      "Asiento 6: Spotick (2.30 € en fichas)",
+      "piropanzer: pone la ciega pequeña 0.01 €",
+      "ElManu62: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Mr_Pkr98: se retira",
+      "Spotick: se retira",
+      "betterrrrrr: se retira",
+      "piropanzer: iguala 0.01 €",
+      "ElManu62: pasa"
+    ],
+    "flop": [
+      "piropanzer: pasa",
+      "ElManu62: pasa"
+    ],
+    "turn": [
+      "piropanzer: pasa",
+      "ElManu62: pasa"
+    ],
+    "river": [
+      "piropanzer: pasa",
+      "ElManu62: pasa",
+      "piropanzer: muestra [2c Kc] (carta alta as)",
+      "ElManu62: muestra [Tc Kd] (pareja de dieces)",
+      "Asiento 1: betterrrrrr (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: piropanzer (ciega pequeña) muestra [2c Kc] y perdió con carta alta as",
+      "Asiento 3: ElManu62 (ciega grande) muestra [Tc Kd] y ganó (0.04 €) con pareja de dieces",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Spotick se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "6d",
+    "4h",
+    "3h",
+    "Td",
+    "Ad"
+  ],
+  "winner": "ElManu62",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257215124329 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:25:53 CET [04-08-2025 16:25:53 ET]\nMesa \"Anneliese II\" 6-max El asiento n.º 1 es el botón\nAsiento 1: betterrrrrr (2 € en fichas) \nAsiento 2: piropanzer (1.01 € en fichas) \nAsiento 3: ElManu62 (2.33 € en fichas) \nAsiento 4: SrLyce (2.04 € en fichas) \nAsiento 5: Mr_Pkr98 (2.72 € en fichas) \nAsiento 6: Spotick (2.30 € en fichas) \npiropanzer: pone la ciega pequeña 0.01 €\nElManu62: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9s 7d]\nSrLyce: se retira \nMr_Pkr98: se retira \nSpotick: se retira \nbetterrrrrr: se retira \npiropanzer: iguala 0.01 €\nElManu62: pasa \n*** FLOP *** [6d 4h 3h]\npiropanzer: pasa \nElManu62: pasa \n*** TURN *** [6d 4h 3h] [Td]\npiropanzer: pasa \nElManu62: pasa \n*** RIVER *** [6d 4h 3h Td] [Ad]\npiropanzer: pasa \nElManu62: pasa \n*** SHOW DOWN ***\npiropanzer: muestra [2c Kc] (carta alta as)\nElManu62: muestra [Tc Kd] (pareja de dieces)\nElManu62 se lleva 0.04 € del bote \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nComunitarias [6d 4h 3h Td Ad]\nAsiento 1: betterrrrrr (botón) se retiró antes del Flop (no apostó)\nAsiento 2: piropanzer (ciega pequeña) muestra [2c Kc] y perdió con carta alta as\nAsiento 3: ElManu62 (ciega grande) muestra [Tc Kd] y ganó (0.04 €) con pareja de dieces\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)\nAsiento 6: Spotick se retiró antes del Flop (no apostó)"
+}

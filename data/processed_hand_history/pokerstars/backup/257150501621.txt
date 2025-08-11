@@ -1,0 +1,44 @@
+Mano n.º 257150501621 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:46:26 CET [30-07-2025 17:46:26 ET]
+Mesa "Martha" 6-max El asiento n.º 2 es el botón
+Asiento 4: Sigiilo (2.05 € en fichas) está ausente
+Asiento 1: mivipkr (2.09 € en fichas) 
+Asiento 2: NovacaineZxc (2.83 € en fichas) 
+Asiento 3: BudyXXIII (2.25 € en fichas) 
+Asiento 5: SrLyce (1.49 € en fichas) 
+Asiento 6: alexfw300 (2.01 € en fichas) 
+BudyXXIII: pone la ciega pequeña 0.01 €
+Sigiilo: está ausente 
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2h Ah]
+alexfw300: se retira 
+mivipkr: se retira 
+NovacaineZxc: sube 0.06 € a 0.08 €
+Sigiilo deja la mesa
+BudyXXIII: sube 0.10 € a 0.18 €
+SrLyce: iguala 0.16 €
+NovacaineZxc: iguala 0.10 €
+*** FLOP *** [5c 7d 4d]
+BudyXXIII: apuesta 0.15 €
+SrLyce: iguala 0.15 €
+NovacaineZxc: se retira 
+*** TURN *** [5c 7d 4d] [3s]
+BudyXXIII: pasa 
+SrLyce: apuesta 0.40 €
+BudyXXIII: iguala 0.40 €
+*** RIVER *** [5c 7d 4d 3s] [7c]
+BudyXXIII: pasa 
+SrLyce: apuesta 0.76 € y está all-in
+BudyXXIII: se retira 
+La apuesta no igualada (0.76 €) ha sido devuelta a SrLyce
+SrLyce se lleva 1.54 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 1.64 € | Comisión 0.10 € 
+Comunitarias [5c 7d 4d 3s 7c]
+Asiento 4: Sigiilo
+Asiento 1: mivipkr se retiró antes del Flop (no apostó)
+Asiento 2: NovacaineZxc (botón) se retiró en el Flop
+Asiento 3: BudyXXIII (ciega pequeña) se retiró en el River
+Asiento 5: SrLyce (ciega grande) recaudó (1.54 €)
+Asiento 6: alexfw300 se retiró antes del Flop (no apostó)

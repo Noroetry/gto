@@ -1,0 +1,44 @@
+Mano n.º 257168242005 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:11:08 CET [01-08-2025 5:11:08 ET]
+Mesa "Jupiter" 6-max El asiento n.º 6 es el botón
+Asiento 1: sifilis5 (1.77 € en fichas) 
+Asiento 2: Filou203 (2.34 € en fichas) 
+Asiento 3: SrLyce (2.31 € en fichas) 
+Asiento 4: LOLA19711971 (0.52 € en fichas) 
+Asiento 5: dadou13mars (4.50 € en fichas) 
+Asiento 6: Alvii37 (1.92 € en fichas) 
+sifilis5: pone la ciega pequeña 0.01 €
+Filou203: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4d 3d]
+SrLyce ha agotado su tiempo
+SrLyce: se retira 
+LOLA19711971: iguala 0.02 €
+dadou13mars: se retira 
+Alvii37: se retira 
+sifilis5: iguala 0.01 €
+Filou203: pasa 
+*** FLOP *** [7h 7s 9h]
+sifilis5: pasa 
+Filou203: pasa 
+LOLA19711971: apuesta 0.03 €
+sifilis5: iguala 0.03 €
+Filou203: se retira 
+*** TURN *** [7h 7s 9h] [Th]
+sifilis5: pasa 
+LOLA19711971: apuesta 0.06 €
+sifilis5: iguala 0.06 €
+*** RIVER *** [7h 7s 9h Th] [7c]
+sifilis5: pasa 
+LOLA19711971: apuesta 0.23 €
+sifilis5: se retira 
+La apuesta no igualada (0.23 €) ha sido devuelta a LOLA19711971
+LOLA19711971 se lleva 0.23 € del bote 
+*** RESUMEN ***
+Bote total 0.24 € | Comisión 0.01 € 
+Comunitarias [7h 7s 9h Th 7c]
+Asiento 1: sifilis5 (ciega pequeña) se retiró en el River
+Asiento 2: Filou203 (ciega grande) se retiró en el Flop
+Asiento 3: SrLyce se retiró antes del Flop (no apostó)
+Asiento 4: LOLA19711971 recaudó (0.23 €)
+Asiento 5: dadou13mars se retiró antes del Flop (no apostó)
+Asiento 6: Alvii37 (botón) se retiró antes del Flop (no apostó)

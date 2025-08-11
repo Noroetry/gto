@@ -1,0 +1,50 @@
+Mano n.º 257237802017 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:00:33 CET [06-08-2025 12:00:33 ET]
+Mesa "Atreus" 6-max El asiento n.º 4 es el botón
+Asiento 1: PrendsCa (2.24 € en fichas) 
+Asiento 2: NRules82 (1.44 € en fichas) 
+Asiento 3: JENOFONTE73 (2.46 € en fichas) 
+Asiento 4: JGDOBLAS (1.84 € en fichas) 
+Asiento 5: SrLyce (2.38 € en fichas) 
+Asiento 6: FishamanReggae (0.98 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+FishamanReggae: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ks Jc]
+PrendsCa: se retira 
+NRules82: sube 0.02 € a 0.04 €
+JENOFONTE73: se retira 
+JGDOBLAS: sube 0.08 € a 0.12 €
+SrLyce: iguala 0.11 €
+FishamanReggae: se retira 
+NRules82: iguala 0.08 €
+*** FLOP *** [Jd Ts 2h]
+SrLyce: pasa 
+NRules82: pasa 
+JGDOBLAS: apuesta 0.12 €
+SrLyce: iguala 0.12 €
+NRules82: iguala 0.12 €
+*** TURN *** [Jd Ts 2h] [7c]
+SrLyce: pasa 
+NRules82: pasa 
+JGDOBLAS: apuesta 0.34 €
+SrLyce: iguala 0.34 €
+NRules82: iguala 0.34 €
+*** RIVER *** [Jd Ts 2h 7c] [Td]
+SrLyce: pasa 
+NRules82: pasa 
+JGDOBLAS: apuesta 1.26 € y está all-in
+SrLyce: iguala 1.26 €
+NRules82: se retira 
+*** SHOW DOWN ***
+JGDOBLAS: muestra [Tc Th] (poker de dieces)
+SrLyce: muestra [Ks Jc] (doble pareja, jotas y dieces)
+JGDOBLAS se lleva 4.03 € del bote 
+*** RESUMEN ***
+Bote total 4.28 € | Comisión 0.25 € 
+Comunitarias [Jd Ts 2h 7c Td]
+Asiento 1: PrendsCa se retiró antes del Flop (no apostó)
+Asiento 2: NRules82 se retiró en el River
+Asiento 3: JENOFONTE73 se retiró antes del Flop (no apostó)
+Asiento 4: JGDOBLAS (botón) muestra [Tc Th] y ganó (4.03 €) con poker de dieces
+Asiento 5: SrLyce (ciega pequeña) muestra [Ks Jc] y perdió con doble pareja, jotas y dieces
+Asiento 6: FishamanReggae (ciega grande) se retiró antes del Flop

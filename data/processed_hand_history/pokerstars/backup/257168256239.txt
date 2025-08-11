@@ -1,0 +1,35 @@
+Mano n.º 257168256239 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:13:58 CET [01-08-2025 5:13:58 ET]
+Mesa "Atlas" 6-max El asiento n.º 6 es el botón
+Asiento 1: SrLyce (2.01 € en fichas) 
+Asiento 2: Fharock (2 € en fichas) 
+Asiento 6: Akourdideh (1.99 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+Fharock: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9d Js]
+Akourdideh: sube 0.04 € a 0.06 €
+SrLyce: iguala 0.05 €
+Fharock: iguala 0.04 €
+*** FLOP *** [Ad 4d 6d]
+ecuinas se une a la mesa en el asiento n.º 3 
+SrLyce: pasa 
+Fharock: pasa 
+Akourdideh: pasa 
+*** TURN *** [Ad 4d 6d] [5h]
+SrLyce: pasa 
+Fharock: apuesta 0.09 €
+Akourdideh: iguala 0.09 €
+SrLyce: se retira 
+*** RIVER *** [Ad 4d 6d 5h] [Jc]
+Fharock: pasa 
+Akourdideh: pasa 
+*** SHOW DOWN ***
+Fharock: muestra [7c 7s] (pareja de sietes)
+Akourdideh: muestra [Ah 3s] (pareja de ases)
+Akourdideh se lleva 0.34 € del bote 
+*** RESUMEN ***
+Bote total 0.36 € | Comisión 0.02 € 
+Comunitarias [Ad 4d 6d 5h Jc]
+Asiento 1: SrLyce (ciega pequeña) se retiró en el Turn
+Asiento 2: Fharock (ciega grande) muestra [7c 7s] y perdió con pareja de sietes
+Asiento 6: Akourdideh (botón) muestra [Ah 3s] y ganó (0.34 €) con pareja de ases

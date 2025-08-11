@@ -1,0 +1,54 @@
+{
+  "hand_id": "257237875502",
+  "date": "06-08-2025 18:07:46",
+  "table": "Euneus III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ad",
+    "6h"
+  ],
+  "stacks": {
+    "christgear": 100.0,
+    "djrojas9": 154.5,
+    "Il_BM00": 99.5,
+    "JGDOBLAS": 98.5,
+    "SrLyce": 109.0,
+    "Begoton": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: christgear (2 € en fichas) está ausente",
+      "Asiento 3: djrojas9 (3.09 € en fichas) está ausente",
+      "Asiento 2: Il_BM00 (1.99 € en fichas)",
+      "Asiento 4: JGDOBLAS (1.97 € en fichas)",
+      "Asiento 5: SrLyce (2.18 € en fichas)",
+      "Asiento 6: Begoton (2 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Begoton: pone la ciega grande 0.02 €",
+      "christgear: se ausenta",
+      "Il_BM00: se retira",
+      "JGDOBLAS: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "Begoton: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: christgear",
+      "Asiento 3: djrojas9",
+      "Asiento 2: Il_BM00 se retiró antes del Flop (no apostó)",
+      "Asiento 4: JGDOBLAS (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: SrLyce (ciega pequeña) recaudó (0.04 €)",
+      "Asiento 6: Begoton (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237875502 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:07:46 CET [06-08-2025 12:07:46 ET]\nMesa \"Euneus III\" 6-max El asiento n.º 4 es el botón\nAsiento 1: christgear (2 € en fichas) está ausente\nAsiento 3: djrojas9 (3.09 € en fichas) está ausente\nAsiento 2: Il_BM00 (1.99 € en fichas) \nAsiento 4: JGDOBLAS (1.97 € en fichas) \nAsiento 5: SrLyce (2.18 € en fichas) \nAsiento 6: Begoton (2 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nBegoton: pone la ciega grande 0.02 €\nchristgear: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ad 6h]\nIl_BM00: se retira \nJGDOBLAS: se retira \nSrLyce: sube 0.03 € a 0.05 €\nBegoton: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.04 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nAsiento 1: christgear\nAsiento 3: djrojas9\nAsiento 2: Il_BM00 se retiró antes del Flop (no apostó)\nAsiento 4: JGDOBLAS (botón) se retiró antes del Flop (no apostó)\nAsiento 5: SrLyce (ciega pequeña) recaudó (0.04 €)\nAsiento 6: Begoton (ciega grande) se retiró antes del Flop"
+}

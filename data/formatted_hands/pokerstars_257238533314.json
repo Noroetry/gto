@@ -1,0 +1,72 @@
+{
+  "hand_id": "257238533314",
+  "date": "06-08-2025 19:07:46",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ks",
+    "4s"
+  ],
+  "stacks": {
+    "Macklemore0": 100.0,
+    "N3xtTIm35": 124.0,
+    "aliendee07": 60.0,
+    "SrLyce": 97.5,
+    "ismagonzalez7": 61.0,
+    "pauquair5": 71.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: Macklemore0 (2 € en fichas) está ausente",
+      "Asiento 1: N3xtTIm35 (2.48 € en fichas)",
+      "Asiento 2: aliendee07 (1.20 € en fichas)",
+      "Asiento 4: SrLyce (1.95 € en fichas)",
+      "Asiento 5: ismagonzalez7 (1.22 € en fichas)",
+      "Asiento 6: pauquair5 (1.43 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "ismagonzalez7: pone la ciega grande 0.02 €",
+      "pauquair5: se retira",
+      "N3xtTIm35: se retira",
+      "aliendee07: se retira",
+      "SrLyce: iguala 0.01 €",
+      "ismagonzalez7: pasa"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.02 €",
+      "ismagonzalez7: sube 0.04 € a 0.06 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "ismagonzalez7: apuesta 0.08 €",
+      "SrLyce: iguala 0.08 €"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "ismagonzalez7: apuesta 0.15 €",
+      "SrLyce: se retira",
+      "ismagonzalez7: no muestra su mano",
+      "Asiento 3: Macklemore0",
+      "Asiento 1: N3xtTIm35 se retiró antes del Flop (no apostó)",
+      "Asiento 2: aliendee07 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce (ciega pequeña) se retiró en el River",
+      "Asiento 5: ismagonzalez7 (ciega grande) recaudó (0.30 €)",
+      "Asiento 6: pauquair5 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "5h",
+    "Ac",
+    "Kh",
+    "2c",
+    "Jh"
+  ],
+  "winner": "ismagonzalez7",
+  "win_amount": 15.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238533314 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:07:46 CET [06-08-2025 13:07:46 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 2 es el botón\nAsiento 3: Macklemore0 (2 € en fichas) está ausente\nAsiento 1: N3xtTIm35 (2.48 € en fichas) \nAsiento 2: aliendee07 (1.20 € en fichas) \nAsiento 4: SrLyce (1.95 € en fichas) \nAsiento 5: ismagonzalez7 (1.22 € en fichas) \nAsiento 6: pauquair5 (1.43 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nismagonzalez7: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ks 4s]\npauquair5: se retira \nN3xtTIm35: se retira \naliendee07: se retira \nSrLyce: iguala 0.01 €\nismagonzalez7: pasa \n*** FLOP *** [5h Ac Kh]\nSrLyce: apuesta 0.02 €\nismagonzalez7: sube 0.04 € a 0.06 €\nSrLyce: iguala 0.04 €\n*** TURN *** [5h Ac Kh] [2c]\nSrLyce: pasa \nismagonzalez7: apuesta 0.08 €\nSrLyce: iguala 0.08 €\n*** RIVER *** [5h Ac Kh 2c] [Jh]\nSrLyce: pasa \nismagonzalez7: apuesta 0.15 €\nSrLyce: se retira \nLa apuesta no igualada (0.15 €) ha sido devuelta a ismagonzalez7\nismagonzalez7 se lleva 0.30 € del bote \nismagonzalez7: no muestra su mano \n*** RESUMEN ***\nBote total 0.32 € | Comisión 0.02 € \nComunitarias [5h Ac Kh 2c Jh]\nAsiento 3: Macklemore0\nAsiento 1: N3xtTIm35 se retiró antes del Flop (no apostó)\nAsiento 2: aliendee07 (botón) se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce (ciega pequeña) se retiró en el River\nAsiento 5: ismagonzalez7 (ciega grande) recaudó (0.30 €)\nAsiento 6: pauquair5 se retiró antes del Flop (no apostó)"
+}

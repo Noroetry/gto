@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238692786",
+  "date": "06-08-2025 19:21:09",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "6s"
+  ],
+  "stacks": {
+    "Alceo27": 111.0,
+    "aliendee07": 43.0,
+    "Macklemore0": 105.0,
+    "SrLyce": 133.5,
+    "ismagonzalez7": 46.0,
+    "McFlash3": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Alceo27 (2.22 € en fichas)",
+      "Asiento 2: aliendee07 (0.86 € en fichas)",
+      "Asiento 3: Macklemore0 (2.10 € en fichas)",
+      "Asiento 4: SrLyce (2.67 € en fichas)",
+      "Asiento 5: ismagonzalez7 (0.92 € en fichas)",
+      "Asiento 6: McFlash3 (2 € en fichas)",
+      "McFlash3: pone la ciega pequeña 0.01 €",
+      "Alceo27: pone la ciega grande 0.02 €",
+      "aliendee07: se retira",
+      "Macklemore0: sube 0.04 € a 0.06 €",
+      "SrLyce: se retira",
+      "ismagonzalez7: se retira",
+      "McFlash3: iguala 0.05 €",
+      "Alceo27: se retira"
+    ],
+    "flop": [
+      "McFlash3: pasa",
+      "Macklemore0: pasa"
+    ],
+    "turn": [
+      "McFlash3: pasa",
+      "Macklemore0: pasa"
+    ],
+    "river": [
+      "McFlash3: pasa",
+      "Macklemore0: pasa",
+      "McFlash3: muestra [9c 7c] (carta alta rey)",
+      "Macklemore0: muestra [Jc Js] (pareja de jotas)",
+      "Asiento 1: Alceo27 (ciega grande) se retiró antes del Flop",
+      "Asiento 2: aliendee07 se retiró antes del Flop (no apostó)",
+      "Asiento 3: Macklemore0 muestra [Jc Js] y ganó (0.13 €) con pareja de jotas",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: ismagonzalez7 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: McFlash3 (ciega pequeña) muestra [9c 7c] y perdió con carta alta rey"
+    ]
+  },
+  "board": [
+    "8h",
+    "Qd",
+    "Kc",
+    "4d",
+    "6c"
+  ],
+  "winner": "Macklemore0",
+  "win_amount": 6.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238692786 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:21:09 CET [06-08-2025 13:21:09 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 5 es el botón\nAsiento 1: Alceo27 (2.22 € en fichas) \nAsiento 2: aliendee07 (0.86 € en fichas) \nAsiento 3: Macklemore0 (2.10 € en fichas) \nAsiento 4: SrLyce (2.67 € en fichas) \nAsiento 5: ismagonzalez7 (0.92 € en fichas) \nAsiento 6: McFlash3 (2 € en fichas) \nMcFlash3: pone la ciega pequeña 0.01 €\nAlceo27: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h 6s]\naliendee07: se retira \nMacklemore0: sube 0.04 € a 0.06 €\nSrLyce: se retira \nismagonzalez7: se retira \nMcFlash3: iguala 0.05 €\nAlceo27: se retira \n*** FLOP *** [8h Qd Kc]\nMcFlash3: pasa \nMacklemore0: pasa \n*** TURN *** [8h Qd Kc] [4d]\nMcFlash3: pasa \nMacklemore0: pasa \n*** RIVER *** [8h Qd Kc 4d] [6c]\nMcFlash3: pasa \nMacklemore0: pasa \n*** SHOW DOWN ***\nMcFlash3: muestra [9c 7c] (carta alta rey)\nMacklemore0: muestra [Jc Js] (pareja de jotas)\nMacklemore0 se lleva 0.13 € del bote \n*** RESUMEN ***\nBote total 0.14 € | Comisión 0.01 € \nComunitarias [8h Qd Kc 4d 6c]\nAsiento 1: Alceo27 (ciega grande) se retiró antes del Flop\nAsiento 2: aliendee07 se retiró antes del Flop (no apostó)\nAsiento 3: Macklemore0 muestra [Jc Js] y ganó (0.13 €) con pareja de jotas\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: ismagonzalez7 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: McFlash3 (ciega pequeña) muestra [9c 7c] y perdió con carta alta rey"
+}

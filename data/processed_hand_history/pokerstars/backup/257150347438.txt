@@ -1,0 +1,36 @@
+Mano n.º 257150347438 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:35:25 CET [30-07-2025 17:35:25 ET]
+Mesa "Martha" 6-max El asiento n.º 3 es el botón
+Asiento 4: Sigiilo (2 € en fichas) está ausente
+Asiento 1: mivipkr (2.07 € en fichas) 
+Asiento 2: NovacaineZxc (2.40 € en fichas) 
+Asiento 3: BudyXXIII (2.11 € en fichas) 
+Asiento 5: SrLyce (1.95 € en fichas) 
+Asiento 6: coyallen (1.95 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+coyallen: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6s Kc]
+mivipkr: se retira 
+NovacaineZxc: sube 0.04 € a 0.06 €
+BudyXXIII: se retira 
+SrLyce: se retira 
+coyallen: iguala 0.04 €
+*** FLOP *** [Ts 9h 9c]
+coyallen: pasa 
+NovacaineZxc: pasa 
+*** TURN *** [Ts 9h 9c] [Qd]
+coyallen: pasa 
+NovacaineZxc: apuesta 0.06 €
+coyallen: se retira 
+La apuesta no igualada (0.06 €) ha sido devuelta a NovacaineZxc
+NovacaineZxc se lleva 0.12 € del bote 
+NovacaineZxc: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.13 € | Comisión 0.01 € 
+Comunitarias [Ts 9h 9c Qd]
+Asiento 4: Sigiilo
+Asiento 1: mivipkr se retiró antes del Flop (no apostó)
+Asiento 2: NovacaineZxc recaudó (0.12 €)
+Asiento 3: BudyXXIII (botón) se retiró antes del Flop (no apostó)
+Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 6: coyallen (ciega grande) se retiró en el Turn

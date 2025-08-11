@@ -1,0 +1,51 @@
+{
+  "hand_id": "257168217097",
+  "date": "01-08-2025 11:06:17",
+  "table": "Sekanina",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6d",
+    "Kc"
+  ],
+  "stacks": {
+    "practikal_C23": 88.5,
+    "Alvii37": 95.0,
+    "SrLyce": 103.5,
+    "davinci1962": 100.0,
+    "Elministrelas": 94.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: practikal_C23 (1.77 € en fichas)",
+      "Asiento 3: Alvii37 (1.90 € en fichas)",
+      "Asiento 4: SrLyce (2.07 € en fichas)",
+      "Asiento 5: davinci1962 (2 € en fichas)",
+      "Asiento 6: Elministrelas (1.88 € en fichas)",
+      "Elministrelas: pone la ciega pequeña 0.01 €",
+      "practikal_C23: pone la ciega grande 0.02 €",
+      "Alvii37: se retira",
+      "SrLyce: se retira",
+      "davinci1962: sube 0.03 € a 0.05 €",
+      "Elministrelas: se retira",
+      "practikal_C23: se retira",
+      "davinci1962: no muestra su mano",
+      "Asiento 2: practikal_C23 (ciega grande) se retiró antes del Flop",
+      "Asiento 3: Alvii37 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: davinci1962 (botón) recaudó (0.05 €)",
+      "Asiento 6: Elministrelas (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "davinci1962",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257168217097 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:06:17 CET [01-08-2025 5:06:17 ET]\nMesa \"Sekanina\" 6-max El asiento n.º 5 es el botón\nAsiento 2: practikal_C23 (1.77 € en fichas) \nAsiento 3: Alvii37 (1.90 € en fichas) \nAsiento 4: SrLyce (2.07 € en fichas) \nAsiento 5: davinci1962 (2 € en fichas) \nAsiento 6: Elministrelas (1.88 € en fichas) \nElministrelas: pone la ciega pequeña 0.01 €\npractikal_C23: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6d Kc]\nAlvii37: se retira \nSrLyce: se retira \ndavinci1962: sube 0.03 € a 0.05 €\nElministrelas: se retira \npractikal_C23: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a davinci1962\ndavinci1962 se lleva 0.05 € del bote \ndavinci1962: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 2: practikal_C23 (ciega grande) se retiró antes del Flop\nAsiento 3: Alvii37 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: davinci1962 (botón) recaudó (0.05 €)\nAsiento 6: Elministrelas (ciega pequeña) se retiró antes del Flop"
+}

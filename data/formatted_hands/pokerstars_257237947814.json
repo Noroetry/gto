@@ -1,0 +1,74 @@
+{
+  "hand_id": "257237947814",
+  "date": "06-08-2025 18:14:27",
+  "table": "Atreus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kc",
+    "Ks"
+  ],
+  "stacks": {
+    "PrendsCa": 104.5,
+    "NRules82": 89.0,
+    "JENOFONTE73": 123.0,
+    "Fharock": 107.0,
+    "SrLyce": 89.0,
+    "FishamanReggae": 33.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: PrendsCa (2.09 € en fichas)",
+      "Asiento 2: NRules82 (1.78 € en fichas)",
+      "Asiento 3: JENOFONTE73 (2.46 € en fichas)",
+      "Asiento 4: Fharock (2.14 € en fichas)",
+      "Asiento 5: SrLyce (1.78 € en fichas)",
+      "Asiento 6: FishamanReggae (0.66 € en fichas)",
+      "JENOFONTE73: pone la ciega pequeña 0.01 €",
+      "Fharock: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "FishamanReggae: se retira",
+      "PrendsCa: iguala 0.05 €",
+      "NRules82: iguala 0.05 €",
+      "JENOFONTE73: se retira",
+      "Fharock: se retira"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.09 €",
+      "PrendsCa: sube 0.18 € a 0.27 €",
+      "NRules82: iguala 0.27 €",
+      "SrLyce: iguala 0.18 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "PrendsCa: pasa",
+      "NRules82: pasa"
+    ],
+    "river": [
+      "SrLyce: apuesta 0.93 €",
+      "PrendsCa: se retira",
+      "NRules82: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: PrendsCa se retiró en el River",
+      "Asiento 2: NRules82 (botón) se retiró en el River",
+      "Asiento 3: JENOFONTE73 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: Fharock (ciega grande) se retiró antes del Flop",
+      "Asiento 5: SrLyce recaudó (0.93 €)",
+      "Asiento 6: FishamanReggae se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "3s",
+    "2h",
+    "Th",
+    "Kh",
+    "Jc"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 46.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 3.0,
+  "raw_text": "Mano n.º 257237947814 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:14:27 CET [06-08-2025 12:14:27 ET]\nMesa \"Atreus\" 6-max El asiento n.º 2 es el botón\nAsiento 1: PrendsCa (2.09 € en fichas) \nAsiento 2: NRules82 (1.78 € en fichas) \nAsiento 3: JENOFONTE73 (2.46 € en fichas) \nAsiento 4: Fharock (2.14 € en fichas) \nAsiento 5: SrLyce (1.78 € en fichas) \nAsiento 6: FishamanReggae (0.66 € en fichas) \nJENOFONTE73: pone la ciega pequeña 0.01 €\nFharock: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kc Ks]\nSrLyce: sube 0.03 € a 0.05 €\nFishamanReggae: se retira \nPrendsCa: iguala 0.05 €\nNRules82: iguala 0.05 €\nJENOFONTE73: se retira \nFharock: se retira \n*** FLOP *** [3s 2h Th]\nSrLyce: apuesta 0.09 €\nPrendsCa: sube 0.18 € a 0.27 €\nNRules82: iguala 0.27 €\nSrLyce: iguala 0.18 €\n*** TURN *** [3s 2h Th] [Kh]\nSrLyce: pasa \nPrendsCa: pasa \nNRules82: pasa \n*** RIVER *** [3s 2h Th Kh] [Jc]\nSrLyce: apuesta 0.93 €\nPrendsCa: se retira \nNRules82: se retira \nLa apuesta no igualada (0.93 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.93 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.99 € | Comisión 0.06 € \nComunitarias [3s 2h Th Kh Jc]\nAsiento 1: PrendsCa se retiró en el River\nAsiento 2: NRules82 (botón) se retiró en el River\nAsiento 3: JENOFONTE73 (ciega pequeña) se retiró antes del Flop\nAsiento 4: Fharock (ciega grande) se retiró antes del Flop\nAsiento 5: SrLyce recaudó (0.93 €)\nAsiento 6: FishamanReggae se retiró antes del Flop (no apostó)"
+}

@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238258128",
+  "date": "06-08-2025 18:42:07",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ks",
+    "7c"
+  ],
+  "stacks": {
+    "PerroBestia": 55.5,
+    "rayao32": 52.0,
+    "SrLyce": 90.5,
+    "Davdgoni": 266.0,
+    "Nicanor Cast": 51.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: PerroBestia (1.11 € en fichas) está ausente",
+      "Asiento 6: rayao32 (1.04 € en fichas) está ausente",
+      "Asiento 1: SrLyce (1.81 € en fichas)",
+      "Asiento 2: Davdgoni (5.32 € en fichas)",
+      "Asiento 4: serviettski(fr) (2 € en fichas)",
+      "Asiento 5: Nicanor Cast (1.03 € en fichas)",
+      "Davdgoni: pone la ciega pequeña 0.01 €",
+      "PerroBestia: está ausente",
+      "serviettski(fr): pone la ciega grande 0.02 €",
+      "Nicanor Cast: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "Davdgoni: iguala 0.04 €",
+      "serviettski(fr): se retira"
+    ],
+    "flop": [
+      "Davdgoni: pasa",
+      "SrLyce: apuesta 0.04 €",
+      "Davdgoni: iguala 0.04 €"
+    ],
+    "turn": [
+      "Davdgoni: pasa",
+      "SrLyce: apuesta 0.10 €",
+      "Davdgoni: iguala 0.10 €"
+    ],
+    "river": [
+      "Davdgoni: pasa",
+      "SrLyce: pasa",
+      "Davdgoni: muestra [Th Qd] (color, carta alta as)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 3: PerroBestia",
+      "Asiento 6: rayao32",
+      "Asiento 1: SrLyce (botón) descartó sin mostrar [Ks 7c]",
+      "Asiento 2: Davdgoni (ciega pequeña) muestra [Th Qd] y ganó (0.38 €) con color, carta alta as",
+      "Asiento 4: serviettski(fr) (ciega grande) se retiró antes del Flop",
+      "Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "9d",
+    "8d",
+    "Kh",
+    "3d",
+    "Ad"
+  ],
+  "winner": "Davdgoni",
+  "win_amount": 19.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238258128 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:42:07 CET [06-08-2025 12:42:07 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 1 es el botón\nAsiento 3: PerroBestia (1.11 € en fichas) está ausente\nAsiento 6: rayao32 (1.04 € en fichas) está ausente\nAsiento 1: SrLyce (1.81 € en fichas) \nAsiento 2: Davdgoni (5.32 € en fichas) \nAsiento 4: serviettski(fr) (2 € en fichas) \nAsiento 5: Nicanor Cast (1.03 € en fichas) \nDavdgoni: pone la ciega pequeña 0.01 €\nPerroBestia: está ausente \nserviettski(fr): pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ks 7c]\nNicanor Cast: se retira \nPerroBestia deja la mesa\nSrLyce: sube 0.03 € a 0.05 €\nDavdgoni: iguala 0.04 €\nserviettski(fr): se retira \n*** FLOP *** [9d 8d Kh]\nDavdgoni: pasa \nSrLyce: apuesta 0.04 €\nDavdgoni: iguala 0.04 €\n*** TURN *** [9d 8d Kh] [3d]\nDavdgoni: pasa \nSrLyce: apuesta 0.10 €\nDavdgoni: iguala 0.10 €\n*** RIVER *** [9d 8d Kh 3d] [Ad]\nDavdgoni: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nDavdgoni: muestra [Th Qd] (color, carta alta as)\nSrLyce: descarta su mano sin mostrar \nDavdgoni se lleva 0.38 € del bote \n*** RESUMEN ***\nBote total 0.40 € | Comisión 0.02 € \nComunitarias [9d 8d Kh 3d Ad]\nAsiento 3: PerroBestia\nAsiento 6: rayao32\nAsiento 1: SrLyce (botón) descartó sin mostrar [Ks 7c]\nAsiento 2: Davdgoni (ciega pequeña) muestra [Th Qd] y ganó (0.38 €) con color, carta alta as\nAsiento 4: serviettski(fr) (ciega grande) se retiró antes del Flop\nAsiento 5: Nicanor Cast se retiró antes del Flop (no apostó)"
+}

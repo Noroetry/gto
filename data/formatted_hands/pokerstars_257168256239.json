@@ -1,0 +1,62 @@
+{
+  "hand_id": "257168256239",
+  "date": "01-08-2025 11:13:58",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9d",
+    "Js"
+  ],
+  "stacks": {
+    "SrLyce": 100.5,
+    "Fharock": 100.0,
+    "Akourdideh": 99.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.01 € en fichas)",
+      "Asiento 2: Fharock (2 € en fichas)",
+      "Asiento 6: Akourdideh (1.99 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Fharock: pone la ciega grande 0.02 €",
+      "Akourdideh: sube 0.04 € a 0.06 €",
+      "SrLyce: iguala 0.05 €",
+      "Fharock: iguala 0.04 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "Fharock: pasa",
+      "Akourdideh: pasa"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "Fharock: apuesta 0.09 €",
+      "Akourdideh: iguala 0.09 €",
+      "SrLyce: se retira"
+    ],
+    "river": [
+      "Fharock: pasa",
+      "Akourdideh: pasa",
+      "Fharock: muestra [7c 7s] (pareja de sietes)",
+      "Akourdideh: muestra [Ah 3s] (pareja de ases)",
+      "Asiento 1: SrLyce (ciega pequeña) se retiró en el Turn",
+      "Asiento 2: Fharock (ciega grande) muestra [7c 7s] y perdió con pareja de sietes",
+      "Asiento 6: Akourdideh (botón) muestra [Ah 3s] y ganó (0.34 €) con pareja de ases"
+    ]
+  },
+  "board": [
+    "Ad",
+    "4d",
+    "6d",
+    "5h",
+    "Jc"
+  ],
+  "winner": "Akourdideh",
+  "win_amount": 17.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257168256239 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:13:58 CET [01-08-2025 5:13:58 ET]\nMesa \"Atlas\" 6-max El asiento n.º 6 es el botón\nAsiento 1: SrLyce (2.01 € en fichas) \nAsiento 2: Fharock (2 € en fichas) \nAsiento 6: Akourdideh (1.99 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nFharock: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9d Js]\nAkourdideh: sube 0.04 € a 0.06 €\nSrLyce: iguala 0.05 €\nFharock: iguala 0.04 €\n*** FLOP *** [Ad 4d 6d]\necuinas se une a la mesa en el asiento n.º 3 \nSrLyce: pasa \nFharock: pasa \nAkourdideh: pasa \n*** TURN *** [Ad 4d 6d] [5h]\nSrLyce: pasa \nFharock: apuesta 0.09 €\nAkourdideh: iguala 0.09 €\nSrLyce: se retira \n*** RIVER *** [Ad 4d 6d 5h] [Jc]\nFharock: pasa \nAkourdideh: pasa \n*** SHOW DOWN ***\nFharock: muestra [7c 7s] (pareja de sietes)\nAkourdideh: muestra [Ah 3s] (pareja de ases)\nAkourdideh se lleva 0.34 € del bote \n*** RESUMEN ***\nBote total 0.36 € | Comisión 0.02 € \nComunitarias [Ad 4d 6d 5h Jc]\nAsiento 1: SrLyce (ciega pequeña) se retiró en el Turn\nAsiento 2: Fharock (ciega grande) muestra [7c 7s] y perdió con pareja de sietes\nAsiento 6: Akourdideh (botón) muestra [Ah 3s] y ganó (0.34 €) con pareja de ases"
+}

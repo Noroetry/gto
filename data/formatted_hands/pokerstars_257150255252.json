@@ -1,0 +1,76 @@
+{
+  "hand_id": "257150255252",
+  "date": "30-07-2025 23:29:02",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Th",
+    "3d"
+  ],
+  "stacks": {
+    "LeVbks": 113.5,
+    "fcis666": 49.0,
+    "Dlaguancha": 115.5,
+    "SrLyce": 105.5,
+    "riverluck444": 92.5,
+    "javipondio": 14.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (2.27 € en fichas)",
+      "Asiento 2: fcis666 (0.98 € en fichas)",
+      "Asiento 3: Dlaguancha (2.31 € en fichas)",
+      "Asiento 4: SrLyce (2.11 € en fichas)",
+      "Asiento 5: riverluck444 (1.85 € en fichas)",
+      "Asiento 6: javipondio (0.29 € en fichas)",
+      "riverluck444: pone la ciega pequeña 0.01 €",
+      "javipondio: pone la ciega grande 0.02 €",
+      "LeVbks: sube 0.02 € a 0.04 €",
+      "fcis666: iguala 0.04 €",
+      "Dlaguancha: iguala 0.04 €",
+      "SrLyce: se retira",
+      "riverluck444: iguala 0.03 €",
+      "javipondio: se retira"
+    ],
+    "flop": [
+      "riverluck444: pasa",
+      "LeVbks: pasa",
+      "fcis666: pasa",
+      "Dlaguancha: pasa"
+    ],
+    "turn": [
+      "riverluck444: pasa",
+      "LeVbks: apuesta 0.09 €",
+      "fcis666: se retira",
+      "Dlaguancha: se retira",
+      "riverluck444: iguala 0.09 €"
+    ],
+    "river": [
+      "riverluck444: pasa",
+      "LeVbks: pasa",
+      "riverluck444: muestra [7h 7c] (doble pareja, ochos y sietes)",
+      "LeVbks: muestra [Qd Kh] (doble pareja, reyes y ochos)",
+      "Asiento 1: LeVbks muestra [Qd Kh] y ganó (0.34 €) con doble pareja, reyes y ochos",
+      "Asiento 2: fcis666 se retiró en el Turn",
+      "Asiento 3: Dlaguancha se retiró en el Turn",
+      "Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 (ciega pequeña) muestra [7h 7c] y perdió con doble pareja, ochos y sietes",
+      "Asiento 6: javipondio (ciega grande) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "6h",
+    "8h",
+    "Kd",
+    "9c",
+    "8d"
+  ],
+  "winner": "LeVbks",
+  "win_amount": 17.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257150255252 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:29:02 CET [30-07-2025 17:29:02 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 4 es el botón\nAsiento 1: LeVbks (2.27 € en fichas) \nAsiento 2: fcis666 (0.98 € en fichas) \nAsiento 3: Dlaguancha (2.31 € en fichas) \nAsiento 4: SrLyce (2.11 € en fichas) \nAsiento 5: riverluck444 (1.85 € en fichas) \nAsiento 6: javipondio (0.29 € en fichas) \nriverluck444: pone la ciega pequeña 0.01 €\njavipondio: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Th 3d]\nLeVbks: sube 0.02 € a 0.04 €\nfcis666: iguala 0.04 €\nDlaguancha: iguala 0.04 €\nSrLyce: se retira \nriverluck444: iguala 0.03 €\njavipondio: se retira \n*** FLOP *** [6h 8h Kd]\nriverluck444: pasa \nLeVbks: pasa \nfcis666: pasa \nDlaguancha: pasa \n*** TURN *** [6h 8h Kd] [9c]\nriverluck444: pasa \nLeVbks: apuesta 0.09 €\nfcis666: se retira \nDlaguancha: se retira \nriverluck444: iguala 0.09 €\n*** RIVER *** [6h 8h Kd 9c] [8d]\nriverluck444: pasa \nLeVbks: pasa \n*** SHOW DOWN ***\nriverluck444: muestra [7h 7c] (doble pareja, ochos y sietes)\nLeVbks: muestra [Qd Kh] (doble pareja, reyes y ochos)\nLeVbks se lleva 0.34 € del bote \n*** RESUMEN ***\nBote total 0.36 € | Comisión 0.02 € \nComunitarias [6h 8h Kd 9c 8d]\nAsiento 1: LeVbks muestra [Qd Kh] y ganó (0.34 €) con doble pareja, reyes y ochos\nAsiento 2: fcis666 se retiró en el Turn\nAsiento 3: Dlaguancha se retiró en el Turn\nAsiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 (ciega pequeña) muestra [7h 7c] y perdió con doble pareja, ochos y sietes\nAsiento 6: javipondio (ciega grande) se retiró antes del Flop"
+}

@@ -1,0 +1,75 @@
+{
+  "hand_id": "257168355782",
+  "date": "01-08-2025 11:32:45",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qc",
+    "9c"
+  ],
+  "stacks": {
+    "SrLyce": 93.5,
+    "Fharock": 89.0,
+    "ecuinas": 104.0,
+    "LxckxStrxkx": 113.5,
+    "soy_cule74": 120.5,
+    "Akourdideh": 108.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.87 € en fichas)",
+      "Asiento 2: Fharock (1.78 € en fichas)",
+      "Asiento 3: ecuinas (2.08 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2.27 € en fichas)",
+      "Asiento 5: soy_cule74 (2.41 € en fichas)",
+      "Asiento 6: Akourdideh (2.16 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Fharock: pone la ciega grande 0.02 €",
+      "ecuinas: se retira",
+      "LxckxStrxkx: se retira",
+      "soy_cule74: sube 0.04 € a 0.06 €",
+      "Akourdideh: se retira",
+      "SrLyce: iguala 0.05 €",
+      "Fharock: iguala 0.04 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "Fharock: pasa",
+      "soy_cule74: apuesta 0.05 €",
+      "SrLyce: se retira",
+      "Fharock: iguala 0.05 €"
+    ],
+    "turn": [
+      "Fharock: pasa",
+      "soy_cule74: apuesta 0.13 €",
+      "Fharock: iguala 0.13 €"
+    ],
+    "river": [
+      "Fharock: apuesta 0.26 €",
+      "soy_cule74: iguala 0.26 €",
+      "Fharock: muestra [Ad 4d] (doble pareja, ases y cuatros)",
+      "soy_cule74: descarta su mano sin mostrar",
+      "Asiento 1: SrLyce (ciega pequeña) se retiró en el Flop",
+      "Asiento 2: Fharock (ciega grande) muestra [Ad 4d] y ganó (1 €) con doble pareja, ases y cuatros",
+      "Asiento 3: ecuinas se retiró antes del Flop (no apostó)",
+      "Asiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)",
+      "Asiento 5: soy_cule74 descartó sin mostrar [6s Ks]",
+      "Asiento 6: Akourdideh (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "As",
+    "5c",
+    "4h",
+    "Kc",
+    "3s"
+  ],
+  "winner": "Fharock",
+  "win_amount": 50.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 3.0,
+  "raw_text": "Mano n.º 257168355782 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:32:45 CET [01-08-2025 5:32:45 ET]\nMesa \"Atlas\" 6-max El asiento n.º 6 es el botón\nAsiento 1: SrLyce (1.87 € en fichas) \nAsiento 2: Fharock (1.78 € en fichas) \nAsiento 3: ecuinas (2.08 € en fichas) \nAsiento 4: LxckxStrxkx (2.27 € en fichas) \nAsiento 5: soy_cule74 (2.41 € en fichas) \nAsiento 6: Akourdideh (2.16 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nFharock: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qc 9c]\necuinas: se retira \nLxckxStrxkx: se retira \nsoy_cule74: sube 0.04 € a 0.06 €\nAkourdideh: se retira \nSrLyce: iguala 0.05 €\nFharock: iguala 0.04 €\n*** FLOP *** [As 5c 4h]\nSrLyce: pasa \nFharock: pasa \nsoy_cule74: apuesta 0.05 €\nSrLyce: se retira \nFharock: iguala 0.05 €\n*** TURN *** [As 5c 4h] [Kc]\nFharock: pasa \nsoy_cule74: apuesta 0.13 €\nFharock: iguala 0.13 €\n*** RIVER *** [As 5c 4h Kc] [3s]\nFharock: apuesta 0.26 €\nsoy_cule74: iguala 0.26 €\n*** SHOW DOWN ***\nFharock: muestra [Ad 4d] (doble pareja, ases y cuatros)\nsoy_cule74: descarta su mano sin mostrar \nFharock se lleva 1 € del bote \n*** RESUMEN ***\nBote total 1.06 € | Comisión 0.06 € \nComunitarias [As 5c 4h Kc 3s]\nAsiento 1: SrLyce (ciega pequeña) se retiró en el Flop\nAsiento 2: Fharock (ciega grande) muestra [Ad 4d] y ganó (1 €) con doble pareja, ases y cuatros\nAsiento 3: ecuinas se retiró antes del Flop (no apostó)\nAsiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)\nAsiento 5: soy_cule74 descartó sin mostrar [6s Ks]\nAsiento 6: Akourdideh (botón) se retiró antes del Flop (no apostó)"
+}

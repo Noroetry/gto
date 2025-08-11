@@ -1,0 +1,23 @@
+Mano n.º 257236930668 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel III (100/200) - 06-08-2025 17:23:14 CET [06-08-2025 11:23:14 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 7 es el botón
+Asiento 1: SrLyce (3020 en fichas) 
+Asiento 7: Bernesaragon (980 en fichas) 
+SrLyce: pone el ante 40
+Bernesaragon: pone el ante 40
+Bernesaragon: pone la ciega pequeña 100
+SrLyce: pone la ciega grande 200
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7h 2h]
+Bernesaragon: iguala 100
+SrLyce: pasa 
+*** FLOP *** [5d 2d Ah]
+SrLyce: apuesta 2780 y está all-in
+Bernesaragon: se retira 
+La apuesta no igualada (2780) ha sido devuelta a SrLyce
+SrLyce se lleva 480 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 480 | Comisión 0 
+Comunitarias [5d 2d Ah]
+Asiento 1: SrLyce (ciega grande) recaudó (480)
+Asiento 7: Bernesaragon (botón) (ciega pequeña) se retiró en el Flop

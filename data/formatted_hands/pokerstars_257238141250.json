@@ -1,0 +1,74 @@
+{
+  "hand_id": "257238141250",
+  "date": "06-08-2025 18:31:44",
+  "table": "Patientia III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9h",
+    "Th"
+  ],
+  "stacks": {
+    "Phryxz": 101.0,
+    "SrLyce": 96.0,
+    "chordewman": 117.0,
+    "carlitross81": 110.0,
+    "niyomalo": 88.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Phryxz (2.02 € en fichas)",
+      "Asiento 2: serviettski(fr) (2.35 € en fichas)",
+      "Asiento 3: SrLyce (1.92 € en fichas)",
+      "Asiento 4: chordewman (2.34 € en fichas)",
+      "Asiento 5: carlitross81 (2.20 € en fichas)",
+      "Asiento 6: niyomalo (1.77 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "chordewman: pone la ciega grande 0.02 €",
+      "carlitross81: se retira",
+      "niyomalo: se retira",
+      "Phryxz: se retira",
+      "serviettski(fr): sube 0.03 € a 0.05 €",
+      "SrLyce: iguala 0.04 €",
+      "chordewman: iguala 0.03 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "chordewman: pasa",
+      "serviettski(fr): pasa"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "chordewman: pasa",
+      "serviettski(fr): apuesta 0.07 €",
+      "SrLyce: se retira",
+      "chordewman: iguala 0.07 €"
+    ],
+    "river": [
+      "chordewman: pasa",
+      "serviettski(fr): apuesta 0.27 €",
+      "chordewman: se retira",
+      "serviettski(fr): no muestra su mano",
+      "Asiento 1: Phryxz se retiró antes del Flop (no apostó)",
+      "Asiento 2: serviettski(fr) (botón) recaudó (0.27 €)",
+      "Asiento 3: SrLyce (ciega pequeña) se retiró en el Turn",
+      "Asiento 4: chordewman (ciega grande) se retiró en el River",
+      "Asiento 5: carlitross81 se retiró antes del Flop (no apostó)",
+      "Asiento 6: niyomalo se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "4d",
+    "8s",
+    "Kc",
+    "3h",
+    "Jd"
+  ],
+  "winner": "serviettski(fr)",
+  "win_amount": 13.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238141250 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:31:44 CET [06-08-2025 12:31:44 ET]\nMesa \"Patientia III\" 6-max El asiento n.º 2 es el botón\nAsiento 1: Phryxz (2.02 € en fichas) \nAsiento 2: serviettski(fr) (2.35 € en fichas) \nAsiento 3: SrLyce (1.92 € en fichas) \nAsiento 4: chordewman (2.34 € en fichas) \nAsiento 5: carlitross81 (2.20 € en fichas) \nAsiento 6: niyomalo (1.77 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nchordewman: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9h Th]\ncarlitross81: se retira \nniyomalo: se retira \nPhryxz: se retira \nserviettski(fr): sube 0.03 € a 0.05 €\nSrLyce: iguala 0.04 €\nchordewman: iguala 0.03 €\n*** FLOP *** [4d 8s Kc]\nSrLyce: pasa \nchordewman: pasa \nserviettski(fr): pasa \n*** TURN *** [4d 8s Kc] [3h]\ncarlitross81 deja la mesa\nSrLyce: pasa \nchordewman: pasa \nserviettski(fr): apuesta 0.07 €\nSrLyce: se retira \nchordewman: iguala 0.07 €\n*** RIVER *** [4d 8s Kc 3h] [Jd]\nchordewman: pasa \nserviettski(fr): apuesta 0.27 €\nchordewman: se retira \nLa apuesta no igualada (0.27 €) ha sido devuelta a serviettski(fr)\nserviettski(fr) se lleva 0.27 € del bote \nserviettski(fr): no muestra su mano \n*** RESUMEN ***\nBote total 0.29 € | Comisión 0.02 € \nComunitarias [4d 8s Kc 3h Jd]\nAsiento 1: Phryxz se retiró antes del Flop (no apostó)\nAsiento 2: serviettski(fr) (botón) recaudó (0.27 €)\nAsiento 3: SrLyce (ciega pequeña) se retiró en el Turn\nAsiento 4: chordewman (ciega grande) se retiró en el River\nAsiento 5: carlitross81 se retiró antes del Flop (no apostó)\nAsiento 6: niyomalo se retiró antes del Flop (no apostó)"
+}

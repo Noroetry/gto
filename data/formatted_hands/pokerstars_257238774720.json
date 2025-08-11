@@ -1,0 +1,54 @@
+{
+  "hand_id": "257238774720",
+  "date": "06-08-2025 19:27:57",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qc",
+    "Jd"
+  ],
+  "stacks": {
+    "FalcoNaumani": 100.0,
+    "practikal_C23": 48.5,
+    "niyomalo": 101.5,
+    "BuXHexter": 162.0,
+    "Andark47": 207.5,
+    "SrLyce": 74.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: FalcoNaumani (2 € en fichas) está ausente",
+      "Asiento 1: practikal_C23 (0.97 € en fichas)",
+      "Asiento 2: niyomalo (2.03 € en fichas)",
+      "Asiento 4: BuXHexter (3.24 € en fichas)",
+      "Asiento 5: Andark47 (4.15 € en fichas)",
+      "Asiento 6: SrLyce (1.49 € en fichas)",
+      "BuXHexter: pone la ciega pequeña 0.01 €",
+      "Andark47: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "practikal_C23: se retira",
+      "niyomalo: se retira",
+      "BuXHexter: se retira",
+      "Andark47: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 3: FalcoNaumani",
+      "Asiento 1: practikal_C23 se retiró antes del Flop (no apostó)",
+      "Asiento 2: niyomalo (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: BuXHexter (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: Andark47 (ciega grande) se retiró antes del Flop",
+      "Asiento 6: SrLyce recaudó (0.05 €)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238774720 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:27:57 CET [06-08-2025 13:27:57 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 2 es el botón\nAsiento 3: FalcoNaumani (2 € en fichas) está ausente\nAsiento 1: practikal_C23 (0.97 € en fichas) \nAsiento 2: niyomalo (2.03 € en fichas) \nAsiento 4: BuXHexter (3.24 € en fichas) \nAsiento 5: Andark47 (4.15 € en fichas) \nAsiento 6: SrLyce (1.49 € en fichas) \nBuXHexter: pone la ciega pequeña 0.01 €\nAndark47: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qc Jd]\nSrLyce: sube 0.03 € a 0.05 €\npractikal_C23: se retira \nniyomalo: se retira \nBuXHexter: se retira \nAndark47: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.05 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 3: FalcoNaumani\nAsiento 1: practikal_C23 se retiró antes del Flop (no apostó)\nAsiento 2: niyomalo (botón) se retiró antes del Flop (no apostó)\nAsiento 4: BuXHexter (ciega pequeña) se retiró antes del Flop\nAsiento 5: Andark47 (ciega grande) se retiró antes del Flop\nAsiento 6: SrLyce recaudó (0.05 €)"
+}

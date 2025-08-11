@@ -1,0 +1,72 @@
+{
+  "hand_id": "257237767887",
+  "date": "06-08-2025 17:56:17",
+  "table": "Virtus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "Ac"
+  ],
+  "stacks": {
+    "Kingzilla87": 169.5,
+    "SrLyce": 96.5,
+    "pullup0": 37.5,
+    "JGDOBLAS": 100.0,
+    "don.corle": 141.5,
+    "rudik34385": 91.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Kingzilla87 (3.39 € en fichas) está ausente",
+      "Asiento 2: SrLyce (1.93 € en fichas)",
+      "Asiento 3: pullup0 (0.75 € en fichas)",
+      "Asiento 4: JGDOBLAS (2 € en fichas)",
+      "Asiento 5: don.corle (2.83 € en fichas)",
+      "Asiento 6: rudik34385 (1.82 € en fichas)",
+      "JGDOBLAS: pone la ciega pequeña 0.01 €",
+      "don.corle: pone la ciega grande 0.02 €",
+      "rudik34385: iguala 0.02 €",
+      "SrLyce: se retira",
+      "pullup0: se retira",
+      "JGDOBLAS: sube 0.08 € a 0.10 €",
+      "don.corle: se retira",
+      "rudik34385: iguala 0.08 €"
+    ],
+    "flop": [
+      "JGDOBLAS: pasa",
+      "rudik34385: pasa"
+    ],
+    "turn": [
+      "JGDOBLAS: pasa",
+      "rudik34385: pasa"
+    ],
+    "river": [
+      "JGDOBLAS: pasa",
+      "rudik34385: apuesta 0.21 €",
+      "JGDOBLAS: iguala 0.21 €",
+      "rudik34385: muestra [Ad 3d] (color, carta alta as)",
+      "JGDOBLAS: descarta su mano sin mostrar",
+      "Asiento 1: Kingzilla87",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: pullup0 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: JGDOBLAS (ciega pequeña) descartó sin mostrar [Td Ts]",
+      "Asiento 5: don.corle (ciega grande) se retiró antes del Flop",
+      "Asiento 6: rudik34385 muestra [Ad 3d] y ganó (0.60 €) con color, carta alta as"
+    ]
+  },
+  "board": [
+    "Qc",
+    "2s",
+    "8d",
+    "Qd",
+    "5d"
+  ],
+  "winner": "rudik34385",
+  "win_amount": 30.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257237767887 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:56:17 CET [06-08-2025 11:56:17 ET]\nMesa \"Virtus\" 6-max El asiento n.º 3 es el botón\nAsiento 1: Kingzilla87 (3.39 € en fichas) está ausente\nAsiento 2: SrLyce (1.93 € en fichas) \nAsiento 3: pullup0 (0.75 € en fichas) \nAsiento 4: JGDOBLAS (2 € en fichas) \nAsiento 5: don.corle (2.83 € en fichas) \nAsiento 6: rudik34385 (1.82 € en fichas) \nJGDOBLAS: pone la ciega pequeña 0.01 €\ndon.corle: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h Ac]\nrudik34385: iguala 0.02 €\nSrLyce: se retira \npullup0: se retira \nJGDOBLAS: sube 0.08 € a 0.10 €\ndon.corle: se retira \nrudik34385: iguala 0.08 €\n*** FLOP *** [Qc 2s 8d]\nJGDOBLAS: pasa \nrudik34385: pasa \n*** TURN *** [Qc 2s 8d] [Qd]\nJGDOBLAS: pasa \nrudik34385: pasa \n*** RIVER *** [Qc 2s 8d Qd] [5d]\nJGDOBLAS: pasa \nrudik34385: apuesta 0.21 €\nJGDOBLAS: iguala 0.21 €\n*** SHOW DOWN ***\nrudik34385: muestra [Ad 3d] (color, carta alta as)\nJGDOBLAS: descarta su mano sin mostrar \nrudik34385 se lleva 0.60 € del bote \n*** RESUMEN ***\nBote total 0.64 € | Comisión 0.04 € \nComunitarias [Qc 2s 8d Qd 5d]\nAsiento 1: Kingzilla87\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: pullup0 (botón) se retiró antes del Flop (no apostó)\nAsiento 4: JGDOBLAS (ciega pequeña) descartó sin mostrar [Td Ts]\nAsiento 5: don.corle (ciega grande) se retiró antes del Flop\nAsiento 6: rudik34385 muestra [Ad 3d] y ganó (0.60 €) con color, carta alta as"
+}

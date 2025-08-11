@@ -1,0 +1,67 @@
+{
+  "hand_id": "257149975461",
+  "date": "30-07-2025 23:09:44",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8s",
+    "7h"
+  ],
+  "stacks": {
+    "riverrrrrrmagic": 118.0,
+    "SrLyce": 112.5,
+    "Jumby34": 103.5,
+    "xapkk": 100.0,
+    "cbo54": 92.5,
+    "Fretzo67500": 104.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: riverrrrrrmagic (2.36 € en fichas)",
+      "Asiento 2: SrLyce (2.25 € en fichas)",
+      "Asiento 3: Jumby34 (2.07 € en fichas)",
+      "Asiento 4: xapkk (2 € en fichas)",
+      "Asiento 5: cbo54 (1.85 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.09 € en fichas)",
+      "Jumby34: pone la ciega pequeña 0.01 €",
+      "xapkk: pone la ciega grande 0.02 €",
+      "cbo54: iguala 0.02 €",
+      "Fretzo67500: iguala 0.02 €",
+      "riverrrrrrmagic: iguala 0.02 €",
+      "SrLyce: iguala 0.02 €",
+      "Jumby34: sube 2.05 € a 2.07 € y está all-in",
+      "xapkk: se retira",
+      "cbo54: iguala 1.83 € y está all-in",
+      "Fretzo67500: se retira",
+      "riverrrrrrmagic: se retira",
+      "SrLyce: se retira"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": [
+      "Jumby34: muestra [Ah Qc] (trío de jotas)",
+      "cbo54: muestra [Ac As] (full de jotas y ases)",
+      "Asiento 1: riverrrrrrmagic se retiró antes del Flop",
+      "Asiento 2: SrLyce (botón) se retiró antes del Flop",
+      "Asiento 3: Jumby34 (ciega pequeña) muestra [Ah Qc] y perdió con trío de jotas",
+      "Asiento 4: xapkk (ciega grande) se retiró antes del Flop",
+      "Asiento 5: cbo54 muestra [Ac As] y ganó (3.55 €) con full de jotas y ases",
+      "Asiento 6: Fretzo67500 se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "Js",
+    "Jc",
+    "Kh",
+    "Jd",
+    "6c"
+  ],
+  "winner": "cbo54",
+  "win_amount": 177.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 11.5,
+  "raw_text": "Mano n.º 257149975461 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:09:44 CET [30-07-2025 17:09:44 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 2 es el botón\nAsiento 1: riverrrrrrmagic (2.36 € en fichas) \nAsiento 2: SrLyce (2.25 € en fichas) \nAsiento 3: Jumby34 (2.07 € en fichas) \nAsiento 4: xapkk (2 € en fichas) \nAsiento 5: cbo54 (1.85 € en fichas) \nAsiento 6: Fretzo67500 (2.09 € en fichas) \nJumby34: pone la ciega pequeña 0.01 €\nxapkk: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8s 7h]\ncbo54: iguala 0.02 €\nFretzo67500: iguala 0.02 €\nriverrrrrrmagic: iguala 0.02 €\nSrLyce: iguala 0.02 €\nJumby34: sube 2.05 € a 2.07 € y está all-in\nxapkk: se retira \ncbo54: iguala 1.83 € y está all-in\nFretzo67500: se retira \nriverrrrrrmagic: se retira \nSrLyce: se retira \nLa apuesta no igualada (0.22 €) ha sido devuelta a Jumby34\n*** FLOP *** [Js Jc Kh]\n*** TURN *** [Js Jc Kh] [Jd]\n*** RIVER *** [Js Jc Kh Jd] [6c]\n*** SHOW DOWN ***\nJumby34: muestra [Ah Qc] (trío de jotas)\ncbo54: muestra [Ac As] (full de jotas y ases)\ncbo54 se lleva 3.55 € del bote \n*** RESUMEN ***\nBote total 3.78 € | Comisión 0.23 € \nComunitarias [Js Jc Kh Jd 6c]\nAsiento 1: riverrrrrrmagic se retiró antes del Flop\nAsiento 2: SrLyce (botón) se retiró antes del Flop\nAsiento 3: Jumby34 (ciega pequeña) muestra [Ah Qc] y perdió con trío de jotas\nAsiento 4: xapkk (ciega grande) se retiró antes del Flop\nAsiento 5: cbo54 muestra [Ac As] y ganó (3.55 €) con full de jotas y ases\nAsiento 6: Fretzo67500 se retiró antes del Flop"
+}

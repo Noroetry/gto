@@ -1,0 +1,40 @@
+Mano n.º 257237580627 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:38:02 CET [06-08-2025 11:38:02 ET]
+Mesa "Vanadis II" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (1.66 € en fichas) 
+Asiento 2: djrojas9 (1.97 € en fichas) 
+Asiento 3: noreihh (3.45 € en fichas) 
+Asiento 4: chordewman (2.54 € en fichas) 
+Asiento 5: sarabiagar (1.93 € en fichas) 
+Asiento 6: idigon (2.91 € en fichas) 
+idigon: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8h 9c]
+djrojas9: sube 0.02 € a 0.04 €
+noreihh: se retira 
+chordewman: se retira 
+sarabiagar: se retira 
+idigon: se retira 
+SrLyce: iguala 0.02 €
+*** FLOP *** [Js 4s Ts]
+SrLyce: pasa 
+djrojas9: pasa 
+*** TURN *** [Js 4s Ts] [Ah]
+SrLyce: pasa 
+djrojas9: pasa 
+*** RIVER *** [Js 4s Ts Ah] [5s]
+SrLyce: pasa 
+djrojas9: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [8h 9c] (carta alta as)
+djrojas9: muestra [Qd 3d] (carta alta as - dama kicker)
+djrojas9 se lleva 0.08 € del bote 
+*** RESUMEN ***
+Bote total 0.09 € | Comisión 0.01 € 
+Comunitarias [Js 4s Ts Ah 5s]
+Asiento 1: SrLyce (ciega grande) muestra [8h 9c] y perdió con carta alta as
+Asiento 2: djrojas9 muestra [Qd 3d] y ganó (0.08 €) con carta alta as
+Asiento 3: noreihh se retiró antes del Flop (no apostó)
+Asiento 4: chordewman se retiró antes del Flop (no apostó)
+Asiento 5: sarabiagar (botón) se retiró antes del Flop (no apostó)
+Asiento 6: idigon (ciega pequeña) se retiró antes del Flop

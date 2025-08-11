@@ -1,0 +1,41 @@
+Mano n.º 257238106489 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:28:38 CET [06-08-2025 12:28:38 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 2 es el botón
+Asiento 1: SrLyce (1.94 € en fichas) 
+Asiento 2: Davdgoni (5.25 € en fichas) 
+Asiento 3: PerroBestia (0.84 € en fichas) 
+Asiento 4: serviettski(fr) (2.03 € en fichas) 
+Asiento 5: Nicanor Cast (1.08 € en fichas) 
+Asiento 6: THEBLACK972 (3.47 € en fichas) 
+PerroBestia: pone la ciega pequeña 0.01 €
+serviettski(fr): pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7d 5h]
+Nicanor Cast: se retira 
+THEBLACK972: se retira 
+SrLyce: se retira 
+Davdgoni: sube 0.02 € a 0.04 €
+PerroBestia: se retira 
+serviettski(fr): iguala 0.02 €
+*** FLOP *** [Qd Ah Jc]
+serviettski(fr): pasa 
+Davdgoni: apuesta 0.08 €
+serviettski(fr): iguala 0.08 €
+*** TURN *** [Qd Ah Jc] [8c]
+serviettski(fr): pasa 
+Davdgoni: pasa 
+*** RIVER *** [Qd Ah Jc 8c] [6d]
+serviettski(fr): pasa 
+Davdgoni: pasa 
+*** SHOW DOWN ***
+serviettski(fr): muestra [Qc Kd] (pareja de damas)
+Davdgoni: descarta su mano sin mostrar 
+serviettski(fr) se lleva 0.23 € del bote 
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 € 
+Comunitarias [Qd Ah Jc 8c 6d]
+Asiento 1: SrLyce se retiró antes del Flop (no apostó)
+Asiento 2: Davdgoni (botón) descartó sin mostrar [Jd 9h]
+Asiento 3: PerroBestia (ciega pequeña) se retiró antes del Flop
+Asiento 4: serviettski(fr) (ciega grande) muestra [Qc Kd] y ganó (0.23 €) con pareja de damas
+Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)
+Asiento 6: THEBLACK972 se retiró antes del Flop (no apostó)

@@ -1,0 +1,63 @@
+{
+  "hand_id": "257215280446",
+  "date": "04-08-2025 22:35:34",
+  "table": "Anneliese II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4d",
+    "7c"
+  ],
+  "stacks": {
+    "betterrrrrr": 108.5,
+    "piropanzer": 31.5,
+    "ElManu62": 115.0,
+    "SrLyce": 89.5,
+    "Mr_Pkr98": 154.0,
+    "Spotick": 131.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: betterrrrrr (2.17 € en fichas)",
+      "Asiento 2: piropanzer (0.63 € en fichas)",
+      "Asiento 3: ElManu62 (2.30 € en fichas)",
+      "Asiento 4: SrLyce (1.79 € en fichas)",
+      "Asiento 5: Mr_Pkr98 (3.08 € en fichas)",
+      "Asiento 6: Spotick (2.63 € en fichas)",
+      "Spotick: pone la ciega pequeña 0.01 €",
+      "betterrrrrr: pone la ciega grande 0.02 €",
+      "piropanzer: iguala 0.02 €",
+      "ElManu62: se retira",
+      "SrLyce: se retira",
+      "Mr_Pkr98: se retira",
+      "Spotick: sube 0.04 € a 0.06 €",
+      "betterrrrrr: se retira",
+      "piropanzer: iguala 0.04 €"
+    ],
+    "flop": [
+      "Spotick: pasa",
+      "piropanzer: apuesta 0.07 €",
+      "Spotick: se retira",
+      "Asiento 1: betterrrrrr (ciega grande) se retiró antes del Flop",
+      "Asiento 2: piropanzer recaudó (0.13 €)",
+      "Asiento 3: ElManu62 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: Mr_Pkr98 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: Spotick (ciega pequeña) se retiró en el Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "2s",
+    "9d",
+    "As"
+  ],
+  "winner": "piropanzer",
+  "win_amount": 6.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257215280446 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:35:34 CET [04-08-2025 16:35:34 ET]\nMesa \"Anneliese II\" 6-max El asiento n.º 5 es el botón\nAsiento 1: betterrrrrr (2.17 € en fichas) \nAsiento 2: piropanzer (0.63 € en fichas) \nAsiento 3: ElManu62 (2.30 € en fichas) \nAsiento 4: SrLyce (1.79 € en fichas) \nAsiento 5: Mr_Pkr98 (3.08 € en fichas) \nAsiento 6: Spotick (2.63 € en fichas) \nSpotick: pone la ciega pequeña 0.01 €\nbetterrrrrr: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4d 7c]\npiropanzer: iguala 0.02 €\nElManu62: se retira \nSrLyce: se retira \nMr_Pkr98: se retira \nSpotick: sube 0.04 € a 0.06 €\nbetterrrrrr: se retira \npiropanzer: iguala 0.04 €\n*** FLOP *** [2s 9d As]\nSpotick: pasa \npiropanzer: apuesta 0.07 €\nElManu62 deja la mesa\nSpotick: se retira \nLa apuesta no igualada (0.07 €) ha sido devuelta a piropanzer\npiropanzer se lleva 0.13 € del bote \nAadivinas se une a la mesa en el asiento n.º 3 \n*** RESUMEN ***\nBote total 0.14 € | Comisión 0.01 € \nComunitarias [2s 9d As]\nAsiento 1: betterrrrrr (ciega grande) se retiró antes del Flop\nAsiento 2: piropanzer recaudó (0.13 €)\nAsiento 3: ElManu62 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: Mr_Pkr98 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: Spotick (ciega pequeña) se retiró en el Flop"
+}

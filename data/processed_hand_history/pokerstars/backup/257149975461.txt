@@ -1,0 +1,39 @@
+Mano n.º 257149975461 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:09:44 CET [30-07-2025 17:09:44 ET]
+Mesa "Gilgamesh" 6-max El asiento n.º 2 es el botón
+Asiento 1: riverrrrrrmagic (2.36 € en fichas) 
+Asiento 2: SrLyce (2.25 € en fichas) 
+Asiento 3: Jumby34 (2.07 € en fichas) 
+Asiento 4: xapkk (2 € en fichas) 
+Asiento 5: cbo54 (1.85 € en fichas) 
+Asiento 6: Fretzo67500 (2.09 € en fichas) 
+Jumby34: pone la ciega pequeña 0.01 €
+xapkk: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8s 7h]
+cbo54: iguala 0.02 €
+Fretzo67500: iguala 0.02 €
+riverrrrrrmagic: iguala 0.02 €
+SrLyce: iguala 0.02 €
+Jumby34: sube 2.05 € a 2.07 € y está all-in
+xapkk: se retira 
+cbo54: iguala 1.83 € y está all-in
+Fretzo67500: se retira 
+riverrrrrrmagic: se retira 
+SrLyce: se retira 
+La apuesta no igualada (0.22 €) ha sido devuelta a Jumby34
+*** FLOP *** [Js Jc Kh]
+*** TURN *** [Js Jc Kh] [Jd]
+*** RIVER *** [Js Jc Kh Jd] [6c]
+*** SHOW DOWN ***
+Jumby34: muestra [Ah Qc] (trío de jotas)
+cbo54: muestra [Ac As] (full de jotas y ases)
+cbo54 se lleva 3.55 € del bote 
+*** RESUMEN ***
+Bote total 3.78 € | Comisión 0.23 € 
+Comunitarias [Js Jc Kh Jd 6c]
+Asiento 1: riverrrrrrmagic se retiró antes del Flop
+Asiento 2: SrLyce (botón) se retiró antes del Flop
+Asiento 3: Jumby34 (ciega pequeña) muestra [Ah Qc] y perdió con trío de jotas
+Asiento 4: xapkk (ciega grande) se retiró antes del Flop
+Asiento 5: cbo54 muestra [Ac As] y ganó (3.55 €) con full de jotas y ases
+Asiento 6: Fretzo67500 se retiró antes del Flop

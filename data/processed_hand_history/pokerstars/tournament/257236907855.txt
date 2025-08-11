@@ -1,0 +1,37 @@
+Mano n.º 257236907855 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel III (100/200) - 06-08-2025 17:20:57 CET [06-08-2025 11:20:57 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 7 es el botón
+Asiento 1: SrLyce (1970 en fichas) 
+Asiento 3: Jimyelkaiser (600 en fichas) 
+Asiento 6: joaquinrecle67 (760 en fichas) 
+Asiento 7: Bernesaragon (670 en fichas) 
+SrLyce: pone el ante 40
+Jimyelkaiser: pone el ante 40
+joaquinrecle67: pone el ante 40
+Bernesaragon: pone el ante 40
+SrLyce: pone la ciega pequeña 100
+Jimyelkaiser: pone la ciega grande 200
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4h 4s]
+joaquinrecle67: sube 520 a 720 y está all-in
+Bernesaragon: iguala 630 y está all-in
+SrLyce: iguala 620
+Jimyelkaiser: iguala 360 y está all-in
+*** FLOP *** [Js Jh 5s]
+*** TURN *** [Js Jh 5s] [Tc]
+*** RIVER *** [Js Jh 5s Tc] [7d]
+*** SHOW DOWN ***
+SrLyce: muestra [4h 4s] (doble pareja, jotas y cuatros)
+joaquinrecle67: muestra [8h As] (pareja de jotas)
+SrLyce se lleva 180 del bote  secundario-2 
+Bernesaragon: muestra [Ad 5c] (doble pareja, jotas y cincos)
+Bernesaragon se lleva 210 del bote  secundario-1 
+Jimyelkaiser: muestra [9h 9c] (doble pareja, jotas y nueves)
+Jimyelkaiser se lleva 2400 del bote  principal
+joaquinrecle67 ha finalizado el torneo en 4.º posición
+*** RESUMEN ***
+Bote total 2790 Bote principal 2400. Bote-1 secundario 210. Bote-2 secundario 180. | Comisión 0 
+Comunitarias [Js Jh 5s Tc 7d]
+Asiento 1: SrLyce (ciega pequeña) muestra [4h 4s] y ganó (180) con doble pareja, jotas y cuatros
+Asiento 3: Jimyelkaiser (ciega grande) muestra [9h 9c] y ganó (2400) con doble pareja, jotas y nueves
+Asiento 6: joaquinrecle67 muestra [8h As] y perdió con pareja de jotas
+Asiento 7: Bernesaragon (botón) muestra [Ad 5c] y ganó (210) con doble pareja, jotas y cincos

@@ -1,0 +1,80 @@
+{
+  "hand_id": "257150119336",
+  "date": "30-07-2025 23:19:37",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9d",
+    "3h"
+  ],
+  "stacks": {
+    "LeVbks": 120.5,
+    "fcis666": 33.0,
+    "Dlaguancha": 118.5,
+    "SrLyce": 101.5,
+    "riverluck444": 89.5,
+    "javipondio": 34.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (2.41 € en fichas)",
+      "Asiento 2: fcis666 (0.66 € en fichas)",
+      "Asiento 3: Dlaguancha (2.37 € en fichas)",
+      "Asiento 4: SrLyce (2.03 € en fichas)",
+      "Asiento 5: riverluck444 (1.79 € en fichas)",
+      "Asiento 6: javipondio (0.68 € en fichas)",
+      "riverluck444: pone la ciega pequeña 0.01 €",
+      "javipondio: pone la ciega grande 0.02 €",
+      "LeVbks: sube 0.02 € a 0.04 €",
+      "fcis666: se retira",
+      "Dlaguancha: iguala 0.04 €",
+      "SrLyce: se retira",
+      "riverluck444: iguala 0.03 €",
+      "javipondio: iguala 0.02 €"
+    ],
+    "flop": [
+      "riverluck444: pasa",
+      "javipondio: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa"
+    ],
+    "turn": [
+      "riverluck444: pasa",
+      "javipondio: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa"
+    ],
+    "river": [
+      "riverluck444: pasa",
+      "javipondio: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: apuesta 0.02 €",
+      "riverluck444: sube 1.73 € a 1.75 € y está all-in",
+      "javipondio: se retira",
+      "LeVbks: se retira",
+      "Dlaguancha: se retira",
+      "riverluck444: no muestra su mano",
+      "Asiento 1: LeVbks se retiró en el River",
+      "Asiento 2: fcis666 se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dlaguancha se retiró en el River",
+      "Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 (ciega pequeña) recaudó (0.19 €)",
+      "Asiento 6: javipondio (ciega grande) se retiró en el River"
+    ]
+  },
+  "board": [
+    "3c",
+    "Qd",
+    "8s",
+    "6h",
+    "6s"
+  ],
+  "winner": "riverluck444",
+  "win_amount": 9.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257150119336 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:19:37 CET [30-07-2025 17:19:37 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 4 es el botón\nAsiento 1: LeVbks (2.41 € en fichas) \nAsiento 2: fcis666 (0.66 € en fichas) \nAsiento 3: Dlaguancha (2.37 € en fichas) \nAsiento 4: SrLyce (2.03 € en fichas) \nAsiento 5: riverluck444 (1.79 € en fichas) \nAsiento 6: javipondio (0.68 € en fichas) \nriverluck444: pone la ciega pequeña 0.01 €\njavipondio: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9d 3h]\nLeVbks: sube 0.02 € a 0.04 €\nfcis666: se retira \nDlaguancha: iguala 0.04 €\nSrLyce: se retira \nriverluck444: iguala 0.03 €\njavipondio: iguala 0.02 €\n*** FLOP *** [3c Qd 8s]\nriverluck444: pasa \njavipondio: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** TURN *** [3c Qd 8s] [6h]\nriverluck444: pasa \njavipondio: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** RIVER *** [3c Qd 8s 6h] [6s]\nriverluck444: pasa \njavipondio: pasa \nLeVbks: pasa \nDlaguancha: apuesta 0.02 €\nriverluck444: sube 1.73 € a 1.75 € y está all-in\njavipondio: se retira \nLeVbks: se retira \nDlaguancha: se retira \nLa apuesta no igualada (1.73 €) ha sido devuelta a riverluck444\nriverluck444 se lleva 0.19 € del bote \nriverluck444: no muestra su mano \n*** RESUMEN ***\nBote total 0.20 € | Comisión 0.01 € \nComunitarias [3c Qd 8s 6h 6s]\nAsiento 1: LeVbks se retiró en el River\nAsiento 2: fcis666 se retiró antes del Flop (no apostó)\nAsiento 3: Dlaguancha se retiró en el River\nAsiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 (ciega pequeña) recaudó (0.19 €)\nAsiento 6: javipondio (ciega grande) se retiró en el River"
+}

@@ -1,0 +1,29 @@
+Mano n.º 257236936022 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel IV (200/400) - 06-08-2025 17:23:46 CET [06-08-2025 11:23:46 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (2880 en fichas) 
+Asiento 7: Bernesaragon (1120 en fichas) 
+SrLyce: pone el ante 80
+Bernesaragon: pone el ante 80
+SrLyce: pone la ciega pequeña 200
+Bernesaragon: pone la ciega grande 400
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2h 3h]
+SrLyce: sube 400 a 800
+Bernesaragon: sube 240 a 1040 y está all-in
+SrLyce: iguala 240
+*** FLOP *** [7h As Qh]
+*** TURN *** [7h As Qh] [Td]
+*** RIVER *** [7h As Qh Td] [9h]
+*** SHOW DOWN ***
+Bernesaragon: muestra [2c Ks] (carta alta as)
+SrLyce: muestra [2h 3h] (color, carta alta dama)
+SrLyce se lleva 2240 del bote 
+Bernesaragon ha finalizado el torneo en 2.º posición
+Bernesaragon gana un ticket "Power Path - Step 2 MTT Ticket €1"
+SrLyce gana el torneo, ¡enhorabuena!
+SrLyce gana un ticket "Power Path - Step 3 MTT Ticket €10"
+*** RESUMEN ***
+Bote total 2240 | Comisión 0 
+Comunitarias [7h As Qh Td 9h]
+Asiento 1: SrLyce (botón) (ciega pequeña) muestra [2h 3h] y ganó (2240) con color, carta alta dama
+Asiento 7: Bernesaragon (ciega grande) muestra [2c Ks] y perdió con carta alta as

@@ -1,0 +1,73 @@
+{
+  "hand_id": "257238735650",
+  "date": "06-08-2025 19:24:44",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7c",
+    "7h"
+  ],
+  "stacks": {
+    "practikal_C23": 50.0,
+    "niyomalo": 94.5,
+    "davinci1962": 155.0,
+    "BuXHexter": 155.0,
+    "Andark47": 207.5,
+    "SrLyce": 85.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: practikal_C23 (1 € en fichas)",
+      "Asiento 2: niyomalo (1.89 € en fichas)",
+      "Asiento 3: davinci1962 (3.10 € en fichas)",
+      "Asiento 4: BuXHexter (3.10 € en fichas)",
+      "Asiento 5: Andark47 (4.15 € en fichas)",
+      "Asiento 6: SrLyce (1.71 € en fichas)",
+      "davinci1962: pone la ciega pequeña 0.01 €",
+      "BuXHexter: pone la ciega grande 0.02 €",
+      "Andark47: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "practikal_C23: iguala 0.05 €",
+      "niyomalo: se retira",
+      "davinci1962: se retira",
+      "BuXHexter: iguala 0.03 €"
+    ],
+    "flop": [
+      "BuXHexter: pasa",
+      "SrLyce: pasa",
+      "practikal_C23: pasa"
+    ],
+    "turn": [
+      "BuXHexter: apuesta 0.08 €",
+      "SrLyce: iguala 0.08 €",
+      "practikal_C23: se retira"
+    ],
+    "river": [
+      "BuXHexter: pasa",
+      "SrLyce: pasa",
+      "BuXHexter: muestra [Jh Kc] (pareja de reyes)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 1: practikal_C23 se retiró en el Turn",
+      "Asiento 2: niyomalo (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: davinci1962 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: BuXHexter (ciega grande) muestra [Jh Kc] y ganó (0.30 €) con pareja de reyes",
+      "Asiento 5: Andark47 se retiró antes del Flop (no apostó)",
+      "Asiento 6: SrLyce descartó sin mostrar [7c 7h]"
+    ]
+  },
+  "board": [
+    "Ks",
+    "6s",
+    "9c",
+    "4s",
+    "Ac"
+  ],
+  "winner": "BuXHexter",
+  "win_amount": 15.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238735650 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:24:44 CET [06-08-2025 13:24:44 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 2 es el botón\nAsiento 1: practikal_C23 (1 € en fichas) \nAsiento 2: niyomalo (1.89 € en fichas) \nAsiento 3: davinci1962 (3.10 € en fichas) \nAsiento 4: BuXHexter (3.10 € en fichas) \nAsiento 5: Andark47 (4.15 € en fichas) \nAsiento 6: SrLyce (1.71 € en fichas) \ndavinci1962: pone la ciega pequeña 0.01 €\nBuXHexter: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7c 7h]\nAndark47 ha agotado su tiempo\nAndark47: se retira \nSrLyce: sube 0.03 € a 0.05 €\npractikal_C23: iguala 0.05 €\nniyomalo: se retira \ndavinci1962: se retira \nBuXHexter: iguala 0.03 €\n*** FLOP *** [Ks 6s 9c]\nBuXHexter: pasa \nSrLyce: pasa \npractikal_C23: pasa \n*** TURN *** [Ks 6s 9c] [4s]\nBuXHexter: apuesta 0.08 €\nSrLyce: iguala 0.08 €\npractikal_C23: se retira \n*** RIVER *** [Ks 6s 9c 4s] [Ac]\nBuXHexter: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nBuXHexter: muestra [Jh Kc] (pareja de reyes)\nSrLyce: descarta su mano sin mostrar \nBuXHexter se lleva 0.30 € del bote \n*** RESUMEN ***\nBote total 0.32 € | Comisión 0.02 € \nComunitarias [Ks 6s 9c 4s Ac]\nAsiento 1: practikal_C23 se retiró en el Turn\nAsiento 2: niyomalo (botón) se retiró antes del Flop (no apostó)\nAsiento 3: davinci1962 (ciega pequeña) se retiró antes del Flop\nAsiento 4: BuXHexter (ciega grande) muestra [Jh Kc] y ganó (0.30 €) con pareja de reyes\nAsiento 5: Andark47 se retiró antes del Flop (no apostó)\nAsiento 6: SrLyce descartó sin mostrar [7c 7h]"
+}

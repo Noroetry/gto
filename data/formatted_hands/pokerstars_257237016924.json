@@ -1,0 +1,66 @@
+{
+  "hand_id": "257237016924",
+  "date": "06-08-2025 17:31:47",
+  "table": "Themisto III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7h",
+    "8s"
+  ],
+  "stacks": {
+    "elso253": 67.5,
+    "SrLyce": 102.0,
+    "idigon": 30.0,
+    "WoLF-Sevilla": 79.0,
+    "mivipkr": 124.0,
+    "marignamo": 98.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: elso253 (1.35 € en fichas)",
+      "Asiento 2: SrLyce (2.04 € en fichas)",
+      "Asiento 3: idigon (0.60 € en fichas)",
+      "Asiento 4: WoLF-Sevilla (1.58 € en fichas)",
+      "Asiento 5: mivipkr (2.48 € en fichas)",
+      "Asiento 6: marignamo (1.97 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "idigon: pone la ciega grande 0.02 €",
+      "WoLF-Sevilla: se retira",
+      "mivipkr: se retira",
+      "marignamo: iguala 0.02 €",
+      "elso253: sube 0.03 € a 0.05 €",
+      "SrLyce: se retira",
+      "idigon: iguala 0.03 €",
+      "marignamo: iguala 0.03 €"
+    ],
+    "flop": [
+      "idigon: pasa",
+      "marignamo: pasa",
+      "elso253: apuesta 0.08 €",
+      "idigon: se retira",
+      "marignamo: se retira",
+      "elso253: no muestra su mano",
+      "Asiento 1: elso253 (botón) recaudó (0.15 €)",
+      "Asiento 2: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: idigon (ciega grande) se retiró en el Flop",
+      "Asiento 4: WoLF-Sevilla se retiró antes del Flop (no apostó)",
+      "Asiento 5: mivipkr se retiró antes del Flop (no apostó)",
+      "Asiento 6: marignamo se retiró en el Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "Ad",
+    "Td",
+    "6d"
+  ],
+  "winner": "elso253",
+  "win_amount": 7.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257237016924 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:31:47 CET [06-08-2025 11:31:47 ET]\nMesa \"Themisto III\" 6-max El asiento n.º 1 es el botón\nAsiento 1: elso253 (1.35 € en fichas) \nAsiento 2: SrLyce (2.04 € en fichas) \nAsiento 3: idigon (0.60 € en fichas) \nAsiento 4: WoLF-Sevilla (1.58 € en fichas) \nAsiento 5: mivipkr (2.48 € en fichas) \nAsiento 6: marignamo (1.97 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nidigon: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7h 8s]\nWoLF-Sevilla: se retira \nmivipkr: se retira \nmarignamo: iguala 0.02 €\nWoLF-Sevilla deja la mesa\nelso253: sube 0.03 € a 0.05 €\nSrLyce: se retira \nidigon: iguala 0.03 €\nmarignamo: iguala 0.03 €\n*** FLOP *** [Ad Td 6d]\nidigon: pasa \nmarignamo: pasa \nelso253: apuesta 0.08 €\nidigon: se retira \nmarignamo: se retira \nLa apuesta no igualada (0.08 €) ha sido devuelta a elso253\nelso253 se lleva 0.15 € del bote \nelso253: no muestra su mano \n*** RESUMEN ***\nBote total 0.16 € | Comisión 0.01 € \nComunitarias [Ad Td 6d]\nAsiento 1: elso253 (botón) recaudó (0.15 €)\nAsiento 2: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 3: idigon (ciega grande) se retiró en el Flop\nAsiento 4: WoLF-Sevilla se retiró antes del Flop (no apostó)\nAsiento 5: mivipkr se retiró antes del Flop (no apostó)\nAsiento 6: marignamo se retiró en el Flop"
+}

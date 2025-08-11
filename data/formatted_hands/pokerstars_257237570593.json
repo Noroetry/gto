@@ -1,0 +1,52 @@
+{
+  "hand_id": "257237570593",
+  "date": "06-08-2025 17:37:03",
+  "table": "Kale III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8c",
+    "Ks"
+  ],
+  "stacks": {
+    "x__Nest__x": 86.5,
+    "SrLyce": 122.5,
+    "Dracoline000": 111.0,
+    "Begoton": 104.0,
+    "juanmemol": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: x__Nest__x (1.73 € en fichas)",
+      "Asiento 2: SrLyce (2.45 € en fichas)",
+      "Asiento 3: Dracoline000 (2.22 € en fichas)",
+      "Asiento 5: Begoton (2.08 € en fichas)",
+      "Asiento 6: juanmemol (2 € en fichas)",
+      "juanmemol: pone la ciega pequeña 0.01 €",
+      "x__Nest__x: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Dracoline000: sube 0.04 € a 0.06 €",
+      "Begoton: se retira",
+      "juanmemol: sube 0.18 € a 0.24 €",
+      "x__Nest__x: se retira",
+      "Dracoline000: se retira",
+      "juanmemol: no muestra su mano",
+      "Asiento 1: x__Nest__x (ciega grande) se retiró antes del Flop",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dracoline000 se retiró antes del Flop",
+      "Asiento 5: Begoton (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: juanmemol (ciega pequeña) recaudó (0.14 €)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "juanmemol",
+  "win_amount": 7.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237570593 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:37:03 CET [06-08-2025 11:37:03 ET]\nMesa \"Kale III\" 6-max El asiento n.º 5 es el botón\nAsiento 1: x__Nest__x (1.73 € en fichas) \nAsiento 2: SrLyce (2.45 € en fichas) \nAsiento 3: Dracoline000 (2.22 € en fichas) \nAsiento 5: Begoton (2.08 € en fichas) \nAsiento 6: juanmemol (2 € en fichas) \njuanmemol: pone la ciega pequeña 0.01 €\nx__Nest__x: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8c Ks]\nSrLyce: se retira \nDracoline000: sube 0.04 € a 0.06 €\nBegoton: se retira \njuanmemol: sube 0.18 € a 0.24 €\nx__Nest__x: se retira \nDracoline000: se retira \nLa apuesta no igualada (0.18 €) ha sido devuelta a juanmemol\njuanmemol se lleva 0.14 € del bote \njuanmemol: no muestra su mano \n*** RESUMEN ***\nBote total 0.14 € | Comisión 0 € \nAsiento 1: x__Nest__x (ciega grande) se retiró antes del Flop\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: Dracoline000 se retiró antes del Flop\nAsiento 5: Begoton (botón) se retiró antes del Flop (no apostó)\nAsiento 6: juanmemol (ciega pequeña) recaudó (0.14 €)"
+}

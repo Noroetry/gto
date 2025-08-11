@@ -1,0 +1,68 @@
+{
+  "hand_id": "257238203262",
+  "date": "06-08-2025 18:37:15",
+  "table": "Aidamina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9s",
+    "3d"
+  ],
+  "stacks": {
+    "74SKY": 27.5,
+    "erdillu": 96.0,
+    "niyomalo": 118.5,
+    "durahimovic": 136.0,
+    "Abrelatas787": 156.5,
+    "SrLyce": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257238203262 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:37:15 CET [06-08-2025 12:37:15 ET]",
+      "Asiento 1: 74SKY (0.55 € en fichas)",
+      "Asiento 2: erdillu (1.92 € en fichas)",
+      "Asiento 3: niyomalo (2.37 € en fichas)",
+      "Asiento 4: durahimovic (2.72 € en fichas)",
+      "Asiento 5: Abrelatas787 (3.13 € en fichas)",
+      "Asiento 6: SrLyce (2 € en fichas)",
+      "Abrelatas787: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "74SKY: se retira",
+      "erdillu: iguala 0.02 €",
+      "niyomalo: iguala 0.02 €",
+      "durahimovic: sube 0.04 € a 0.06 €",
+      "Abrelatas787: iguala 0.05 €",
+      "SrLyce: se retira",
+      "erdillu: iguala 0.04 €",
+      "niyomalo: iguala 0.04 €"
+    ],
+    "flop": [
+      "Abrelatas787: pasa",
+      "erdillu: apuesta 0.12 €",
+      "niyomalo: se retira",
+      "durahimovic: se retira",
+      "Abrelatas787: se retira",
+      "erdillu: no muestra su mano",
+      "Asiento 1: 74SKY se retiró antes del Flop (no apostó)",
+      "Asiento 2: erdillu recaudó (0.24 €)",
+      "Asiento 3: niyomalo se retiró en el Flop",
+      "Asiento 4: durahimovic (botón) se retiró en el Flop",
+      "Asiento 5: Abrelatas787 (ciega pequeña) se retiró en el Flop",
+      "Asiento 6: SrLyce (ciega grande) se retiró antes del Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "6d",
+    "8s",
+    "9d"
+  ],
+  "winner": "erdillu",
+  "win_amount": 12.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "﻿Mano n.º 257238203262 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:37:15 CET [06-08-2025 12:37:15 ET]\nMesa \"Aidamina II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: 74SKY (0.55 € en fichas) \nAsiento 2: erdillu (1.92 € en fichas) \nAsiento 3: niyomalo (2.37 € en fichas) \nAsiento 4: durahimovic (2.72 € en fichas) \nAsiento 5: Abrelatas787 (3.13 € en fichas) \nAsiento 6: SrLyce (2 € en fichas) \nAbrelatas787: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9s 3d]\n74SKY: se retira \nerdillu: iguala 0.02 €\nniyomalo: iguala 0.02 €\ndurahimovic: sube 0.04 € a 0.06 €\nAbrelatas787: iguala 0.05 €\nSrLyce: se retira \nerdillu: iguala 0.04 €\nniyomalo: iguala 0.04 €\n*** FLOP *** [6d 8s 9d]\nAbrelatas787: pasa \nerdillu: apuesta 0.12 €\nniyomalo: se retira \ndurahimovic: se retira \nAbrelatas787: se retira \nLa apuesta no igualada (0.12 €) ha sido devuelta a erdillu\nerdillu se lleva 0.24 € del bote \nerdillu: no muestra su mano \n*** RESUMEN ***\nBote total 0.26 € | Comisión 0.02 € \nComunitarias [6d 8s 9d]\nAsiento 1: 74SKY se retiró antes del Flop (no apostó)\nAsiento 2: erdillu recaudó (0.24 €)\nAsiento 3: niyomalo se retiró en el Flop\nAsiento 4: durahimovic (botón) se retiró en el Flop\nAsiento 5: Abrelatas787 (ciega pequeña) se retiró en el Flop\nAsiento 6: SrLyce (ciega grande) se retiró antes del Flop"
+}

@@ -1,0 +1,72 @@
+{
+  "hand_id": "257150052222",
+  "date": "30-07-2025 23:15:00",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3s",
+    "Kc"
+  ],
+  "stacks": {
+    "riverrrrrrmagic": 122.0,
+    "SrLyce": 107.5,
+    "Jumby34": 100.0,
+    "xapkk": 100.0,
+    "samaritano34": 49.0,
+    "Fretzo67500": 124.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: riverrrrrrmagic (2.44 € en fichas)",
+      "Asiento 2: SrLyce (2.15 € en fichas)",
+      "Asiento 3: Jumby34 (2 € en fichas)",
+      "Asiento 4: xapkk (2 € en fichas)",
+      "Asiento 5: samaritano34 (0.98 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.49 € en fichas)",
+      "samaritano34: pone la ciega pequeña 0.01 €",
+      "Fretzo67500: pone la ciega grande 0.02 €",
+      "riverrrrrrmagic: iguala 0.02 €",
+      "SrLyce: se retira",
+      "Jumby34: se retira",
+      "xapkk: se retira",
+      "samaritano34: se retira",
+      "Fretzo67500: pasa"
+    ],
+    "flop": [
+      "Fretzo67500: pasa",
+      "riverrrrrrmagic: apuesta 0.02 €",
+      "Fretzo67500: iguala 0.02 €"
+    ],
+    "turn": [
+      "Fretzo67500: apuesta 0.02 €",
+      "riverrrrrrmagic: iguala 0.02 €"
+    ],
+    "river": [
+      "Fretzo67500: apuesta 0.02 €",
+      "riverrrrrrmagic: iguala 0.02 €",
+      "Fretzo67500: muestra [3d 4h] (doble pareja, cincos y cuatros)",
+      "riverrrrrrmagic: muestra [9h 6d] (doble pareja, nueves y cincos)",
+      "Asiento 1: riverrrrrrmagic muestra [9h 6d] y ganó (0.16 €) con doble pareja, nueves y cincos",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: Jumby34 se retiró antes del Flop (no apostó)",
+      "Asiento 4: xapkk (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: samaritano34 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: Fretzo67500 (ciega grande) muestra [3d 4h] y perdió con doble pareja, cincos y cuatros"
+    ]
+  },
+  "board": [
+    "7c",
+    "9d",
+    "5s",
+    "4s",
+    "5d"
+  ],
+  "winner": "riverrrrrrmagic",
+  "win_amount": 8.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257150052222 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:15:00 CET [30-07-2025 17:15:00 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 4 es el botón\nAsiento 1: riverrrrrrmagic (2.44 € en fichas) \nAsiento 2: SrLyce (2.15 € en fichas) \nAsiento 3: Jumby34 (2 € en fichas) \nAsiento 4: xapkk (2 € en fichas) \nAsiento 5: samaritano34 (0.98 € en fichas) \nAsiento 6: Fretzo67500 (2.49 € en fichas) \nsamaritano34: pone la ciega pequeña 0.01 €\nFretzo67500: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3s Kc]\nriverrrrrrmagic: iguala 0.02 €\nSrLyce: se retira \nJumby34: se retira \nxapkk: se retira \nsamaritano34: se retira \nFretzo67500: pasa \n*** FLOP *** [7c 9d 5s]\nFretzo67500: pasa \nriverrrrrrmagic: apuesta 0.02 €\nFretzo67500: iguala 0.02 €\n*** TURN *** [7c 9d 5s] [4s]\nFretzo67500: apuesta 0.02 €\nriverrrrrrmagic: iguala 0.02 €\n*** RIVER *** [7c 9d 5s 4s] [5d]\nFretzo67500: apuesta 0.02 €\nriverrrrrrmagic: iguala 0.02 €\n*** SHOW DOWN ***\nFretzo67500: muestra [3d 4h] (doble pareja, cincos y cuatros)\nriverrrrrrmagic: muestra [9h 6d] (doble pareja, nueves y cincos)\nriverrrrrrmagic se lleva 0.16 € del bote \n*** RESUMEN ***\nBote total 0.17 € | Comisión 0.01 € \nComunitarias [7c 9d 5s 4s 5d]\nAsiento 1: riverrrrrrmagic muestra [9h 6d] y ganó (0.16 €) con doble pareja, nueves y cincos\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: Jumby34 se retiró antes del Flop (no apostó)\nAsiento 4: xapkk (botón) se retiró antes del Flop (no apostó)\nAsiento 5: samaritano34 (ciega pequeña) se retiró antes del Flop\nAsiento 6: Fretzo67500 (ciega grande) muestra [3d 4h] y perdió con doble pareja, cincos y cuatros"
+}

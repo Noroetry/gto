@@ -1,0 +1,30 @@
+Mano n.º 257168223282 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:07:30 CET [01-08-2025 5:07:30 ET]
+Mesa "Sekanina" 6-max El asiento n.º 3 es el botón
+Asiento 2: practikal_C23 (1.65 € en fichas) 
+Asiento 3: Alvii37 (1.84 € en fichas) 
+Asiento 4: SrLyce (2.05 € en fichas) 
+Asiento 5: davinci1962 (2.19 € en fichas) 
+Asiento 6: Elministrelas (1.87 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+davinci1962: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qc 3h]
+Elministrelas: sube 0.03 € a 0.05 €
+practikal_C23: se retira 
+Alvii37: se retira 
+SrLyce: se retira 
+davinci1962: iguala 0.03 €
+*** FLOP *** [Ah Ts 6h]
+davinci1962: pasa 
+Elministrelas: apuesta 0.03 €
+davinci1962: se retira 
+La apuesta no igualada (0.03 €) ha sido devuelta a Elministrelas
+Elministrelas se lleva 0.10 € del bote 
+*** RESUMEN ***
+Bote total 0.11 € | Comisión 0.01 € 
+Comunitarias [Ah Ts 6h]
+Asiento 2: practikal_C23 se retiró antes del Flop (no apostó)
+Asiento 3: Alvii37 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 5: davinci1962 (ciega grande) se retiró en el Flop
+Asiento 6: Elministrelas recaudó (0.10 €)

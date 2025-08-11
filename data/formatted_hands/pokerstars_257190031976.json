@@ -1,0 +1,63 @@
+{
+  "hand_id": "257190031976",
+  "date": "03-08-2025 1:03:44",
+  "table": "Tamariwa",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ts",
+    "4c"
+  ],
+  "stacks": {
+    "datmawi": 60.5,
+    "BluesMyWay": 216.0,
+    "arthurtfa": 33.0,
+    "toonsy2010": 165.5,
+    "SrLyce": 111.0,
+    "DiaZzZ1": 144.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: datmawi (1.21 € en fichas)",
+      "Asiento 2: BluesMyWay (4.32 € en fichas)",
+      "Asiento 3: arthurtfa (0.66 € en fichas)",
+      "Asiento 4: toonsy2010 (3.31 € en fichas)",
+      "Asiento 5: SrLyce (2.22 € en fichas)",
+      "Asiento 6: DiaZzZ1 (2.89 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "DiaZzZ1: pone la ciega grande 0.02 €",
+      "datmawi: se retira",
+      "BluesMyWay: se retira",
+      "arthurtfa: se retira",
+      "toonsy2010: iguala 0.02 €",
+      "SrLyce: se retira",
+      "DiaZzZ1: pasa"
+    ],
+    "flop": [
+      "DiaZzZ1: pasa",
+      "toonsy2010: apuesta 0.05 €",
+      "DiaZzZ1: se retira",
+      "toonsy2010: no muestra su mano",
+      "Asiento 1: datmawi se retiró antes del Flop (no apostó)",
+      "Asiento 2: BluesMyWay se retiró antes del Flop (no apostó)",
+      "Asiento 3: arthurtfa se retiró antes del Flop (no apostó)",
+      "Asiento 4: toonsy2010 (botón) recaudó (0.05 €)",
+      "Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: DiaZzZ1 (ciega grande) se retiró en el Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "9c",
+    "6d",
+    "5h"
+  ],
+  "winner": "toonsy2010",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257190031976 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 1:03:44 CET [02-08-2025 19:03:44 ET]\nMesa \"Tamariwa\" 6-max El asiento n.º 4 es el botón\nAsiento 1: datmawi (1.21 € en fichas) \nAsiento 2: BluesMyWay (4.32 € en fichas) \nAsiento 3: arthurtfa (0.66 € en fichas) \nAsiento 4: toonsy2010 (3.31 € en fichas) \nAsiento 5: SrLyce (2.22 € en fichas) \nAsiento 6: DiaZzZ1 (2.89 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nDiaZzZ1: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ts 4c]\ndatmawi: se retira \nBluesMyWay: se retira \narthurtfa: se retira \ntoonsy2010: iguala 0.02 €\nSrLyce: se retira \nDiaZzZ1: pasa \n*** FLOP *** [9c 6d 5h]\nDiaZzZ1: pasa \ntoonsy2010: apuesta 0.05 €\nDiaZzZ1: se retira \nLa apuesta no igualada (0.05 €) ha sido devuelta a toonsy2010\ntoonsy2010 se lleva 0.05 € del bote \ntoonsy2010: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nComunitarias [9c 6d 5h]\nAsiento 1: datmawi se retiró antes del Flop (no apostó)\nAsiento 2: BluesMyWay se retiró antes del Flop (no apostó)\nAsiento 3: arthurtfa se retiró antes del Flop (no apostó)\nAsiento 4: toonsy2010 (botón) recaudó (0.05 €)\nAsiento 5: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 6: DiaZzZ1 (ciega grande) se retiró en el Flop"
+}

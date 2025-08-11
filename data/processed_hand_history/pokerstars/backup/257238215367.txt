@@ -1,0 +1,41 @@
+Mano n.º 257238215367 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:38:20 CET [06-08-2025 12:38:20 ET]
+Mesa "Aidamina II" 6-max El asiento n.º 6 es el botón
+Asiento 1: 74SKY (0.56 € en fichas) 
+Asiento 2: erdillu (2.10 € en fichas) 
+Asiento 3: niyomalo (2.31 € en fichas) 
+Asiento 4: durahimovic (2.66 € en fichas) 
+Asiento 5: Abrelatas787 (3.07 € en fichas) 
+Asiento 6: SrLyce (1.97 € en fichas) 
+74SKY: pone la ciega pequeña 0.01 €
+erdillu: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kh Ac]
+niyomalo: se retira 
+durahimovic: se retira 
+Abrelatas787: se retira 
+SrLyce: sube 0.03 € a 0.05 €
+74SKY: iguala 0.04 €
+erdillu: se retira 
+*** FLOP *** [3s Ts 6c]
+74SKY: apuesta 0.11 €
+SrLyce: iguala 0.11 €
+*** TURN *** [3s Ts 6c] [Tc]
+niyomalo no tiene conexión 
+74SKY: pasa 
+SrLyce: pasa 
+*** RIVER *** [3s Ts 6c Tc] [2h]
+74SKY: apuesta 0.40 € y está all-in
+SrLyce: iguala 0.40 €
+*** SHOW DOWN ***
+74SKY: muestra [Qh As] (pareja de dieces)
+SrLyce: muestra [Kh Ac] (pareja de dieces - as+rey kicker)
+SrLyce se lleva 1.07 € del bote 
+*** RESUMEN ***
+Bote total 1.14 € | Comisión 0.07 € 
+Comunitarias [3s Ts 6c Tc 2h]
+Asiento 1: 74SKY (ciega pequeña) muestra [Qh As] y perdió con pareja de dieces
+Asiento 2: erdillu (ciega grande) se retiró antes del Flop
+Asiento 3: niyomalo se retiró antes del Flop (no apostó)
+Asiento 4: durahimovic se retiró antes del Flop (no apostó)
+Asiento 5: Abrelatas787 se retiró antes del Flop (no apostó)
+Asiento 6: SrLyce (botón) muestra [Kh Ac] y ganó (1.07 €) con pareja de dieces

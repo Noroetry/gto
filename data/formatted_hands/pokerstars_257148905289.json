@@ -1,0 +1,70 @@
+{
+  "hand_id": "257148905289",
+  "date": "30-07-2025 21:52:19",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9h",
+    "Ks"
+  ],
+  "stacks": {
+    "SrLyce": 107.0,
+    "lecontrebandier": 100.5,
+    "christoph363": 186.5,
+    "oliverdu70": 146.5,
+    "olibellier": 18.0,
+    "Dakoo44": 79.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.14 € en fichas)",
+      "Asiento 2: lecontrebandier (2.01 € en fichas)",
+      "Asiento 3: christoph363 (3.73 € en fichas)",
+      "Asiento 4: oliverdu70 (2.93 € en fichas)",
+      "Asiento 5: olibellier (0.36 € en fichas)",
+      "Asiento 6: Dakoo44 (1.58 € en fichas)",
+      "lecontrebandier: pone la ciega pequeña 0.01 €",
+      "christoph363: pone la ciega grande 0.02 €",
+      "oliverdu70: iguala 0.02 €",
+      "olibellier: iguala 0.02 €",
+      "Dakoo44: sube 0.08 € a 0.10 €",
+      "SrLyce: se retira",
+      "lecontrebandier: se retira",
+      "christoph363: iguala 0.08 €",
+      "oliverdu70: se retira",
+      "olibellier: iguala 0.08 €"
+    ],
+    "flop": [
+      "christoph363: pasa",
+      "olibellier: apuesta 0.26 € y está all-in",
+      "Dakoo44: se retira",
+      "christoph363: iguala 0.26 €"
+    ],
+    "turn": [],
+    "river": [
+      "christoph363: muestra [Ah Ac] (trío de ases)",
+      "olibellier: muestra [3c 3h] (pareja de treses)",
+      "Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: lecontrebandier (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: christoph363 (ciega grande) muestra [Ah Ac] y ganó (0.80 €) con trío de ases",
+      "Asiento 4: oliverdu70 se retiró antes del Flop",
+      "Asiento 5: olibellier muestra [3c 3h] y perdió con pareja de treses",
+      "Asiento 6: Dakoo44 se retiró en el Flop"
+    ]
+  },
+  "board": [
+    "6s",
+    "2c",
+    "4s",
+    "Ad",
+    "Kd"
+  ],
+  "winner": "christoph363",
+  "win_amount": 40.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.5,
+  "raw_text": "Mano n.º 257148905289 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:52:19 CET [30-07-2025 15:52:19 ET]\nMesa \"Sirona\" 6-max El asiento n.º 1 es el botón\nAsiento 1: SrLyce (2.14 € en fichas) \nAsiento 2: lecontrebandier (2.01 € en fichas) \nAsiento 3: christoph363 (3.73 € en fichas) \nAsiento 4: oliverdu70 (2.93 € en fichas) \nAsiento 5: olibellier (0.36 € en fichas) \nAsiento 6: Dakoo44 (1.58 € en fichas) \nlecontrebandier: pone la ciega pequeña 0.01 €\nchristoph363: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9h Ks]\noliverdu70: iguala 0.02 €\nolibellier: iguala 0.02 €\nDakoo44: sube 0.08 € a 0.10 €\nSrLyce: se retira \nlecontrebandier: se retira \nchristoph363: iguala 0.08 €\noliverdu70: se retira \nolibellier: iguala 0.08 €\n*** FLOP *** [6s 2c 4s]\nchristoph363: pasa \nolibellier: apuesta 0.26 € y está all-in\nDakoo44: se retira \nchristoph363: iguala 0.26 €\n*** TURN *** [6s 2c 4s] [Ad]\n*** RIVER *** [6s 2c 4s Ad] [Kd]\n*** SHOW DOWN ***\nchristoph363: muestra [Ah Ac] (trío de ases)\nolibellier: muestra [3c 3h] (pareja de treses)\nchristoph363 se lleva 0.80 € del bote \n*** RESUMEN ***\nBote total 0.85 € | Comisión 0.05 € \nComunitarias [6s 2c 4s Ad Kd]\nAsiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 2: lecontrebandier (ciega pequeña) se retiró antes del Flop\nAsiento 3: christoph363 (ciega grande) muestra [Ah Ac] y ganó (0.80 €) con trío de ases\nAsiento 4: oliverdu70 se retiró antes del Flop\nAsiento 5: olibellier muestra [3c 3h] y perdió con pareja de treses\nAsiento 6: Dakoo44 se retiró en el Flop"
+}

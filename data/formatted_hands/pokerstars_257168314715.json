@@ -1,0 +1,77 @@
+{
+  "hand_id": "257168314715",
+  "date": "01-08-2025 11:25:08",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Kc",
+    "Tc"
+  ],
+  "stacks": {
+    "SrLyce": 91.5,
+    "Fharock": 93.5,
+    "ecuinas": 102.5,
+    "LxckxStrxkx": 105.0,
+    "erCampos23": 26.5,
+    "Akourdideh": 119.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.83 € en fichas)",
+      "Asiento 2: Fharock (1.87 € en fichas)",
+      "Asiento 3: ecuinas (2.05 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2.10 € en fichas)",
+      "Asiento 5: erCampos23 (0.53 € en fichas)",
+      "Asiento 6: Akourdideh (2.38 € en fichas)",
+      "Fharock: pone la ciega pequeña 0.01 €",
+      "ecuinas: pone la ciega grande 0.02 €",
+      "LxckxStrxkx: se retira",
+      "erCampos23: se retira",
+      "Akourdideh: se retira",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "Fharock: iguala 0.05 €",
+      "ecuinas: iguala 0.04 €"
+    ],
+    "flop": [
+      "Fharock: pasa",
+      "ecuinas: pasa",
+      "SrLyce: apuesta 0.06 €",
+      "Fharock: iguala 0.06 €",
+      "ecuinas: iguala 0.06 €"
+    ],
+    "turn": [
+      "Fharock: pasa",
+      "ecuinas: pasa",
+      "SrLyce: pasa"
+    ],
+    "river": [
+      "Fharock: pasa",
+      "ecuinas: pasa",
+      "SrLyce: pasa",
+      "Fharock: muestra [Js Th] (pareja de jotas)",
+      "ecuinas: muestra [8s Qs] (doble pareja, damas y ochos)",
+      "SrLyce: muestra [Kc Tc] (escalera, de diez a as)",
+      "Asiento 1: SrLyce (botón) muestra [Kc Tc] y ganó (0.34 €) con escalera, de diez a as",
+      "Asiento 2: Fharock (ciega pequeña) muestra [Js Th] y perdió con pareja de jotas",
+      "Asiento 3: ecuinas (ciega grande) muestra [8s Qs] y perdió con doble pareja, damas y ochos",
+      "Asiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)",
+      "Asiento 5: erCampos23 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Akourdideh se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Ad",
+    "8d",
+    "Qc",
+    "Jd",
+    "5d"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 17.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257168314715 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:25:08 CET [01-08-2025 5:25:08 ET]\nMesa \"Atlas\" 6-max El asiento n.º 1 es el botón\nAsiento 1: SrLyce (1.83 € en fichas) \nAsiento 2: Fharock (1.87 € en fichas) \nAsiento 3: ecuinas (2.05 € en fichas) \nAsiento 4: LxckxStrxkx (2.10 € en fichas) \nAsiento 5: erCampos23 (0.53 € en fichas) \nAsiento 6: Akourdideh (2.38 € en fichas) \nFharock: pone la ciega pequeña 0.01 €\necuinas: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Kc Tc]\nLxckxStrxkx: se retira \nerCampos23: se retira \nAkourdideh: se retira \nSrLyce: sube 0.04 € a 0.06 €\nFharock: iguala 0.05 €\necuinas: iguala 0.04 €\n*** FLOP *** [Ad 8d Qc]\nFharock: pasa \necuinas: pasa \nSrLyce: apuesta 0.06 €\nFharock: iguala 0.06 €\necuinas: iguala 0.06 €\n*** TURN *** [Ad 8d Qc] [Jd]\nFharock: pasa \necuinas: pasa \nSrLyce: pasa \n*** RIVER *** [Ad 8d Qc Jd] [5d]\nFharock: pasa \necuinas: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nFharock: muestra [Js Th] (pareja de jotas)\necuinas: muestra [8s Qs] (doble pareja, damas y ochos)\nSrLyce: muestra [Kc Tc] (escalera, de diez a as)\nSrLyce se lleva 0.34 € del bote \n*** RESUMEN ***\nBote total 0.36 € | Comisión 0.02 € \nComunitarias [Ad 8d Qc Jd 5d]\nAsiento 1: SrLyce (botón) muestra [Kc Tc] y ganó (0.34 €) con escalera, de diez a as\nAsiento 2: Fharock (ciega pequeña) muestra [Js Th] y perdió con pareja de jotas\nAsiento 3: ecuinas (ciega grande) muestra [8s Qs] y perdió con doble pareja, damas y ochos\nAsiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)\nAsiento 5: erCampos23 se retiró antes del Flop (no apostó)\nAsiento 6: Akourdideh se retiró antes del Flop (no apostó)"
+}

@@ -1,0 +1,70 @@
+{
+  "hand_id": "257237937206",
+  "date": "06-08-2025 18:13:29",
+  "table": "Nuwa III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Th",
+    "2s"
+  ],
+  "stacks": {
+    "BuXHexter": 101.0,
+    "xododo": 38.0,
+    "kcg_rm": 103.5,
+    "SrLyce": 108.5,
+    "acavada": 103.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: BuXHexter (2.02 € en fichas) está ausente",
+      "Asiento 5: serviettski(fr) (2 € en fichas) está ausente",
+      "Asiento 1: xododo (0.76 € en fichas)",
+      "Asiento 3: kcg_rm (2.07 € en fichas)",
+      "Asiento 4: SrLyce (2.17 € en fichas)",
+      "Asiento 6: acavada (2.06 € en fichas)",
+      "xododo: pone la ciega pequeña 0.01 €",
+      "BuXHexter: está ausente",
+      "kcg_rm: pone la ciega grande 0.02 €",
+      "serviettski(fr): se ausenta",
+      "SrLyce: se retira",
+      "acavada: se retira",
+      "xododo: iguala 0.01 €",
+      "kcg_rm: pasa"
+    ],
+    "flop": [
+      "xododo: pasa",
+      "kcg_rm: pasa"
+    ],
+    "turn": [
+      "xododo: pasa",
+      "kcg_rm: pasa"
+    ],
+    "river": [
+      "xododo: pasa",
+      "kcg_rm: pasa",
+      "xododo: muestra [5s 6h] (doble pareja, reyes y cuatros)",
+      "kcg_rm: muestra [9h 2d] (doble pareja, reyes y cuatros)",
+      "Asiento 2: BuXHexter",
+      "Asiento 5: serviettski(fr)",
+      "Asiento 1: xododo (ciega pequeña) muestra [5s 6h] y ganó (0.02 €) con doble pareja, reyes y cuatros",
+      "Asiento 3: kcg_rm (ciega grande) muestra [9h 2d] y ganó (0.02 €) con doble pareja, reyes y cuatros",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 6: acavada (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "4c",
+    "Kh",
+    "Ac",
+    "Kd",
+    "4h"
+  ],
+  "winner": "xododo",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237937206 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:13:29 CET [06-08-2025 12:13:29 ET]\nMesa \"Nuwa III\" 6-max El asiento n.º 6 es el botón\nAsiento 2: BuXHexter (2.02 € en fichas) está ausente\nAsiento 5: serviettski(fr) (2 € en fichas) está ausente\nAsiento 1: xododo (0.76 € en fichas) \nAsiento 3: kcg_rm (2.07 € en fichas) \nAsiento 4: SrLyce (2.17 € en fichas) \nAsiento 6: acavada (2.06 € en fichas) \nxododo: pone la ciega pequeña 0.01 €\nBuXHexter: está ausente \nkcg_rm: pone la ciega grande 0.02 €\nserviettski(fr): se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Th 2s]\nSrLyce: se retira \nacavada: se retira \nxododo: iguala 0.01 €\nkcg_rm: pasa \n*** FLOP *** [4c Kh Ac]\nxododo: pasa \nkcg_rm: pasa \n*** TURN *** [4c Kh Ac] [Kd]\nxododo: pasa \nkcg_rm: pasa \n*** RIVER *** [4c Kh Ac Kd] [4h]\nxododo: pasa \nkcg_rm: pasa \n*** SHOW DOWN ***\nxododo: muestra [5s 6h] (doble pareja, reyes y cuatros)\nkcg_rm: muestra [9h 2d] (doble pareja, reyes y cuatros)\nxododo se lleva 0.02 € del bote \nkcg_rm se lleva 0.02 € del bote \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nComunitarias [4c Kh Ac Kd 4h]\nAsiento 2: BuXHexter\nAsiento 5: serviettski(fr)\nAsiento 1: xododo (ciega pequeña) muestra [5s 6h] y ganó (0.02 €) con doble pareja, reyes y cuatros\nAsiento 3: kcg_rm (ciega grande) muestra [9h 2d] y ganó (0.02 €) con doble pareja, reyes y cuatros\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 6: acavada (botón) se retiró antes del Flop (no apostó)"
+}

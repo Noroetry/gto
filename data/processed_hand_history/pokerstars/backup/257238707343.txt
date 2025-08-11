@@ -1,0 +1,42 @@
+Mano n.º 257238707343 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:22:22 CET [06-08-2025 13:22:22 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 1 es el botón
+Asiento 1: Alceo27 (2.22 € en fichas) 
+Asiento 2: aliendee07 (0.84 € en fichas) 
+Asiento 3: Macklemore0 (2.17 € en fichas) 
+Asiento 4: SrLyce (2.67 € en fichas) 
+Asiento 5: ismagonzalez7 (0.92 € en fichas) 
+Asiento 6: McFlash3 (2 € en fichas) 
+aliendee07: pone la ciega pequeña 0.01 €
+Macklemore0: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6c 4h]
+SrLyce: se retira 
+ismagonzalez7: sube 0.02 € a 0.04 €
+McFlash3: iguala 0.04 €
+Alceo27: se retira 
+aliendee07: se retira 
+Macklemore0: se retira 
+*** FLOP *** [6s Tc Jh]
+ismagonzalez7: apuesta 0.05 €
+McFlash3: iguala 0.05 €
+*** TURN *** [6s Tc Jh] [Ks]
+ismagonzalez7: apuesta 0.10 €
+McFlash3: iguala 0.10 €
+*** RIVER *** [6s Tc Jh Ks] [Qc]
+ismagonzalez7: apuesta 0.20 €
+McFlash3: sube 1.19 € a 1.39 €
+ismagonzalez7: iguala 0.53 € y está all-in
+La apuesta no igualada (0.66 €) ha sido devuelta a McFlash3
+*** SHOW DOWN ***
+McFlash3: muestra [8h Ah] (escalera, de diez a as)
+ismagonzalez7: muestra [2d Jd] (pareja de jotas)
+McFlash3 se lleva 1.76 € del bote 
+*** RESUMEN ***
+Bote total 1.87 € | Comisión 0.11 € 
+Comunitarias [6s Tc Jh Ks Qc]
+Asiento 1: Alceo27 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: aliendee07 (ciega pequeña) se retiró antes del Flop
+Asiento 3: Macklemore0 (ciega grande) se retiró antes del Flop
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: ismagonzalez7 muestra [2d Jd] y perdió con pareja de jotas
+Asiento 6: McFlash3 muestra [8h Ah] y ganó (1.76 €) con escalera, de diez a as

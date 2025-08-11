@@ -1,0 +1,42 @@
+Mano n.º 257237738720 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:53:14 CET [06-08-2025 11:53:14 ET]
+Mesa "Freia III" 6-max El asiento n.º 6 es el botón
+Asiento 2: BenjaminUrda (1.26 € en fichas) está ausente
+Asiento 5: Leskai17 (1.65 € en fichas) está ausente
+Asiento 1: SrLyce (1.86 € en fichas) 
+Asiento 4: Dralex777978 (0.98 € en fichas) 
+Asiento 6: psycadra (0.86 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+Dralex777978: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jh Ad]
+psycadra: sube 0.04 € a 0.06 €
+Leskai17 deja la mesa
+BenjaminUrda deja la mesa
+SrLyce: sube 0.06 € a 0.12 €
+Dralex777978: iguala 0.10 €
+psycadra: iguala 0.06 €
+*** FLOP *** [9s Jc Kd]
+SrLyce: apuesta 0.11 €
+Dralex777978: iguala 0.11 €
+psycadra: iguala 0.11 €
+*** TURN *** [9s Jc Kd] [8s]
+SrLyce: pasa 
+Dralex777978: pasa 
+psycadra: pasa 
+*** RIVER *** [9s Jc Kd 8s] [Qh]
+SrLyce: pasa 
+Dralex777978: pasa 
+psycadra: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [Jh Ad] (pareja de jotas)
+Dralex777978: descarta su mano sin mostrar 
+psycadra: muestra [5h 5d] (pareja de cincos)
+SrLyce se lleva 0.65 € del bote 
+*** RESUMEN ***
+Bote total 0.69 € | Comisión 0.04 € 
+Comunitarias [9s Jc Kd 8s Qh]
+Asiento 2: BenjaminUrda
+Asiento 5: Leskai17
+Asiento 1: SrLyce (ciega pequeña) muestra [Jh Ad] y ganó (0.65 €) con pareja de jotas
+Asiento 4: Dralex777978 (ciega grande) descartó sin mostrar [6s Js]
+Asiento 6: psycadra (botón) muestra [5h 5d] y perdió con pareja de cincos

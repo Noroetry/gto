@@ -1,0 +1,26 @@
+Mano n.º 257236819527 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel V (40/80) - 06-08-2025 17:12:11 CET [06-08-2025 11:12:11 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (700 en fichas) 
+Asiento 2: chitlix (740 en fichas) 
+Asiento 3: SrLyce (60 en fichas) 
+SrLyce: pone la ciega pequeña 40
+berdebert: pone la ciega grande 80
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6s 4s]
+chitlix: se retira 
+SrLyce: iguala 20 y está all-in
+La apuesta no igualada (20) ha sido devuelta a berdebert
+*** FLOP *** [Qd 7d Jh]
+*** TURN *** [Qd 7d Jh] [3c]
+*** RIVER *** [Qd 7d Jh 3c] [Ts]
+*** SHOW DOWN ***
+SrLyce: muestra [6s 4s] (carta alta dama)
+berdebert: muestra [9h Tc] (pareja de dieces)
+berdebert se lleva 120 del bote 
+SrLyce ha finalizado el torneo en 3.º posición
+*** RESUMEN ***
+Bote total 120 | Comisión 0 
+Comunitarias [Qd 7d Jh 3c Ts]
+Asiento 1: berdebert (ciega grande) muestra [9h Tc] y ganó (120) con pareja de dieces
+Asiento 2: chitlix (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) muestra [6s 4s] y perdió con carta alta dama

@@ -1,0 +1,35 @@
+Mano n.º 257238632260 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:16:05 CET [06-08-2025 13:16:05 ET]
+Mesa "Leonteus" 6-max El asiento n.º 5 es el botón
+Asiento 1: practikal_C23 (0.95 € en fichas) está ausente
+Asiento 4: BuXHexter (2.91 € en fichas) está ausente
+Asiento 2: niyomalo (1.98 € en fichas) 
+Asiento 3: davinci1962 (2.97 € en fichas) 
+Asiento 5: Andark47 (4.28 € en fichas) 
+Asiento 6: SrLyce (1.96 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+niyomalo: pone la ciega grande 0.02 €
+BuXHexter: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ac 8d]
+davinci1962: sube 0.03 € a 0.05 €
+Andark47: se retira 
+SrLyce: iguala 0.04 €
+niyomalo: se retira 
+*** FLOP *** [2s 7h 8c]
+SrLyce: apuesta 0.04 €
+davinci1962: iguala 0.04 €
+*** TURN *** [2s 7h 8c] [7c]
+SrLyce: apuesta 0.10 €
+davinci1962: se retira 
+La apuesta no igualada (0.10 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.19 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0.01 € 
+Comunitarias [2s 7h 8c 7c]
+Asiento 1: practikal_C23
+Asiento 4: BuXHexter
+Asiento 2: niyomalo (ciega grande) se retiró antes del Flop
+Asiento 3: davinci1962 se retiró en el Turn
+Asiento 5: Andark47 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: SrLyce (ciega pequeña) recaudó (0.19 €)

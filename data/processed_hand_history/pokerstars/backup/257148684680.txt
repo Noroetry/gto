@@ -1,0 +1,29 @@
+Mano n.º 257148684680 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:36:45 CET [30-07-2025 15:36:45 ET]
+Mesa "Sirona" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (1.93 € en fichas) 
+Asiento 2: lecontrebandier (1.97 € en fichas) 
+Asiento 3: christoph363 (3.59 € en fichas) 
+Asiento 4: oliverdu70 (2 € en fichas) 
+Asiento 5: olibellier (0.65 € en fichas) 
+Asiento 6: Dakoo44 (2.16 € en fichas) 
+Dakoo44: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4h 2c]
+lecontrebandier: se retira 
+christoph363: se retira 
+oliverdu70: se retira 
+olibellier: se retira 
+Dakoo44: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a Dakoo44
+Dakoo44 se lleva 0.04 € del bote 
+Dakoo44: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: SrLyce (ciega grande) se retiró antes del Flop
+Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)
+Asiento 3: christoph363 se retiró antes del Flop (no apostó)
+Asiento 4: oliverdu70 se retiró antes del Flop (no apostó)
+Asiento 5: olibellier (botón) se retiró antes del Flop (no apostó)
+Asiento 6: Dakoo44 (ciega pequeña) recaudó (0.04 €)

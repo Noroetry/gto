@@ -1,0 +1,72 @@
+{
+  "hand_id": "257149164444",
+  "date": "30-07-2025 22:12:35",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7c",
+    "7d"
+  ],
+  "stacks": {
+    "SrLyce": 131.5,
+    "Tropki": 100.0,
+    "christoph363": 222.5,
+    "oliverdu70": 186.0,
+    "hadhod1976": 40.0,
+    "MitchATP65": 103.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.63 € en fichas)",
+      "Asiento 2: Tropki (2 € en fichas)",
+      "Asiento 3: christoph363 (4.45 € en fichas)",
+      "Asiento 4: oliverdu70 (3.72 € en fichas)",
+      "Asiento 5: hadhod1976 (0.80 € en fichas)",
+      "Asiento 6: MitchATP65 (2.06 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Tropki: pone la ciega grande 0.02 €",
+      "oliverdu70: pone la ciega pequeña y la grande 0.03 €",
+      "hadhod1976: pone la ciega pequeña y la grande 0.03 €",
+      "christoph363: sube 0.11 € a 0.13 €",
+      "oliverdu70: se retira",
+      "hadhod1976: se retira",
+      "MitchATP65: se retira",
+      "SrLyce: iguala 0.12 €",
+      "Tropki: se retira"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "christoph363: apuesta 0.10 €",
+      "SrLyce: sube 0.20 € a 0.30 €",
+      "christoph363: sube 0.20 € a 0.50 €",
+      "SrLyce: sube 2 € a 2.50 € y está all-in",
+      "christoph363: iguala 2 €"
+    ],
+    "turn": [],
+    "river": [
+      "SrLyce: muestra [7c 7d] (full de sietes y ochos)",
+      "christoph363: muestra [As Jc] (doble pareja, jotas y ochos)",
+      "Asiento 1: SrLyce (ciega pequeña) muestra [7c 7d] y ganó (5.09 €) con full de sietes y ochos",
+      "Asiento 2: Tropki (ciega grande) se retiró antes del Flop",
+      "Asiento 3: christoph363 muestra [As Jc] y perdió con doble pareja, jotas y ochos",
+      "Asiento 4: oliverdu70 se retiró antes del Flop (no apostó)",
+      "Asiento 5: hadhod1976 se retiró antes del Flop (no apostó)",
+      "Asiento 6: MitchATP65 (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "7h",
+    "8d",
+    "Js",
+    "3h",
+    "8h"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 254.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 12.5,
+  "raw_text": "Mano n.º 257149164444 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:12:35 CET [30-07-2025 16:12:35 ET]\nMesa \"Sirona\" 6-max El asiento n.º 6 es el botón\nAsiento 1: SrLyce (2.63 € en fichas) \nAsiento 2: Tropki (2 € en fichas) \nAsiento 3: christoph363 (4.45 € en fichas) \nAsiento 4: oliverdu70 (3.72 € en fichas) \nAsiento 5: hadhod1976 (0.80 € en fichas) \nAsiento 6: MitchATP65 (2.06 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nTropki: pone la ciega grande 0.02 €\noliverdu70: pone la ciega pequeña y la grande 0.03 €\nhadhod1976: pone la ciega pequeña y la grande 0.03 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7c 7d]\nchristoph363: sube 0.11 € a 0.13 €\noliverdu70: se retira \nhadhod1976: se retira \nMitchATP65: se retira \nSrLyce: iguala 0.12 €\nTropki: se retira \n*** FLOP *** [7h 8d Js]\nSrLyce: pasa \nchristoph363: apuesta 0.10 €\nSrLyce: sube 0.20 € a 0.30 €\nchristoph363: sube 0.20 € a 0.50 €\nSrLyce: sube 2 € a 2.50 € y está all-in\nchristoph363: iguala 2 €\n*** TURN *** [7h 8d Js] [3h]\n*** RIVER *** [7h 8d Js 3h] [8h]\n*** SHOW DOWN ***\nSrLyce: muestra [7c 7d] (full de sietes y ochos)\nchristoph363: muestra [As Jc] (doble pareja, jotas y ochos)\nSrLyce se lleva 5.09 € del bote \n*** RESUMEN ***\nBote total 5.34 € | Comisión 0.25 € \nComunitarias [7h 8d Js 3h 8h]\nAsiento 1: SrLyce (ciega pequeña) muestra [7c 7d] y ganó (5.09 €) con full de sietes y ochos\nAsiento 2: Tropki (ciega grande) se retiró antes del Flop\nAsiento 3: christoph363 muestra [As Jc] y perdió con doble pareja, jotas y ochos\nAsiento 4: oliverdu70 se retiró antes del Flop (no apostó)\nAsiento 5: hadhod1976 se retiró antes del Flop (no apostó)\nAsiento 6: MitchATP65 (botón) se retiró antes del Flop (no apostó)"
+}

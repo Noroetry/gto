@@ -1,0 +1,72 @@
+{
+  "hand_id": "257238707343",
+  "date": "06-08-2025 19:22:22",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6c",
+    "4h"
+  ],
+  "stacks": {
+    "Alceo27": 111.0,
+    "aliendee07": 42.0,
+    "Macklemore0": 108.5,
+    "SrLyce": 133.5,
+    "ismagonzalez7": 46.0,
+    "McFlash3": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Alceo27 (2.22 € en fichas)",
+      "Asiento 2: aliendee07 (0.84 € en fichas)",
+      "Asiento 3: Macklemore0 (2.17 € en fichas)",
+      "Asiento 4: SrLyce (2.67 € en fichas)",
+      "Asiento 5: ismagonzalez7 (0.92 € en fichas)",
+      "Asiento 6: McFlash3 (2 € en fichas)",
+      "aliendee07: pone la ciega pequeña 0.01 €",
+      "Macklemore0: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "ismagonzalez7: sube 0.02 € a 0.04 €",
+      "McFlash3: iguala 0.04 €",
+      "Alceo27: se retira",
+      "aliendee07: se retira",
+      "Macklemore0: se retira"
+    ],
+    "flop": [
+      "ismagonzalez7: apuesta 0.05 €",
+      "McFlash3: iguala 0.05 €"
+    ],
+    "turn": [
+      "ismagonzalez7: apuesta 0.10 €",
+      "McFlash3: iguala 0.10 €"
+    ],
+    "river": [
+      "ismagonzalez7: apuesta 0.20 €",
+      "McFlash3: sube 1.19 € a 1.39 €",
+      "ismagonzalez7: iguala 0.53 € y está all-in",
+      "McFlash3: muestra [8h Ah] (escalera, de diez a as)",
+      "ismagonzalez7: muestra [2d Jd] (pareja de jotas)",
+      "Asiento 1: Alceo27 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: aliendee07 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: Macklemore0 (ciega grande) se retiró antes del Flop",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: ismagonzalez7 muestra [2d Jd] y perdió con pareja de jotas",
+      "Asiento 6: McFlash3 muestra [8h Ah] y ganó (1.76 €) con escalera, de diez a as"
+    ]
+  },
+  "board": [
+    "6s",
+    "Tc",
+    "Jh",
+    "Ks",
+    "Qc"
+  ],
+  "winner": "McFlash3",
+  "win_amount": 88.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 5.5,
+  "raw_text": "Mano n.º 257238707343 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:22:22 CET [06-08-2025 13:22:22 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 1 es el botón\nAsiento 1: Alceo27 (2.22 € en fichas) \nAsiento 2: aliendee07 (0.84 € en fichas) \nAsiento 3: Macklemore0 (2.17 € en fichas) \nAsiento 4: SrLyce (2.67 € en fichas) \nAsiento 5: ismagonzalez7 (0.92 € en fichas) \nAsiento 6: McFlash3 (2 € en fichas) \naliendee07: pone la ciega pequeña 0.01 €\nMacklemore0: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6c 4h]\nSrLyce: se retira \nismagonzalez7: sube 0.02 € a 0.04 €\nMcFlash3: iguala 0.04 €\nAlceo27: se retira \naliendee07: se retira \nMacklemore0: se retira \n*** FLOP *** [6s Tc Jh]\nismagonzalez7: apuesta 0.05 €\nMcFlash3: iguala 0.05 €\n*** TURN *** [6s Tc Jh] [Ks]\nismagonzalez7: apuesta 0.10 €\nMcFlash3: iguala 0.10 €\n*** RIVER *** [6s Tc Jh Ks] [Qc]\nismagonzalez7: apuesta 0.20 €\nMcFlash3: sube 1.19 € a 1.39 €\nismagonzalez7: iguala 0.53 € y está all-in\nLa apuesta no igualada (0.66 €) ha sido devuelta a McFlash3\n*** SHOW DOWN ***\nMcFlash3: muestra [8h Ah] (escalera, de diez a as)\nismagonzalez7: muestra [2d Jd] (pareja de jotas)\nMcFlash3 se lleva 1.76 € del bote \n*** RESUMEN ***\nBote total 1.87 € | Comisión 0.11 € \nComunitarias [6s Tc Jh Ks Qc]\nAsiento 1: Alceo27 (botón) se retiró antes del Flop (no apostó)\nAsiento 2: aliendee07 (ciega pequeña) se retiró antes del Flop\nAsiento 3: Macklemore0 (ciega grande) se retiró antes del Flop\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: ismagonzalez7 muestra [2d Jd] y perdió con pareja de jotas\nAsiento 6: McFlash3 muestra [8h Ah] y ganó (1.76 €) con escalera, de diez a as"
+}

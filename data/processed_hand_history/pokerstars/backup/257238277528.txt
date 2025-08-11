@@ -1,0 +1,34 @@
+Mano n.º 257238277528 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:43:48 CET [06-08-2025 12:43:48 ET]
+Mesa "Aidamina II" 6-max El asiento n.º 3 es el botón
+Asiento 5: Abrelatas787 (2.64 € en fichas) está ausente
+Asiento 1: GarciaTT416 (1.97 € en fichas) 
+Asiento 2: McFlash3 (2 € en fichas) 
+Asiento 3: niyomalo (2.59 € en fichas) 
+Asiento 4: durahimovic (2.56 € en fichas) 
+Asiento 6: SrLyce (2 € en fichas) 
+durahimovic: pone la ciega pequeña 0.01 €
+Abrelatas787: está ausente 
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2d Jh]
+GarciaTT416: se retira 
+Abrelatas787 deja la mesa
+McFlash3: sube 0.04 € a 0.06 €
+niyomalo: iguala 0.06 €
+durahimovic: se retira 
+SrLyce: se retira 
+*** FLOP *** [7c 8h Ad]
+McFlash3: apuesta 0.05 €
+niyomalo: se retira 
+La apuesta no igualada (0.05 €) ha sido devuelta a McFlash3
+McFlash3 se lleva 0.14 € del bote 
+McFlash3: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.15 € | Comisión 0.01 € 
+Comunitarias [7c 8h Ad]
+Asiento 5: Abrelatas787
+Asiento 1: GarciaTT416 se retiró antes del Flop (no apostó)
+Asiento 2: McFlash3 recaudó (0.14 €)
+Asiento 3: niyomalo (botón) se retiró en el Flop
+Asiento 4: durahimovic (ciega pequeña) se retiró antes del Flop
+Asiento 6: SrLyce (ciega grande) se retiró antes del Flop

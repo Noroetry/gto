@@ -1,0 +1,46 @@
+Mano n.º 257168303965 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:23:07 CET [01-08-2025 5:23:07 ET]
+Mesa "Atlas" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (1.84 € en fichas) 
+Asiento 2: Fharock (1.76 € en fichas) 
+Asiento 3: ecuinas (2.05 € en fichas) 
+Asiento 4: LxckxStrxkx (2.10 € en fichas) 
+Asiento 5: erCampos23 (0.65 € en fichas) 
+Asiento 6: Akourdideh (2.40 € en fichas) 
+Akourdideh: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ac 6s]
+Fharock: se retira 
+ecuinas: se retira 
+LxckxStrxkx: se retira 
+erCampos23: iguala 0.02 €
+Akourdideh: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [Ad Jc Js]
+Akourdideh: pasa 
+SrLyce: pasa 
+erCampos23: apuesta 0.04 €
+Akourdideh: se retira 
+SrLyce: iguala 0.04 €
+*** TURN *** [Ad Jc Js] [3h]
+SrLyce: pasa 
+erCampos23: apuesta 0.06 €
+SrLyce: iguala 0.06 €
+*** RIVER *** [Ad Jc Js 3h] [Td]
+SrLyce: pasa 
+erCampos23: apuesta 0.06 €
+SrLyce: iguala 0.06 €
+*** SHOW DOWN ***
+erCampos23: muestra [As 7d] (doble pareja, ases y jotas)
+SrLyce: muestra [Ac 6s] (doble pareja, ases y jotas)
+SrLyce se lleva 0.18 € del bote 
+erCampos23 se lleva 0.18 € del bote 
+*** RESUMEN ***
+Bote total 0.38 € | Comisión 0.02 € 
+Comunitarias [Ad Jc Js 3h Td]
+Asiento 1: SrLyce (ciega grande) muestra [Ac 6s] y ganó (0.18 €) con doble pareja, ases y jotas
+Asiento 2: Fharock se retiró antes del Flop (no apostó)
+Asiento 3: ecuinas se retiró antes del Flop (no apostó)
+Asiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)
+Asiento 5: erCampos23 (botón) muestra [As 7d] y ganó (0.18 €) con doble pareja, ases y jotas
+Asiento 6: Akourdideh (ciega pequeña) se retiró en el Flop

@@ -1,0 +1,31 @@
+Mano n.º 257236877343 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel II (50/100) - 06-08-2025 17:17:54 CET [06-08-2025 11:17:54 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (1240 en fichas) 
+Asiento 3: Jimyelkaiser (790 en fichas) 
+Asiento 5: heretik2b (530 en fichas) 
+Asiento 6: joaquinrecle67 (710 en fichas) 
+Asiento 7: Bernesaragon (730 en fichas) 
+SrLyce: pone el ante 20
+Jimyelkaiser: pone el ante 20
+heretik2b: pone el ante 20
+joaquinrecle67: pone el ante 20
+Bernesaragon: pone el ante 20
+Jimyelkaiser: pone la ciega pequeña 50
+heretik2b: pone la ciega grande 100
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7h Kc]
+joaquinrecle67: se retira 
+Bernesaragon: se retira 
+SrLyce: se retira 
+Jimyelkaiser: sube 670 a 770 y está all-in
+heretik2b: se retira 
+La apuesta no igualada (670) ha sido devuelta a Jimyelkaiser
+Jimyelkaiser se lleva 300 del bote 
+Jimyelkaiser: no muestra su mano 
+*** RESUMEN ***
+Bote total 300 | Comisión 0 
+Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 3: Jimyelkaiser (ciega pequeña) recaudó (300)
+Asiento 5: heretik2b (ciega grande) se retiró antes del Flop
+Asiento 6: joaquinrecle67 se retiró antes del Flop (no apostó)
+Asiento 7: Bernesaragon se retiró antes del Flop (no apostó)

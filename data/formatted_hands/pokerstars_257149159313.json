@@ -1,0 +1,53 @@
+{
+  "hand_id": "257149159313",
+  "date": "30-07-2025 22:12:13",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6h",
+    "3s"
+  ],
+  "stacks": {
+    "oliverdu70": 186.0,
+    "hadhod1976": 40.0,
+    "SrLyce": 132.5,
+    "Tropki": 100.0,
+    "christoph363": 222.5,
+    "MitchATP65": 102.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: oliverdu70 (3.72 € en fichas) está ausente",
+      "Asiento 5: hadhod1976 (0.80 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2.65 € en fichas)",
+      "Asiento 2: Tropki (2 € en fichas)",
+      "Asiento 3: christoph363 (4.45 € en fichas)",
+      "Asiento 6: MitchATP65 (2.04 € en fichas)",
+      "MitchATP65: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Tropki: se retira",
+      "christoph363: se retira",
+      "MitchATP65: sube 0.04 € a 0.06 €",
+      "SrLyce: se retira",
+      "MitchATP65: no muestra su mano",
+      "Asiento 4: oliverdu70",
+      "Asiento 5: hadhod1976",
+      "Asiento 1: SrLyce (ciega grande) se retiró antes del Flop",
+      "Asiento 2: Tropki se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: MitchATP65 (ciega pequeña) recaudó (0.04 €)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "MitchATP65",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149159313 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:12:13 CET [30-07-2025 16:12:13 ET]\nMesa \"Sirona\" 6-max El asiento n.º 3 es el botón\nAsiento 4: oliverdu70 (3.72 € en fichas) está ausente\nAsiento 5: hadhod1976 (0.80 € en fichas) está ausente\nAsiento 1: SrLyce (2.65 € en fichas) \nAsiento 2: Tropki (2 € en fichas) \nAsiento 3: christoph363 (4.45 € en fichas) \nAsiento 6: MitchATP65 (2.04 € en fichas) \nMitchATP65: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6h 3s]\nTropki: se retira \nchristoph363: se retira \nMitchATP65: sube 0.04 € a 0.06 €\nSrLyce: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a MitchATP65\nMitchATP65 se lleva 0.04 € del bote \nMitchATP65: no muestra su mano \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nAsiento 4: oliverdu70\nAsiento 5: hadhod1976\nAsiento 1: SrLyce (ciega grande) se retiró antes del Flop\nAsiento 2: Tropki se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: MitchATP65 (ciega pequeña) recaudó (0.04 €)"
+}

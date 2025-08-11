@@ -1,0 +1,32 @@
+Mano n.º 257237778793 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:57:41 CET [06-08-2025 11:57:41 ET]
+Mesa "Atreus" 6-max El asiento n.º 5 es el botón
+Asiento 1: PrendsCa (2.14 € en fichas) 
+Asiento 2: NRules82 (1.60 € en fichas) 
+Asiento 3: JENOFONTE73 (2.65 € en fichas) 
+Asiento 4: JGDOBLAS (1.92 € en fichas) 
+Asiento 5: SrLyce (2.11 € en fichas) 
+PrendsCa: pone la ciega pequeña 0.01 €
+NRules82: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3c 8s]
+JENOFONTE73: se retira 
+JGDOBLAS: sube 0.03 € a 0.05 €
+SrLyce: se retira 
+PrendsCa: se retira 
+NRules82: iguala 0.03 €
+*** FLOP *** [4s 3h 7h]
+NRules82: pasa 
+JGDOBLAS: pasa 
+*** TURN *** [4s 3h 7h] [6h]
+NRules82: apuesta 0.02 €
+JGDOBLAS: se retira 
+La apuesta no igualada (0.02 €) ha sido devuelta a NRules82
+NRules82 se lleva 0.10 € del bote 
+*** RESUMEN ***
+Bote total 0.11 € | Comisión 0.01 € 
+Comunitarias [4s 3h 7h 6h]
+Asiento 1: PrendsCa (ciega pequeña) se retiró antes del Flop
+Asiento 2: NRules82 (ciega grande) recaudó (0.10 €)
+Asiento 3: JENOFONTE73 se retiró antes del Flop (no apostó)
+Asiento 4: JGDOBLAS se retiró en el Turn
+Asiento 5: SrLyce (botón) se retiró antes del Flop (no apostó)

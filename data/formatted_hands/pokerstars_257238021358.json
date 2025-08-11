@@ -1,0 +1,63 @@
+{
+  "hand_id": "257238021358",
+  "date": "06-08-2025 18:21:02",
+  "table": "Atreus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2h",
+    "3d"
+  ],
+  "stacks": {
+    "PrendsCa": 106.0,
+    "NRules82": 62.5,
+    "JENOFONTE73": 143.0,
+    "Fharock": 89.5,
+    "SrLyce": 127.5,
+    "FishamanReggae": 27.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: PrendsCa (2.12 € en fichas)",
+      "Asiento 2: NRules82 (1.25 € en fichas)",
+      "Asiento 3: JENOFONTE73 (2.86 € en fichas)",
+      "Asiento 4: Fharock (1.79 € en fichas)",
+      "Asiento 5: SrLyce (2.55 € en fichas)",
+      "Asiento 6: FishamanReggae (0.55 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "FishamanReggae: pone la ciega grande 0.02 €",
+      "PrendsCa: se retira",
+      "NRules82: sube 0.02 € a 0.04 €",
+      "JENOFONTE73: se retira",
+      "Fharock: iguala 0.04 €",
+      "SrLyce: se retira",
+      "FishamanReggae: iguala 0.02 €"
+    ],
+    "flop": [
+      "FishamanReggae: pasa",
+      "NRules82: apuesta 0.04 €",
+      "Fharock: se retira",
+      "FishamanReggae: se retira",
+      "Asiento 1: PrendsCa se retiró antes del Flop (no apostó)",
+      "Asiento 2: NRules82 recaudó (0.12 €)",
+      "Asiento 3: JENOFONTE73 se retiró antes del Flop (no apostó)",
+      "Asiento 4: Fharock (botón) se retiró en el Flop",
+      "Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: FishamanReggae (ciega grande) se retiró en el Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "Td",
+    "5d",
+    "4c"
+  ],
+  "winner": "NRules82",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238021358 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:21:02 CET [06-08-2025 12:21:02 ET]\nMesa \"Atreus\" 6-max El asiento n.º 4 es el botón\nAsiento 1: PrendsCa (2.12 € en fichas) \nAsiento 2: NRules82 (1.25 € en fichas) \nAsiento 3: JENOFONTE73 (2.86 € en fichas) \nAsiento 4: Fharock (1.79 € en fichas) \nAsiento 5: SrLyce (2.55 € en fichas) \nAsiento 6: FishamanReggae (0.55 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nFishamanReggae: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2h 3d]\nPrendsCa: se retira \nNRules82: sube 0.02 € a 0.04 €\nJENOFONTE73: se retira \nFharock: iguala 0.04 €\nSrLyce: se retira \nFishamanReggae: iguala 0.02 €\n*** FLOP *** [Td 5d 4c]\nFishamanReggae: pasa \nNRules82: apuesta 0.04 €\nFharock: se retira \nFishamanReggae: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a NRules82\nNRules82 se lleva 0.12 € del bote \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [Td 5d 4c]\nAsiento 1: PrendsCa se retiró antes del Flop (no apostó)\nAsiento 2: NRules82 recaudó (0.12 €)\nAsiento 3: JENOFONTE73 se retiró antes del Flop (no apostó)\nAsiento 4: Fharock (botón) se retiró en el Flop\nAsiento 5: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 6: FishamanReggae (ciega grande) se retiró en el Flop"
+}

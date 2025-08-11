@@ -1,0 +1,38 @@
+Mano n.º 257237639064 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:43:41 CET [06-08-2025 11:43:41 ET]
+Mesa "Kale III" 6-max El asiento n.º 4 es el botón
+Asiento 1: x__Nest__x (1.82 € en fichas) 
+Asiento 2: SrLyce (2.34 € en fichas) 
+Asiento 3: Dracoline000 (2.32 € en fichas) 
+Asiento 4: jeffounet33 (1.86 € en fichas) 
+Asiento 6: juanmemol (2.07 € en fichas) 
+juanmemol: pone la ciega pequeña 0.01 €
+x__Nest__x: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3c 4s]
+SrLyce: se retira 
+Dracoline000: se retira 
+jeffounet33: iguala 0.02 €
+juanmemol: se retira 
+x__Nest__x: pasa 
+*** FLOP *** [Ad 4d 7d]
+x__Nest__x: pasa 
+jeffounet33: pasa 
+*** TURN *** [Ad 4d 7d] [2d]
+x__Nest__x: pasa 
+jeffounet33: pasa 
+*** RIVER *** [Ad 4d 7d 2d] [Qc]
+provo227 se une a la mesa en el asiento n.º 5 
+x__Nest__x: pasa 
+jeffounet33: pasa 
+*** SHOW DOWN ***
+x__Nest__x: muestra [3h 8d] (color, carta alta as)
+jeffounet33: descarta su mano sin mostrar 
+x__Nest__x se lleva 0.05 € del bote 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Comunitarias [Ad 4d 7d 2d Qc]
+Asiento 1: x__Nest__x (ciega grande) muestra [3h 8d] y ganó (0.05 €) con color, carta alta as
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: Dracoline000 se retiró antes del Flop (no apostó)
+Asiento 4: jeffounet33 (botón) descartó sin mostrar [Ah 5d]
+Asiento 6: juanmemol (ciega pequeña) se retiró antes del Flop

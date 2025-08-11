@@ -1,0 +1,37 @@
+Mano n.º 257149255797 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:19:00 CET [30-07-2025 16:19:00 ET]
+Mesa "Esclangona" 6-max El asiento n.º 2 es el botón
+Asiento 1: ansiedadd (0.82 € en fichas) 
+Asiento 2: SrLyce (3.92 € en fichas) 
+Asiento 3: NoahBolete (2.46 € en fichas) 
+Asiento 5: DiaZzZ1 (1.93 € en fichas) 
+Asiento 6: elketefaka1 (0.03 € en fichas) 
+NoahBolete: pone la ciega pequeña 0.01 €
+DiaZzZ1: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3s 9c]
+BPEPMLP se une a la mesa en el asiento n.º 4 
+elketefaka1: sube 0.01 € a 0.03 € y está all-in
+ansiedadd: sube 0.08 € a 0.11 €
+SrLyce: se retira 
+NoahBolete: iguala 0.10 €
+DiaZzZ1: se retira 
+*** FLOP *** [9s 2h 6s]
+NoahBolete: pasa 
+ansiedadd: apuesta 0.08 €
+NoahBolete: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a ansiedadd
+*** TURN *** [9s 2h 6s] [Qh]
+*** RIVER *** [9s 2h 6s Qh] [Qs]
+*** SHOW DOWN ***
+ansiedadd: muestra [Ad 8s] (pareja de damas)
+ansiedadd se lleva 0.15 € del bote  secundario
+elketefaka1: muestra [Kh 6h] (doble pareja, damas y seises)
+elketefaka1 se lleva 0.10 € del bote  principal
+*** RESUMEN ***
+Bote total 0.27 € Bote principal 0.10 €. Bote secundario 0.15 €. | Comisión 0.02 € 
+Comunitarias [9s 2h 6s Qh Qs]
+Asiento 1: ansiedadd muestra [Ad 8s] y ganó (0.15 €) con pareja de damas
+Asiento 2: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 3: NoahBolete (ciega pequeña) se retiró en el Flop
+Asiento 5: DiaZzZ1 (ciega grande) se retiró antes del Flop
+Asiento 6: elketefaka1 muestra [Kh 6h] y ganó (0.10 €) con doble pareja, damas y seises

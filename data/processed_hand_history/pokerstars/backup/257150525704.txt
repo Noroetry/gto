@@ -1,0 +1,29 @@
+Mano n.º 257150525704 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:48:12 CET [30-07-2025 17:48:12 ET]
+Mesa "Mizuho" 6-max El asiento n.º 4 es el botón
+Asiento 1: benipoker123 (2.55 € en fichas) 
+Asiento 2: SrLyce (1.89 € en fichas) 
+Asiento 3: JstLeonel (2.30 € en fichas) 
+Asiento 4: Ozzy3110 (5.95 € en fichas) 
+Asiento 5: toonsy2010 (1.87 € en fichas) 
+Asiento 6: mivipkr (3.33 € en fichas) 
+toonsy2010: pone la ciega pequeña 0.01 €
+mivipkr: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7s Ks]
+benipoker123: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+JstLeonel: se retira 
+Ozzy3110: se retira 
+toonsy2010: se retira 
+mivipkr: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a benipoker123
+benipoker123 se lleva 0.05 € del bote 
+benipoker123: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: benipoker123 recaudó (0.05 €)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: JstLeonel se retiró antes del Flop (no apostó)
+Asiento 4: Ozzy3110 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: toonsy2010 (ciega pequeña) se retiró antes del Flop
+Asiento 6: mivipkr (ciega grande) se retiró antes del Flop

@@ -1,0 +1,75 @@
+{
+  "hand_id": "257150202417",
+  "date": "30-07-2025 23:25:23",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "7d"
+  ],
+  "stacks": {
+    "LeVbks": 112.5,
+    "fcis666": 57.0,
+    "Dlaguancha": 106.5,
+    "SrLyce": 107.0,
+    "riverluck444": 94.5,
+    "javipondio": 15.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (2.25 € en fichas)",
+      "Asiento 2: fcis666 (1.14 € en fichas)",
+      "Asiento 3: Dlaguancha (2.13 € en fichas)",
+      "Asiento 4: SrLyce (2.14 € en fichas)",
+      "Asiento 5: riverluck444 (1.89 € en fichas)",
+      "Asiento 6: javipondio (0.30 € en fichas)",
+      "javipondio: pone la ciega pequeña 0.01 €",
+      "LeVbks: pone la ciega grande 0.02 €",
+      "fcis666: se retira",
+      "Dlaguancha: sube 0.02 € a 0.04 €",
+      "SrLyce: se retira",
+      "riverluck444: se retira",
+      "javipondio: iguala 0.03 €",
+      "LeVbks: iguala 0.02 €"
+    ],
+    "flop": [
+      "javipondio: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa"
+    ],
+    "turn": [
+      "javipondio: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa"
+    ],
+    "river": [
+      "javipondio: pasa",
+      "LeVbks: pasa",
+      "Dlaguancha: pasa",
+      "javipondio: muestra [Qc Ks] (pareja de jotas)",
+      "LeVbks: muestra [4c Ah] (pareja de jotas - as kicker)",
+      "Dlaguancha: muestra [Tc Ac] (pareja de jotas - as+diez kicker)",
+      "Asiento 1: LeVbks (ciega grande) muestra [4c Ah] y perdió con pareja de jotas",
+      "Asiento 2: fcis666 se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dlaguancha muestra [Tc Ac] y ganó (0.11 €) con pareja de jotas",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: javipondio (ciega pequeña) muestra [Qc Ks] y perdió con pareja de jotas"
+    ]
+  },
+  "board": [
+    "Jh",
+    "Jd",
+    "2d",
+    "6h",
+    "3d"
+  ],
+  "winner": "Dlaguancha",
+  "win_amount": 5.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257150202417 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:25:23 CET [30-07-2025 17:25:23 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 5 es el botón\nAsiento 1: LeVbks (2.25 € en fichas) \nAsiento 2: fcis666 (1.14 € en fichas) \nAsiento 3: Dlaguancha (2.13 € en fichas) \nAsiento 4: SrLyce (2.14 € en fichas) \nAsiento 5: riverluck444 (1.89 € en fichas) \nAsiento 6: javipondio (0.30 € en fichas) \njavipondio: pone la ciega pequeña 0.01 €\nLeVbks: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h 7d]\nfcis666: se retira \nDlaguancha: sube 0.02 € a 0.04 €\nSrLyce: se retira \nriverluck444: se retira \njavipondio: iguala 0.03 €\nLeVbks: iguala 0.02 €\n*** FLOP *** [Jh Jd 2d]\njavipondio: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** TURN *** [Jh Jd 2d] [6h]\njavipondio: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** RIVER *** [Jh Jd 2d 6h] [3d]\njavipondio: pasa \nLeVbks: pasa \nDlaguancha: pasa \n*** SHOW DOWN ***\njavipondio: muestra [Qc Ks] (pareja de jotas)\nLeVbks: muestra [4c Ah] (pareja de jotas - as kicker)\nDlaguancha: muestra [Tc Ac] (pareja de jotas - as+diez kicker)\nDlaguancha se lleva 0.11 € del bote \n*** RESUMEN ***\nBote total 0.12 € | Comisión 0.01 € \nComunitarias [Jh Jd 2d 6h 3d]\nAsiento 1: LeVbks (ciega grande) muestra [4c Ah] y perdió con pareja de jotas\nAsiento 2: fcis666 se retiró antes del Flop (no apostó)\nAsiento 3: Dlaguancha muestra [Tc Ac] y ganó (0.11 €) con pareja de jotas\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: javipondio (ciega pequeña) muestra [Qc Ks] y perdió con pareja de jotas"
+}

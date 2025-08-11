@@ -1,0 +1,53 @@
+{
+  "hand_id": "257237973806",
+  "date": "06-08-2025 18:16:48",
+  "table": "Nuwa III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8s",
+    "2d"
+  ],
+  "stacks": {
+    "BuXHexter": 101.0,
+    "xododo": 38.0,
+    "kcg_rm": 100.0,
+    "SrLyce": 148.5,
+    "acavada": 103.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: BuXHexter (2.02 € en fichas) está ausente",
+      "Asiento 1: xododo (0.76 € en fichas)",
+      "Asiento 3: kcg_rm (2 € en fichas)",
+      "Asiento 4: SrLyce (2.97 € en fichas)",
+      "Asiento 5: serviettski(fr) (2 € en fichas)",
+      "Asiento 6: acavada (2.06 € en fichas)",
+      "serviettski(fr): pone la ciega pequeña 0.01 €",
+      "acavada: pone la ciega grande 0.02 €",
+      "xododo: se retira",
+      "kcg_rm: sube 0.02 € a 0.04 €",
+      "SrLyce: se retira",
+      "serviettski(fr): se retira",
+      "acavada: se retira",
+      "kcg_rm: no muestra su mano",
+      "Asiento 2: BuXHexter",
+      "Asiento 1: xododo se retiró antes del Flop (no apostó)",
+      "Asiento 3: kcg_rm recaudó (0.05 €)",
+      "Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: serviettski(fr) (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: acavada (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "kcg_rm",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237973806 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:16:48 CET [06-08-2025 12:16:48 ET]\nMesa \"Nuwa III\" 6-max El asiento n.º 4 es el botón\nAsiento 2: BuXHexter (2.02 € en fichas) está ausente\nAsiento 1: xododo (0.76 € en fichas) \nAsiento 3: kcg_rm (2 € en fichas) \nAsiento 4: SrLyce (2.97 € en fichas) \nAsiento 5: serviettski(fr) (2 € en fichas) \nAsiento 6: acavada (2.06 € en fichas) \nserviettski(fr): pone la ciega pequeña 0.01 €\nacavada: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8s 2d]\nxododo: se retira \nkcg_rm: sube 0.02 € a 0.04 €\nSrLyce: se retira \nserviettski(fr): se retira \nacavada: se retira \nLa apuesta no igualada (0.02 €) ha sido devuelta a kcg_rm\nkcg_rm se lleva 0.05 € del bote \nkcg_rm: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 2: BuXHexter\nAsiento 1: xododo se retiró antes del Flop (no apostó)\nAsiento 3: kcg_rm recaudó (0.05 €)\nAsiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 5: serviettski(fr) (ciega pequeña) se retiró antes del Flop\nAsiento 6: acavada (ciega grande) se retiró antes del Flop"
+}

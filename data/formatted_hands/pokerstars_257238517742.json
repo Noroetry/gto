@@ -1,0 +1,72 @@
+{
+  "hand_id": "257238517742",
+  "date": "06-08-2025 19:06:25",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6c",
+    "Ac"
+  ],
+  "stacks": {
+    "koldipk": 151.5,
+    "David98X": 121.5,
+    "JJer11": 207.5,
+    "SrLyce": 118.0,
+    "Macklemore0": 100.0,
+    "ScarvBlack": 114.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: koldipk (3.03 € en fichas)",
+      "Asiento 2: David98X (2.43 € en fichas)",
+      "Asiento 3: JJer11 (4.15 € en fichas)",
+      "Asiento 4: SrLyce (2.36 € en fichas)",
+      "Asiento 5: Macklemore0 (2 € en fichas)",
+      "Asiento 6: ScarvBlack (2.29 € en fichas)",
+      "Macklemore0: pone la ciega pequeña 0.01 €",
+      "ScarvBlack: pone la ciega grande 0.02 €",
+      "koldipk: sube 0.02 € a 0.04 €",
+      "David98X: sube 0.10 € a 0.14 €",
+      "JJer11: se retira",
+      "SrLyce: iguala 0.14 €",
+      "Macklemore0: se retira",
+      "ScarvBlack: se retira",
+      "koldipk: iguala 0.10 €"
+    ],
+    "flop": [
+      "koldipk: pasa",
+      "David98X: apuesta 0.34 €",
+      "SrLyce: iguala 0.34 €",
+      "koldipk: sube 2.55 € a 2.89 € y está all-in",
+      "David98X: iguala 1.95 € y está all-in",
+      "SrLyce: iguala 1.88 € y está all-in"
+    ],
+    "turn": [],
+    "river": [
+      "koldipk: muestra [9h Th] (full de jotas y nueves)",
+      "David98X: muestra [9s Ks] (full de jotas y nueves)",
+      "SrLyce: muestra [6c Ac] (full de jotas y seises)",
+      "Asiento 1: koldipk muestra [9h Th] y ganó (3.50 €) con full de jotas y nueves",
+      "Asiento 2: David98X muestra [9s Ks] y ganó (3.50 €) con full de jotas y nueves",
+      "Asiento 3: JJer11 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce (botón) muestra [6c Ac] y perdió con full de jotas y seises",
+      "Asiento 5: Macklemore0 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: ScarvBlack (ciega grande) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "9c",
+    "Js",
+    "Jc",
+    "6h",
+    "Jd"
+  ],
+  "winner": "koldipk",
+  "win_amount": 3.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 12.5,
+  "raw_text": "Mano n.º 257238517742 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:06:25 CET [06-08-2025 13:06:25 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: koldipk (3.03 € en fichas) \nAsiento 2: David98X (2.43 € en fichas) \nAsiento 3: JJer11 (4.15 € en fichas) \nAsiento 4: SrLyce (2.36 € en fichas) \nAsiento 5: Macklemore0 (2 € en fichas) \nAsiento 6: ScarvBlack (2.29 € en fichas) \nMacklemore0: pone la ciega pequeña 0.01 €\nScarvBlack: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6c Ac]\nkoldipk: sube 0.02 € a 0.04 €\nDavid98X: sube 0.10 € a 0.14 €\nJJer11: se retira \nSrLyce: iguala 0.14 €\nMacklemore0: se retira \nScarvBlack: se retira \nkoldipk: iguala 0.10 €\n*** FLOP *** [9c Js Jc]\nkoldipk: pasa \nDavid98X: apuesta 0.34 €\nSrLyce: iguala 0.34 €\nkoldipk: sube 2.55 € a 2.89 € y está all-in\nDavid98X: iguala 1.95 € y está all-in\nSrLyce: iguala 1.88 € y está all-in\nLa apuesta no igualada (0.60 €) ha sido devuelta a koldipk\n*** TURN *** [9c Js Jc] [6h]\n*** RIVER *** [9c Js Jc 6h] [Jd]\n*** SHOW DOWN ***\nkoldipk: muestra [9h Th] (full de jotas y nueves)\nDavid98X: muestra [9s Ks] (full de jotas y nueves)\nkoldipk se lleva 0.07 € del bote  secundario\nDavid98X se lleva 0.07 € del bote  secundario\nSrLyce: muestra [6c Ac] (full de jotas y seises)\nkoldipk se lleva 3.43 € del bote  principal\nDavid98X se lleva 3.43 € del bote  principal\n*** RESUMEN ***\nBote total 7.25 € Bote principal 6.86 €. Bote secundario 0.14 €. | Comisión 0.25 € \nComunitarias [9c Js Jc 6h Jd]\nAsiento 1: koldipk muestra [9h Th] y ganó (3.50 €) con full de jotas y nueves\nAsiento 2: David98X muestra [9s Ks] y ganó (3.50 €) con full de jotas y nueves\nAsiento 3: JJer11 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce (botón) muestra [6c Ac] y perdió con full de jotas y seises\nAsiento 5: Macklemore0 (ciega pequeña) se retiró antes del Flop\nAsiento 6: ScarvBlack (ciega grande) se retiró antes del Flop"
+}

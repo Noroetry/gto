@@ -1,0 +1,36 @@
+﻿Mano n.º 257237005480 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:30:39 CET [06-08-2025 11:30:39 ET]
+Mesa "Themisto III" 6-max El asiento n.º 6 es el botón
+Asiento 1: elso253 (1.36 € en fichas) 
+Asiento 2: SrLyce (2 € en fichas) 
+Asiento 3: idigon (0.64 € en fichas) 
+Asiento 4: WoLF-Sevilla (1.58 € en fichas) 
+Asiento 5: mivipkr (2.48 € en fichas) 
+Asiento 6: marignamo (1.97 € en fichas) 
+elso253: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5c Qs]
+idigon: sube 0.02 € a 0.04 €
+WoLF-Sevilla: se retira 
+mivipkr: se retira 
+marignamo: se retira 
+elso253: se retira 
+SrLyce: iguala 0.02 €
+*** FLOP *** [5h Th 5s]
+SrLyce: pasa 
+idigon: pasa 
+*** TURN *** [5h Th 5s] [6c]
+SrLyce: apuesta 0.04 €
+idigon: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.08 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.09 € | Comisión 0.01 € 
+Comunitarias [5h Th 5s 6c]
+Asiento 1: elso253 (ciega pequeña) se retiró antes del Flop
+Asiento 2: SrLyce (ciega grande) recaudó (0.08 €)
+Asiento 3: idigon se retiró en el Turn
+Asiento 4: WoLF-Sevilla se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: marignamo (botón) se retiró antes del Flop (no apostó)

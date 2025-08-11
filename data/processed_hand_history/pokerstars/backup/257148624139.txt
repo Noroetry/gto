@@ -1,0 +1,37 @@
+Mano n.º 257148624139 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:32:29 CET [30-07-2025 15:32:29 ET]
+Mesa "Esclangona" 6-max El asiento n.º 4 es el botón
+Asiento 3: gabriella657 (5.70 € en fichas) está ausente
+Asiento 2: SrLyce (1.91 € en fichas) 
+Asiento 4: Davdgoni (3.42 € en fichas) 
+Asiento 5: DiaZzZ1 (2.01 € en fichas) 
+Asiento 6: berlcht403 (0.81 € en fichas) 
+DiaZzZ1: pone la ciega pequeña 0.01 €
+berlcht403: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qc 9s]
+Zorgue1080 se une a la mesa en el asiento n.º 1 
+SrLyce: se retira 
+Davdgoni: sube 0.04 € a 0.06 €
+DiaZzZ1: se retira 
+berlcht403: iguala 0.04 €
+*** FLOP *** [9d Kh 2c]
+berlcht403: pasa 
+Davdgoni: pasa 
+*** TURN *** [9d Kh 2c] [7s]
+berlcht403: pasa 
+Davdgoni: pasa 
+*** RIVER *** [9d Kh 2c 7s] [Ts]
+berlcht403: pasa 
+Davdgoni: pasa 
+*** SHOW DOWN ***
+berlcht403: muestra [Ad 8c] (carta alta as)
+Davdgoni: descarta su mano sin mostrar 
+berlcht403 se lleva 0.12 € del bote 
+*** RESUMEN ***
+Bote total 0.13 € | Comisión 0.01 € 
+Comunitarias [9d Kh 2c 7s Ts]
+Asiento 3: gabriella657
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 4: Davdgoni (botón) descartó sin mostrar [6c Ah]
+Asiento 5: DiaZzZ1 (ciega pequeña) se retiró antes del Flop
+Asiento 6: berlcht403 (ciega grande) muestra [Ad 8c] y ganó (0.12 €) con carta alta as

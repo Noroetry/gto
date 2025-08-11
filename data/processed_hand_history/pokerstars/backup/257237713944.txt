@@ -1,0 +1,36 @@
+﻿Mano n.º 257237713944 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:50:51 CET [06-08-2025 11:50:51 ET]
+Mesa "Euneus III" 6-max El asiento n.º 3 es el botón
+Asiento 1: DeMula62 (2 € en fichas) está ausente
+Asiento 2: Il_BM00 (2.13 € en fichas) 
+Asiento 3: djrojas9 (3.05 € en fichas) 
+Asiento 4: eleuvehache (1.99 € en fichas) 
+Asiento 5: SrLyce (2 € en fichas) 
+Asiento 6: t053n (1.32 € en fichas) 
+eleuvehache: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+DeMula62: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3h 2c]
+t053n: iguala 0.02 €
+Il_BM00: se retira 
+djrojas9: iguala 0.02 €
+eleuvehache: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [8s 9s 9d]
+eleuvehache: pasa 
+SrLyce: pasa 
+t053n: apuesta 0.10 €
+djrojas9: se retira 
+eleuvehache: se retira 
+SrLyce: se retira 
+La apuesta no igualada (0.10 €) ha sido devuelta a t053n
+t053n se lleva 0.08 € del bote 
+*** RESUMEN ***
+Bote total 0.08 € | Comisión 0 € 
+Comunitarias [8s 9s 9d]
+Asiento 1: DeMula62
+Asiento 2: Il_BM00 se retiró antes del Flop (no apostó)
+Asiento 3: djrojas9 (botón) se retiró en el Flop
+Asiento 4: eleuvehache (ciega pequeña) se retiró en el Flop
+Asiento 5: SrLyce (ciega grande) se retiró en el Flop
+Asiento 6: t053n recaudó (0.08 €)

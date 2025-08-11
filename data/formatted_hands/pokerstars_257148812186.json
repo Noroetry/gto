@@ -1,0 +1,75 @@
+{
+  "hand_id": "257148812186",
+  "date": "30-07-2025 21:45:45",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5c",
+    "7c"
+  ],
+  "stacks": {
+    "SrLyce": 97.0,
+    "lecontrebandier": 95.5,
+    "christoph363": 179.0,
+    "oliverdu70": 147.5,
+    "olibellier": 24.5,
+    "Dakoo44": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.94 € en fichas)",
+      "Asiento 2: lecontrebandier (1.91 € en fichas)",
+      "Asiento 3: christoph363 (3.58 € en fichas)",
+      "Asiento 4: oliverdu70 (2.95 € en fichas)",
+      "Asiento 5: olibellier (0.49 € en fichas)",
+      "Asiento 6: Dakoo44 (2 € en fichas)",
+      "Dakoo44: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "lecontrebandier: sube 0.02 € a 0.04 €",
+      "christoph363: se retira",
+      "oliverdu70: iguala 0.04 €",
+      "olibellier: se retira",
+      "Dakoo44: se retira",
+      "SrLyce: iguala 0.02 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "lecontrebandier: pasa",
+      "oliverdu70: pasa"
+    ],
+    "turn": [
+      "SrLyce: apuesta 0.04 €",
+      "lecontrebandier: iguala 0.04 €",
+      "oliverdu70: iguala 0.04 €"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "lecontrebandier: pasa",
+      "oliverdu70: pasa",
+      "SrLyce: muestra [5c 7c] (pareja de seises)",
+      "lecontrebandier: muestra [Qc 9c] (pareja de seises - dama kicker)",
+      "oliverdu70: descarta su mano sin mostrar",
+      "Asiento 1: SrLyce (ciega grande) muestra [5c 7c] y perdió con pareja de seises",
+      "Asiento 2: lecontrebandier muestra [Qc 9c] y ganó (0.23 €) con pareja de seises",
+      "Asiento 3: christoph363 se retiró antes del Flop (no apostó)",
+      "Asiento 4: oliverdu70 descartó sin mostrar [7d 8s]",
+      "Asiento 5: olibellier (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: Dakoo44 (ciega pequeña) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "6c",
+    "3s",
+    "Jd",
+    "Tc",
+    "6h"
+  ],
+  "winner": "lecontrebandier",
+  "win_amount": 11.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257148812186 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:45:45 CET [30-07-2025 15:45:45 ET]\nMesa \"Sirona\" 6-max El asiento n.º 5 es el botón\nAsiento 1: SrLyce (1.94 € en fichas) \nAsiento 2: lecontrebandier (1.91 € en fichas) \nAsiento 3: christoph363 (3.58 € en fichas) \nAsiento 4: oliverdu70 (2.95 € en fichas) \nAsiento 5: olibellier (0.49 € en fichas) \nAsiento 6: Dakoo44 (2 € en fichas) \nDakoo44: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5c 7c]\nlecontrebandier: sube 0.02 € a 0.04 €\nchristoph363: se retira \noliverdu70: iguala 0.04 €\nolibellier: se retira \nDakoo44: se retira \nSrLyce: iguala 0.02 €\n*** FLOP *** [6c 3s Jd]\nSrLyce: pasa \nlecontrebandier: pasa \noliverdu70: pasa \n*** TURN *** [6c 3s Jd] [Tc]\nSrLyce: apuesta 0.04 €\nlecontrebandier: iguala 0.04 €\noliverdu70: iguala 0.04 €\n*** RIVER *** [6c 3s Jd Tc] [6h]\nSrLyce: pasa \nlecontrebandier: pasa \noliverdu70: pasa \n*** SHOW DOWN ***\nSrLyce: muestra [5c 7c] (pareja de seises)\nlecontrebandier: muestra [Qc 9c] (pareja de seises - dama kicker)\noliverdu70: descarta su mano sin mostrar \nlecontrebandier se lleva 0.23 € del bote \n*** RESUMEN ***\nBote total 0.25 € | Comisión 0.02 € \nComunitarias [6c 3s Jd Tc 6h]\nAsiento 1: SrLyce (ciega grande) muestra [5c 7c] y perdió con pareja de seises\nAsiento 2: lecontrebandier muestra [Qc 9c] y ganó (0.23 €) con pareja de seises\nAsiento 3: christoph363 se retiró antes del Flop (no apostó)\nAsiento 4: oliverdu70 descartó sin mostrar [7d 8s]\nAsiento 5: olibellier (botón) se retiró antes del Flop (no apostó)\nAsiento 6: Dakoo44 (ciega pequeña) se retiró antes del Flop"
+}

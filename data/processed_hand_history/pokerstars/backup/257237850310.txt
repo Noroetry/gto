@@ -1,0 +1,44 @@
+Mano n.º 257237850310 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:05:24 CET [06-08-2025 12:05:24 ET]
+Mesa "Atreus" 6-max El asiento n.º 2 es el botón
+Asiento 4: JGDOBLAS (4.03 € en fichas) está ausente
+Asiento 1: PrendsCa (2.23 € en fichas) 
+Asiento 2: NRules82 (1.57 € en fichas) 
+Asiento 3: JENOFONTE73 (2.41 € en fichas) 
+Asiento 5: SrLyce (1.40 € en fichas) 
+Asiento 6: FishamanReggae (0.96 € en fichas) 
+JENOFONTE73: pone la ciega pequeña 0.01 €
+JGDOBLAS: está ausente 
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3d 4h]
+JGDOBLAS deja la mesa
+FishamanReggae: iguala 0.02 €
+PrendsCa: se retira 
+NRules82: sube 0.02 € a 0.04 €
+JENOFONTE73: se retira 
+SrLyce: iguala 0.02 €
+FishamanReggae: iguala 0.02 €
+*** FLOP *** [2d Ah 3c]
+SrLyce: pasa 
+FishamanReggae: pasa 
+NRules82: apuesta 0.04 €
+SrLyce: iguala 0.04 €
+FishamanReggae: se retira 
+*** TURN *** [2d Ah 3c] [6c]
+SrLyce: pasa 
+NRules82: pasa 
+*** RIVER *** [2d Ah 3c 6c] [5s]
+SrLyce: apuesta 0.16 €
+NRules82: se retira 
+La apuesta no igualada (0.16 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.20 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.21 € | Comisión 0.01 € 
+Comunitarias [2d Ah 3c 6c 5s]
+Asiento 4: JGDOBLAS
+Asiento 1: PrendsCa se retiró antes del Flop (no apostó)
+Asiento 2: NRules82 (botón) se retiró en el River
+Asiento 3: JENOFONTE73 (ciega pequeña) se retiró antes del Flop
+Asiento 5: SrLyce (ciega grande) recaudó (0.20 €)
+Asiento 6: FishamanReggae se retiró en el Flop

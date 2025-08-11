@@ -1,0 +1,43 @@
+Mano n.º 257150012472 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:12:16 CET [30-07-2025 17:12:16 ET]
+Mesa "Lobelia" 6-max El asiento n.º 2 es el botón
+Asiento 1: LeVbks (1.71 € en fichas) 
+Asiento 2: fcis666 (0.98 € en fichas) 
+Asiento 3: Dlaguancha (1.59 € en fichas) 
+Asiento 4: SrLyce (1.83 € en fichas) 
+Asiento 5: riverluck444 (1.95 € en fichas) 
+Asiento 6: Kiffou39 (0.93 € en fichas) 
+Dlaguancha: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td Ac]
+riverluck444: se retira 
+Kiffou39: sube 0.02 € a 0.04 €
+LeVbks: iguala 0.04 €
+fcis666: se retira 
+Dlaguancha: iguala 0.03 €
+SrLyce: iguala 0.02 €
+*** FLOP *** [5s 6s 2d]
+Dlaguancha: pasa 
+SrLyce: pasa 
+Kiffou39: pasa 
+LeVbks: pasa 
+*** TURN *** [5s 6s 2d] [3h]
+Dlaguancha: apuesta 0.08 €
+SrLyce: iguala 0.08 €
+Kiffou39: iguala 0.08 €
+LeVbks: se retira 
+*** RIVER *** [5s 6s 2d 3h] [Js]
+Dlaguancha: apuesta 0.19 €
+SrLyce: se retira 
+Kiffou39: se retira 
+La apuesta no igualada (0.19 €) ha sido devuelta a Dlaguancha
+Dlaguancha se lleva 0.38 € del bote 
+*** RESUMEN ***
+Bote total 0.40 € | Comisión 0.02 € 
+Comunitarias [5s 6s 2d 3h Js]
+Asiento 1: LeVbks se retiró en el Turn
+Asiento 2: fcis666 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: Dlaguancha (ciega pequeña) recaudó (0.38 €)
+Asiento 4: SrLyce (ciega grande) se retiró en el River
+Asiento 5: riverluck444 se retiró antes del Flop (no apostó)
+Asiento 6: Kiffou39 se retiró en el River

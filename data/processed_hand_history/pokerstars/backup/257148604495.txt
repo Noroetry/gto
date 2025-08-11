@@ -1,0 +1,43 @@
+Mano n.º 257148604495 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:31:06 CET [30-07-2025 15:31:06 ET]
+Mesa "Esclangona" 6-max El asiento n.º 2 es el botón
+Asiento 3: gabriella657 (5.70 € en fichas) está ausente
+Asiento 2: SrLyce (1.97 € en fichas) 
+Asiento 4: Davdgoni (3.23 € en fichas) 
+Asiento 5: DiaZzZ1 (2.16 € en fichas) 
+Asiento 6: berlcht403 (0.81 € en fichas) 
+MorganKapone deja la mesa
+gabriella657 ha agotado su tiempo mientras siga sin conexión
+gabriella657: está ausente 
+Davdgoni: pone la ciega pequeña 0.01 €
+DiaZzZ1: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7s Ac]
+berlcht403: se retira 
+SrLyce: sube 0.04 € a 0.06 €
+Davdgoni: iguala 0.05 €
+DiaZzZ1: iguala 0.04 €
+*** FLOP *** [Qh 8c Kc]
+Davdgoni: pasa 
+DiaZzZ1: pasa 
+SrLyce: pasa 
+*** TURN *** [Qh 8c Kc] [2h]
+Davdgoni: pasa 
+DiaZzZ1: pasa 
+SrLyce: pasa 
+*** RIVER *** [Qh 8c Kc 2h] [4h]
+Davdgoni: pasa 
+DiaZzZ1: apuesta 0.09 €
+SrLyce: se retira 
+Davdgoni: iguala 0.09 €
+*** SHOW DOWN ***
+DiaZzZ1: muestra [Ah Ts] (carta alta as)
+Davdgoni: muestra [Jd Qc] (pareja de damas)
+Davdgoni se lleva 0.34 € del bote 
+*** RESUMEN ***
+Bote total 0.36 € | Comisión 0.02 € 
+Comunitarias [Qh 8c Kc 2h 4h]
+Asiento 3: gabriella657
+Asiento 2: SrLyce (botón) se retiró en el River
+Asiento 4: Davdgoni (ciega pequeña) muestra [Jd Qc] y ganó (0.34 €) con pareja de damas
+Asiento 5: DiaZzZ1 (ciega grande) muestra [Ah Ts] y perdió con carta alta as
+Asiento 6: berlcht403 se retiró antes del Flop (no apostó)

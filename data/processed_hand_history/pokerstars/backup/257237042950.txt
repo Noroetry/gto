@@ -1,0 +1,41 @@
+Mano n.º 257237042950 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:34:20 CET [06-08-2025 11:34:20 ET]
+Mesa "Vanadis II" 6-max El asiento n.º 1 es el botón
+Asiento 5: sarabiagar (1.96 € en fichas) está ausente
+Asiento 1: SrLyce (1.94 € en fichas) 
+Asiento 2: djrojas9 (1.98 € en fichas) 
+Asiento 3: noreihh (2.98 € en fichas) 
+Asiento 4: chordewman (2.23 € en fichas) 
+Asiento 6: idigon (3.47 € en fichas) 
+djrojas9: pone la ciega pequeña 0.01 €
+noreihh: pone la ciega grande 0.02 €
+sarabiagar: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3d 5s]
+chordewman: se retira 
+idigon: sube 0.02 € a 0.04 €
+SrLyce: se retira 
+djrojas9: iguala 0.03 €
+noreihh: iguala 0.02 €
+*** FLOP *** [4c Qs 3s]
+djrojas9: pasa 
+noreihh: apuesta 0.08 €
+idigon: iguala 0.08 €
+djrojas9: se retira 
+*** TURN *** [4c Qs 3s] [2c]
+noreihh: apuesta 0.38 €
+idigon: iguala 0.38 €
+*** RIVER *** [4c Qs 3s 2c] [Ad]
+noreihh: apuesta 0.53 €
+idigon: se retira 
+La apuesta no igualada (0.53 €) ha sido devuelta a noreihh
+noreihh se lleva 0.98 € del bote 
+noreihh: no muestra su mano 
+*** RESUMEN ***
+Bote total 1.04 € | Comisión 0.06 € 
+Comunitarias [4c Qs 3s 2c Ad]
+Asiento 5: sarabiagar
+Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 2: djrojas9 (ciega pequeña) se retiró en el Flop
+Asiento 3: noreihh (ciega grande) recaudó (0.98 €)
+Asiento 4: chordewman se retiró antes del Flop (no apostó)
+Asiento 6: idigon se retiró en el River

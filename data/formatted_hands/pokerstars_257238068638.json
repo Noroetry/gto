@@ -1,0 +1,66 @@
+{
+  "hand_id": "257238068638",
+  "date": "06-08-2025 18:25:17",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8d",
+    "4d"
+  ],
+  "stacks": {
+    "SrLyce": 99.0,
+    "Davdgoni": 264.0,
+    "PerroBestia": 29.5,
+    "Nicanor Cast": 36.0,
+    "THEBLACK972": 207.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.98 € en fichas)",
+      "Asiento 2: Davdgoni (5.28 € en fichas)",
+      "Asiento 3: PerroBestia (0.59 € en fichas)",
+      "Asiento 4: serviettski(fr) (2.03 € en fichas)",
+      "Asiento 5: Nicanor Cast (0.72 € en fichas)",
+      "Asiento 6: THEBLACK972 (4.15 € en fichas)",
+      "Nicanor Cast: pone la ciega pequeña 0.01 €",
+      "THEBLACK972: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Davdgoni: se retira",
+      "PerroBestia: sube 0.03 € a 0.05 €",
+      "serviettski(fr): se retira",
+      "Nicanor Cast: sube 0.13 € a 0.18 €",
+      "THEBLACK972: iguala 0.16 €",
+      "PerroBestia: sube 0.41 € a 0.59 € y está all-in",
+      "Nicanor Cast: sube 0.13 € a 0.72 € y está all-in",
+      "THEBLACK972: iguala 0.54 €"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": [
+      "Nicanor Cast: muestra [Kd Ac] (pareja de jotas)",
+      "THEBLACK972: muestra [Qh Ad] (pareja de jotas - menor kicker)",
+      "PerroBestia: muestra [As Kh] (pareja de jotas)",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 3: PerroBestia muestra [As Kh] y ganó (0.83 €) con pareja de jotas",
+      "Asiento 4: serviettski(fr) (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: Nicanor Cast (ciega pequeña) muestra [Kd Ac] y ganó (1.08 €) con pareja de jotas",
+      "Asiento 6: THEBLACK972 (ciega grande) muestra [Qh Ad] y perdió con pareja de jotas"
+    ]
+  },
+  "board": [
+    "Jh",
+    "9h",
+    "5d",
+    "7c",
+    "Jd"
+  ],
+  "winner": "Cast",
+  "win_amount": 12.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 6.0,
+  "raw_text": "Mano n.º 257238068638 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:25:17 CET [06-08-2025 12:25:17 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: SrLyce (1.98 € en fichas) \nAsiento 2: Davdgoni (5.28 € en fichas) \nAsiento 3: PerroBestia (0.59 € en fichas) \nAsiento 4: serviettski(fr) (2.03 € en fichas) \nAsiento 5: Nicanor Cast (0.72 € en fichas) \nAsiento 6: THEBLACK972 (4.15 € en fichas) \nNicanor Cast: pone la ciega pequeña 0.01 €\nTHEBLACK972: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8d 4d]\nSrLyce: se retira \nDavdgoni: se retira \nPerroBestia: sube 0.03 € a 0.05 €\nserviettski(fr): se retira \nNicanor Cast: sube 0.13 € a 0.18 €\nTHEBLACK972: iguala 0.16 €\nPerroBestia: sube 0.41 € a 0.59 € y está all-in\nNicanor Cast: sube 0.13 € a 0.72 € y está all-in\nTHEBLACK972: iguala 0.54 €\n*** FLOP *** [Jh 9h 5d]\n*** TURN *** [Jh 9h 5d] [7c]\n*** RIVER *** [Jh 9h 5d 7c] [Jd]\n*** SHOW DOWN ***\nNicanor Cast: muestra [Kd Ac] (pareja de jotas)\nTHEBLACK972: muestra [Qh Ad] (pareja de jotas - menor kicker)\nNicanor Cast se lleva 0.25 € del bote  secundario\nPerroBestia: muestra [As Kh] (pareja de jotas)\nNicanor Cast se lleva 0.83 € del bote  principal\nPerroBestia se lleva 0.83 € del bote  principal\n*** RESUMEN ***\nBote total 2.03 € Bote principal 1.66 €. Bote secundario 0.25 €. | Comisión 0.12 € \nComunitarias [Jh 9h 5d 7c Jd]\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 3: PerroBestia muestra [As Kh] y ganó (0.83 €) con pareja de jotas\nAsiento 4: serviettski(fr) (botón) se retiró antes del Flop (no apostó)\nAsiento 5: Nicanor Cast (ciega pequeña) muestra [Kd Ac] y ganó (1.08 €) con pareja de jotas\nAsiento 6: THEBLACK972 (ciega grande) muestra [Qh Ad] y perdió con pareja de jotas"
+}

@@ -1,0 +1,53 @@
+{
+  "hand_id": "257237630603",
+  "date": "06-08-2025 17:42:52",
+  "table": "Vanadis II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4s",
+    "Jd"
+  ],
+  "stacks": {
+    "SrLyce": 125.5,
+    "djrojas9": 108.5,
+    "noreihh": 171.0,
+    "chordewman": 137.0,
+    "sarabiagar": 95.5,
+    "idigon": 95.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.51 € en fichas)",
+      "Asiento 2: djrojas9 (2.17 € en fichas)",
+      "Asiento 3: noreihh (3.42 € en fichas)",
+      "Asiento 4: chordewman (2.74 € en fichas)",
+      "Asiento 5: sarabiagar (1.91 € en fichas)",
+      "Asiento 6: idigon (1.90 € en fichas)",
+      "sarabiagar: pone la ciega pequeña 0.01 €",
+      "idigon: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "djrojas9: se retira",
+      "noreihh: se retira",
+      "chordewman: se retira",
+      "sarabiagar: se retira",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: djrojas9 se retiró antes del Flop (no apostó)",
+      "Asiento 3: noreihh se retiró antes del Flop (no apostó)",
+      "Asiento 4: chordewman (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: sarabiagar (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: idigon (ciega grande) recaudó (0.02 €)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "idigon",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237630603 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:42:52 CET [06-08-2025 11:42:52 ET]\nMesa \"Vanadis II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: SrLyce (2.51 € en fichas) \nAsiento 2: djrojas9 (2.17 € en fichas) \nAsiento 3: noreihh (3.42 € en fichas) \nAsiento 4: chordewman (2.74 € en fichas) \nAsiento 5: sarabiagar (1.91 € en fichas) \nAsiento 6: idigon (1.90 € en fichas) \nsarabiagar: pone la ciega pequeña 0.01 €\nidigon: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4s Jd]\nSrLyce: se retira \ndjrojas9: se retira \nnoreihh: se retira \nchordewman: se retira \nsarabiagar: se retira \nLa apuesta no igualada (0.01 €) ha sido devuelta a idigon\nidigon se lleva 0.02 € del bote \n*** RESUMEN ***\nBote total 0.02 € | Comisión 0 € \nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: djrojas9 se retiró antes del Flop (no apostó)\nAsiento 3: noreihh se retiró antes del Flop (no apostó)\nAsiento 4: chordewman (botón) se retiró antes del Flop (no apostó)\nAsiento 5: sarabiagar (ciega pequeña) se retiró antes del Flop\nAsiento 6: idigon (ciega grande) recaudó (0.02 €)"
+}

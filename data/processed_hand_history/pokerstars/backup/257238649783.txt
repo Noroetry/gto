@@ -1,0 +1,39 @@
+Mano n.º 257238649783 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:17:33 CET [06-08-2025 13:17:33 ET]
+Mesa "Leonteus" 6-max El asiento n.º 3 es el botón
+Asiento 1: practikal_C23 (0.95 € en fichas) está ausente
+Asiento 2: niyomalo (1.95 € en fichas) 
+Asiento 3: davinci1962 (2.91 € en fichas) 
+Asiento 4: BuXHexter (2.89 € en fichas) 
+Asiento 5: Andark47 (4.28 € en fichas) 
+Asiento 6: SrLyce (2.06 € en fichas) 
+BuXHexter: pone la ciega pequeña 0.01 €
+Andark47: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7c Js]
+SrLyce: se retira 
+niyomalo: se retira 
+davinci1962: se retira 
+BuXHexter: sube 0.04 € a 0.06 €
+Andark47: iguala 0.04 €
+*** FLOP *** [Qh 5s 4h]
+BuXHexter: apuesta 0.06 €
+Andark47: iguala 0.06 €
+*** TURN *** [Qh 5s 4h] [9h]
+BuXHexter: pasa 
+Andark47: pasa 
+*** RIVER *** [Qh 5s 4h 9h] [5d]
+BuXHexter: apuesta 0.10 €
+Andark47: iguala 0.10 €
+*** SHOW DOWN ***
+BuXHexter: muestra [5h As] (trío de cincos)
+Andark47: descarta su mano sin mostrar 
+BuXHexter se lleva 0.41 € del bote 
+*** RESUMEN ***
+Bote total 0.44 € | Comisión 0.03 € 
+Comunitarias [Qh 5s 4h 9h 5d]
+Asiento 1: practikal_C23
+Asiento 2: niyomalo se retiró antes del Flop (no apostó)
+Asiento 3: davinci1962 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: BuXHexter (ciega pequeña) muestra [5h As] y ganó (0.41 €) con trío de cincos
+Asiento 5: Andark47 (ciega grande) descartó sin mostrar [Qs 7s]
+Asiento 6: SrLyce se retiró antes del Flop (no apostó)

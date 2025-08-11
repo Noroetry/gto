@@ -1,0 +1,55 @@
+{
+  "hand_id": "257168419027",
+  "date": "01-08-2025 11:44:20",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3c",
+    "5h"
+  ],
+  "stacks": {
+    "Ramonsex777": 94.0,
+    "SrLyce": 113.0,
+    "ecuinas": 79.0,
+    "LxckxStrxkx": 128.5,
+    "soy_cule74": 97.0,
+    "Akourdideh": 84.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: Ramonsex777 (1.88 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2.26 € en fichas)",
+      "Asiento 3: ecuinas (1.58 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2.57 € en fichas)",
+      "Asiento 5: soy_cule74 (1.94 € en fichas)",
+      "Asiento 6: Akourdideh (1.69 € en fichas)",
+      "soy_cule74: pone la ciega pequeña 0.01 €",
+      "Akourdideh: pone la ciega grande 0.02 €",
+      "Ramonsex777: se ausenta",
+      "SrLyce: se retira",
+      "ecuinas: se retira",
+      "LxckxStrxkx: se retira",
+      "soy_cule74: sube 0.04 € a 0.06 €",
+      "Akourdideh: se retira",
+      "soy_cule74: no muestra su mano",
+      "Asiento 2: Ramonsex777",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: ecuinas se retiró antes del Flop (no apostó)",
+      "Asiento 4: LxckxStrxkx (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: soy_cule74 (ciega pequeña) recaudó (0.04 €)",
+      "Asiento 6: Akourdideh (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "soy_cule74",
+  "win_amount": 2.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257168419027 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:44:20 CET [01-08-2025 5:44:20 ET]\nMesa \"Atlas\" 6-max El asiento n.º 4 es el botón\nAsiento 2: Ramonsex777 (1.88 € en fichas) está ausente\nAsiento 1: SrLyce (2.26 € en fichas) \nAsiento 3: ecuinas (1.58 € en fichas) \nAsiento 4: LxckxStrxkx (2.57 € en fichas) \nAsiento 5: soy_cule74 (1.94 € en fichas) \nAsiento 6: Akourdideh (1.69 € en fichas) \nsoy_cule74: pone la ciega pequeña 0.01 €\nAkourdideh: pone la ciega grande 0.02 €\nRamonsex777: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3c 5h]\nSrLyce: se retira \necuinas: se retira \nLxckxStrxkx: se retira \nsoy_cule74: sube 0.04 € a 0.06 €\nAkourdideh: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a soy_cule74\nsoy_cule74 se lleva 0.04 € del bote \nsoy_cule74: no muestra su mano \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nAsiento 2: Ramonsex777\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: ecuinas se retiró antes del Flop (no apostó)\nAsiento 4: LxckxStrxkx (botón) se retiró antes del Flop (no apostó)\nAsiento 5: soy_cule74 (ciega pequeña) recaudó (0.04 €)\nAsiento 6: Akourdideh (ciega grande) se retiró antes del Flop"
+}

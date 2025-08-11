@@ -1,0 +1,319 @@
+﻿Mano n.º 257168184738 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 10:59:48 CET [01-08-2025 4:59:48 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (500 en fichas) 
+Asiento 2: pierrotpok (500 en fichas) 
+Asiento 3: SrLyce (500 en fichas) 
+pierrotpok: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4s Qd]
+weedamax09: se retira 
+pierrotpok: iguala 10
+SrLyce: pasa 
+*** FLOP *** [As 6d Jh]
+pierrotpok: pasa 
+SrLyce: pasa 
+*** TURN *** [As 6d Jh] [4d]
+pierrotpok: pasa 
+SrLyce: apuesta 20
+pierrotpok: iguala 20
+*** RIVER *** [As 6d Jh 4d] [7d]
+pierrotpok: pasa 
+SrLyce: apuesta 40
+pierrotpok: se retira 
+La apuesta no igualada (40) ha sido devuelta a SrLyce
+SrLyce se lleva 80 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 80 | Comisión 0 
+Comunitarias [As 6d Jh 4d 7d]
+Asiento 1: weedamax09 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: pierrotpok (ciega pequeña) se retiró en el River
+Asiento 3: SrLyce (ciega grande) recaudó (80)
+
+
+
+Mano n.º 257168186154 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:00:08 CET [01-08-2025 5:00:08 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: weedamax09 (500 en fichas) 
+Asiento 2: pierrotpok (460 en fichas) 
+Asiento 3: SrLyce (540 en fichas) 
+SrLyce: pone la ciega pequeña 10
+weedamax09: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kd 4s]
+pierrotpok: se retira 
+SrLyce: se retira 
+La apuesta no igualada (10) ha sido devuelta a weedamax09
+weedamax09 se lleva 20 del bote 
+*** RESUMEN ***
+Bote total 20 | Comisión 0 
+Asiento 1: weedamax09 (ciega grande) recaudó (20)
+Asiento 2: pierrotpok (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) se retiró antes del Flop
+
+
+
+Mano n.º 257168186548 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:00:13 CET [01-08-2025 5:00:13 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: weedamax09 (510 en fichas) 
+Asiento 2: pierrotpok (460 en fichas) 
+Asiento 3: SrLyce (530 en fichas) 
+weedamax09: pone la ciega pequeña 10
+pierrotpok: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5h 2d]
+SrLyce: se retira 
+weedamax09: se retira 
+La apuesta no igualada (10) ha sido devuelta a pierrotpok
+pierrotpok se lleva 20 del bote 
+pierrotpok: no muestra su mano 
+*** RESUMEN ***
+Bote total 20 | Comisión 0 
+Asiento 1: weedamax09 (ciega pequeña) se retiró antes del Flop
+Asiento 2: pierrotpok (ciega grande) recaudó (20)
+Asiento 3: SrLyce (botón) se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257168186941 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:00:19 CET [01-08-2025 5:00:19 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (500 en fichas) 
+Asiento 2: pierrotpok (470 en fichas) 
+Asiento 3: SrLyce (530 en fichas) 
+pierrotpok: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5c 6h]
+weedamax09: sube 480 a 500 y está all-in
+pierrotpok: iguala 460 y está all-in
+SrLyce: se retira 
+La apuesta no igualada (30) ha sido devuelta a weedamax09
+*** FLOP *** [9c 3c Tc]
+*** TURN *** [9c 3c Tc] [7c]
+*** RIVER *** [9c 3c Tc 7c] [8d]
+*** SHOW DOWN ***
+pierrotpok: muestra [Js Kh] (escalera, de siete a jota)
+weedamax09: muestra [Qc Ts] (color, carta alta dama)
+weedamax09 se lleva 960 del bote 
+pierrotpok ha finalizado el torneo en 3.º posición
+*** RESUMEN ***
+Bote total 960 | Comisión 0 
+Comunitarias [9c 3c Tc 7c 8d]
+Asiento 1: weedamax09 (botón) muestra [Qc Ts] y ganó (960) con color, carta alta dama
+Asiento 2: pierrotpok (ciega pequeña) muestra [Js Kh] y perdió con escalera, de siete a jota
+Asiento 3: SrLyce (ciega grande) se retiró antes del Flop
+
+
+
+Mano n.º 257168188344 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:00:37 CET [01-08-2025 5:00:37 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: weedamax09 (990 en fichas) 
+Asiento 3: SrLyce (510 en fichas) 
+SrLyce: pone la ciega pequeña 10
+weedamax09: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3s Ac]
+SrLyce: sube 40 a 60
+weedamax09: sube 930 a 990 y está all-in
+SrLyce: iguala 450 y está all-in
+La apuesta no igualada (480) ha sido devuelta a weedamax09
+*** FLOP *** [6h 6d 8c]
+*** TURN *** [6h 6d 8c] [Qs]
+*** RIVER *** [6h 6d 8c Qs] [8d]
+*** SHOW DOWN ***
+weedamax09: muestra [Kh 5h] (doble pareja, ochos y seises)
+SrLyce: muestra [3s Ac] (doble pareja, ochos y seises - as kicker)
+SrLyce se lleva 1020 del bote 
+*** RESUMEN ***
+Bote total 1020 | Comisión 0 
+Comunitarias [6h 6d 8c Qs 8d]
+Asiento 1: weedamax09 (ciega grande) muestra [Kh 5h] y perdió con doble pareja, ochos y seises
+Asiento 3: SrLyce (botón) (ciega pequeña) muestra [3s Ac] y ganó (1020) con doble pareja, ochos y seises
+
+
+
+Mano n.º 257168189537 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:00:52 CET [01-08-2025 5:00:52 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (480 en fichas) 
+Asiento 3: SrLyce (1020 en fichas) 
+weedamax09: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jd Ks]
+weedamax09: se retira 
+La apuesta no igualada (10) ha sido devuelta a SrLyce
+SrLyce se lleva 20 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 20 | Comisión 0 
+Asiento 1: weedamax09 (botón) (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyce (ciega grande) recaudó (20)
+
+
+
+Mano n.º 257168190060 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:00:59 CET [01-08-2025 5:00:59 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: weedamax09 (470 en fichas) 
+Asiento 3: SrLyce (1030 en fichas) 
+SrLyce: pone la ciega pequeña 10
+weedamax09: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6s 8d]
+SrLyce: se retira 
+La apuesta no igualada (10) ha sido devuelta a weedamax09
+weedamax09 se lleva 20 del bote 
+*** RESUMEN ***
+Bote total 20 | Comisión 0 
+Asiento 1: weedamax09 (ciega grande) recaudó (20)
+Asiento 3: SrLyce (botón) (ciega pequeña) se retiró antes del Flop
+
+
+
+Mano n.º 257168190806 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:01:07 CET [01-08-2025 5:01:07 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (480 en fichas) 
+Asiento 3: SrLyce (1020 en fichas) 
+weedamax09: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td 7c]
+weedamax09: se retira 
+La apuesta no igualada (10) ha sido devuelta a SrLyce
+SrLyce se lleva 20 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 20 | Comisión 0 
+Asiento 1: weedamax09 (botón) (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyce (ciega grande) recaudó (20)
+
+
+
+Mano n.º 257168191170 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:01:12 CET [01-08-2025 5:01:12 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: weedamax09 (470 en fichas) 
+Asiento 3: SrLyce (1030 en fichas) 
+SrLyce: pone la ciega pequeña 10
+weedamax09: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Tc Ah]
+SrLyce: sube 40 a 60
+weedamax09: iguala 40
+*** FLOP *** [6s Ac Th]
+weedamax09: pasa 
+SrLyce: apuesta 60
+weedamax09: se retira 
+La apuesta no igualada (60) ha sido devuelta a SrLyce
+SrLyce se lleva 120 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 120 | Comisión 0 
+Comunitarias [6s Ac Th]
+Asiento 1: weedamax09 (ciega grande) se retiró en el Flop
+Asiento 3: SrLyce (botón) (ciega pequeña) recaudó (120)
+
+
+
+Mano n.º 257168192584 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:01:30 CET [01-08-2025 5:01:30 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (410 en fichas) 
+Asiento 3: SrLyce (1090 en fichas) 
+weedamax09: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jc 7h]
+weedamax09: sube 390 a 410 y está all-in
+SrLyce: se retira 
+La apuesta no igualada (390) ha sido devuelta a weedamax09
+weedamax09 se lleva 40 del bote 
+*** RESUMEN ***
+Bote total 40 | Comisión 0 
+Asiento 1: weedamax09 (botón) (ciega pequeña) recaudó (40)
+Asiento 3: SrLyce (ciega grande) se retiró antes del Flop
+
+
+
+Mano n.º 257168193338 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 01-08-2025 11:01:39 CET [01-08-2025 5:01:39 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: weedamax09 (430 en fichas) 
+Asiento 3: SrLyce (1070 en fichas) 
+SrLyce: pone la ciega pequeña 10
+weedamax09: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8s 7h]
+SrLyce: sube 40 a 60
+weedamax09: sube 370 a 430 y está all-in
+SrLyce: iguala 370
+*** FLOP *** [Qc 6s Jd]
+*** TURN *** [Qc 6s Jd] [4s]
+*** RIVER *** [Qc 6s Jd 4s] [9c]
+*** SHOW DOWN ***
+weedamax09: muestra [Ah 3d] (carta alta as)
+SrLyce: muestra [8s 7h] (carta alta dama)
+weedamax09 se lleva 860 del bote 
+*** RESUMEN ***
+Bote total 860 | Comisión 0 
+Comunitarias [Qc 6s Jd 4s 9c]
+Asiento 1: weedamax09 (ciega grande) muestra [Ah 3d] y ganó (860) con carta alta as
+Asiento 3: SrLyce (botón) (ciega pequeña) muestra [8s 7h] y perdió con carta alta dama
+
+
+
+Mano n.º 257168194853 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 01-08-2025 11:01:57 CET [01-08-2025 5:01:57 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: weedamax09 (860 en fichas) 
+Asiento 3: SrLyce (640 en fichas) 
+weedamax09: pone la ciega pequeña 15
+SrLyce: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4d 5c]
+weedamax09: iguala 15
+SrLyce: pasa 
+*** FLOP *** [Jc Ad Qc]
+SrLyce: pasa 
+weedamax09: pasa 
+*** TURN *** [Jc Ad Qc] [3d]
+SrLyce: pasa 
+weedamax09: pasa 
+*** RIVER *** [Jc Ad Qc 3d] [Tc]
+SrLyce: pasa 
+weedamax09: apuesta 60
+SrLyce: se retira 
+La apuesta no igualada (60) ha sido devuelta a weedamax09
+weedamax09 se lleva 60 del bote 
+*** RESUMEN ***
+Bote total 60 | Comisión 0 
+Comunitarias [Jc Ad Qc 3d Tc]
+Asiento 1: weedamax09 (botón) (ciega pequeña) recaudó (60)
+Asiento 3: SrLyce (ciega grande) se retiró en el River
+
+
+
+Mano n.º 257168196463 de PokerStars: Torneo n.º 3914606629, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 01-08-2025 11:02:16 CET [01-08-2025 5:02:16 ET]
+Mesa "3914606629 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: weedamax09 (890 en fichas) 
+Asiento 3: SrLyce (610 en fichas) 
+SrLyce: pone la ciega pequeña 15
+weedamax09: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [As Qh]
+SrLyce: sube 580 a 610 y está all-in
+weedamax09: iguala 580
+*** FLOP *** [8h Kh Qs]
+*** TURN *** [8h Kh Qs] [4h]
+*** RIVER *** [8h Kh Qs 4h] [4d]
+*** SHOW DOWN ***
+weedamax09: muestra [9h 7h] (color, carta alta rey)
+SrLyce: muestra [As Qh] (doble pareja, damas y cuatros)
+weedamax09 se lleva 1220 del bote 
+SrLyce ha finalizado el torneo en 2.º posición
+weedamax09 gana el torneo, ¡enhorabuena!
+weedamax09 gana un ticket "€1 Step 2 MTT Power Path ticket"
+*** RESUMEN ***
+Bote total 1220 | Comisión 0 
+Comunitarias [8h Kh Qs 4h 4d]
+Asiento 1: weedamax09 (ciega grande) muestra [9h 7h] y ganó (1220) con color, carta alta rey
+Asiento 3: SrLyce (botón) (ciega pequeña) muestra [As Qh] y perdió con doble pareja, damas y cuatros
+
+
+

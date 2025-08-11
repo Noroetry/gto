@@ -1,0 +1,55 @@
+{
+  "hand_id": "257150584943",
+  "date": "30-07-2025 23:52:34",
+  "table": "Mizuho",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Jh",
+    "7h"
+  ],
+  "stacks": {
+    "linceXXII": 100.0,
+    "SrLyce": 257.0,
+    "JstLeonel": 113.5,
+    "Ozzy3110": 313.5,
+    "toonsy2010": 89.0,
+    "mivipkr": 105.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: linceXXII (2 € en fichas) está ausente",
+      "Asiento 2: SrLyce (5.14 € en fichas)",
+      "Asiento 3: JstLeonel (2.27 € en fichas)",
+      "Asiento 4: Ozzy3110 (6.27 € en fichas)",
+      "Asiento 5: toonsy2010 (1.78 € en fichas)",
+      "Asiento 6: mivipkr (2.11 € en fichas)",
+      "toonsy2010: pone la ciega pequeña 0.01 €",
+      "mivipkr: pone la ciega grande 0.02 €",
+      "linceXXII: se ausenta",
+      "SrLyce: se retira",
+      "JstLeonel: sube 0.02 € a 0.04 €",
+      "Ozzy3110: se retira",
+      "toonsy2010: se retira",
+      "mivipkr: se retira",
+      "JstLeonel: no muestra su mano",
+      "Asiento 1: linceXXII",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: JstLeonel recaudó (0.05 €)",
+      "Asiento 4: Ozzy3110 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: toonsy2010 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: mivipkr (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "JstLeonel",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257150584943 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:52:34 CET [30-07-2025 17:52:34 ET]\nMesa \"Mizuho\" 6-max El asiento n.º 4 es el botón\nAsiento 1: linceXXII (2 € en fichas) está ausente\nAsiento 2: SrLyce (5.14 € en fichas) \nAsiento 3: JstLeonel (2.27 € en fichas) \nAsiento 4: Ozzy3110 (6.27 € en fichas) \nAsiento 5: toonsy2010 (1.78 € en fichas) \nAsiento 6: mivipkr (2.11 € en fichas) \ntoonsy2010: pone la ciega pequeña 0.01 €\nmivipkr: pone la ciega grande 0.02 €\nlinceXXII: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Jh 7h]\nSrLyce: se retira \nJstLeonel: sube 0.02 € a 0.04 €\nOzzy3110: se retira \ntoonsy2010: se retira \nmivipkr: se retira \nLa apuesta no igualada (0.02 €) ha sido devuelta a JstLeonel\nJstLeonel se lleva 0.05 € del bote \nJstLeonel: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: linceXXII\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: JstLeonel recaudó (0.05 €)\nAsiento 4: Ozzy3110 (botón) se retiró antes del Flop (no apostó)\nAsiento 5: toonsy2010 (ciega pequeña) se retiró antes del Flop\nAsiento 6: mivipkr (ciega grande) se retiró antes del Flop"
+}

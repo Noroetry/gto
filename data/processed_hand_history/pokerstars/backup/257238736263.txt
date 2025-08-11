@@ -1,0 +1,41 @@
+Mano n.º 257238736263 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:24:47 CET [06-08-2025 13:24:47 ET]
+Mesa "Herculina II" 6-max El asiento n.º 4 es el botón
+Asiento 1: Alceo27 (2.41 € en fichas) 
+Asiento 2: David98X (2.86 € en fichas) 
+Asiento 3: JJer11 (3.81 € en fichas) 
+Asiento 4: SrLyce (2.88 € en fichas) 
+Asiento 5: Macklemore0 (2.09 € en fichas) 
+Asiento 6: ScarvBlack (2 € en fichas) 
+Macklemore0: pone la ciega pequeña 0.01 €
+ScarvBlack: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7d 2s]
+Alceo27: se retira 
+David98X: sube 0.04 € a 0.06 €
+JJer11: se retira 
+SrLyce: se retira 
+Macklemore0: se retira 
+ScarvBlack: iguala 0.04 €
+*** FLOP *** [Tc 4c 7c]
+ScarvBlack: pasa 
+David98X: apuesta 0.10 €
+ScarvBlack: iguala 0.10 €
+*** TURN *** [Tc 4c 7c] [6c]
+ScarvBlack: pasa 
+David98X: pasa 
+*** RIVER *** [Tc 4c 7c 6c] [Jc]
+ScarvBlack: pasa 
+David98X: pasa 
+*** SHOW DOWN ***
+ScarvBlack: muestra [8s 9c] (color, carta alta jota)
+David98X: descarta su mano sin mostrar 
+ScarvBlack se lleva 0.31 € del bote 
+*** RESUMEN ***
+Bote total 0.33 € | Comisión 0.02 € 
+Comunitarias [Tc 4c 7c 6c Jc]
+Asiento 1: Alceo27 se retiró antes del Flop (no apostó)
+Asiento 2: David98X descartó sin mostrar [Td Ts]
+Asiento 3: JJer11 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 5: Macklemore0 (ciega pequeña) se retiró antes del Flop
+Asiento 6: ScarvBlack (ciega grande) muestra [8s 9c] y ganó (0.31 €) con color, carta alta jota

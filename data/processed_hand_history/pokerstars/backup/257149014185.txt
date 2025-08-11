@@ -1,0 +1,43 @@
+Mano n.º 257149014185 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:01:57 CET [30-07-2025 16:01:57 ET]
+Mesa "Sirona" 6-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (2.42 € en fichas) 
+Asiento 2: lecontrebandier (1.87 € en fichas) 
+Asiento 3: christoph363 (4.22 € en fichas) 
+Asiento 4: oliverdu70 (2.58 € en fichas) 
+Asiento 5: NaruchoH1 (2 € en fichas) 
+Asiento 6: Dakoo44 (1.29 € en fichas) 
+lecontrebandier: pone la ciega pequeña 0.01 €
+christoph363: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3d 8h]
+oliverdu70: sube 0.04 € a 0.06 €
+NaruchoH1: se retira 
+Dakoo44: sube 0.12 € a 0.18 €
+SrLyce: se retira 
+lecontrebandier: se retira 
+christoph363: se retira 
+oliverdu70: iguala 0.12 €
+*** FLOP *** [Js As 2h]
+oliverdu70: pasa 
+Dakoo44: apuesta 0.09 €
+oliverdu70: sube 0.09 € a 0.18 €
+Dakoo44: sube 0.22 € a 0.40 €
+oliverdu70: iguala 0.22 €
+*** TURN *** [Js As 2h] [5c]
+oliverdu70: pasa 
+Dakoo44: apuesta 0.71 € y está all-in
+oliverdu70: iguala 0.71 €
+*** RIVER *** [Js As 2h 5c] [6c]
+*** SHOW DOWN ***
+oliverdu70: muestra [Ks Ad] (pareja de ases)
+Dakoo44: muestra [Jc Kc] (pareja de jotas)
+oliverdu70 se lleva 2.45 € del bote 
+*** RESUMEN ***
+Bote total 2.61 € | Comisión 0.16 € 
+Comunitarias [Js As 2h 5c 6c]
+Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 2: lecontrebandier (ciega pequeña) se retiró antes del Flop
+Asiento 3: christoph363 (ciega grande) se retiró antes del Flop
+Asiento 4: oliverdu70 muestra [Ks Ad] y ganó (2.45 €) con pareja de ases
+Asiento 5: NaruchoH1 se retiró antes del Flop (no apostó)
+Asiento 6: Dakoo44 muestra [Jc Kc] y perdió con pareja de jotas

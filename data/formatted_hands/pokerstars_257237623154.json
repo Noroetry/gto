@@ -1,0 +1,67 @@
+{
+  "hand_id": "257237623154",
+  "date": "06-08-2025 17:42:09",
+  "table": "Themisto III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9c",
+    "4s"
+  ],
+  "stacks": {
+    "chordewman": 100.0,
+    "SrLyce": 122.5,
+    "idigon": 4.0,
+    "fred2d23po": 80.0,
+    "mivipkr": 108.0,
+    "marignamo": 101.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: chordewman (2 € en fichas) está ausente",
+      "Asiento 2: SrLyce (2.45 € en fichas)",
+      "Asiento 3: idigon (0.08 € en fichas)",
+      "Asiento 4: fred2d23po (1.60 € en fichas)",
+      "Asiento 5: mivipkr (2.16 € en fichas)",
+      "Asiento 6: marignamo (2.02 € en fichas)",
+      "fred2d23po: pone la ciega pequeña 0.01 €",
+      "mivipkr: pone la ciega grande 0.02 €",
+      "chordewman: se ausenta",
+      "marignamo: se retira",
+      "SrLyce: se retira",
+      "idigon: sube 0.02 € a 0.04 €",
+      "fred2d23po: iguala 0.03 €",
+      "mivipkr: se retira"
+    ],
+    "flop": [
+      "fred2d23po: pasa",
+      "idigon: apuesta 0.04 € y está all-in",
+      "fred2d23po: iguala 0.04 €"
+    ],
+    "turn": [],
+    "river": [
+      "fred2d23po: muestra [Ks 5s] (doble pareja, sietes y cincos)",
+      "idigon: muestra [Tc Jc] (pareja de sietes)",
+      "Asiento 1: chordewman",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: idigon (botón) muestra [Tc Jc] y perdió con pareja de sietes",
+      "Asiento 4: fred2d23po (ciega pequeña) muestra [Ks 5s] y ganó (0.17 €) con doble pareja, sietes y cincos",
+      "Asiento 5: mivipkr (ciega grande) se retiró antes del Flop",
+      "Asiento 6: marignamo se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Ad",
+    "7h",
+    "7d",
+    "8h",
+    "5d"
+  ],
+  "winner": "fred2d23po",
+  "win_amount": 8.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257237623154 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:42:09 CET [06-08-2025 11:42:09 ET]\nMesa \"Themisto III\" 6-max El asiento n.º 3 es el botón\nAsiento 1: chordewman (2 € en fichas) está ausente\nAsiento 2: SrLyce (2.45 € en fichas) \nAsiento 3: idigon (0.08 € en fichas) \nAsiento 4: fred2d23po (1.60 € en fichas) \nAsiento 5: mivipkr (2.16 € en fichas) \nAsiento 6: marignamo (2.02 € en fichas) \nfred2d23po: pone la ciega pequeña 0.01 €\nmivipkr: pone la ciega grande 0.02 €\nchordewman: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9c 4s]\nmarignamo: se retira \nSrLyce: se retira \nidigon: sube 0.02 € a 0.04 €\nfred2d23po: iguala 0.03 €\nmivipkr: se retira \n*** FLOP *** [Ad 7h 7d]\nfred2d23po: pasa \nidigon: apuesta 0.04 € y está all-in\nfred2d23po: iguala 0.04 €\n*** TURN *** [Ad 7h 7d] [8h]\n*** RIVER *** [Ad 7h 7d 8h] [5d]\n*** SHOW DOWN ***\nfred2d23po: muestra [Ks 5s] (doble pareja, sietes y cincos)\nidigon: muestra [Tc Jc] (pareja de sietes)\nfred2d23po se lleva 0.17 € del bote \n*** RESUMEN ***\nBote total 0.18 € | Comisión 0.01 € \nComunitarias [Ad 7h 7d 8h 5d]\nAsiento 1: chordewman\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: idigon (botón) muestra [Tc Jc] y perdió con pareja de sietes\nAsiento 4: fred2d23po (ciega pequeña) muestra [Ks 5s] y ganó (0.17 €) con doble pareja, sietes y cincos\nAsiento 5: mivipkr (ciega grande) se retiró antes del Flop\nAsiento 6: marignamo se retiró antes del Flop (no apostó)"
+}

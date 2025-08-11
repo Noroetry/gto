@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238707151",
+  "date": "06-08-2025 19:22:21",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6d",
+    "5c"
+  ],
+  "stacks": {
+    "practikal_C23": 41.0,
+    "niyomalo": 96.0,
+    "davinci1962": 156.0,
+    "BuXHexter": 155.0,
+    "Andark47": 207.5,
+    "SrLyce": 93.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: practikal_C23 (0.82 € en fichas)",
+      "Asiento 2: niyomalo (1.92 € en fichas)",
+      "Asiento 3: davinci1962 (3.12 € en fichas)",
+      "Asiento 4: BuXHexter (3.10 € en fichas)",
+      "Asiento 5: Andark47 (4.15 € en fichas)",
+      "Asiento 6: SrLyce (1.86 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "practikal_C23: pone la ciega grande 0.02 €",
+      "niyomalo: se retira",
+      "davinci1962: se retira",
+      "BuXHexter: se retira",
+      "Andark47: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "practikal_C23: iguala 0.03 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "practikal_C23: apuesta 0.02 €",
+      "SrLyce: iguala 0.02 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "practikal_C23: pasa"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "practikal_C23: apuesta 0.04 €",
+      "SrLyce: se retira",
+      "Asiento 1: practikal_C23 (ciega grande) recaudó (0.13 €)",
+      "Asiento 2: niyomalo se retiró antes del Flop (no apostó)",
+      "Asiento 3: davinci1962 se retiró antes del Flop (no apostó)",
+      "Asiento 4: BuXHexter se retiró antes del Flop (no apostó)",
+      "Asiento 5: Andark47 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: SrLyce (ciega pequeña) se retiró en el River"
+    ]
+  },
+  "board": [
+    "4c",
+    "3h",
+    "Ts",
+    "Kc",
+    "4d"
+  ],
+  "winner": "practikal_C23",
+  "win_amount": 6.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238707151 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:22:21 CET [06-08-2025 13:22:21 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 5 es el botón\nAsiento 1: practikal_C23 (0.82 € en fichas) \nAsiento 2: niyomalo (1.92 € en fichas) \nAsiento 3: davinci1962 (3.12 € en fichas) \nAsiento 4: BuXHexter (3.10 € en fichas) \nAsiento 5: Andark47 (4.15 € en fichas) \nAsiento 6: SrLyce (1.86 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\npractikal_C23: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6d 5c]\nniyomalo: se retira \ndavinci1962: se retira \nBuXHexter: se retira \nAndark47 ha agotado su tiempo\nAndark47: se retira \nSrLyce: sube 0.03 € a 0.05 €\npractikal_C23: iguala 0.03 €\n*** FLOP *** [4c 3h Ts]\nSrLyce: pasa \npractikal_C23: apuesta 0.02 €\nSrLyce: iguala 0.02 €\n*** TURN *** [4c 3h Ts] [Kc]\nSrLyce: pasa \npractikal_C23: pasa \n*** RIVER *** [4c 3h Ts Kc] [4d]\nSrLyce: pasa \npractikal_C23: apuesta 0.04 €\nSrLyce: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a practikal_C23\npractikal_C23 se lleva 0.13 € del bote \n*** RESUMEN ***\nBote total 0.14 € | Comisión 0.01 € \nComunitarias [4c 3h Ts Kc 4d]\nAsiento 1: practikal_C23 (ciega grande) recaudó (0.13 €)\nAsiento 2: niyomalo se retiró antes del Flop (no apostó)\nAsiento 3: davinci1962 se retiró antes del Flop (no apostó)\nAsiento 4: BuXHexter se retiró antes del Flop (no apostó)\nAsiento 5: Andark47 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: SrLyce (ciega pequeña) se retiró en el River"
+}

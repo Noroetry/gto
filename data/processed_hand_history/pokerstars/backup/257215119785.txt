@@ -1,0 +1,42 @@
+Mano n.º 257215119785 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:25:36 CET [04-08-2025 16:25:36 ET]
+Mesa "Aldhafera II" 6-max El asiento n.º 6 es el botón
+Asiento 1: wsx25 (1.88 € en fichas) 
+Asiento 2: BudyXXIII (5.43 € en fichas) 
+Asiento 3: SrLyce (1.94 € en fichas) 
+Asiento 4: rhidoxxx (1.71 € en fichas) 
+Asiento 5: jte-ken (2.41 € en fichas) 
+Asiento 6: betterrrrrr (3.33 € en fichas) 
+wsx25: pone la ciega pequeña 0.01 €
+BudyXXIII: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8s Qd]
+SrLyce ha agotado su tiempo
+SrLyce: se retira 
+rhidoxxx: sube 0.04 € a 0.06 €
+jte-ken: iguala 0.06 €
+betterrrrrr: se retira 
+wsx25: se retira 
+BudyXXIII: iguala 0.04 €
+*** FLOP *** [Ks 9c Qc]
+BudyXXIII: apuesta 0.06 €
+rhidoxxx: iguala 0.06 €
+jte-ken: iguala 0.06 €
+*** TURN *** [Ks 9c Qc] [Qh]
+BudyXXIII: apuesta 0.26 €
+rhidoxxx: iguala 0.26 €
+jte-ken: se retira 
+*** RIVER *** [Ks 9c Qc Qh] [4h]
+BudyXXIII: apuesta 1.31 €
+rhidoxxx: se retira 
+La apuesta no igualada (1.31 €) ha sido devuelta a BudyXXIII
+BudyXXIII se lleva 0.84 € del bote 
+BudyXXIII: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.89 € | Comisión 0.05 € 
+Comunitarias [Ks 9c Qc Qh 4h]
+Asiento 1: wsx25 (ciega pequeña) se retiró antes del Flop
+Asiento 2: BudyXXIII (ciega grande) recaudó (0.84 €)
+Asiento 3: SrLyce se retiró antes del Flop (no apostó)
+Asiento 4: rhidoxxx se retiró en el River
+Asiento 5: jte-ken se retiró en el Turn
+Asiento 6: betterrrrrr (botón) se retiró antes del Flop (no apostó)

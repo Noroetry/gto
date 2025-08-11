@@ -1,0 +1,55 @@
+{
+  "hand_id": "257238245542",
+  "date": "06-08-2025 18:41:00",
+  "table": "Aidamina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5s",
+    "2c"
+  ],
+  "stacks": {
+    "GarciaTT416": 100.0,
+    "erdillu": 148.0,
+    "niyomalo": 67.5,
+    "durahimovic": 131.5,
+    "Abrelatas787": 145.5,
+    "SrLyce": 130.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: GarciaTT416 (2 € en fichas) está ausente",
+      "Asiento 2: erdillu (2.96 € en fichas)",
+      "Asiento 3: niyomalo (1.35 € en fichas)",
+      "Asiento 4: durahimovic (2.63 € en fichas)",
+      "Asiento 5: Abrelatas787 (2.91 € en fichas)",
+      "Asiento 6: SrLyce (2.61 € en fichas)",
+      "Abrelatas787: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "GarciaTT416: se ausenta",
+      "erdillu: se retira",
+      "niyomalo: se retira",
+      "durahimovic: sube 0.04 € a 0.06 €",
+      "Abrelatas787: se retira",
+      "SrLyce: se retira",
+      "durahimovic: no muestra su mano",
+      "Asiento 1: GarciaTT416",
+      "Asiento 2: erdillu se retiró antes del Flop (no apostó)",
+      "Asiento 3: niyomalo se retiró antes del Flop (no apostó)",
+      "Asiento 4: durahimovic (botón) recaudó (0.05 €)",
+      "Asiento 5: Abrelatas787 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: SrLyce (ciega grande) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "durahimovic",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238245542 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:41:00 CET [06-08-2025 12:41:00 ET]\nMesa \"Aidamina II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: GarciaTT416 (2 € en fichas) está ausente\nAsiento 2: erdillu (2.96 € en fichas) \nAsiento 3: niyomalo (1.35 € en fichas) \nAsiento 4: durahimovic (2.63 € en fichas) \nAsiento 5: Abrelatas787 (2.91 € en fichas) \nAsiento 6: SrLyce (2.61 € en fichas) \nAbrelatas787: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\nGarciaTT416: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5s 2c]\nerdillu: se retira \nerdillu deja la mesa\nniyomalo: se retira \ndurahimovic: sube 0.04 € a 0.06 €\nAbrelatas787: se retira \nSrLyce: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a durahimovic\ndurahimovic se lleva 0.05 € del bote \ndurahimovic: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: GarciaTT416\nAsiento 2: erdillu se retiró antes del Flop (no apostó)\nAsiento 3: niyomalo se retiró antes del Flop (no apostó)\nAsiento 4: durahimovic (botón) recaudó (0.05 €)\nAsiento 5: Abrelatas787 (ciega pequeña) se retiró antes del Flop\nAsiento 6: SrLyce (ciega grande) se retiró antes del Flop"
+}

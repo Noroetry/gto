@@ -1,0 +1,73 @@
+{
+  "hand_id": "257149058791",
+  "date": "30-07-2025 22:05:05",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9s",
+    "As"
+  ],
+  "stacks": {
+    "Zorgue1080": 69.5,
+    "SrLyce": 173.5,
+    "NoahBolete": 99.5,
+    "Davdgoni": 114.5,
+    "DiaZzZ1": 94.5,
+    "berlcht403": 35.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Zorgue1080 (1.39 € en fichas)",
+      "Asiento 2: SrLyce (3.47 € en fichas)",
+      "Asiento 3: NoahBolete (1.99 € en fichas)",
+      "Asiento 4: Davdgoni (2.29 € en fichas)",
+      "Asiento 5: DiaZzZ1 (1.89 € en fichas)",
+      "Asiento 6: berlcht403 (0.71 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "NoahBolete: pone la ciega grande 0.02 €",
+      "Davdgoni: se retira",
+      "DiaZzZ1: se retira",
+      "berlcht403: se retira",
+      "Zorgue1080: sube 0.02 € a 0.04 €",
+      "SrLyce: iguala 0.03 €",
+      "NoahBolete: iguala 0.02 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "NoahBolete: pasa",
+      "Zorgue1080: pasa"
+    ],
+    "turn": [
+      "SrLyce: apuesta 0.06 €",
+      "NoahBolete: iguala 0.06 €",
+      "Zorgue1080: se retira"
+    ],
+    "river": [
+      "SrLyce: pasa",
+      "NoahBolete: pasa",
+      "SrLyce: muestra [9s As] (doble pareja, jotas y nueves)",
+      "NoahBolete: descarta su mano sin mostrar",
+      "Asiento 1: Zorgue1080 (botón) se retiró en el Turn",
+      "Asiento 2: SrLyce (ciega pequeña) muestra [9s As] y ganó (0.23 €) con doble pareja, jotas y nueves",
+      "Asiento 3: NoahBolete (ciega grande) descartó sin mostrar [2c 4d]",
+      "Asiento 4: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)",
+      "Asiento 6: berlcht403 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Jd",
+    "Td",
+    "9d",
+    "Jc",
+    "4h"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 11.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257149058791 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:05:05 CET [30-07-2025 16:05:05 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 1 es el botón\nAsiento 1: Zorgue1080 (1.39 € en fichas) \nAsiento 2: SrLyce (3.47 € en fichas) \nAsiento 3: NoahBolete (1.99 € en fichas) \nAsiento 4: Davdgoni (2.29 € en fichas) \nAsiento 5: DiaZzZ1 (1.89 € en fichas) \nAsiento 6: berlcht403 (0.71 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nNoahBolete: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9s As]\nDavdgoni: se retira \nDiaZzZ1: se retira \nberlcht403: se retira \nZorgue1080: sube 0.02 € a 0.04 €\nSrLyce: iguala 0.03 €\nNoahBolete: iguala 0.02 €\n*** FLOP *** [Jd Td 9d]\nSrLyce: pasa \nNoahBolete: pasa \nZorgue1080: pasa \n*** TURN *** [Jd Td 9d] [Jc]\nSrLyce: apuesta 0.06 €\nNoahBolete: iguala 0.06 €\nZorgue1080: se retira \n*** RIVER *** [Jd Td 9d Jc] [4h]\nSrLyce: pasa \nNoahBolete: pasa \n*** SHOW DOWN ***\nSrLyce: muestra [9s As] (doble pareja, jotas y nueves)\nNoahBolete: descarta su mano sin mostrar \nSrLyce se lleva 0.23 € del bote \n*** RESUMEN ***\nBote total 0.24 € | Comisión 0.01 € \nComunitarias [Jd Td 9d Jc 4h]\nAsiento 1: Zorgue1080 (botón) se retiró en el Turn\nAsiento 2: SrLyce (ciega pequeña) muestra [9s As] y ganó (0.23 €) con doble pareja, jotas y nueves\nAsiento 3: NoahBolete (ciega grande) descartó sin mostrar [2c 4d]\nAsiento 4: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)\nAsiento 6: berlcht403 se retiró antes del Flop (no apostó)"
+}

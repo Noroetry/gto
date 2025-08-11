@@ -1,0 +1,36 @@
+Mano n.º 257237763395 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:55:44 CET [06-08-2025 11:55:44 ET]
+Mesa "Euneus III" 6-max El asiento n.º 4 es el botón
+Asiento 1: DeMula62 (2.14 € en fichas) 
+Asiento 2: Il_BM00 (2.24 € en fichas) 
+Asiento 3: djrojas9 (2.94 € en fichas) 
+Asiento 4: eleuvehache (1.79 € en fichas) 
+Asiento 5: SrLyce (2.27 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+DeMula62: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2c 8h]
+Il_BM00: sube 0.04 € a 0.06 €
+djrojas9: se retira 
+eleuvehache: iguala 0.06 €
+SrLyce: se retira 
+DeMula62: sube 0.22 € a 0.28 €
+Il_BM00: se retira 
+eleuvehache: iguala 0.22 €
+*** FLOP *** [8c Ks Th]
+DeMula62: apuesta 0.18 €
+eleuvehache: iguala 0.18 €
+*** TURN *** [8c Ks Th] [Qc]
+DeMula62: apuesta 0.30 €
+eleuvehache: sube 1.03 € a 1.33 € y está all-in
+DeMula62: se retira 
+La apuesta no igualada (1.03 €) ha sido devuelta a eleuvehache
+eleuvehache se lleva 1.49 € del bote 
+eleuvehache: no muestra su mano 
+*** RESUMEN ***
+Bote total 1.59 € | Comisión 0.10 € 
+Comunitarias [8c Ks Th Qc]
+Asiento 1: DeMula62 (ciega grande) se retiró en el Turn
+Asiento 2: Il_BM00 se retiró antes del Flop
+Asiento 3: djrojas9 se retiró antes del Flop (no apostó)
+Asiento 4: eleuvehache (botón) recaudó (1.49 €)
+Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop

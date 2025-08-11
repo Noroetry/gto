@@ -1,0 +1,38 @@
+Mano n.º 257237766756 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:56:09 CET [06-08-2025 11:56:09 ET]
+Mesa "Atreus" 6-max El asiento n.º 3 es el botón
+Asiento 1: PrendsCa (2.16 € en fichas) 
+Asiento 2: NRules82 (1.49 € en fichas) 
+Asiento 3: JENOFONTE73 (2.65 € en fichas) 
+Asiento 4: JGDOBLAS (1.87 € en fichas) 
+Asiento 5: SrLyce (2.28 € en fichas) 
+JGDOBLAS: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6c Qc]
+PrendsCa: se retira 
+NRules82: sube 0.02 € a 0.04 €
+JENOFONTE73: se retira 
+JGDOBLAS: se retira 
+SrLyce: iguala 0.02 €
+*** FLOP *** [As Tc Js]
+SrLyce: pasa 
+NRules82: apuesta 0.02 €
+SrLyce: iguala 0.02 €
+*** TURN *** [As Tc Js] [5c]
+SrLyce: pasa 
+NRules82: apuesta 0.06 €
+SrLyce: iguala 0.06 €
+*** RIVER *** [As Tc Js 5c] [7s]
+SrLyce: pasa 
+NRules82: apuesta 0.23 €
+SrLyce: se retira 
+La apuesta no igualada (0.23 €) ha sido devuelta a NRules82
+NRules82 se lleva 0.23 € del bote 
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 € 
+Comunitarias [As Tc Js 5c 7s]
+Asiento 1: PrendsCa se retiró antes del Flop (no apostó)
+Asiento 2: NRules82 recaudó (0.23 €)
+Asiento 3: JENOFONTE73 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: JGDOBLAS (ciega pequeña) se retiró antes del Flop
+Asiento 5: SrLyce (ciega grande) se retiró en el River

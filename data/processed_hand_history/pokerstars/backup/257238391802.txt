@@ -1,0 +1,37 @@
+Mano n.º 257238391802 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:53:50 CET [06-08-2025 12:53:50 ET]
+Mesa "Herculina II" 6-max El asiento n.º 4 es el botón
+Asiento 1: koldipk (1.86 € en fichas) 
+Asiento 2: David98X (2.21 € en fichas) 
+Asiento 3: JJer11 (4.35 € en fichas) 
+Asiento 4: SrLyce (1.75 € en fichas) 
+Asiento 6: ScarvBlack (2 € en fichas) 
+ScarvBlack: pone la ciega pequeña 0.01 €
+koldipk: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7s 7d]
+David98X: se retira 
+JJer11: se retira 
+SrLyce: sube 0.03 € a 0.05 €
+ScarvBlack: iguala 0.04 €
+Macklemore0 se une a la mesa en el asiento n.º 5 
+koldipk: sube 0.15 € a 0.20 €
+SrLyce: iguala 0.15 €
+ScarvBlack: se retira 
+*** FLOP *** [Td Qs 7c]
+koldipk: apuesta 1.66 € y está all-in
+SrLyce: iguala 1.55 € y está all-in
+La apuesta no igualada (0.11 €) ha sido devuelta a koldipk
+*** TURN *** [Td Qs 7c] [8s]
+*** RIVER *** [Td Qs 7c 8s] [Jc]
+*** SHOW DOWN ***
+koldipk: muestra [Jh Js] (trío de jotas)
+SrLyce: muestra [7s 7d] (trío de sietes)
+koldipk se lleva 3.40 € del bote 
+*** RESUMEN ***
+Bote total 3.55 € | Comisión 0.15 € 
+Comunitarias [Td Qs 7c 8s Jc]
+Asiento 1: koldipk (ciega grande) muestra [Jh Js] y ganó (3.40 €) con trío de jotas
+Asiento 2: David98X se retiró antes del Flop (no apostó)
+Asiento 3: JJer11 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (botón) muestra [7s 7d] y perdió con trío de sietes
+Asiento 6: ScarvBlack (ciega pequeña) se retiró antes del Flop

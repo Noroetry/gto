@@ -1,0 +1,45 @@
+Mano n.º 257238139795 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:31:36 CET [06-08-2025 12:31:36 ET]
+Mesa "Atreus" 6-max El asiento n.º 6 es el botón
+Asiento 1: PrendsCa (2.03 € en fichas) 
+Asiento 2: NRules82 (0.72 € en fichas) 
+Asiento 3: JENOFONTE73 (3.30 € en fichas) 
+Asiento 4: Fharock (1.89 € en fichas) 
+Asiento 5: SrLyce (2.46 € en fichas) 
+Asiento 6: FishamanReggae (0.52 € en fichas) 
+PrendsCa: pone la ciega pequeña 0.01 €
+NRules82: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2c 2h]
+JENOFONTE73: se retira 
+Fharock: sube 0.02 € a 0.04 €
+SrLyce: iguala 0.04 €
+FishamanReggae: iguala 0.04 €
+PrendsCa: se retira 
+NRules82: iguala 0.02 €
+*** FLOP *** [Jh Th 3s]
+NRules82: pasa 
+Fharock: pasa 
+SrLyce: pasa 
+FishamanReggae: apuesta 0.08 €
+NRules82: iguala 0.08 €
+Fharock: se retira 
+SrLyce: se retira 
+*** TURN *** [Jh Th 3s] [4h]
+NRules82: pasa 
+FishamanReggae: pasa 
+*** RIVER *** [Jh Th 3s 4h] [9h]
+NRules82: pasa 
+FishamanReggae: pasa 
+*** SHOW DOWN ***
+NRules82: muestra [Ts Jc] (doble pareja, jotas y dieces)
+FishamanReggae: muestra [3d 3h] (color, carta alta jota)
+FishamanReggae se lleva 0.31 € del bote 
+*** RESUMEN ***
+Bote total 0.33 € | Comisión 0.02 € 
+Comunitarias [Jh Th 3s 4h 9h]
+Asiento 1: PrendsCa (ciega pequeña) se retiró antes del Flop
+Asiento 2: NRules82 (ciega grande) muestra [Ts Jc] y perdió con doble pareja, jotas y dieces
+Asiento 3: JENOFONTE73 se retiró antes del Flop (no apostó)
+Asiento 4: Fharock se retiró en el Flop
+Asiento 5: SrLyce se retiró en el Flop
+Asiento 6: FishamanReggae (botón) muestra [3d 3h] y ganó (0.31 €) con color, carta alta jota

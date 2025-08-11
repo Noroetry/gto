@@ -1,0 +1,46 @@
+Mano n.º 257238036594 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:22:24 CET [06-08-2025 12:22:24 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (2.04 € en fichas) 
+Asiento 2: Davdgoni (5.34 € en fichas) 
+Asiento 3: PerroBestia (0.62 € en fichas) 
+Asiento 4: serviettski(fr) (2.06 € en fichas) 
+Asiento 5: Nicanor Cast (0.74 € en fichas) 
+Asiento 6: THEBLACK972 (2.48 € en fichas) 
+Davdgoni: pone la ciega pequeña 0.01 €
+PerroBestia: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8s Js]
+serviettski(fr): se retira 
+Nicanor Cast: se retira 
+THEBLACK972: iguala 0.02 €
+SrLyce: sube 0.03 € a 0.05 €
+Davdgoni: iguala 0.04 €
+PerroBestia: se retira 
+THEBLACK972: iguala 0.03 €
+*** FLOP *** [3d 5h Jd]
+Davdgoni: pasa 
+THEBLACK972: apuesta 0.12 €
+SrLyce: iguala 0.12 €
+Davdgoni: iguala 0.12 €
+*** TURN *** [3d 5h Jd] [2h]
+Davdgoni: pasa 
+THEBLACK972: apuesta 0.38 €
+SrLyce: iguala 0.38 €
+Davdgoni: se retira 
+*** RIVER *** [3d 5h Jd 2h] [4s]
+THEBLACK972: pasa 
+SrLyce: apuesta 1.21 €
+THEBLACK972: iguala 1.21 €
+*** SHOW DOWN ***
+SrLyce: muestra [8s Js] (pareja de jotas)
+THEBLACK972: muestra [3h 4c] (doble pareja, cuatros y treses)
+THEBLACK972 se lleva 3.49 € del bote 
+*** RESUMEN ***
+Bote total 3.71 € | Comisión 0.22 € 
+Comunitarias [3d 5h Jd 2h 4s]
+Asiento 1: SrLyce (botón) muestra [8s Js] y perdió con pareja de jotas
+Asiento 2: Davdgoni (ciega pequeña) se retiró en el Turn
+Asiento 3: PerroBestia (ciega grande) se retiró antes del Flop
+Asiento 4: serviettski(fr) se retiró antes del Flop (no apostó)
+Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)
+Asiento 6: THEBLACK972 muestra [3h 4c] y ganó (3.49 €) con doble pareja, cuatros y treses

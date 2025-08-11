@@ -1,0 +1,74 @@
+{
+  "hand_id": "257238184202",
+  "date": "06-08-2025 18:35:33",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "As",
+    "6s"
+  ],
+  "stacks": {
+    "SrLyce": 90.0,
+    "Davdgoni": 252.5,
+    "PerroBestia": 43.5,
+    "Nicanor Cast": 53.0,
+    "rayao32": 48.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.80 € en fichas)",
+      "Asiento 2: Davdgoni (5.05 € en fichas)",
+      "Asiento 3: PerroBestia (0.87 € en fichas)",
+      "Asiento 4: serviettski(fr) (2.16 € en fichas)",
+      "Asiento 5: Nicanor Cast (1.06 € en fichas)",
+      "Asiento 6: rayao32 (0.97 € en fichas)",
+      "rayao32: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Davdgoni: se retira",
+      "PerroBestia: se retira",
+      "serviettski(fr): sube 0.04 € a 0.06 €",
+      "Nicanor Cast: se retira",
+      "rayao32: iguala 0.05 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "flop": [
+      "rayao32: pasa",
+      "SrLyce: pasa",
+      "serviettski(fr): pasa"
+    ],
+    "turn": [
+      "rayao32: pasa",
+      "SrLyce: pasa",
+      "serviettski(fr): pasa"
+    ],
+    "river": [
+      "rayao32: pasa",
+      "SrLyce: pasa",
+      "serviettski(fr): pasa",
+      "rayao32: muestra [8s 4h] (pareja de ochos)",
+      "SrLyce: descarta su mano sin mostrar",
+      "serviettski(fr): descarta su mano sin mostrar",
+      "Asiento 1: SrLyce (ciega grande) descartó sin mostrar [As 6s]",
+      "Asiento 2: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 3: PerroBestia se retiró antes del Flop (no apostó)",
+      "Asiento 4: serviettski(fr) descartó sin mostrar [Ah Jd]",
+      "Asiento 5: Nicanor Cast (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: rayao32 (ciega pequeña) muestra [8s 4h] y ganó (0.17 €) con pareja de ochos"
+    ]
+  },
+  "board": [
+    "2h",
+    "8h",
+    "Qs",
+    "9c",
+    "3s"
+  ],
+  "winner": "rayao32",
+  "win_amount": 8.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238184202 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:35:33 CET [06-08-2025 12:35:33 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 5 es el botón\nAsiento 1: SrLyce (1.80 € en fichas) \nAsiento 2: Davdgoni (5.05 € en fichas) \nAsiento 3: PerroBestia (0.87 € en fichas) \nAsiento 4: serviettski(fr) (2.16 € en fichas) \nAsiento 5: Nicanor Cast (1.06 € en fichas) \nAsiento 6: rayao32 (0.97 € en fichas) \nrayao32: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [As 6s]\nDavdgoni: se retira \nPerroBestia: se retira \nserviettski(fr): sube 0.04 € a 0.06 €\nNicanor Cast: se retira \nrayao32: iguala 0.05 €\nSrLyce: iguala 0.04 €\n*** FLOP *** [2h 8h Qs]\nrayao32: pasa \nSrLyce: pasa \nserviettski(fr): pasa \n*** TURN *** [2h 8h Qs] [9c]\nrayao32 ha agotado su tiempo\nrayao32: pasa \nSrLyce: pasa \nserviettski(fr): pasa \n*** RIVER *** [2h 8h Qs 9c] [3s]\nrayao32 ha agotado su tiempo\nrayao32: pasa \nSrLyce: pasa \nserviettski(fr): pasa \n*** SHOW DOWN ***\nrayao32: muestra [8s 4h] (pareja de ochos)\nSrLyce: descarta su mano sin mostrar \nserviettski(fr): descarta su mano sin mostrar \nrayao32 se lleva 0.17 € del bote \n*** RESUMEN ***\nBote total 0.18 € | Comisión 0.01 € \nComunitarias [2h 8h Qs 9c 3s]\nAsiento 1: SrLyce (ciega grande) descartó sin mostrar [As 6s]\nAsiento 2: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 3: PerroBestia se retiró antes del Flop (no apostó)\nAsiento 4: serviettski(fr) descartó sin mostrar [Ah Jd]\nAsiento 5: Nicanor Cast (botón) se retiró antes del Flop (no apostó)\nAsiento 6: rayao32 (ciega pequeña) muestra [8s 4h] y ganó (0.17 €) con pareja de ochos"
+}

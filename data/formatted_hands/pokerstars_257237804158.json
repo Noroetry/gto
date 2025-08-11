@@ -1,0 +1,64 @@
+{
+  "hand_id": "257237804158",
+  "date": "06-08-2025 18:00:47",
+  "table": "Nuwa III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qh",
+    "7s"
+  ],
+  "stacks": {
+    "davinci1962": 118.0,
+    "BuXHexter": 104.5,
+    "kcg_rm": 100.0,
+    "SrLyce": 100.0,
+    "RiskAllinkali": 113.0,
+    "acavada": 106.5
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257237804158 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:00:47 CET [06-08-2025 12:00:47 ET]",
+      "Asiento 1: davinci1962 (2.36 € en fichas)",
+      "Asiento 2: BuXHexter (2.09 € en fichas)",
+      "Asiento 3: kcg_rm (2 € en fichas)",
+      "Asiento 4: SrLyce (2 € en fichas)",
+      "Asiento 5: RiskAllinkali (2.26 € en fichas)",
+      "Asiento 6: acavada (2.13 € en fichas)",
+      "kcg_rm: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "RiskAllinkali: sube 0.04 € a 0.06 €",
+      "acavada: se retira",
+      "davinci1962: se retira",
+      "BuXHexter: se retira",
+      "kcg_rm: se retira",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "RiskAllinkali: apuesta 0.06 €",
+      "SrLyce: se retira",
+      "RiskAllinkali: no muestra su mano",
+      "Asiento 1: davinci1962 se retiró antes del Flop (no apostó)",
+      "Asiento 2: BuXHexter (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: kcg_rm (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: SrLyce (ciega grande) se retiró en el Flop",
+      "Asiento 5: RiskAllinkali recaudó (0.12 €)",
+      "Asiento 6: acavada se retiró antes del Flop (no apostó)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "Jc",
+    "Kh",
+    "8d"
+  ],
+  "winner": "RiskAllinkali",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "﻿Mano n.º 257237804158 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:00:47 CET [06-08-2025 12:00:47 ET]\nMesa \"Nuwa III\" 6-max El asiento n.º 2 es el botón\nAsiento 1: davinci1962 (2.36 € en fichas) \nAsiento 2: BuXHexter (2.09 € en fichas) \nAsiento 3: kcg_rm (2 € en fichas) \nAsiento 4: SrLyce (2 € en fichas) \nAsiento 5: RiskAllinkali (2.26 € en fichas) \nAsiento 6: acavada (2.13 € en fichas) \nkcg_rm: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qh 7s]\nRiskAllinkali: sube 0.04 € a 0.06 €\nacavada: se retira \ndavinci1962: se retira \nBuXHexter: se retira \nkcg_rm: se retira \nSrLyce: iguala 0.04 €\n*** FLOP *** [Jc Kh 8d]\nSrLyce: pasa \nRiskAllinkali: apuesta 0.06 €\nSrLyce: se retira \nLa apuesta no igualada (0.06 €) ha sido devuelta a RiskAllinkali\nRiskAllinkali se lleva 0.12 € del bote \nRiskAllinkali: no muestra su mano \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [Jc Kh 8d]\nAsiento 1: davinci1962 se retiró antes del Flop (no apostó)\nAsiento 2: BuXHexter (botón) se retiró antes del Flop (no apostó)\nAsiento 3: kcg_rm (ciega pequeña) se retiró antes del Flop\nAsiento 4: SrLyce (ciega grande) se retiró en el Flop\nAsiento 5: RiskAllinkali recaudó (0.12 €)\nAsiento 6: acavada se retiró antes del Flop (no apostó)"
+}

@@ -1,0 +1,37 @@
+Mano n.º 257168227085 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:08:14 CET [01-08-2025 5:08:14 ET]
+Mesa "Sekanina" 6-max El asiento n.º 5 es el botón
+Asiento 2: practikal_C23 (1.65 € en fichas) 
+Asiento 3: Alvii37 (1.84 € en fichas) 
+Asiento 4: SrLyce (2.04 € en fichas) 
+Asiento 5: davinci1962 (2.13 € en fichas) 
+Asiento 6: Elministrelas (1.93 € en fichas) 
+Elministrelas: pone la ciega pequeña 0.01 €
+practikal_C23: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7h 7s]
+Alvii37: sube 0.04 € a 0.06 €
+SrLyce: iguala 0.06 €
+davinci1962: se retira 
+DagonBZH56 se une a la mesa en el asiento n.º 1 
+Elministrelas: se retira 
+practikal_C23: se retira 
+*** FLOP *** [Kc 4c 5c]
+Alvii37: pasa 
+SrLyce: pasa 
+*** TURN *** [Kc 4c 5c] [Ts]
+Alvii37: apuesta 0.14 €
+SrLyce: iguala 0.14 €
+*** RIVER *** [Kc 4c 5c Ts] [9s]
+Alvii37: apuesta 0.30 €
+SrLyce: se retira 
+La apuesta no igualada (0.30 €) ha sido devuelta a Alvii37
+Alvii37 se lleva 0.40 € del bote 
+Alvii37: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.43 € | Comisión 0.03 € 
+Comunitarias [Kc 4c 5c Ts 9s]
+Asiento 2: practikal_C23 (ciega grande) se retiró antes del Flop
+Asiento 3: Alvii37 recaudó (0.40 €)
+Asiento 4: SrLyce se retiró en el River
+Asiento 5: davinci1962 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: Elministrelas (ciega pequeña) se retiró antes del Flop

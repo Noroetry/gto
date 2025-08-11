@@ -1,0 +1,29 @@
+Mano n.º 257168282369 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:19:03 CET [01-08-2025 5:19:03 ET]
+Mesa "Atlas" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (1.89 € en fichas) 
+Asiento 2: Fharock (1.84 € en fichas) 
+Asiento 3: ecuinas (1.94 € en fichas) 
+Asiento 4: LxckxStrxkx (2 € en fichas) 
+Asiento 5: erCampos23 (0.84 € en fichas) 
+Asiento 6: Akourdideh (2.33 € en fichas) 
+Akourdideh: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5c 9d]
+Fharock: se retira 
+ecuinas: sube 0.04 € a 0.06 €
+LxckxStrxkx: se retira 
+erCampos23: se retira 
+Akourdideh: se retira 
+SrLyce: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a ecuinas
+ecuinas se lleva 0.05 € del bote 
+ecuinas: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: SrLyce (ciega grande) se retiró antes del Flop
+Asiento 2: Fharock se retiró antes del Flop (no apostó)
+Asiento 3: ecuinas recaudó (0.05 €)
+Asiento 4: LxckxStrxkx se retiró antes del Flop (no apostó)
+Asiento 5: erCampos23 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: Akourdideh (ciega pequeña) se retiró antes del Flop

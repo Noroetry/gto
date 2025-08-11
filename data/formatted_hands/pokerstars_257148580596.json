@@ -1,0 +1,73 @@
+{
+  "hand_id": "257148580596",
+  "date": "30-07-2025 21:29:24",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2h",
+    "5s"
+  ],
+  "stacks": {
+    "MorganKapone": 76.5,
+    "SrLyce": 100.0,
+    "gabriella657": 278.5,
+    "Davdgoni": 100.0,
+    "DiaZzZ1": 108.0,
+    "berlcht403": 40.5
+  },
+  "actions": {
+    "preflop": [
+      "﻿Mano n.º 257148580596 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:29:24 CET [30-07-2025 15:29:24 ET]",
+      "Asiento 1: MorganKapone (1.53 € en fichas)",
+      "Asiento 2: SrLyce (2 € en fichas)",
+      "Asiento 3: gabriella657 (5.57 € en fichas)",
+      "Asiento 4: Davdgoni (2 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2.16 € en fichas)",
+      "Asiento 6: berlcht403 (0.81 € en fichas)",
+      "MorganKapone: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "gabriella657: iguala 0.02 €",
+      "Davdgoni: se retira",
+      "DiaZzZ1: se retira",
+      "berlcht403: se retira",
+      "MorganKapone: sube 0.05 € a 0.07 €",
+      "SrLyce: se retira",
+      "gabriella657: iguala 0.05 €"
+    ],
+    "flop": [
+      "MorganKapone: pasa",
+      "gabriella657: pasa"
+    ],
+    "turn": [
+      "MorganKapone: apuesta 0.08 €",
+      "gabriella657: iguala 0.08 €"
+    ],
+    "river": [
+      "MorganKapone: apuesta 0.15 €",
+      "gabriella657: iguala 0.15 €",
+      "MorganKapone: muestra [Ah Js] (carta alta as)",
+      "gabriella657: muestra [7h Jd] (escalera, de cuatro a ocho)",
+      "Asiento 1: MorganKapone (ciega pequeña) muestra [Ah Js] y perdió con carta alta as",
+      "Asiento 2: SrLyce (ciega grande) se retiró antes del Flop",
+      "Asiento 3: gabriella657 muestra [7h Jd] y ganó (0.58 €) con escalera, de cuatro a ocho",
+      "Asiento 4: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)",
+      "Asiento 6: berlcht403 (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "4d",
+    "8h",
+    "3h",
+    "5h",
+    "6d"
+  ],
+  "winner": "gabriella657",
+  "win_amount": 29.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "﻿Mano n.º 257148580596 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:29:24 CET [30-07-2025 15:29:24 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 6 es el botón\nAsiento 1: MorganKapone (1.53 € en fichas) \nAsiento 2: SrLyce (2 € en fichas) \nAsiento 3: gabriella657 (5.57 € en fichas) \nAsiento 4: Davdgoni (2 € en fichas) \nAsiento 5: DiaZzZ1 (2.16 € en fichas) \nAsiento 6: berlcht403 (0.81 € en fichas) \nMorganKapone: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2h 5s]\ngabriella657: iguala 0.02 €\nDavdgoni: se retira \nDiaZzZ1: se retira \nberlcht403: se retira \nMorganKapone: sube 0.05 € a 0.07 €\nSrLyce: se retira \ngabriella657: iguala 0.05 €\n*** FLOP *** [4d 8h 3h]\nMorganKapone: pasa \ngabriella657: pasa \n*** TURN *** [4d 8h 3h] [5h]\nMorganKapone: apuesta 0.08 €\ngabriella657: iguala 0.08 €\n*** RIVER *** [4d 8h 3h 5h] [6d]\nMorganKapone: apuesta 0.15 €\ngabriella657: iguala 0.15 €\n*** SHOW DOWN ***\nMorganKapone: muestra [Ah Js] (carta alta as)\ngabriella657: muestra [7h Jd] (escalera, de cuatro a ocho)\ngabriella657 se lleva 0.58 € del bote \n*** RESUMEN ***\nBote total 0.62 € | Comisión 0.04 € \nComunitarias [4d 8h 3h 5h 6d]\nAsiento 1: MorganKapone (ciega pequeña) muestra [Ah Js] y perdió con carta alta as\nAsiento 2: SrLyce (ciega grande) se retiró antes del Flop\nAsiento 3: gabriella657 muestra [7h Jd] y ganó (0.58 €) con escalera, de cuatro a ocho\nAsiento 4: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 5: DiaZzZ1 se retiró antes del Flop (no apostó)\nAsiento 6: berlcht403 (botón) se retiró antes del Flop (no apostó)"
+}

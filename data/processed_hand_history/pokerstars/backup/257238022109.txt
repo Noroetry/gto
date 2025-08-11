@@ -1,0 +1,44 @@
+Mano n.º 257238022109 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:21:06 CET [06-08-2025 12:21:06 ET]
+Mesa "Euneus III" 6-max El asiento n.º 4 es el botón
+Asiento 1: christgear (2 € en fichas) 
+Asiento 2: Il_BM00 (2.39 € en fichas) 
+Asiento 3: djrojas9 (2.81 € en fichas) 
+Asiento 4: lol-in 2000 (1.92 € en fichas) 
+Asiento 5: SrLyce (2.67 € en fichas) 
+Asiento 6: kcg_rm (2.18 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+kcg_rm: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qh 2c]
+christgear: se retira 
+Il_BM00: sube 0.04 € a 0.06 €
+djrojas9: se retira 
+lol-in 2000: iguala 0.06 €
+SrLyce: se retira 
+kcg_rm: se retira 
+*** FLOP *** [6c 6d Jc]
+Il_BM00: apuesta 0.07 €
+lol-in 2000: iguala 0.07 €
+*** TURN *** [6c 6d Jc] [Jd]
+Il_BM00: pasa 
+lol-in 2000: pasa 
+*** RIVER *** [6c 6d Jc Jd] [6h]
+Il_BM00: pasa 
+lol-in 2000: apuesta 0.20 €
+Il_BM00 no tiene conexión 
+Il_BM00 tiene conexión 
+Il_BM00: iguala 0.20 €
+*** SHOW DOWN ***
+lol-in 2000: muestra [5d 8d] (full de seises y jotas)
+Il_BM00: muestra [Qs 9s] (full de seises y jotas)
+Il_BM00 se lleva 0.33 € del bote 
+lol-in 2000 se lleva 0.32 € del bote 
+*** RESUMEN ***
+Bote total 0.69 € | Comisión 0.04 € 
+Comunitarias [6c 6d Jc Jd 6h]
+Asiento 1: christgear se retiró antes del Flop (no apostó)
+Asiento 2: Il_BM00 muestra [Qs 9s] y ganó (0.33 €) con full de seises y jotas
+Asiento 3: djrojas9 se retiró antes del Flop (no apostó)
+Asiento 4: lol-in 2000 (botón) muestra [5d 8d] y ganó (0.32 €) con full de seises y jotas
+Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 6: kcg_rm (ciega grande) se retiró antes del Flop

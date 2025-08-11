@@ -1,0 +1,46 @@
+Mano n.º 257237567573 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:36:45 CET [06-08-2025 11:36:45 ET]
+Mesa "Themisto III" 6-max El asiento n.º 2 es el botón
+Asiento 1: elso253 (1.34 € en fichas) 
+Asiento 2: SrLyce (2.29 € en fichas) 
+Asiento 3: idigon (0.39 € en fichas) 
+Asiento 4: fred2d23po (1.67 € en fichas) 
+Asiento 5: mivipkr (2.48 € en fichas) 
+Asiento 6: marignamo (1.81 € en fichas) 
+idigon: pone la ciega pequeña 0.01 €
+fred2d23po: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3c Js]
+mivipkr: se retira 
+marignamo: se retira 
+elso253: sube 0.03 € a 0.05 €
+SrLyce: se retira 
+idigon: iguala 0.04 €
+fred2d23po: iguala 0.03 €
+*** FLOP *** [Kh 2s Ts]
+idigon: pasa 
+fred2d23po: pasa 
+elso253: pasa 
+*** TURN *** [Kh 2s Ts] [3h]
+idigon: pasa 
+fred2d23po: pasa 
+elso253: apuesta 0.07 €
+idigon: iguala 0.07 €
+fred2d23po: iguala 0.07 €
+*** RIVER *** [Kh 2s Ts 3h] [9h]
+idigon: pasa 
+fred2d23po: pasa 
+elso253: apuesta 0.26 €
+idigon: se retira 
+fred2d23po: se retira 
+La apuesta no igualada (0.26 €) ha sido devuelta a elso253
+elso253 se lleva 0.34 € del bote 
+elso253: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.36 € | Comisión 0.02 € 
+Comunitarias [Kh 2s Ts 3h 9h]
+Asiento 1: elso253 recaudó (0.34 €)
+Asiento 2: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 3: idigon (ciega pequeña) se retiró en el River
+Asiento 4: fred2d23po (ciega grande) se retiró en el River
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: marignamo se retiró antes del Flop (no apostó)

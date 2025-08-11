@@ -1,0 +1,59 @@
+{
+  "hand_id": "257148573167",
+  "date": "30-07-2025 21:28:52",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4d",
+    "3s"
+  ],
+  "stacks": {
+    "SrLyce": 93.0,
+    "christoph363": 181.5,
+    "oliverdu70": 100.0,
+    "varvase": 194.5,
+    "Dakoo44": 50.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.86 € en fichas)",
+      "Asiento 3: christoph363 (3.63 € en fichas)",
+      "Asiento 4: oliverdu70 (2 € en fichas)",
+      "Asiento 5: varvase (3.89 € en fichas)",
+      "Asiento 6: Dakoo44 (1.01 € en fichas)",
+      "christoph363: pone la ciega pequeña 0.01 €",
+      "oliverdu70: pone la ciega grande 0.02 €",
+      "varvase: sube 0.02 € a 0.04 €",
+      "Dakoo44: se retira",
+      "SrLyce: se retira",
+      "christoph363: se retira",
+      "oliverdu70: iguala 0.02 €"
+    ],
+    "flop": [
+      "oliverdu70: pasa",
+      "varvase: apuesta 0.06 €",
+      "oliverdu70: se retira",
+      "varvase: no muestra su mano",
+      "Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: oliverdu70 (ciega grande) se retiró en el Flop",
+      "Asiento 5: varvase recaudó (0.08 €)",
+      "Asiento 6: Dakoo44 se retiró antes del Flop (no apostó)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "3d",
+    "4c",
+    "5c"
+  ],
+  "winner": "varvase",
+  "win_amount": 4.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257148573167 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:28:52 CET [30-07-2025 15:28:52 ET]\nMesa \"Sirona\" 6-max El asiento n.º 1 es el botón\nAsiento 1: SrLyce (1.86 € en fichas) \nAsiento 3: christoph363 (3.63 € en fichas) \nAsiento 4: oliverdu70 (2 € en fichas) \nAsiento 5: varvase (3.89 € en fichas) \nAsiento 6: Dakoo44 (1.01 € en fichas) \nchristoph363: pone la ciega pequeña 0.01 €\noliverdu70: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4d 3s]\nvarvase: sube 0.02 € a 0.04 €\nDakoo44: se retira \nSrLyce: se retira \nchristoph363: se retira \noliverdu70: iguala 0.02 €\n*** FLOP *** [3d 4c 5c]\nlecontrebandier se une a la mesa en el asiento n.º 2 \noliverdu70: pasa \nvarvase: apuesta 0.06 €\noliverdu70: se retira \nLa apuesta no igualada (0.06 €) ha sido devuelta a varvase\nvarvase se lleva 0.08 € del bote \nvarvase: no muestra su mano \n*** RESUMEN ***\nBote total 0.09 € | Comisión 0.01 € \nComunitarias [3d 4c 5c]\nAsiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 (ciega pequeña) se retiró antes del Flop\nAsiento 4: oliverdu70 (ciega grande) se retiró en el Flop\nAsiento 5: varvase recaudó (0.08 €)\nAsiento 6: Dakoo44 se retiró antes del Flop (no apostó)"
+}

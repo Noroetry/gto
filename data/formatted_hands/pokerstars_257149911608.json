@@ -1,0 +1,70 @@
+{
+  "hand_id": "257149911608",
+  "date": "30-07-2025 23:05:22",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ts",
+    "9h"
+  ],
+  "stacks": {
+    "riverrrrrrmagic": 110.0,
+    "SrLyce": 123.0,
+    "Jumby34": 100.0,
+    "cbo54": 81.0,
+    "Fretzo67500": 117.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: riverrrrrrmagic (2.20 € en fichas)",
+      "Asiento 2: SrLyce (2.46 € en fichas)",
+      "Asiento 3: Jumby34 (2 € en fichas)",
+      "Asiento 5: cbo54 (1.62 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.34 € en fichas)",
+      "Jumby34: pone la ciega pequeña 0.01 €",
+      "cbo54: pone la ciega grande 0.02 €",
+      "Fretzo67500: se retira",
+      "riverrrrrrmagic: sube 0.02 € a 0.04 €",
+      "SrLyce: iguala 0.04 €",
+      "Jumby34: se retira",
+      "cbo54: iguala 0.02 €"
+    ],
+    "flop": [
+      "cbo54: apuesta 0.02 €",
+      "riverrrrrrmagic: iguala 0.02 €",
+      "SrLyce: iguala 0.02 €"
+    ],
+    "turn": [
+      "cbo54: apuesta 0.04 €",
+      "riverrrrrrmagic: iguala 0.04 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "river": [
+      "cbo54: apuesta 0.02 €",
+      "riverrrrrrmagic: iguala 0.02 €",
+      "SrLyce: se retira",
+      "cbo54: muestra [Ac 8h] (carta alta as)",
+      "riverrrrrrmagic: muestra [6h Jh] (doble pareja, jotas y seises)",
+      "Asiento 1: riverrrrrrmagic muestra [6h Jh] y ganó (0.33 €) con doble pareja, jotas y seises",
+      "Asiento 2: SrLyce (botón) se retiró en el River",
+      "Asiento 3: Jumby34 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: cbo54 (ciega grande) muestra [Ac 8h] y perdió con carta alta as",
+      "Asiento 6: Fretzo67500 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Jd",
+    "Ks",
+    "9c",
+    "6c",
+    "2d"
+  ],
+  "winner": "riverrrrrrmagic",
+  "win_amount": 16.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257149911608 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:05:22 CET [30-07-2025 17:05:22 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 2 es el botón\nAsiento 1: riverrrrrrmagic (2.20 € en fichas) \nAsiento 2: SrLyce (2.46 € en fichas) \nAsiento 3: Jumby34 (2 € en fichas) \nAsiento 5: cbo54 (1.62 € en fichas) \nAsiento 6: Fretzo67500 (2.34 € en fichas) \nJumby34: pone la ciega pequeña 0.01 €\ncbo54: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ts 9h]\nSiveSinouts se une a la mesa en el asiento n.º 4 \nFretzo67500: se retira \nriverrrrrrmagic: sube 0.02 € a 0.04 €\nSrLyce: iguala 0.04 €\nJumby34: se retira \ncbo54: iguala 0.02 €\n*** FLOP *** [Jd Ks 9c]\nSiveSinouts deja la mesa\ncbo54: apuesta 0.02 €\nriverrrrrrmagic: iguala 0.02 €\nSrLyce: iguala 0.02 €\n*** TURN *** [Jd Ks 9c] [6c]\ncbo54: apuesta 0.04 €\nriverrrrrrmagic: iguala 0.04 €\nSrLyce: iguala 0.04 €\n*** RIVER *** [Jd Ks 9c 6c] [2d]\ncbo54: apuesta 0.02 €\nriverrrrrrmagic: iguala 0.02 €\nSrLyce: se retira \n*** SHOW DOWN ***\ncbo54: muestra [Ac 8h] (carta alta as)\nriverrrrrrmagic: muestra [6h Jh] (doble pareja, jotas y seises)\nriverrrrrrmagic se lleva 0.33 € del bote \n*** RESUMEN ***\nBote total 0.35 € | Comisión 0.02 € \nComunitarias [Jd Ks 9c 6c 2d]\nAsiento 1: riverrrrrrmagic muestra [6h Jh] y ganó (0.33 €) con doble pareja, jotas y seises\nAsiento 2: SrLyce (botón) se retiró en el River\nAsiento 3: Jumby34 (ciega pequeña) se retiró antes del Flop\nAsiento 5: cbo54 (ciega grande) muestra [Ac 8h] y perdió con carta alta as\nAsiento 6: Fretzo67500 se retiró antes del Flop (no apostó)"
+}

@@ -1,0 +1,77 @@
+{
+  "hand_id": "257238328616",
+  "date": "06-08-2025 18:48:16",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6d",
+    "8h"
+  ],
+  "stacks": {
+    "koldipk": 74.5,
+    "David98X": 109.5,
+    "JJer11": 196.5,
+    "SrLyce": 93.0,
+    "El Calvo 65": 226.0,
+    "ScarvBlack": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: koldipk (1.49 € en fichas)",
+      "Asiento 2: David98X (2.19 € en fichas)",
+      "Asiento 3: JJer11 (3.93 € en fichas)",
+      "Asiento 4: SrLyce (1.86 € en fichas)",
+      "Asiento 5: El Calvo 65 (4.52 € en fichas)",
+      "Asiento 6: ScarvBlack (2 € en fichas)",
+      "ScarvBlack: pone la ciega pequeña 0.01 €",
+      "koldipk: pone la ciega grande 0.02 €",
+      "David98X: se retira",
+      "JJer11: se retira",
+      "SrLyce: se retira",
+      "El Calvo 65: iguala 0.02 €",
+      "ScarvBlack: iguala 0.01 €",
+      "koldipk: sube 0.04 € a 0.06 €",
+      "El Calvo 65: iguala 0.04 €",
+      "ScarvBlack: iguala 0.04 €"
+    ],
+    "flop": [
+      "ScarvBlack: pasa",
+      "koldipk: pasa",
+      "El Calvo 65: apuesta 0.17 €",
+      "ScarvBlack: se retira",
+      "koldipk: iguala 0.17 €"
+    ],
+    "turn": [
+      "koldipk: pasa",
+      "El Calvo 65: apuesta 0.34 €",
+      "koldipk: iguala 0.34 €"
+    ],
+    "river": [
+      "koldipk: pasa",
+      "El Calvo 65: pasa",
+      "koldipk: muestra [8c 9c] (carta alta as)",
+      "El Calvo 65: descarta su mano sin mostrar",
+      "Asiento 1: koldipk (ciega grande) muestra [8c 9c] y ganó (1.13 €) con carta alta as",
+      "Asiento 2: David98X se retiró antes del Flop (no apostó)",
+      "Asiento 3: JJer11 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: El Calvo 65 (botón) descartó sin mostrar [5h 7s]",
+      "Asiento 6: ScarvBlack (ciega pequeña) se retiró en el Flop"
+    ]
+  },
+  "board": [
+    "Kc",
+    "6c",
+    "4d",
+    "Ah",
+    "Td"
+  ],
+  "winner": "koldipk",
+  "win_amount": 56.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 3.5,
+  "raw_text": "Mano n.º 257238328616 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:48:16 CET [06-08-2025 12:48:16 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 5 es el botón\nAsiento 1: koldipk (1.49 € en fichas) \nAsiento 2: David98X (2.19 € en fichas) \nAsiento 3: JJer11 (3.93 € en fichas) \nAsiento 4: SrLyce (1.86 € en fichas) \nAsiento 5: El Calvo 65 (4.52 € en fichas) \nAsiento 6: ScarvBlack (2 € en fichas) \nScarvBlack: pone la ciega pequeña 0.01 €\nkoldipk: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6d 8h]\nDavid98X: se retira \nJJer11: se retira \nSrLyce: se retira \nEl Calvo 65: iguala 0.02 €\nScarvBlack: iguala 0.01 €\nkoldipk: sube 0.04 € a 0.06 €\nEl Calvo 65: iguala 0.04 €\nScarvBlack: iguala 0.04 €\n*** FLOP *** [Kc 6c 4d]\nScarvBlack: pasa \nkoldipk: pasa \nEl Calvo 65: apuesta 0.17 €\nScarvBlack: se retira \nkoldipk: iguala 0.17 €\n*** TURN *** [Kc 6c 4d] [Ah]\nkoldipk: pasa \nEl Calvo 65: apuesta 0.34 €\nkoldipk: iguala 0.34 €\n*** RIVER *** [Kc 6c 4d Ah] [Td]\nkoldipk: pasa \nEl Calvo 65: pasa \n*** SHOW DOWN ***\nkoldipk: muestra [8c 9c] (carta alta as)\nEl Calvo 65: descarta su mano sin mostrar \nkoldipk se lleva 1.13 € del bote \n*** RESUMEN ***\nBote total 1.20 € | Comisión 0.07 € \nComunitarias [Kc 6c 4d Ah Td]\nAsiento 1: koldipk (ciega grande) muestra [8c 9c] y ganó (1.13 €) con carta alta as\nAsiento 2: David98X se retiró antes del Flop (no apostó)\nAsiento 3: JJer11 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: El Calvo 65 (botón) descartó sin mostrar [5h 7s]\nAsiento 6: ScarvBlack (ciega pequeña) se retiró en el Flop"
+}

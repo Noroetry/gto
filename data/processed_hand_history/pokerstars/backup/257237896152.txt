@@ -1,0 +1,40 @@
+Mano n.º 257237896152 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:09:43 CET [06-08-2025 12:09:43 ET]
+Mesa "Euneus III" 6-max El asiento n.º 1 es el botón
+Asiento 1: christgear (2.07 € en fichas) 
+Asiento 2: Il_BM00 (1.97 € en fichas) 
+Asiento 3: djrojas9 (3.09 € en fichas) 
+Asiento 4: JGDOBLAS (1.92 € en fichas) 
+Asiento 5: SrLyce (2.20 € en fichas) 
+Asiento 6: Begoton (2 € en fichas) 
+Il_BM00: pone la ciega pequeña 0.01 €
+djrojas9: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4d 9c]
+JGDOBLAS: se retira 
+SrLyce: se retira 
+Begoton: se retira 
+christgear: se retira 
+Il_BM00: iguala 0.01 €
+djrojas9: pasa 
+*** FLOP *** [6h 8h Ks]
+Il_BM00: pasa 
+djrojas9: pasa 
+*** TURN *** [6h 8h Ks] [6d]
+Il_BM00: pasa 
+djrojas9: pasa 
+*** RIVER *** [6h 8h Ks 6d] [Td]
+Il_BM00: pasa 
+djrojas9: pasa 
+*** SHOW DOWN ***
+Il_BM00: muestra [Jc 5d] (pareja de seises)
+djrojas9: descarta su mano sin mostrar 
+Il_BM00 se lleva 0.04 € del bote 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Comunitarias [6h 8h Ks 6d Td]
+Asiento 1: christgear (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Il_BM00 (ciega pequeña) muestra [Jc 5d] y ganó (0.04 €) con pareja de seises
+Asiento 3: djrojas9 (ciega grande) descartó sin mostrar [9h 2d]
+Asiento 4: JGDOBLAS se retiró antes del Flop (no apostó)
+Asiento 5: SrLyce se retiró antes del Flop (no apostó)
+Asiento 6: Begoton se retiró antes del Flop (no apostó)

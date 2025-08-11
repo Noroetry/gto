@@ -1,0 +1,39 @@
+Mano n.º 257238349012 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:50:04 CET [06-08-2025 12:50:04 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (2 € en fichas) 
+Asiento 2: Davdgoni (5.68 € en fichas) 
+Asiento 3: tatinette35 (2 € en fichas) 
+Asiento 4: serviettski(fr) (2 € en fichas) 
+Asiento 5: Nicanor Cast (1.11 € en fichas) 
+Asiento 6: rayao32 (0.92 € en fichas) 
+Davdgoni: pone la ciega pequeña 0.01 €
+tatinette35: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2h Ac]
+serviettski(fr): se retira 
+Nicanor Cast: se retira 
+rayao32: iguala 0.02 €
+SrLyce: se retira 
+Davdgoni: se retira 
+tatinette35: pasa 
+*** FLOP *** [4s 2s Js]
+tatinette35: pasa 
+rayao32: pasa 
+*** TURN *** [4s 2s Js] [Kc]
+tatinette35: pasa 
+rayao32: pasa 
+*** RIVER *** [4s 2s Js Kc] [Th]
+tatinette35: pasa 
+rayao32: apuesta 0.08 €
+tatinette35: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a rayao32
+rayao32 se lleva 0.05 € del bote 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Comunitarias [4s 2s Js Kc Th]
+Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Davdgoni (ciega pequeña) se retiró antes del Flop
+Asiento 3: tatinette35 (ciega grande) se retiró en el River
+Asiento 4: serviettski(fr) se retiró antes del Flop (no apostó)
+Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)
+Asiento 6: rayao32 recaudó (0.05 €)

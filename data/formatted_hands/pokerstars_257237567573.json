@@ -1,0 +1,77 @@
+{
+  "hand_id": "257237567573",
+  "date": "06-08-2025 17:36:45",
+  "table": "Themisto III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3c",
+    "Js"
+  ],
+  "stacks": {
+    "elso253": 67.0,
+    "SrLyce": 114.5,
+    "idigon": 19.5,
+    "fred2d23po": 83.5,
+    "mivipkr": 124.0,
+    "marignamo": 90.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: elso253 (1.34 € en fichas)",
+      "Asiento 2: SrLyce (2.29 € en fichas)",
+      "Asiento 3: idigon (0.39 € en fichas)",
+      "Asiento 4: fred2d23po (1.67 € en fichas)",
+      "Asiento 5: mivipkr (2.48 € en fichas)",
+      "Asiento 6: marignamo (1.81 € en fichas)",
+      "idigon: pone la ciega pequeña 0.01 €",
+      "fred2d23po: pone la ciega grande 0.02 €",
+      "mivipkr: se retira",
+      "marignamo: se retira",
+      "elso253: sube 0.03 € a 0.05 €",
+      "SrLyce: se retira",
+      "idigon: iguala 0.04 €",
+      "fred2d23po: iguala 0.03 €"
+    ],
+    "flop": [
+      "idigon: pasa",
+      "fred2d23po: pasa",
+      "elso253: pasa"
+    ],
+    "turn": [
+      "idigon: pasa",
+      "fred2d23po: pasa",
+      "elso253: apuesta 0.07 €",
+      "idigon: iguala 0.07 €",
+      "fred2d23po: iguala 0.07 €"
+    ],
+    "river": [
+      "idigon: pasa",
+      "fred2d23po: pasa",
+      "elso253: apuesta 0.26 €",
+      "idigon: se retira",
+      "fred2d23po: se retira",
+      "elso253: no muestra su mano",
+      "Asiento 1: elso253 recaudó (0.34 €)",
+      "Asiento 2: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: idigon (ciega pequeña) se retiró en el River",
+      "Asiento 4: fred2d23po (ciega grande) se retiró en el River",
+      "Asiento 5: mivipkr se retiró antes del Flop (no apostó)",
+      "Asiento 6: marignamo se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Kh",
+    "2s",
+    "Ts",
+    "3h",
+    "9h"
+  ],
+  "winner": "elso253",
+  "win_amount": 17.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257237567573 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:36:45 CET [06-08-2025 11:36:45 ET]\nMesa \"Themisto III\" 6-max El asiento n.º 2 es el botón\nAsiento 1: elso253 (1.34 € en fichas) \nAsiento 2: SrLyce (2.29 € en fichas) \nAsiento 3: idigon (0.39 € en fichas) \nAsiento 4: fred2d23po (1.67 € en fichas) \nAsiento 5: mivipkr (2.48 € en fichas) \nAsiento 6: marignamo (1.81 € en fichas) \nidigon: pone la ciega pequeña 0.01 €\nfred2d23po: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3c Js]\nmivipkr: se retira \nmarignamo: se retira \nelso253: sube 0.03 € a 0.05 €\nSrLyce: se retira \nidigon: iguala 0.04 €\nfred2d23po: iguala 0.03 €\n*** FLOP *** [Kh 2s Ts]\nidigon: pasa \nfred2d23po: pasa \nelso253: pasa \n*** TURN *** [Kh 2s Ts] [3h]\nidigon: pasa \nfred2d23po: pasa \nelso253: apuesta 0.07 €\nidigon: iguala 0.07 €\nfred2d23po: iguala 0.07 €\n*** RIVER *** [Kh 2s Ts 3h] [9h]\nidigon: pasa \nfred2d23po: pasa \nelso253: apuesta 0.26 €\nidigon: se retira \nfred2d23po: se retira \nLa apuesta no igualada (0.26 €) ha sido devuelta a elso253\nelso253 se lleva 0.34 € del bote \nelso253: no muestra su mano \n*** RESUMEN ***\nBote total 0.36 € | Comisión 0.02 € \nComunitarias [Kh 2s Ts 3h 9h]\nAsiento 1: elso253 recaudó (0.34 €)\nAsiento 2: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 3: idigon (ciega pequeña) se retiró en el River\nAsiento 4: fred2d23po (ciega grande) se retiró en el River\nAsiento 5: mivipkr se retiró antes del Flop (no apostó)\nAsiento 6: marignamo se retiró antes del Flop (no apostó)"
+}

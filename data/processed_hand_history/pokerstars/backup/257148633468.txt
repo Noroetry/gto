@@ -1,0 +1,40 @@
+Mano n.º 257148633468 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:33:08 CET [30-07-2025 15:33:08 ET]
+Mesa "Esclangona" 6-max El asiento n.º 5 es el botón
+Asiento 3: gabriella657 (5.70 € en fichas) está ausente
+Asiento 1: Zorgue1080 (2 € en fichas) 
+Asiento 2: SrLyce (1.91 € en fichas) 
+Asiento 4: Davdgoni (3.36 € en fichas) 
+Asiento 5: DiaZzZ1 (2 € en fichas) 
+Asiento 6: berlcht403 (0.87 € en fichas) 
+berlcht403: pone la ciega pequeña 0.01 €
+Zorgue1080: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9h Qd]
+SrLyce: se retira 
+Davdgoni: se retira 
+DiaZzZ1: sube 0.03 € a 0.05 €
+berlcht403: se retira 
+Zorgue1080: iguala 0.03 €
+*** FLOP *** [Kh Kc 6s]
+Zorgue1080: pasa 
+DiaZzZ1: apuesta 0.03 €
+Zorgue1080: iguala 0.03 €
+*** TURN *** [Kh Kc 6s] [Ks]
+Zorgue1080: pasa 
+DiaZzZ1: pasa 
+*** RIVER *** [Kh Kc 6s Ks] [8c]
+Zorgue1080: pasa 
+DiaZzZ1: pasa 
+*** SHOW DOWN ***
+Zorgue1080: muestra [2h 3h] (trío de reyes)
+DiaZzZ1: muestra [9c Ac] (trío de reyes - as kicker)
+DiaZzZ1 se lleva 0.16 € del bote 
+*** RESUMEN ***
+Bote total 0.17 € | Comisión 0.01 € 
+Comunitarias [Kh Kc 6s Ks 8c]
+Asiento 3: gabriella657
+Asiento 1: Zorgue1080 (ciega grande) muestra [2h 3h] y perdió con trío de reyes
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 4: Davdgoni se retiró antes del Flop (no apostó)
+Asiento 5: DiaZzZ1 (botón) muestra [9c Ac] y ganó (0.16 €) con trío de reyes
+Asiento 6: berlcht403 (ciega pequeña) se retiró antes del Flop

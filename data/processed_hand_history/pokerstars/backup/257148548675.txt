@@ -1,0 +1,38 @@
+﻿Mano n.º 257148548675 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:27:07 CET [30-07-2025 15:27:07 ET]
+Mesa "Sirona" 6-max El asiento n.º 5 es el botón
+Asiento 1: SrLyce (2 € en fichas) 
+Asiento 3: christoph363 (3.65 € en fichas) 
+Asiento 5: varvase (4.01 € en fichas) 
+Asiento 6: Dakoo44 (0.78 € en fichas) 
+Dakoo44: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kh 7c]
+christoph363: se retira 
+varvase: se retira 
+Alfi11111 se une a la mesa en el asiento n.º 2 
+Lyya79 se une a la mesa en el asiento n.º 4 
+Dakoo44: sube 0.04 € a 0.06 €
+SrLyce: iguala 0.04 €
+*** FLOP *** [As Ad Qs]
+Dakoo44: pasa 
+SrLyce: pasa 
+*** TURN *** [As Ad Qs] [Qh]
+Lyya79 deja la mesa
+Dakoo44: pasa 
+SrLyce: apuesta 0.04 €
+Dakoo44: iguala 0.04 €
+*** RIVER *** [As Ad Qs Qh] [5c]
+Dakoo44: apuesta 0.16 €
+SrLyce: iguala 0.16 €
+*** SHOW DOWN ***
+Dakoo44: muestra [3c Ah] (full de ases y damas)
+SrLyce: descarta su mano sin mostrar 
+Dakoo44 se lleva 0.49 € del bote 
+*** RESUMEN ***
+Bote total 0.52 € | Comisión 0.03 € 
+Comunitarias [As Ad Qs Qh 5c]
+Asiento 1: SrLyce (ciega grande) descartó sin mostrar [Kh 7c]
+Asiento 3: christoph363 se retiró antes del Flop (no apostó)
+Asiento 5: varvase (botón) se retiró antes del Flop (no apostó)
+Asiento 6: Dakoo44 (ciega pequeña) muestra [3c Ah] y ganó (0.49 €) con full de ases y damas

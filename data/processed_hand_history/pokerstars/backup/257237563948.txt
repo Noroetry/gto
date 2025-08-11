@@ -1,0 +1,30 @@
+Mano n.º 257237563948 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:36:24 CET [06-08-2025 11:36:24 ET]
+Mesa "Vanadis II" 6-max El asiento n.º 3 es el botón
+Asiento 1: SrLyce (1.94 € en fichas) 
+Asiento 2: djrojas9 (1.97 € en fichas) 
+Asiento 3: noreihh (3.45 € en fichas) 
+Asiento 4: chordewman (2.21 € en fichas) 
+Asiento 5: sarabiagar (1.96 € en fichas) 
+Asiento 6: idigon (2.97 € en fichas) 
+chordewman: pone la ciega pequeña 0.01 €
+sarabiagar: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ah Qh]
+idigon: sube 0.02 € a 0.04 €
+SrLyce: sube 0.08 € a 0.12 €
+djrojas9: se retira 
+noreihh: se retira 
+chordewman: se retira 
+sarabiagar: se retira 
+idigon: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.11 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.11 € | Comisión 0 € 
+Asiento 1: SrLyce recaudó (0.11 €)
+Asiento 2: djrojas9 se retiró antes del Flop (no apostó)
+Asiento 3: noreihh (botón) se retiró antes del Flop (no apostó)
+Asiento 4: chordewman (ciega pequeña) se retiró antes del Flop
+Asiento 5: sarabiagar (ciega grande) se retiró antes del Flop
+Asiento 6: idigon se retiró antes del Flop

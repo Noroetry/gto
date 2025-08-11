@@ -1,0 +1,45 @@
+Mano n.º 257237608783 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:40:46 CET [06-08-2025 11:40:46 ET]
+Mesa "Kale III" 6-max El asiento n.º 6 es el botón
+Asiento 1: x__Nest__x (1.84 € en fichas) 
+Asiento 2: SrLyce (2.42 € en fichas) 
+Asiento 3: Dracoline000 (2.16 € en fichas) 
+Asiento 4: jeffounet33 (1.98 € en fichas) 
+Asiento 5: Begoton (2.02 € en fichas) 
+Asiento 6: juanmemol (2.05 € en fichas) 
+x__Nest__x: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8d 9d]
+Dracoline000 ha agotado su tiempo
+Dracoline000: se retira 
+jeffounet33: iguala 0.02 €
+Begoton: se retira 
+juanmemol: se retira 
+x__Nest__x: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [Kh 3c Jh]
+x__Nest__x: pasa 
+SrLyce: pasa 
+jeffounet33: pasa 
+*** TURN *** [Kh 3c Jh] [Jc]
+x__Nest__x: pasa 
+SrLyce: pasa 
+jeffounet33: pasa 
+*** RIVER *** [Kh 3c Jh Jc] [Kd]
+x__Nest__x: pasa 
+SrLyce: pasa 
+jeffounet33: pasa 
+*** SHOW DOWN ***
+x__Nest__x: muestra [Qd 8c] (doble pareja, reyes y jotas)
+SrLyce: descarta su mano sin mostrar 
+jeffounet33: descarta su mano sin mostrar 
+x__Nest__x se lleva 0.06 € del bote 
+*** RESUMEN ***
+Bote total 0.06 € | Comisión 0 € 
+Comunitarias [Kh 3c Jh Jc Kd]
+Asiento 1: x__Nest__x (ciega pequeña) muestra [Qd 8c] y ganó (0.06 €) con doble pareja, reyes y jotas
+Asiento 2: SrLyce (ciega grande) descartó sin mostrar [8d 9d]
+Asiento 3: Dracoline000 se retiró antes del Flop (no apostó)
+Asiento 4: jeffounet33 descartó sin mostrar [7c 5c]
+Asiento 5: Begoton se retiró antes del Flop (no apostó)
+Asiento 6: juanmemol (botón) se retiró antes del Flop (no apostó)

@@ -1,0 +1,30 @@
+Mano n.º 257215069177 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:22:26 CET [04-08-2025 16:22:26 ET]
+Mesa "Anneliese II" 6-max El asiento n.º 6 es el botón
+Asiento 1: betterrrrrr (2 € en fichas) 
+Asiento 2: piropanzer (1.10 € en fichas) 
+Asiento 3: ElManu62 (2.32 € en fichas) 
+Asiento 4: SrLyce (1.97 € en fichas) 
+Asiento 5: Mr_Pkr98 (2.75 € en fichas) 
+Asiento 6: Spotick (2.27 € en fichas) 
+betterrrrrr: pone la ciega pequeña 0.01 €
+piropanzer: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kc 8d]
+ElManu62: se retira 
+SrLyce ha agotado su tiempo
+SrLyce: se retira 
+Mr_Pkr98: se retira 
+Spotick: se retira 
+betterrrrrr: sube 0.16 € a 0.18 €
+piropanzer: se retira 
+La apuesta no igualada (0.16 €) ha sido devuelta a betterrrrrr
+betterrrrrr se lleva 0.04 € del bote 
+betterrrrrr: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: betterrrrrr (ciega pequeña) recaudó (0.04 €)
+Asiento 2: piropanzer (ciega grande) se retiró antes del Flop
+Asiento 3: ElManu62 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)
+Asiento 6: Spotick (botón) se retiró antes del Flop (no apostó)

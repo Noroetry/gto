@@ -1,0 +1,44 @@
+Mano n.º 257238413830 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:55:58 CET [06-08-2025 12:55:58 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 6 es el botón
+Asiento 3: Macklemore0 (2 € en fichas) está ausente
+Asiento 1: N3xtTIm35 (2.74 € en fichas) 
+Asiento 2: aliendee07 (1.16 € en fichas) 
+Asiento 4: SrLyce (1.80 € en fichas) 
+Asiento 5: ismagonzalez7 (1.17 € en fichas) 
+Asiento 6: pauquair5 (1.35 € en fichas) 
+N3xtTIm35: pone la ciega pequeña 0.01 €
+aliendee07: pone la ciega grande 0.02 €
+Macklemore0: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Th Ah]
+SrLyce: sube 0.03 € a 0.05 €
+ismagonzalez7: se retira 
+pauquair5: iguala 0.05 €
+N3xtTIm35: iguala 0.04 €
+aliendee07: se retira 
+*** FLOP *** [4s Kh 5c]
+N3xtTIm35: pasa 
+SrLyce: apuesta 0.05 €
+pauquair5: iguala 0.05 €
+N3xtTIm35: iguala 0.05 €
+*** TURN *** [4s Kh 5c] [Ac]
+N3xtTIm35: pasa 
+SrLyce: apuesta 0.15 €
+pauquair5: se retira 
+N3xtTIm35: iguala 0.15 €
+*** RIVER *** [4s Kh 5c Ac] [Td]
+N3xtTIm35: pasa 
+SrLyce: apuesta 1.55 € y está all-in
+N3xtTIm35: se retira 
+La apuesta no igualada (1.55 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.58 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.62 € | Comisión 0.04 € 
+Comunitarias [4s Kh 5c Ac Td]
+Asiento 3: Macklemore0
+Asiento 1: N3xtTIm35 (ciega pequeña) se retiró en el River
+Asiento 2: aliendee07 (ciega grande) se retiró antes del Flop
+Asiento 4: SrLyce recaudó (0.58 €)
+Asiento 5: ismagonzalez7 se retiró antes del Flop (no apostó)
+Asiento 6: pauquair5 (botón) se retiró en el Turn

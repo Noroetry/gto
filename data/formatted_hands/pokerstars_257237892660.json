@@ -1,0 +1,62 @@
+{
+  "hand_id": "257237892660",
+  "date": "06-08-2025 18:09:23",
+  "table": "Nuwa III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Js",
+    "6s"
+  ],
+  "stacks": {
+    "BuXHexter": 100.0,
+    "kcg_rm": 106.0,
+    "SrLyce": 101.5,
+    "acavada": 106.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: BuXHexter (2 € en fichas)",
+      "Asiento 3: kcg_rm (2.12 € en fichas)",
+      "Asiento 4: SrLyce (2.03 € en fichas)",
+      "Asiento 6: acavada (2.12 € en fichas)",
+      "BuXHexter: pone la ciega pequeña 0.01 €",
+      "kcg_rm: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "acavada: sube 0.04 € a 0.06 €",
+      "BuXHexter: se retira",
+      "kcg_rm: iguala 0.04 €"
+    ],
+    "flop": [
+      "kcg_rm: pasa",
+      "acavada: pasa"
+    ],
+    "turn": [
+      "kcg_rm: pasa",
+      "acavada: pasa"
+    ],
+    "river": [
+      "kcg_rm: apuesta 0.09 €",
+      "acavada: se retira",
+      "kcg_rm: no muestra su mano",
+      "Asiento 2: BuXHexter (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: kcg_rm (ciega grande) recaudó (0.12 €)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 6: acavada (botón) se retiró en el River"
+    ]
+  },
+  "board": [
+    "Ts",
+    "5s",
+    "9d",
+    "7s",
+    "4h"
+  ],
+  "winner": "kcg_rm",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257237892660 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:09:23 CET [06-08-2025 12:09:23 ET]\nMesa \"Nuwa III\" 6-max El asiento n.º 6 es el botón\nAsiento 2: BuXHexter (2 € en fichas) \nAsiento 3: kcg_rm (2.12 € en fichas) \nAsiento 4: SrLyce (2.03 € en fichas) \nAsiento 6: acavada (2.12 € en fichas) \nBuXHexter: pone la ciega pequeña 0.01 €\nkcg_rm: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Js 6s]\nSrLyce: se retira \nacavada: sube 0.04 € a 0.06 €\nBuXHexter: se retira \nkcg_rm: iguala 0.04 €\n*** FLOP *** [Ts 5s 9d]\nBegoton se une a la mesa en el asiento n.º 1 \nkcg_rm: pasa \nacavada: pasa \n*** TURN *** [Ts 5s 9d] [7s]\nkcg_rm: pasa \nacavada: pasa \n*** RIVER *** [Ts 5s 9d 7s] [4h]\nkcg_rm: apuesta 0.09 €\nacavada: se retira \nLa apuesta no igualada (0.09 €) ha sido devuelta a kcg_rm\nkcg_rm se lleva 0.12 € del bote \nkcg_rm: no muestra su mano \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [Ts 5s 9d 7s 4h]\nAsiento 2: BuXHexter (ciega pequeña) se retiró antes del Flop\nAsiento 3: kcg_rm (ciega grande) recaudó (0.12 €)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 6: acavada (botón) se retiró en el River"
+}

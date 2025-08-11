@@ -1,0 +1,72 @@
+{
+  "hand_id": "257148825571",
+  "date": "30-07-2025 21:46:41",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "5d"
+  ],
+  "stacks": {
+    "Zorgue1080": 107.5,
+    "SrLyce": 141.5,
+    "NoahBolete": 97.5,
+    "Davdgoni": 108.0,
+    "DiaZzZ1": 98.5,
+    "berlcht403": 38.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Zorgue1080 (2.15 € en fichas)",
+      "Asiento 2: SrLyce (2.83 € en fichas)",
+      "Asiento 3: NoahBolete (1.95 € en fichas)",
+      "Asiento 4: Davdgoni (2.16 € en fichas)",
+      "Asiento 5: DiaZzZ1 (1.97 € en fichas)",
+      "Asiento 6: berlcht403 (0.76 € en fichas)",
+      "Zorgue1080: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "NoahBolete: se retira",
+      "Davdgoni: se retira",
+      "DiaZzZ1: sube 0.02 € a 0.04 €",
+      "berlcht403: se retira",
+      "Zorgue1080: iguala 0.03 €",
+      "SrLyce: iguala 0.02 €"
+    ],
+    "flop": [
+      "Zorgue1080: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €",
+      "DiaZzZ1: se retira"
+    ],
+    "turn": [
+      "Zorgue1080: apuesta 0.12 €",
+      "SrLyce: iguala 0.12 €"
+    ],
+    "river": [
+      "Zorgue1080: apuesta 0.23 €",
+      "SrLyce: iguala 0.23 €",
+      "Zorgue1080: muestra [Kd 9c] (doble pareja, nueves y treses)",
+      "SrLyce: muestra [3h 5d] (trío de treses)",
+      "Asiento 1: Zorgue1080 (ciega pequeña) muestra [Kd 9c] y perdió con doble pareja, nueves y treses",
+      "Asiento 2: SrLyce (ciega grande) muestra [3h 5d] y ganó (0.88 €) con trío de treses",
+      "Asiento 3: NoahBolete se retiró antes del Flop (no apostó)",
+      "Asiento 4: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 5: DiaZzZ1 se retiró en el Flop",
+      "Asiento 6: berlcht403 (botón) se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "3d",
+    "9h",
+    "2d",
+    "3c",
+    "7h"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 44.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 3.0,
+  "raw_text": "Mano n.º 257148825571 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:46:41 CET [30-07-2025 15:46:41 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 6 es el botón\nAsiento 1: Zorgue1080 (2.15 € en fichas) \nAsiento 2: SrLyce (2.83 € en fichas) \nAsiento 3: NoahBolete (1.95 € en fichas) \nAsiento 4: Davdgoni (2.16 € en fichas) \nAsiento 5: DiaZzZ1 (1.97 € en fichas) \nAsiento 6: berlcht403 (0.76 € en fichas) \nZorgue1080: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h 5d]\nNoahBolete: se retira \nDavdgoni: se retira \nDiaZzZ1: sube 0.02 € a 0.04 €\nberlcht403: se retira \nZorgue1080: iguala 0.03 €\nSrLyce: iguala 0.02 €\n*** FLOP *** [3d 9h 2d]\nZorgue1080: apuesta 0.06 €\nSrLyce: iguala 0.06 €\nDiaZzZ1: se retira \n*** TURN *** [3d 9h 2d] [3c]\nZorgue1080: apuesta 0.12 €\nSrLyce: iguala 0.12 €\n*** RIVER *** [3d 9h 2d 3c] [7h]\nZorgue1080: apuesta 0.23 €\nSrLyce: iguala 0.23 €\n*** SHOW DOWN ***\nZorgue1080: muestra [Kd 9c] (doble pareja, nueves y treses)\nSrLyce: muestra [3h 5d] (trío de treses)\nSrLyce se lleva 0.88 € del bote \n*** RESUMEN ***\nBote total 0.94 € | Comisión 0.06 € \nComunitarias [3d 9h 2d 3c 7h]\nAsiento 1: Zorgue1080 (ciega pequeña) muestra [Kd 9c] y perdió con doble pareja, nueves y treses\nAsiento 2: SrLyce (ciega grande) muestra [3h 5d] y ganó (0.88 €) con trío de treses\nAsiento 3: NoahBolete se retiró antes del Flop (no apostó)\nAsiento 4: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 5: DiaZzZ1 se retiró en el Flop\nAsiento 6: berlcht403 (botón) se retiró antes del Flop (no apostó)"
+}

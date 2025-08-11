@@ -1,0 +1,503 @@
+﻿Mano n.º 257236736791 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 06-08-2025 17:03:47 CET [06-08-2025 11:03:47 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: berdebert (500 en fichas) 
+Asiento 2: chitlix (500 en fichas) 
+Asiento 3: SrLyce (500 en fichas) 
+chitlix: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3h 3c]
+berdebert: iguala 20
+chitlix: iguala 10
+SrLyce: pasa 
+*** FLOP *** [4c 8h 7c]
+chitlix: pasa 
+SrLyce: pasa 
+berdebert: pasa 
+*** TURN *** [4c 8h 7c] [Qd]
+chitlix: pasa 
+SrLyce: apuesta 30
+berdebert: se retira 
+chitlix: se retira 
+La apuesta no igualada (30) ha sido devuelta a SrLyce
+SrLyce se lleva 60 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 60 | Comisión 0 
+Comunitarias [4c 8h 7c Qd]
+Asiento 1: berdebert (botón) se retiró en el Turn
+Asiento 2: chitlix (ciega pequeña) se retiró en el Turn
+Asiento 3: SrLyce (ciega grande) recaudó (60)
+
+
+
+Mano n.º 257236741179 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 06-08-2025 17:04:14 CET [06-08-2025 11:04:14 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (480 en fichas) 
+Asiento 2: chitlix (480 en fichas) 
+Asiento 3: SrLyce (540 en fichas) 
+SrLyce: pone la ciega pequeña 10
+berdebert: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ah 5s]
+chitlix: iguala 20
+SrLyce: sube 20 a 40
+berdebert: iguala 20
+chitlix: iguala 20
+*** FLOP *** [7h Qh 9c]
+SrLyce: pasa 
+berdebert: apuesta 440 y está all-in
+chitlix: se retira 
+SrLyce: iguala 440
+*** TURN *** [7h Qh 9c] [2h]
+*** RIVER *** [7h Qh 9c 2h] [6d]
+*** SHOW DOWN ***
+SrLyce: muestra [Ah 5s] (carta alta as)
+berdebert: muestra [Qc 4s] (pareja de damas)
+berdebert se lleva 1000 del bote 
+*** RESUMEN ***
+Bote total 1000 | Comisión 0 
+Comunitarias [7h Qh 9c 2h 6d]
+Asiento 1: berdebert (ciega grande) muestra [Qc 4s] y ganó (1000) con pareja de damas
+Asiento 2: chitlix (botón) se retiró en el Flop
+Asiento 3: SrLyce (ciega pequeña) muestra [Ah 5s] y perdió con carta alta as
+
+
+
+Mano n.º 257236746546 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 06-08-2025 17:04:47 CET [06-08-2025 11:04:47 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: berdebert (1000 en fichas) 
+Asiento 2: chitlix (440 en fichas) 
+Asiento 3: SrLyce (60 en fichas) 
+berdebert: pone la ciega pequeña 10
+chitlix: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4c Th]
+SrLyce: sube 40 a 60 y está all-in
+berdebert: iguala 50
+chitlix: sube 380 a 440 y está all-in
+berdebert: se retira 
+La apuesta no igualada (380) ha sido devuelta a chitlix
+*** FLOP *** [2s Kd Ts]
+*** TURN *** [2s Kd Ts] [6s]
+*** RIVER *** [2s Kd Ts 6s] [8d]
+*** SHOW DOWN ***
+chitlix: muestra [As Jd] (carta alta as)
+SrLyce: muestra [4c Th] (pareja de dieces)
+SrLyce se lleva 180 del bote 
+*** RESUMEN ***
+Bote total 180 | Comisión 0 
+Comunitarias [2s Kd Ts 6s 8d]
+Asiento 1: berdebert (ciega pequeña) se retiró antes del Flop
+Asiento 2: chitlix (ciega grande) muestra [As Jd] y perdió con carta alta as
+Asiento 3: SrLyce (botón) muestra [4c Th] y ganó (180) con pareja de dieces
+
+
+
+Mano n.º 257236750797 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel I (10/20) - 06-08-2025 17:05:14 CET [06-08-2025 11:05:14 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: berdebert (940 en fichas) 
+Asiento 2: chitlix (380 en fichas) 
+Asiento 3: SrLyce (180 en fichas) 
+chitlix: pone la ciega pequeña 10
+SrLyce: pone la ciega grande 20
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Tc Qs]
+berdebert: se retira 
+chitlix: iguala 10
+SrLyce: pasa 
+*** FLOP *** [7h 8s 5h]
+chitlix: pasa 
+SrLyce: pasa 
+*** TURN *** [7h 8s 5h] [9s]
+chitlix: pasa 
+SrLyce: apuesta 40
+chitlix: iguala 40
+*** RIVER *** [7h 8s 5h 9s] [Js]
+chitlix: pasa 
+SrLyce: apuesta 60
+chitlix: sube 60 a 120
+SrLyce: iguala 60 y está all-in
+*** SHOW DOWN ***
+chitlix: muestra [8d 6h] (escalera, de cinco a nueve)
+SrLyce: muestra [Tc Qs] (escalera, de ocho a dama)
+SrLyce se lleva 360 del bote 
+*** RESUMEN ***
+Bote total 360 | Comisión 0 
+Comunitarias [7h 8s 5h 9s Js]
+Asiento 1: berdebert (botón) se retiró antes del Flop (no apostó)
+Asiento 2: chitlix (ciega pequeña) muestra [8d 6h] y perdió con escalera, de cinco a nueve
+Asiento 3: SrLyce (ciega grande) muestra [Tc Qs] y ganó (360) con escalera, de ocho a dama
+
+
+
+Mano n.º 257236759283 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 06-08-2025 17:06:06 CET [06-08-2025 11:06:06 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (940 en fichas) 
+Asiento 2: chitlix (200 en fichas) 
+Asiento 3: SrLyce (360 en fichas) 
+SrLyce: pone la ciega pequeña 15
+berdebert: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3s Jd]
+chitlix no tiene conexión 
+chitlix tiene conexión 
+chitlix: sube 170 a 200 y está all-in
+SrLyce: se retira 
+berdebert: se retira 
+La apuesta no igualada (170) ha sido devuelta a chitlix
+chitlix se lleva 75 del bote 
+*** RESUMEN ***
+Bote total 75 | Comisión 0 
+Asiento 1: berdebert (ciega grande) se retiró antes del Flop
+Asiento 2: chitlix (botón) recaudó (75)
+Asiento 3: SrLyce (ciega pequeña) se retiró antes del Flop
+
+
+
+Mano n.º 257236766062 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 06-08-2025 17:06:48 CET [06-08-2025 11:06:48 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: berdebert (910 en fichas) 
+Asiento 2: chitlix (245 en fichas) 
+Asiento 3: SrLyce (345 en fichas) 
+berdebert: pone la ciega pequeña 15
+chitlix: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3d 2h]
+SrLyce: se retira 
+berdebert: iguala 15
+chitlix: pasa 
+*** FLOP *** [3s 8s Qh]
+berdebert: apuesta 30
+chitlix ha agotado su tiempo
+chitlix: se retira 
+chitlix está ausente
+La apuesta no igualada (30) ha sido devuelta a berdebert
+berdebert se lleva 60 del bote 
+*** RESUMEN ***
+Bote total 60 | Comisión 0 
+Comunitarias [3s 8s Qh]
+Asiento 1: berdebert (ciega pequeña) recaudó (60)
+Asiento 2: chitlix (ciega grande) se retiró en el Flop
+Asiento 3: SrLyce (botón) se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257236771467 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 06-08-2025 17:07:21 CET [06-08-2025 11:07:21 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: berdebert (940 en fichas) 
+Asiento 2: chitlix (215 en fichas) está ausente
+Asiento 3: SrLyce (345 en fichas) 
+chitlix: pone la ciega pequeña 15
+SrLyce: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9s 5c]
+berdebert: iguala 30
+chitlix: se retira 
+SrLyce: pasa 
+*** FLOP *** [Qc Ah 8s]
+SrLyce: pasa 
+berdebert: apuesta 30
+SrLyce: se retira 
+La apuesta no igualada (30) ha sido devuelta a berdebert
+berdebert se lleva 75 del bote 
+*** RESUMEN ***
+Bote total 75 | Comisión 0 
+Comunitarias [Qc Ah 8s]
+Asiento 1: berdebert (botón) recaudó (75)
+Asiento 2: chitlix (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyce (ciega grande) se retiró en el Flop
+
+
+
+Mano n.º 257236774723 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel II (15/30) - 06-08-2025 17:07:41 CET [06-08-2025 11:07:41 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (985 en fichas) 
+Asiento 2: chitlix (200 en fichas) está ausente
+Asiento 3: SrLyce (315 en fichas) 
+SrLyce: pone la ciega pequeña 15
+berdebert: pone la ciega grande 30
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [As 4c]
+chitlix: se retira 
+SrLyce: sube 30 a 60
+berdebert: iguala 30
+*** FLOP *** [Ks Jc 6h]
+SrLyce: pasa 
+berdebert: pasa 
+*** TURN *** [Ks Jc 6h] [4h]
+SrLyce: pasa 
+berdebert: pasa 
+*** RIVER *** [Ks Jc 6h 4h] [3s]
+chitlix ha vuelto
+SrLyce: pasa 
+berdebert: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [As 4c] (pareja de cuatros)
+berdebert: descarta su mano sin mostrar 
+SrLyce se lleva 120 del bote 
+*** RESUMEN ***
+Bote total 120 | Comisión 0 
+Comunitarias [Ks Jc 6h 4h 3s]
+Asiento 1: berdebert (ciega grande) descartó sin mostrar [Tc 8c]
+Asiento 2: chitlix (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) muestra [As 4c] y ganó (120) con pareja de cuatros
+
+
+
+Mano n.º 257236781404 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel III (20/40) - 06-08-2025 17:08:22 CET [06-08-2025 11:08:22 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: berdebert (925 en fichas) 
+Asiento 2: chitlix (200 en fichas) 
+Asiento 3: SrLyce (375 en fichas) 
+berdebert: pone la ciega pequeña 20
+chitlix: pone la ciega grande 40
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6h Qs]
+SrLyce: se retira 
+berdebert: iguala 20
+chitlix: sube 160 a 200 y está all-in
+berdebert: iguala 160
+*** FLOP *** [Jh As 8c]
+*** TURN *** [Jh As 8c] [9h]
+*** RIVER *** [Jh As 8c 9h] [Qh]
+*** SHOW DOWN ***
+berdebert: muestra [8s Kd] (pareja de ochos)
+chitlix: muestra [2c Ac] (pareja de ases)
+chitlix se lleva 400 del bote 
+*** RESUMEN ***
+Bote total 400 | Comisión 0 
+Comunitarias [Jh As 8c 9h Qh]
+Asiento 1: berdebert (ciega pequeña) muestra [8s Kd] y perdió con pareja de ochos
+Asiento 2: chitlix (ciega grande) muestra [2c Ac] y ganó (400) con pareja de ases
+Asiento 3: SrLyce (botón) se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257236785911 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel III (20/40) - 06-08-2025 17:08:50 CET [06-08-2025 11:08:50 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: berdebert (725 en fichas) 
+Asiento 2: chitlix (400 en fichas) 
+Asiento 3: SrLyce (375 en fichas) 
+chitlix: pone la ciega pequeña 20
+SrLyce: pone la ciega grande 40
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8s Qc]
+berdebert: iguala 40
+chitlix: se retira 
+SrLyce: pasa 
+*** FLOP *** [3h 2d Ks]
+SrLyce: pasa 
+berdebert: apuesta 685 y está all-in
+SrLyce: se retira 
+La apuesta no igualada (685) ha sido devuelta a berdebert
+berdebert se lleva 100 del bote 
+*** RESUMEN ***
+Bote total 100 | Comisión 0 
+Comunitarias [3h 2d Ks]
+Asiento 1: berdebert (botón) recaudó (100)
+Asiento 2: chitlix (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyce (ciega grande) se retiró en el Flop
+
+
+
+Mano n.º 257236789235 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel III (20/40) - 06-08-2025 17:09:09 CET [06-08-2025 11:09:09 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (785 en fichas) 
+Asiento 2: chitlix (380 en fichas) 
+Asiento 3: SrLyce (335 en fichas) 
+SrLyce: pone la ciega pequeña 20
+berdebert: pone la ciega grande 40
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2h 9s]
+chitlix: se retira 
+SrLyce: se retira 
+La apuesta no igualada (20) ha sido devuelta a berdebert
+berdebert se lleva 40 del bote 
+*** RESUMEN ***
+Bote total 40 | Comisión 0 
+Asiento 1: berdebert (ciega grande) recaudó (40)
+Asiento 2: chitlix (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) se retiró antes del Flop
+
+
+
+Mano n.º 257236791459 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel III (20/40) - 06-08-2025 17:09:23 CET [06-08-2025 11:09:23 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: berdebert (805 en fichas) 
+Asiento 2: chitlix (380 en fichas) 
+Asiento 3: SrLyce (315 en fichas) 
+berdebert: pone la ciega pequeña 20
+chitlix: pone la ciega grande 40
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qs 7h]
+SrLyce: se retira 
+berdebert: iguala 20
+chitlix: pasa 
+*** FLOP *** [8c Kc Ks]
+berdebert: pasa 
+chitlix ha agotado su tiempo
+chitlix: pasa 
+*** TURN *** [8c Kc Ks] [6h]
+berdebert: pasa 
+chitlix: pasa 
+*** RIVER *** [8c Kc Ks 6h] [7c]
+berdebert: apuesta 40
+chitlix: sube 80 a 120
+berdebert: se retira 
+La apuesta no igualada (80) ha sido devuelta a chitlix
+chitlix se lleva 160 del bote 
+*** RESUMEN ***
+Bote total 160 | Comisión 0 
+Comunitarias [8c Kc Ks 6h 7c]
+Asiento 1: berdebert (ciega pequeña) se retiró en el River
+Asiento 2: chitlix (ciega grande) recaudó (160)
+Asiento 3: SrLyce (botón) se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257236802541 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel IV (30/60) - 06-08-2025 17:10:29 CET [06-08-2025 11:10:29 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: berdebert (725 en fichas) 
+Asiento 2: chitlix (460 en fichas) 
+Asiento 3: SrLyce (315 en fichas) 
+chitlix: pone la ciega pequeña 30
+SrLyce: pone la ciega grande 60
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [9s 8s]
+berdebert: iguala 60
+chitlix: iguala 30
+SrLyce: sube 255 a 315 y está all-in
+berdebert: sube 255 a 570
+chitlix ha agotado su tiempo
+chitlix: se retira 
+chitlix está ausente
+La apuesta no igualada (255) ha sido devuelta a berdebert
+*** FLOP *** [3c 7h Td]
+*** TURN *** [3c 7h Td] [2c]
+*** RIVER *** [3c 7h Td 2c] [8c]
+*** SHOW DOWN ***
+SrLyce: muestra [9s 8s] (pareja de ochos)
+berdebert: muestra [Kc Ad] (carta alta as)
+SrLyce se lleva 690 del bote 
+*** RESUMEN ***
+Bote total 690 | Comisión 0 
+Comunitarias [3c 7h Td 2c 8c]
+Asiento 1: berdebert (botón) muestra [Kc Ad] y perdió con carta alta as
+Asiento 2: chitlix (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyce (ciega grande) muestra [9s 8s] y ganó (690) con pareja de ochos
+
+
+
+Mano n.º 257236808979 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel IV (30/60) - 06-08-2025 17:11:08 CET [06-08-2025 11:11:08 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (410 en fichas) 
+Asiento 2: chitlix (400 en fichas) está ausente
+Asiento 3: SrLyce (690 en fichas) 
+SrLyce: pone la ciega pequeña 30
+berdebert: pone la ciega grande 60
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [3s 4d]
+chitlix: se retira 
+chitlix ha vuelto
+SrLyce: sube 630 a 690 y está all-in
+berdebert: se retira 
+La apuesta no igualada (630) ha sido devuelta a SrLyce
+SrLyce se lleva 120 del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 120 | Comisión 0 
+Asiento 1: berdebert (ciega grande) se retiró antes del Flop
+Asiento 2: chitlix (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) recaudó (120)
+
+
+
+Mano n.º 257236811683 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel IV (30/60) - 06-08-2025 17:11:23 CET [06-08-2025 11:11:23 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 3 es el botón
+Asiento 1: berdebert (350 en fichas) 
+Asiento 2: chitlix (400 en fichas) 
+Asiento 3: SrLyce (750 en fichas) 
+berdebert: pone la ciega pequeña 30
+chitlix: pone la ciega grande 60
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Js Kh]
+SrLyce: sube 690 a 750 y está all-in
+berdebert: iguala 320 y está all-in
+chitlix: se retira 
+La apuesta no igualada (400) ha sido devuelta a SrLyce
+*** FLOP *** [6s Ks 9h]
+*** TURN *** [6s Ks 9h] [9d]
+*** RIVER *** [6s Ks 9h 9d] [6d]
+*** SHOW DOWN ***
+berdebert: muestra [Kd 6c] (full de seises y reyes)
+SrLyce: muestra [Js Kh] (doble pareja, reyes y nueves)
+berdebert se lleva 760 del bote 
+*** RESUMEN ***
+Bote total 760 | Comisión 0 
+Comunitarias [6s Ks 9h 9d 6d]
+Asiento 1: berdebert (ciega pequeña) muestra [Kd 6c] y ganó (760) con full de seises y reyes
+Asiento 2: chitlix (ciega grande) se retiró antes del Flop
+Asiento 3: SrLyce (botón) muestra [Js Kh] y perdió con doble pareja, reyes y nueves
+
+
+
+Mano n.º 257236814800 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel IV (30/60) - 06-08-2025 17:11:42 CET [06-08-2025 11:11:42 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 1 es el botón
+Asiento 1: berdebert (760 en fichas) 
+Asiento 2: chitlix (340 en fichas) 
+Asiento 3: SrLyce (400 en fichas) 
+chitlix: pone la ciega pequeña 30
+SrLyce: pone la ciega grande 60
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jh 2h]
+berdebert: iguala 60
+chitlix: sube 280 a 340 y está all-in
+SrLyce: sube 60 a 400 y está all-in
+berdebert: se retira 
+La apuesta no igualada (60) ha sido devuelta a SrLyce
+*** FLOP *** [Qc Qd 4s]
+*** TURN *** [Qc Qd 4s] [3d]
+*** RIVER *** [Qc Qd 4s 3d] [Ks]
+*** SHOW DOWN ***
+chitlix: muestra [Td Jd] (pareja de damas)
+SrLyce: muestra [Jh 2h] (pareja de damas - menor kicker)
+chitlix se lleva 740 del bote 
+*** RESUMEN ***
+Bote total 740 | Comisión 0 
+Comunitarias [Qc Qd 4s 3d Ks]
+Asiento 1: berdebert (botón) se retiró antes del Flop
+Asiento 2: chitlix (ciega pequeña) muestra [Td Jd] y ganó (740) con pareja de damas
+Asiento 3: SrLyce (ciega grande) muestra [Jh 2h] y perdió con pareja de damas
+
+
+
+Mano n.º 257236819527 de PokerStars: Torneo n.º 3916266149, 0.46 €+0.04 € EUR Hold'em No Limit - Nivel V (40/80) - 06-08-2025 17:12:11 CET [06-08-2025 11:12:11 ET]
+Mesa "3916266149 1" 3-max El asiento n.º 2 es el botón
+Asiento 1: berdebert (700 en fichas) 
+Asiento 2: chitlix (740 en fichas) 
+Asiento 3: SrLyce (60 en fichas) 
+SrLyce: pone la ciega pequeña 40
+berdebert: pone la ciega grande 80
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6s 4s]
+chitlix: se retira 
+SrLyce: iguala 20 y está all-in
+La apuesta no igualada (20) ha sido devuelta a berdebert
+*** FLOP *** [Qd 7d Jh]
+*** TURN *** [Qd 7d Jh] [3c]
+*** RIVER *** [Qd 7d Jh 3c] [Ts]
+*** SHOW DOWN ***
+SrLyce: muestra [6s 4s] (carta alta dama)
+berdebert: muestra [9h Tc] (pareja de dieces)
+berdebert se lleva 120 del bote 
+SrLyce ha finalizado el torneo en 3.º posición
+*** RESUMEN ***
+Bote total 120 | Comisión 0 
+Comunitarias [Qd 7d Jh 3c Ts]
+Asiento 1: berdebert (ciega grande) muestra [9h Tc] y ganó (120) con pareja de dieces
+Asiento 2: chitlix (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) muestra [6s 4s] y perdió con carta alta dama
+
+
+

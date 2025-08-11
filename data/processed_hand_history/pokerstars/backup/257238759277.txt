@@ -1,0 +1,42 @@
+Mano n.º 257238759277 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:26:41 CET [06-08-2025 13:26:41 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 6 es el botón
+Asiento 1: Alceo27 (2 € en fichas) 
+Asiento 2: aliendee07 (0.86 € en fichas) 
+Asiento 3: Macklemore0 (2.64 € en fichas) 
+Asiento 4: SrLyce (2.64 € en fichas) 
+Asiento 5: ismagonzalez7 (2.01 € en fichas) 
+Asiento 6: McFlash3 (2.60 € en fichas) 
+Alceo27: pone la ciega pequeña 0.01 €
+aliendee07: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Th Qc]
+Macklemore0: se retira 
+SrLyce: sube 0.03 € a 0.05 €
+ismagonzalez7: iguala 0.05 €
+McFlash3: se retira 
+Alceo27: se retira 
+aliendee07: se retira 
+*** FLOP *** [4h Tc 5c]
+SrLyce: apuesta 0.04 €
+ismagonzalez7: sube 0.10 € a 0.14 €
+SrLyce: iguala 0.10 €
+*** TURN *** [4h Tc 5c] [5s]
+SrLyce: pasa 
+ismagonzalez7: apuesta 0.20 €
+SrLyce: iguala 0.20 €
+*** RIVER *** [4h Tc 5c 5s] [Qd]
+SrLyce: pasa 
+ismagonzalez7: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [Th Qc] (doble pareja, damas y dieces)
+ismagonzalez7: descarta su mano sin mostrar 
+SrLyce se lleva 0.76 € del bote 
+*** RESUMEN ***
+Bote total 0.81 € | Comisión 0.05 € 
+Comunitarias [4h Tc 5c 5s Qd]
+Asiento 1: Alceo27 (ciega pequeña) se retiró antes del Flop
+Asiento 2: aliendee07 (ciega grande) se retiró antes del Flop
+Asiento 3: Macklemore0 se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce muestra [Th Qc] y ganó (0.76 €) con doble pareja, damas y dieces
+Asiento 5: ismagonzalez7 descartó sin mostrar [8c 8s]
+Asiento 6: McFlash3 (botón) se retiró antes del Flop (no apostó)

@@ -1,0 +1,45 @@
+Mano n.º 257238405832 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:55:04 CET [06-08-2025 12:55:04 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 3 es el botón
+Asiento 1: SrLyce (1.94 € en fichas) 
+Asiento 2: zoioachado (0.80 € en fichas) 
+Asiento 3: yonisanlu (2.03 € en fichas) 
+Asiento 4: serviettski(fr) (2.06 € en fichas) 
+Asiento 5: Nicanor Cast (1.08 € en fichas) 
+Asiento 6: rayao32 (0.94 € en fichas) 
+serviettski(fr): pone la ciega pequeña 0.01 €
+Nicanor Cast: pone la ciega grande 0.02 €
+zoioachado: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8h Qh]
+rayao32 ha agotado su tiempo
+rayao32: se retira 
+SrLyce: sube 0.03 € a 0.05 €
+zoioachado: sube 0.09 € a 0.14 €
+yonisanlu: se retira 
+serviettski(fr): se retira 
+Nicanor Cast: se retira 
+SrLyce: iguala 0.09 €
+*** FLOP *** [7h 8c 9d]
+SrLyce: pasa 
+zoioachado: apuesta 0.08 €
+SrLyce: iguala 0.08 €
+*** TURN *** [7h 8c 9d] [3c]
+SrLyce: pasa 
+zoioachado: apuesta 0.10 €
+SrLyce: sube 0.64 € a 0.74 €
+zoioachado: iguala 0.48 € y está all-in
+La apuesta no igualada (0.16 €) ha sido devuelta a SrLyce
+*** RIVER *** [7h 8c 9d 3c] [7d]
+*** SHOW DOWN ***
+SrLyce: muestra [8h Qh] (doble pareja, ochos y sietes)
+zoioachado: muestra [Qd 5d] (pareja de sietes)
+SrLyce se lleva 1.53 € del bote 
+*** RESUMEN ***
+Bote total 1.63 € | Comisión 0.10 € 
+Comunitarias [7h 8c 9d 3c 7d]
+Asiento 1: SrLyce muestra [8h Qh] y ganó (1.53 €) con doble pareja, ochos y sietes
+Asiento 2: zoioachado muestra [Qd 5d] y perdió con pareja de sietes
+Asiento 3: yonisanlu (botón) se retiró antes del Flop (no apostó)
+Asiento 4: serviettski(fr) (ciega pequeña) se retiró antes del Flop
+Asiento 5: Nicanor Cast (ciega grande) se retiró antes del Flop
+Asiento 6: rayao32 se retiró antes del Flop (no apostó)

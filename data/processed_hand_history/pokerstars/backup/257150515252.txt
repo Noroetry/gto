@@ -1,0 +1,39 @@
+Mano n.º 257150515252 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:47:26 CET [30-07-2025 17:47:26 ET]
+Mesa "Martha" 6-max El asiento n.º 3 es el botón
+Asiento 1: mivipkr (2.09 € en fichas) 
+Asiento 2: NovacaineZxc (2.65 € en fichas) 
+Asiento 3: BudyXXIII (2 € en fichas) 
+Asiento 5: SrLyce (2.30 € en fichas) 
+Asiento 6: alexfw300 (2.01 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+alexfw300: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8d 5d]
+mivipkr: se retira 
+NovacaineZxc: se retira 
+BudyXXIII ha agotado su tiempo
+BudyXXIII: se retira 
+SrLyce: sube 0.04 € a 0.06 €
+alexfw300: iguala 0.04 €
+*** FLOP *** [Qd Td 7d]
+SrLyce: apuesta 0.11 €
+alexfw300: iguala 0.11 €
+*** TURN *** [Qd Td 7d] [6h]
+SrLyce: apuesta 0.32 €
+alexfw300: iguala 0.32 €
+*** RIVER *** [Qd Td 7d 6h] [Ah]
+SrLyce: apuesta 1.81 € y está all-in
+alexfw300: iguala 1.52 € y está all-in
+La apuesta no igualada (0.29 €) ha sido devuelta a SrLyce
+*** SHOW DOWN ***
+SrLyce: muestra [8d 5d] (color, carta alta dama)
+alexfw300: muestra [Ad 3d] (color, carta alta as)
+alexfw300 se lleva 3.87 € del bote 
+*** RESUMEN ***
+Bote total 4.02 € | Comisión 0.15 € 
+Comunitarias [Qd Td 7d 6h Ah]
+Asiento 1: mivipkr se retiró antes del Flop (no apostó)
+Asiento 2: NovacaineZxc se retiró antes del Flop (no apostó)
+Asiento 3: BudyXXIII (botón) se retiró antes del Flop (no apostó)
+Asiento 5: SrLyce (ciega pequeña) muestra [8d 5d] y perdió con color, carta alta dama
+Asiento 6: alexfw300 (ciega grande) muestra [Ad 3d] y ganó (3.87 €) con color, carta alta as

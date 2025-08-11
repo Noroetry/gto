@@ -1,0 +1,62 @@
+{
+  "hand_id": "257149963953",
+  "date": "30-07-2025 23:08:56",
+  "table": "Gilgamesh",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2s",
+    "6c"
+  ],
+  "stacks": {
+    "xapkk": 100.0,
+    "riverrrrrrmagic": 119.0,
+    "SrLyce": 113.0,
+    "Jumby34": 102.0,
+    "cbo54": 92.5,
+    "Fretzo67500": 104.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: xapkk (2 € en fichas) está ausente",
+      "Asiento 1: riverrrrrrmagic (2.38 € en fichas)",
+      "Asiento 2: SrLyce (2.26 € en fichas)",
+      "Asiento 3: Jumby34 (2.04 € en fichas)",
+      "Asiento 5: cbo54 (1.85 € en fichas)",
+      "Asiento 6: Fretzo67500 (2.09 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "Jumby34: pone la ciega grande 0.02 €",
+      "xapkk: se ausenta",
+      "cbo54: se retira",
+      "Fretzo67500: se retira",
+      "riverrrrrrmagic: iguala 0.02 €",
+      "SrLyce: se retira",
+      "Jumby34: pasa"
+    ],
+    "flop": [
+      "Jumby34: apuesta 0.04 €",
+      "riverrrrrrmagic: se retira",
+      "Jumby34: no muestra su mano",
+      "Asiento 4: xapkk",
+      "Asiento 1: riverrrrrrmagic (botón) se retiró en el Flop",
+      "Asiento 2: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: Jumby34 (ciega grande) recaudó (0.05 €)",
+      "Asiento 5: cbo54 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Fretzo67500 se retiró antes del Flop (no apostó)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "Ks",
+    "4c",
+    "4d"
+  ],
+  "winner": "Jumby34",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149963953 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:08:56 CET [30-07-2025 17:08:56 ET]\nMesa \"Gilgamesh\" 6-max El asiento n.º 1 es el botón\nAsiento 4: xapkk (2 € en fichas) está ausente\nAsiento 1: riverrrrrrmagic (2.38 € en fichas) \nAsiento 2: SrLyce (2.26 € en fichas) \nAsiento 3: Jumby34 (2.04 € en fichas) \nAsiento 5: cbo54 (1.85 € en fichas) \nAsiento 6: Fretzo67500 (2.09 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nJumby34: pone la ciega grande 0.02 €\nxapkk: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2s 6c]\ncbo54 ha agotado su tiempo\ncbo54: se retira \nFretzo67500: se retira \nriverrrrrrmagic: iguala 0.02 €\nSrLyce: se retira \nJumby34: pasa \n*** FLOP *** [Ks 4c 4d]\nJumby34: apuesta 0.04 €\nriverrrrrrmagic: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a Jumby34\nJumby34 se lleva 0.05 € del bote \nJumby34: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nComunitarias [Ks 4c 4d]\nAsiento 4: xapkk\nAsiento 1: riverrrrrrmagic (botón) se retiró en el Flop\nAsiento 2: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 3: Jumby34 (ciega grande) recaudó (0.05 €)\nAsiento 5: cbo54 se retiró antes del Flop (no apostó)\nAsiento 6: Fretzo67500 se retiró antes del Flop (no apostó)"
+}

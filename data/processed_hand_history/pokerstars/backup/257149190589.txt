@@ -1,0 +1,38 @@
+Mano n.º 257149190589 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:14:25 CET [30-07-2025 16:14:25 ET]
+Mesa "Sirona" 6-max El asiento n.º 2 es el botón
+Asiento 1: SrLyce (5.09 € en fichas) 
+Asiento 2: Tropki (2 € en fichas) 
+Asiento 3: christoph363 (1.86 € en fichas) 
+Asiento 4: oliverdu70 (3.67 € en fichas) 
+Asiento 5: hadhod1976 (0.77 € en fichas) 
+Asiento 6: MitchATP65 (2.06 € en fichas) 
+christoph363: pone la ciega pequeña 0.01 €
+oliverdu70: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qs 9s]
+hadhod1976: se retira 
+MitchATP65: se retira 
+SrLyce: sube 0.04 € a 0.06 €
+Tropki: se retira 
+christoph363: se retira 
+oliverdu70: iguala 0.04 €
+*** FLOP *** [5d 2s Jh]
+oliverdu70: pasa 
+SrLyce: pasa 
+*** TURN *** [5d 2s Jh] [Ks]
+oliverdu70: pasa 
+SrLyce: pasa 
+*** RIVER *** [5d 2s Jh Ks] [3c]
+oliverdu70: apuesta 0.04 €
+SrLyce: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a oliverdu70
+oliverdu70 se lleva 0.12 € del bote 
+*** RESUMEN ***
+Bote total 0.13 € | Comisión 0.01 € 
+Comunitarias [5d 2s Jh Ks 3c]
+Asiento 1: SrLyce se retiró en el River
+Asiento 2: Tropki (botón) se retiró antes del Flop (no apostó)
+Asiento 3: christoph363 (ciega pequeña) se retiró antes del Flop
+Asiento 4: oliverdu70 (ciega grande) recaudó (0.12 €)
+Asiento 5: hadhod1976 se retiró antes del Flop (no apostó)
+Asiento 6: MitchATP65 se retiró antes del Flop (no apostó)

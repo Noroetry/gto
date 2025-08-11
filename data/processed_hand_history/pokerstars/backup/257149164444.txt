@@ -1,0 +1,42 @@
+Mano n.º 257149164444 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:12:35 CET [30-07-2025 16:12:35 ET]
+Mesa "Sirona" 6-max El asiento n.º 6 es el botón
+Asiento 1: SrLyce (2.63 € en fichas) 
+Asiento 2: Tropki (2 € en fichas) 
+Asiento 3: christoph363 (4.45 € en fichas) 
+Asiento 4: oliverdu70 (3.72 € en fichas) 
+Asiento 5: hadhod1976 (0.80 € en fichas) 
+Asiento 6: MitchATP65 (2.06 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+Tropki: pone la ciega grande 0.02 €
+oliverdu70: pone la ciega pequeña y la grande 0.03 €
+hadhod1976: pone la ciega pequeña y la grande 0.03 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7c 7d]
+christoph363: sube 0.11 € a 0.13 €
+oliverdu70: se retira 
+hadhod1976: se retira 
+MitchATP65: se retira 
+SrLyce: iguala 0.12 €
+Tropki: se retira 
+*** FLOP *** [7h 8d Js]
+SrLyce: pasa 
+christoph363: apuesta 0.10 €
+SrLyce: sube 0.20 € a 0.30 €
+christoph363: sube 0.20 € a 0.50 €
+SrLyce: sube 2 € a 2.50 € y está all-in
+christoph363: iguala 2 €
+*** TURN *** [7h 8d Js] [3h]
+*** RIVER *** [7h 8d Js 3h] [8h]
+*** SHOW DOWN ***
+SrLyce: muestra [7c 7d] (full de sietes y ochos)
+christoph363: muestra [As Jc] (doble pareja, jotas y ochos)
+SrLyce se lleva 5.09 € del bote 
+*** RESUMEN ***
+Bote total 5.34 € | Comisión 0.25 € 
+Comunitarias [7h 8d Js 3h 8h]
+Asiento 1: SrLyce (ciega pequeña) muestra [7c 7d] y ganó (5.09 €) con full de sietes y ochos
+Asiento 2: Tropki (ciega grande) se retiró antes del Flop
+Asiento 3: christoph363 muestra [As Jc] y perdió con doble pareja, jotas y ochos
+Asiento 4: oliverdu70 se retiró antes del Flop (no apostó)
+Asiento 5: hadhod1976 se retiró antes del Flop (no apostó)
+Asiento 6: MitchATP65 (botón) se retiró antes del Flop (no apostó)

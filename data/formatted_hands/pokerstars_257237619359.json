@@ -1,0 +1,74 @@
+{
+  "hand_id": "257237619359",
+  "date": "06-08-2025 17:41:47",
+  "table": "Vanadis II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4h",
+    "Kc"
+  ],
+  "stacks": {
+    "SrLyce": 125.5,
+    "djrojas9": 95.0,
+    "noreihh": 171.0,
+    "chordewman": 137.5,
+    "sarabiagar": 96.5,
+    "idigon": 108.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.51 € en fichas)",
+      "Asiento 2: djrojas9 (1.90 € en fichas)",
+      "Asiento 3: noreihh (3.42 € en fichas)",
+      "Asiento 4: chordewman (2.75 € en fichas)",
+      "Asiento 5: sarabiagar (1.93 € en fichas)",
+      "Asiento 6: idigon (2.17 € en fichas)",
+      "chordewman: pone la ciega pequeña 0.01 €",
+      "sarabiagar: pone la ciega grande 0.02 €",
+      "idigon: sube 0.02 € a 0.04 €",
+      "SrLyce: se retira",
+      "djrojas9: sube 0.02 € a 0.06 €",
+      "noreihh: se retira",
+      "chordewman: se retira",
+      "sarabiagar: se retira",
+      "idigon: iguala 0.02 €"
+    ],
+    "flop": [
+      "idigon: pasa",
+      "djrojas9: apuesta 0.09 €",
+      "idigon: iguala 0.09 €"
+    ],
+    "turn": [
+      "idigon: pasa",
+      "djrojas9: apuesta 0.12 €",
+      "idigon: iguala 0.12 €"
+    ],
+    "river": [
+      "idigon: pasa",
+      "djrojas9: pasa",
+      "idigon: muestra [9s Js] (pareja de jotas)",
+      "djrojas9: muestra [As Td] (pareja de ases)",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: djrojas9 muestra [As Td] y ganó (0.54 €) con pareja de ases",
+      "Asiento 3: noreihh (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: chordewman (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: sarabiagar (ciega grande) se retiró antes del Flop",
+      "Asiento 6: idigon muestra [9s Js] y perdió con pareja de jotas"
+    ]
+  },
+  "board": [
+    "6h",
+    "Jc",
+    "Kh",
+    "Ah",
+    "5c"
+  ],
+  "winner": "djrojas9",
+  "win_amount": 27.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.5,
+  "raw_text": "Mano n.º 257237619359 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:41:47 CET [06-08-2025 11:41:47 ET]\nMesa \"Vanadis II\" 6-max El asiento n.º 3 es el botón\nAsiento 1: SrLyce (2.51 € en fichas) \nAsiento 2: djrojas9 (1.90 € en fichas) \nAsiento 3: noreihh (3.42 € en fichas) \nAsiento 4: chordewman (2.75 € en fichas) \nAsiento 5: sarabiagar (1.93 € en fichas) \nAsiento 6: idigon (2.17 € en fichas) \nchordewman: pone la ciega pequeña 0.01 €\nsarabiagar: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4h Kc]\nidigon: sube 0.02 € a 0.04 €\nSrLyce: se retira \ndjrojas9: sube 0.02 € a 0.06 €\nnoreihh: se retira \nchordewman: se retira \nsarabiagar: se retira \nidigon: iguala 0.02 €\n*** FLOP *** [6h Jc Kh]\nidigon: pasa \ndjrojas9: apuesta 0.09 €\nidigon: iguala 0.09 €\n*** TURN *** [6h Jc Kh] [Ah]\nidigon: pasa \ndjrojas9: apuesta 0.12 €\nidigon: iguala 0.12 €\n*** RIVER *** [6h Jc Kh Ah] [5c]\nidigon: pasa \ndjrojas9: pasa \n*** SHOW DOWN ***\nidigon: muestra [9s Js] (pareja de jotas)\ndjrojas9: muestra [As Td] (pareja de ases)\ndjrojas9 se lleva 0.54 € del bote \n*** RESUMEN ***\nBote total 0.57 € | Comisión 0.03 € \nComunitarias [6h Jc Kh Ah 5c]\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: djrojas9 muestra [As Td] y ganó (0.54 €) con pareja de ases\nAsiento 3: noreihh (botón) se retiró antes del Flop (no apostó)\nAsiento 4: chordewman (ciega pequeña) se retiró antes del Flop\nAsiento 5: sarabiagar (ciega grande) se retiró antes del Flop\nAsiento 6: idigon muestra [9s Js] y perdió con pareja de jotas"
+}

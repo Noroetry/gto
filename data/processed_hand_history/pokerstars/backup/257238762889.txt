@@ -1,0 +1,45 @@
+Mano n.º 257238762889 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:26:58 CET [06-08-2025 13:26:58 ET]
+Mesa "Leonteus" 6-max El asiento n.º 1 es el botón
+Asiento 3: davinci1962 (3.02 € en fichas) está ausente
+Asiento 5: Andark47 (4.15 € en fichas) está ausente
+Asiento 1: practikal_C23 (1.01 € en fichas) 
+Asiento 2: niyomalo (1.98 € en fichas) 
+Asiento 4: BuXHexter (3.26 € en fichas) 
+Asiento 6: SrLyce (1.49 € en fichas) 
+niyomalo: pone la ciega pequeña 0.01 €
+davinci1962: está ausente 
+BuXHexter: pone la ciega grande 0.02 €
+Andark47: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6c 3s]
+SrLyce: se retira 
+practikal_C23: iguala 0.02 €
+niyomalo: iguala 0.01 €
+BuXHexter: pasa 
+*** FLOP *** [Qd 8h Jd]
+niyomalo: pasa 
+BuXHexter: pasa 
+practikal_C23: pasa 
+*** TURN *** [Qd 8h Jd] [5s]
+niyomalo: pasa 
+BuXHexter: pasa 
+practikal_C23: apuesta 0.02 €
+niyomalo: iguala 0.02 €
+davinci1962 deja la mesa
+BuXHexter: se retira 
+*** RIVER *** [Qd 8h Jd 5s] [5h]
+niyomalo: apuesta 1.94 € y está all-in
+practikal_C23: se retira 
+La apuesta no igualada (1.94 €) ha sido devuelta a niyomalo
+niyomalo se lleva 0.09 € del bote 
+niyomalo: no muestra su mano 
+FalcoNaumani se une a la mesa en el asiento n.º 3 
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0.01 € 
+Comunitarias [Qd 8h Jd 5s 5h]
+Asiento 3: davinci1962
+Asiento 5: Andark47
+Asiento 1: practikal_C23 (botón) se retiró en el River
+Asiento 2: niyomalo (ciega pequeña) recaudó (0.09 €)
+Asiento 4: BuXHexter (ciega grande) se retiró en el Turn
+Asiento 6: SrLyce se retiró antes del Flop (no apostó)

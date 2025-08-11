@@ -1,0 +1,39 @@
+Mano n.º 257238638814 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:16:38 CET [06-08-2025 13:16:38 ET]
+Mesa "Adelaide III" 6-max El asiento n.º 2 es el botón
+Asiento 3: Macklemore0 (2.13 € en fichas) está ausente
+Asiento 6: McFlash3 (2 € en fichas) está ausente
+Asiento 1: Alceo27 (2 € en fichas) 
+Asiento 2: aliendee07 (1.36 € en fichas) 
+Asiento 4: SrLyce (2.69 € en fichas) 
+Asiento 5: ismagonzalez7 (0.60 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+ismagonzalez7: pone la ciega grande 0.02 €
+McFlash3: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8d As]
+Alceo27: sube 0.03 € a 0.05 €
+aliendee07: se retira 
+SrLyce: iguala 0.04 €
+ismagonzalez7: se retira 
+*** FLOP *** [Jc Kd 4d]
+SrLyce: pasa 
+Alceo27: pasa 
+*** TURN *** [Jc Kd 4d] [8c]
+SrLyce: apuesta 0.04 €
+Alceo27: iguala 0.04 €
+*** RIVER *** [Jc Kd 4d 8c] [4h]
+SrLyce: pasa 
+Alceo27: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [8d As] (doble pareja, ochos y cuatros)
+Alceo27: muestra [Qc Qs] (doble pareja, damas y cuatros)
+Alceo27 se lleva 0.19 € del bote 
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0.01 € 
+Comunitarias [Jc Kd 4d 8c 4h]
+Asiento 3: Macklemore0
+Asiento 6: McFlash3
+Asiento 1: Alceo27 muestra [Qc Qs] y ganó (0.19 €) con doble pareja, damas y cuatros
+Asiento 2: aliendee07 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (ciega pequeña) muestra [8d As] y perdió con doble pareja, ochos y cuatros
+Asiento 5: ismagonzalez7 (ciega grande) se retiró antes del Flop

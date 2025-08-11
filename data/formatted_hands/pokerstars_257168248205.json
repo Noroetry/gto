@@ -1,0 +1,71 @@
+{
+  "hand_id": "257168248205",
+  "date": "01-08-2025 11:12:21",
+  "table": "Jupiter",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ts",
+    "4h"
+  ],
+  "stacks": {
+    "sifilis5": 100.0,
+    "Filou203": 116.0,
+    "SrLyce": 115.5,
+    "LOLA19711971": 32.0,
+    "dadou13mars": 225.0,
+    "Alvii37": 96.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: sifilis5 (2 € en fichas)",
+      "Asiento 2: Filou203 (2.32 € en fichas)",
+      "Asiento 3: SrLyce (2.31 € en fichas)",
+      "Asiento 4: LOLA19711971 (0.64 € en fichas)",
+      "Asiento 5: dadou13mars (4.50 € en fichas)",
+      "Asiento 6: Alvii37 (1.92 € en fichas)",
+      "Filou203: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "LOLA19711971: se retira",
+      "dadou13mars: se retira",
+      "Alvii37: se retira",
+      "sifilis5: se retira",
+      "Filou203: iguala 0.01 €",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "Filou203: pasa",
+      "SrLyce: pasa"
+    ],
+    "turn": [
+      "Filou203: pasa",
+      "SrLyce: pasa"
+    ],
+    "river": [
+      "Filou203: pasa",
+      "SrLyce: pasa",
+      "Filou203: muestra [Th 5h] (pareja de reyes)",
+      "SrLyce: muestra [Ts 4h] (pareja de reyes)",
+      "Asiento 1: sifilis5 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: Filou203 (ciega pequeña) muestra [Th 5h] y ganó (0.02 €) con pareja de reyes",
+      "Asiento 3: SrLyce (ciega grande) muestra [Ts 4h] y ganó (0.02 €) con pareja de reyes",
+      "Asiento 4: LOLA19711971 se retiró antes del Flop (no apostó)",
+      "Asiento 5: dadou13mars se retiró antes del Flop (no apostó)",
+      "Asiento 6: Alvii37 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "6s",
+    "Ks",
+    "Kd",
+    "3h",
+    "9h"
+  ],
+  "winner": "Filou203",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257168248205 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:12:21 CET [01-08-2025 5:12:21 ET]\nMesa \"Jupiter\" 6-max El asiento n.º 1 es el botón\nAsiento 1: sifilis5 (2 € en fichas) \nAsiento 2: Filou203 (2.32 € en fichas) \nAsiento 3: SrLyce (2.31 € en fichas) \nAsiento 4: LOLA19711971 (0.64 € en fichas) \nAsiento 5: dadou13mars (4.50 € en fichas) \nAsiento 6: Alvii37 (1.92 € en fichas) \nFilou203: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ts 4h]\nLOLA19711971: se retira \ndadou13mars: se retira \nAlvii37: se retira \nsifilis5: se retira \nFilou203: iguala 0.01 €\nSrLyce: pasa \n*** FLOP *** [6s Ks Kd]\nFilou203: pasa \nSrLyce: pasa \n*** TURN *** [6s Ks Kd] [3h]\nFilou203: pasa \nSrLyce: pasa \n*** RIVER *** [6s Ks Kd 3h] [9h]\nFilou203: pasa \nSrLyce: pasa \n*** SHOW DOWN ***\nFilou203: muestra [Th 5h] (pareja de reyes)\nSrLyce: muestra [Ts 4h] (pareja de reyes)\nFilou203 se lleva 0.02 € del bote \nSrLyce se lleva 0.02 € del bote \n*** RESUMEN ***\nBote total 0.04 € | Comisión 0 € \nComunitarias [6s Ks Kd 3h 9h]\nAsiento 1: sifilis5 (botón) se retiró antes del Flop (no apostó)\nAsiento 2: Filou203 (ciega pequeña) muestra [Th 5h] y ganó (0.02 €) con pareja de reyes\nAsiento 3: SrLyce (ciega grande) muestra [Ts 4h] y ganó (0.02 €) con pareja de reyes\nAsiento 4: LOLA19711971 se retiró antes del Flop (no apostó)\nAsiento 5: dadou13mars se retiró antes del Flop (no apostó)\nAsiento 6: Alvii37 se retiró antes del Flop (no apostó)"
+}

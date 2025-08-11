@@ -1,0 +1,34 @@
+Mano n.º 257215176114 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:29:07 CET [04-08-2025 16:29:07 ET]
+Mesa "Aldhafera II" 6-max El asiento n.º 6 es el botón
+Asiento 1: wsx25 (1.77 € en fichas) 
+Asiento 2: BudyXXIII (5.88 € en fichas) 
+Asiento 3: SrLyce (1.94 € en fichas) 
+Asiento 4: rhidoxxx (1.33 € en fichas) 
+Asiento 5: jte-ken (2.17 € en fichas) 
+Asiento 6: betterrrrrr (3.53 € en fichas) 
+wsx25: pone la ciega pequeña 0.01 €
+BudyXXIII: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5c Ad]
+SrLyce: se retira 
+rhidoxxx: se retira 
+jte-ken: sube 0.04 € a 0.06 €
+betterrrrrr: iguala 0.06 €
+wsx25: se retira 
+BudyXXIII: se retira 
+*** FLOP *** [6d 9d 2h]
+jte-ken: pasa 
+betterrrrrr: apuesta 0.21 €
+jte-ken: se retira 
+La apuesta no igualada (0.21 €) ha sido devuelta a betterrrrrr
+betterrrrrr se lleva 0.14 € del bote 
+betterrrrrr: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.15 € | Comisión 0.01 € 
+Comunitarias [6d 9d 2h]
+Asiento 1: wsx25 (ciega pequeña) se retiró antes del Flop
+Asiento 2: BudyXXIII (ciega grande) se retiró antes del Flop
+Asiento 3: SrLyce se retiró antes del Flop (no apostó)
+Asiento 4: rhidoxxx se retiró antes del Flop (no apostó)
+Asiento 5: jte-ken se retiró en el Flop
+Asiento 6: betterrrrrr (botón) recaudó (0.14 €)

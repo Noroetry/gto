@@ -1,0 +1,38 @@
+Mano n.º 257237632929 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:43:06 CET [06-08-2025 11:43:06 ET]
+Mesa "Kale III" 6-max El asiento n.º 3 es el botón
+Asiento 5: Begoton (2.05 € en fichas) está ausente
+Asiento 1: x__Nest__x (1.82 € en fichas) 
+Asiento 2: SrLyce (2.34 € en fichas) 
+Asiento 3: Dracoline000 (2.32 € en fichas) 
+Asiento 4: jeffounet33 (1.88 € en fichas) 
+Asiento 6: juanmemol (2.05 € en fichas) 
+jeffounet33: pone la ciega pequeña 0.01 €
+Begoton: está ausente 
+juanmemol: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Qh 9d]
+Begoton deja la mesa
+x__Nest__x: se retira 
+SrLyce: se retira 
+Dracoline000: se retira 
+jeffounet33: iguala 0.01 €
+juanmemol: pasa 
+*** FLOP *** [Ad 9s Qd]
+jeffounet33: pasa 
+juanmemol: pasa 
+*** TURN *** [Ad 9s Qd] [5c]
+jeffounet33: pasa 
+juanmemol: apuesta 0.02 €
+jeffounet33: se retira 
+La apuesta no igualada (0.02 €) ha sido devuelta a juanmemol
+juanmemol se lleva 0.04 € del bote 
+juanmemol: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Comunitarias [Ad 9s Qd 5c]
+Asiento 5: Begoton
+Asiento 1: x__Nest__x se retiró antes del Flop (no apostó)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: Dracoline000 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: jeffounet33 (ciega pequeña) se retiró en el Turn
+Asiento 6: juanmemol (ciega grande) recaudó (0.04 €)

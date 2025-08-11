@@ -1,0 +1,39 @@
+Mano n.º 257238279560 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:43:58 CET [06-08-2025 12:43:58 ET]
+Mesa "Herculina II" 6-max El asiento n.º 3 es el botón
+Asiento 1: koldipk (3.36 € en fichas) 
+Asiento 2: David98X (2.19 € en fichas) 
+Asiento 3: JJer11 (2 € en fichas) 
+Asiento 4: SrLyce (1.79 € en fichas) 
+Asiento 5: El Calvo 65 (4.67 € en fichas) 
+Asiento 6: dragonfly2467 (2 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+El Calvo 65: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5s 6c]
+dragonfly2467: sube 0.04 € a 0.06 €
+koldipk: se retira 
+David98X: se retira 
+JJer11: se retira 
+SrLyce: iguala 0.05 €
+El Calvo 65: se retira 
+*** FLOP *** [Jd Td Kc]
+SrLyce: pasa 
+dragonfly2467: pasa 
+*** TURN *** [Jd Td Kc] [Ts]
+SrLyce: apuesta 0.06 €
+dragonfly2467: iguala 0.06 €
+*** RIVER *** [Jd Td Kc Ts] [2d]
+SrLyce: apuesta 0.19 €
+dragonfly2467: se retira 
+La apuesta no igualada (0.19 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.24 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.26 € | Comisión 0.02 € 
+Comunitarias [Jd Td Kc Ts 2d]
+Asiento 1: koldipk se retiró antes del Flop (no apostó)
+Asiento 2: David98X se retiró antes del Flop (no apostó)
+Asiento 3: JJer11 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce (ciega pequeña) recaudó (0.24 €)
+Asiento 5: El Calvo 65 (ciega grande) se retiró antes del Flop
+Asiento 6: dragonfly2467 se retiró en el River

@@ -1,0 +1,77 @@
+{
+  "hand_id": "257150344413",
+  "date": "30-07-2025 23:35:12",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4h",
+    "Jd"
+  ],
+  "stacks": {
+    "LeVbks": 126.0,
+    "fcis666": 43.5,
+    "Dlaguancha": 111.0,
+    "SrLyce": 90.0,
+    "riverluck444": 84.5,
+    "javipondio": 47.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (2.52 € en fichas)",
+      "Asiento 2: fcis666 (0.87 € en fichas)",
+      "Asiento 3: Dlaguancha (2.22 € en fichas)",
+      "Asiento 4: SrLyce (1.80 € en fichas)",
+      "Asiento 5: riverluck444 (1.69 € en fichas)",
+      "Asiento 6: javipondio (0.94 € en fichas)",
+      "javipondio: pone la ciega pequeña 0.01 €",
+      "LeVbks: pone la ciega grande 0.02 €",
+      "fcis666: se retira",
+      "Dlaguancha: iguala 0.02 €",
+      "SrLyce: se retira",
+      "riverluck444: se retira",
+      "javipondio: sube 0.02 € a 0.04 €",
+      "LeVbks: iguala 0.02 €",
+      "Dlaguancha: iguala 0.02 €"
+    ],
+    "flop": [
+      "javipondio: apuesta 0.02 €",
+      "LeVbks: iguala 0.02 €",
+      "Dlaguancha: iguala 0.02 €"
+    ],
+    "turn": [
+      "javipondio: apuesta 0.02 €",
+      "LeVbks: iguala 0.02 €",
+      "Dlaguancha: iguala 0.02 €"
+    ],
+    "river": [
+      "javipondio: apuesta 0.02 €",
+      "LeVbks: iguala 0.02 €",
+      "Dlaguancha: sube 0.15 € a 0.17 €",
+      "javipondio: se retira",
+      "LeVbks: iguala 0.15 €",
+      "Dlaguancha: muestra [Tc Ac] (color, carta alta as)",
+      "LeVbks: descarta su mano sin mostrar",
+      "Asiento 1: LeVbks (ciega grande) descartó sin mostrar [Kd Jc]",
+      "Asiento 2: fcis666 se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dlaguancha muestra [Tc Ac] y ganó (0.56 €) con color, carta alta as",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: javipondio (ciega pequeña) se retiró en el River"
+    ]
+  },
+  "board": [
+    "5c",
+    "Kc",
+    "4d",
+    "3c",
+    "8h"
+  ],
+  "winner": "Dlaguancha",
+  "win_amount": 28.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257150344413 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:35:12 CET [30-07-2025 17:35:12 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 5 es el botón\nAsiento 1: LeVbks (2.52 € en fichas) \nAsiento 2: fcis666 (0.87 € en fichas) \nAsiento 3: Dlaguancha (2.22 € en fichas) \nAsiento 4: SrLyce (1.80 € en fichas) \nAsiento 5: riverluck444 (1.69 € en fichas) \nAsiento 6: javipondio (0.94 € en fichas) \njavipondio: pone la ciega pequeña 0.01 €\nLeVbks: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4h Jd]\nfcis666: se retira \nDlaguancha: iguala 0.02 €\nSrLyce: se retira \nriverluck444: se retira \njavipondio: sube 0.02 € a 0.04 €\nLeVbks: iguala 0.02 €\nfcis666 no tiene conexión \nDlaguancha no tiene conexión \nDlaguancha tiene conexión \nDlaguancha: iguala 0.02 €\n*** FLOP *** [5c Kc 4d]\nfcis666 no tiene conexión \njavipondio: apuesta 0.02 €\nLeVbks: iguala 0.02 €\nDlaguancha: iguala 0.02 €\n*** TURN *** [5c Kc 4d] [3c]\njavipondio: apuesta 0.02 €\nLeVbks: iguala 0.02 €\nfcis666 no tiene conexión \nDlaguancha: iguala 0.02 €\n*** RIVER *** [5c Kc 4d 3c] [8h]\njavipondio: apuesta 0.02 €\nLeVbks: iguala 0.02 €\nDlaguancha: sube 0.15 € a 0.17 €\njavipondio: se retira \nfcis666 no tiene conexión \nLeVbks: iguala 0.15 €\n*** SHOW DOWN ***\nDlaguancha: muestra [Tc Ac] (color, carta alta as)\nLeVbks: descarta su mano sin mostrar \nDlaguancha se lleva 0.56 € del bote \n*** RESUMEN ***\nBote total 0.60 € | Comisión 0.04 € \nComunitarias [5c Kc 4d 3c 8h]\nAsiento 1: LeVbks (ciega grande) descartó sin mostrar [Kd Jc]\nAsiento 2: fcis666 se retiró antes del Flop (no apostó)\nAsiento 3: Dlaguancha muestra [Tc Ac] y ganó (0.56 €) con color, carta alta as\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: javipondio (ciega pequeña) se retiró en el River"
+}

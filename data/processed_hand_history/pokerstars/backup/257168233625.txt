@@ -1,0 +1,45 @@
+Mano n.º 257168233625 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:09:30 CET [01-08-2025 5:09:30 ET]
+Mesa "Sekanina" 6-max El asiento n.º 2 es el botón
+Asiento 1: DagonBZH56 (1.60 € en fichas) está ausente
+Asiento 2: practikal_C23 (1.65 € en fichas) 
+Asiento 3: Alvii37 (2.02 € en fichas) 
+Asiento 4: SrLyce (1.84 € en fichas) 
+Asiento 5: davinci1962 (2.13 € en fichas) 
+Asiento 6: Elministrelas (1.92 € en fichas) 
+Alvii37: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+DagonBZH56: se ausenta 
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [As Kc]
+davinci1962: se retira 
+Elministrelas: se retira 
+practikal_C23: iguala 0.02 €
+Alvii37: se retira 
+SrLyce: sube 0.04 € a 0.06 €
+practikal_C23: iguala 0.04 €
+*** FLOP *** [Js 8d 7s]
+SrLyce: apuesta 0.04 €
+practikal_C23: sube 0.04 € a 0.08 €
+SrLyce: iguala 0.04 €
+*** TURN *** [Js 8d 7s] [Ts]
+Alvii37 no tiene conexión 
+SrLyce: pasa 
+practikal_C23: apuesta 0.04 €
+SrLyce: iguala 0.04 €
+*** RIVER *** [Js 8d 7s Ts] [Qd]
+SrLyce: apuesta 1.66 € y está all-in
+practikal_C23: iguala 1.47 € y está all-in
+La apuesta no igualada (0.19 €) ha sido devuelta a SrLyce
+*** SHOW DOWN ***
+SrLyce: muestra [As Kc] (escalera, de diez a as)
+practikal_C23: muestra [Qh Qc] (trío de damas)
+SrLyce se lleva 3.16 € del bote 
+*** RESUMEN ***
+Bote total 3.31 € | Comisión 0.15 € 
+Comunitarias [Js 8d 7s Ts Qd]
+Asiento 1: DagonBZH56
+Asiento 2: practikal_C23 (botón) muestra [Qh Qc] y perdió con trío de damas
+Asiento 3: Alvii37 (ciega pequeña) se retiró antes del Flop
+Asiento 4: SrLyce (ciega grande) muestra [As Kc] y ganó (3.16 €) con escalera, de diez a as
+Asiento 5: davinci1962 se retiró antes del Flop (no apostó)
+Asiento 6: Elministrelas se retiró antes del Flop (no apostó)

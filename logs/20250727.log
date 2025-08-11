@@ -1,0 +1,38 @@
+2025-07-27 | 17:07 - INFO : Logging system configured correctly.
+2025-07-27 | 17:07 - INFO : Inicio de aplicación
+2025-07-27 | 17:07 - INFO : Fin de aplicación
+2025-07-27 | 17:10 - INFO : Inicio de aplicación
+2025-07-27 | 17:10 - INFO : Fin de aplicación
+2025-07-27 | 18:17 - INFO - __main__: Inicio de aplicación
+2025-07-27 | 18:17 - INFO - __main__: Procesando sala: pokerstars
+2025-07-27 | 18:17 - INFO - src.rooms.pokerstars_room: Starting recollection of hand history files from PokerStars...
+2025-07-27 | 18:17 - INFO - src.rooms.pokerstars_room: Files collected from PokerStars: 6
+2025-07-27 | 18:17 - INFO - __main__: Fin de aplicación
+
+
+2025-07-27 | 18:21 - INFO - __main__: Inicio de aplicación
+2025-07-27 | 18:21 - INFO - __main__: Procesando sala: pokerstars
+2025-07-27 | 18:21 - INFO - src.rooms.pokerstars_room: Starting recollection of hand history files from PokerStars...
+2025-07-27 | 18:21 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb #2 - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:21 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb #3 - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:21 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb #4 - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:21 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:21 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Lavonne VI - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:21 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250726 Arneb - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:21 - INFO - src.rooms.pokerstars_room: Files collected from PokerStars: 0
+2025-07-27 | 18:21 - INFO - __main__: Fin de aplicación
+
+
+2025-07-27 | 18:28 - INFO - __main__: Inicio de aplicación
+2025-07-27 | 18:28 - INFO - __main__: Procesando sala: pokerstars
+2025-07-27 | 18:28 - INFO - src.rooms.pokerstars_room: Starting recollection of hand history files from PokerStars...
+2025-07-27 | 18:28 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb #2 - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:28 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb #3 - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:28 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb #4 - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:28 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Arneb - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:28 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250724 Lavonne VI - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:28 - WARNING - src.collectors.pokerstars_collector: File already exists at destination: HH20250726 Arneb - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt
+2025-07-27 | 18:28 - INFO - src.rooms.pokerstars_room: Files collected from PokerStars: 0
+2025-07-27 | 18:28 - INFO - __main__: Fin de aplicación
+
+

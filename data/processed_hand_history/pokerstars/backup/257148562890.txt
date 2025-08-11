@@ -1,0 +1,35 @@
+Mano n.º 257148562890 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:28:08 CET [30-07-2025 15:28:08 ET]
+Mesa "Sirona" 6-max El asiento n.º 6 es el botón
+Asiento 2: Alfi11111 (2 € en fichas) está ausente
+Asiento 1: SrLyce (1.74 € en fichas) 
+Asiento 3: christoph363 (3.65 € en fichas) 
+Asiento 5: varvase (4.01 € en fichas) 
+Asiento 6: Dakoo44 (1.01 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+oliverdu70 se une a la mesa en el asiento n.º 4 
+Alfi11111 ha agotado su tiempo
+Alfi11111: está ausente 
+christoph363: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Js Qc]
+varvase: sube 0.02 € a 0.04 €
+Dakoo44: se retira 
+SrLyce: sube 0.08 € a 0.12 €
+christoph363: se retira 
+varvase: iguala 0.08 €
+*** FLOP *** [7c 2s Qh]
+Alfi11111 no tiene conexión 
+Alfi11111 deja la mesa
+SrLyce: apuesta 0.08 €
+varvase: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.24 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.26 € | Comisión 0.02 € 
+Comunitarias [7c 2s Qh]
+Asiento 2: Alfi11111
+Asiento 1: SrLyce (ciega pequeña) recaudó (0.24 €)
+Asiento 3: christoph363 (ciega grande) se retiró antes del Flop
+Asiento 5: varvase se retiró en el Flop
+Asiento 6: Dakoo44 (botón) se retiró antes del Flop (no apostó)

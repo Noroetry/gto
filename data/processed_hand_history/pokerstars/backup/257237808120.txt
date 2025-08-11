@@ -1,0 +1,34 @@
+Mano n.º 257237808120 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:01:14 CET [06-08-2025 12:01:14 ET]
+Mesa "Euneus III" 6-max El asiento n.º 2 es el botón
+Asiento 1: DeMula62 (2.07 € en fichas) 
+Asiento 2: Il_BM00 (2.13 € en fichas) 
+Asiento 3: djrojas9 (2.78 € en fichas) 
+Asiento 5: SrLyce (2.44 € en fichas) 
+djrojas9: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ah 6d]
+DeMula62: se retira 
+Il_BM00: se retira 
+djrojas9: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [5d 3d 6h]
+djrojas9: apuesta 0.02 €
+SrLyce: iguala 0.02 €
+*** TURN *** [5d 3d 6h] [5h]
+djrojas9: apuesta 0.04 €
+SrLyce: iguala 0.04 €
+*** RIVER *** [5d 3d 6h 5h] [7h]
+djrojas9: apuesta 0.08 €
+SrLyce: iguala 0.08 €
+*** SHOW DOWN ***
+djrojas9: muestra [5c 8c] (trío de cincos)
+SrLyce: descarta su mano sin mostrar 
+djrojas9 se lleva 0.30 € del bote 
+*** RESUMEN ***
+Bote total 0.32 € | Comisión 0.02 € 
+Comunitarias [5d 3d 6h 5h 7h]
+Asiento 1: DeMula62 se retiró antes del Flop (no apostó)
+Asiento 2: Il_BM00 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: djrojas9 (ciega pequeña) muestra [5c 8c] y ganó (0.30 €) con trío de cincos
+Asiento 5: SrLyce (ciega grande) descartó sin mostrar [Ah 6d]

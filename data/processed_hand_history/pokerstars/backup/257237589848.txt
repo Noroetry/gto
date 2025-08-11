@@ -1,0 +1,40 @@
+Mano n.º 257237589848 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:38:56 CET [06-08-2025 11:38:56 ET]
+Mesa "Themisto III" 6-max El asiento n.º 4 es el botón
+Asiento 1: elso253 (1.56 € en fichas) 
+Asiento 2: SrLyce (2.63 € en fichas) 
+Asiento 3: idigon (0.21 € en fichas) 
+Asiento 4: fred2d23po (1.54 € en fichas) 
+Asiento 5: mivipkr (2.17 € en fichas) 
+Asiento 6: marignamo (1.81 € en fichas) 
+mivipkr: pone la ciega pequeña 0.01 €
+marignamo: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Td 2d]
+elso253: se retira 
+elso253 deja la mesa
+SrLyce: se retira 
+idigon: sube 0.02 € a 0.04 €
+fred2d23po: iguala 0.04 €
+mivipkr: se retira 
+marignamo: se retira 
+*** FLOP *** [8h 9c 2h]
+idigon: apuesta 0.02 €
+fred2d23po: iguala 0.02 €
+*** TURN *** [8h 9c 2h] [7h]
+idigon: apuesta 0.02 €
+fred2d23po: iguala 0.02 €
+*** RIVER *** [8h 9c 2h 7h] [Jh]
+idigon: apuesta 0.02 €
+fred2d23po: sube 0.22 € a 0.24 €
+idigon: se retira 
+La apuesta no igualada (0.22 €) ha sido devuelta a fred2d23po
+fred2d23po se lleva 0.22 € del bote 
+*** RESUMEN ***
+Bote total 0.23 € | Comisión 0.01 € 
+Comunitarias [8h 9c 2h 7h Jh]
+Asiento 1: elso253 se retiró antes del Flop (no apostó)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: idigon se retiró en el River
+Asiento 4: fred2d23po (botón) recaudó (0.22 €)
+Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop
+Asiento 6: marignamo (ciega grande) se retiró antes del Flop

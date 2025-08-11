@@ -1,0 +1,66 @@
+{
+  "hand_id": "257150347438",
+  "date": "30-07-2025 23:35:25",
+  "table": "Martha",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6s",
+    "Kc"
+  ],
+  "stacks": {
+    "Sigiilo": 100.0,
+    "mivipkr": 103.5,
+    "NovacaineZxc": 120.0,
+    "BudyXXIII": 105.5,
+    "SrLyce": 97.5,
+    "coyallen": 97.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: Sigiilo (2 € en fichas) está ausente",
+      "Asiento 1: mivipkr (2.07 € en fichas)",
+      "Asiento 2: NovacaineZxc (2.40 € en fichas)",
+      "Asiento 3: BudyXXIII (2.11 € en fichas)",
+      "Asiento 5: SrLyce (1.95 € en fichas)",
+      "Asiento 6: coyallen (1.95 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "coyallen: pone la ciega grande 0.02 €",
+      "mivipkr: se retira",
+      "NovacaineZxc: sube 0.04 € a 0.06 €",
+      "BudyXXIII: se retira",
+      "SrLyce: se retira",
+      "coyallen: iguala 0.04 €"
+    ],
+    "flop": [
+      "coyallen: pasa",
+      "NovacaineZxc: pasa"
+    ],
+    "turn": [
+      "coyallen: pasa",
+      "NovacaineZxc: apuesta 0.06 €",
+      "coyallen: se retira",
+      "NovacaineZxc: no muestra su mano",
+      "Asiento 4: Sigiilo",
+      "Asiento 1: mivipkr se retiró antes del Flop (no apostó)",
+      "Asiento 2: NovacaineZxc recaudó (0.12 €)",
+      "Asiento 3: BudyXXIII (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: SrLyce (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: coyallen (ciega grande) se retiró en el Turn"
+    ],
+    "river": []
+  },
+  "board": [
+    "Ts",
+    "9h",
+    "9c",
+    "Qd"
+  ],
+  "winner": "NovacaineZxc",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257150347438 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:35:25 CET [30-07-2025 17:35:25 ET]\nMesa \"Martha\" 6-max El asiento n.º 3 es el botón\nAsiento 4: Sigiilo (2 € en fichas) está ausente\nAsiento 1: mivipkr (2.07 € en fichas) \nAsiento 2: NovacaineZxc (2.40 € en fichas) \nAsiento 3: BudyXXIII (2.11 € en fichas) \nAsiento 5: SrLyce (1.95 € en fichas) \nAsiento 6: coyallen (1.95 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\ncoyallen: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6s Kc]\nmivipkr: se retira \nNovacaineZxc: sube 0.04 € a 0.06 €\nBudyXXIII: se retira \nSrLyce: se retira \ncoyallen: iguala 0.04 €\n*** FLOP *** [Ts 9h 9c]\ncoyallen: pasa \nNovacaineZxc: pasa \n*** TURN *** [Ts 9h 9c] [Qd]\ncoyallen: pasa \nNovacaineZxc: apuesta 0.06 €\ncoyallen: se retira \nLa apuesta no igualada (0.06 €) ha sido devuelta a NovacaineZxc\nNovacaineZxc se lleva 0.12 € del bote \nNovacaineZxc: no muestra su mano \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [Ts 9h 9c Qd]\nAsiento 4: Sigiilo\nAsiento 1: mivipkr se retiró antes del Flop (no apostó)\nAsiento 2: NovacaineZxc recaudó (0.12 €)\nAsiento 3: BudyXXIII (botón) se retiró antes del Flop (no apostó)\nAsiento 5: SrLyce (ciega pequeña) se retiró antes del Flop\nAsiento 6: coyallen (ciega grande) se retiró en el Turn"
+}

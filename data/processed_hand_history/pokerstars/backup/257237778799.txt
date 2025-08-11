@@ -1,0 +1,40 @@
+Mano n.º 257237778799 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:57:41 CET [06-08-2025 11:57:41 ET]
+Mesa "Virtus" 6-max El asiento n.º 5 es el botón
+Asiento 1: Kingzilla87 (3.39 € en fichas) está ausente
+Asiento 2: SrLyce (1.93 € en fichas) 
+Asiento 3: pullup0 (0.75 € en fichas) 
+Asiento 4: JGDOBLAS (2 € en fichas) 
+Asiento 5: don.corle (2.80 € en fichas) 
+Asiento 6: rudik34385 (2.12 € en fichas) 
+rudik34385: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [2d 6d]
+pullup0: iguala 0.02 €
+JGDOBLAS: se retira 
+don.corle: se retira 
+rudik34385: iguala 0.01 €
+SrLyce: pasa 
+*** FLOP *** [7s Jd 5d]
+rudik34385: apuesta 0.14 €
+SrLyce: sube 0.20 € a 0.34 €
+pullup0: se retira 
+rudik34385: iguala 0.20 €
+*** TURN *** [7s Jd 5d] [7c]
+rudik34385: apuesta 0.44 €
+SrLyce: sube 1.13 € a 1.57 € y está all-in
+rudik34385: iguala 1.13 €
+*** RIVER *** [7s Jd 5d 7c] [Qs]
+*** SHOW DOWN ***
+rudik34385: muestra [Jh 7d] (full de sietes y jotas)
+SrLyce: muestra [2d 6d] (pareja de sietes)
+rudik34385 se lleva 3.73 € del bote 
+*** RESUMEN ***
+Bote total 3.88 € | Comisión 0.15 € 
+Comunitarias [7s Jd 5d 7c Qs]
+Asiento 1: Kingzilla87
+Asiento 2: SrLyce (ciega grande) muestra [2d 6d] y perdió con pareja de sietes
+Asiento 3: pullup0 se retiró en el Flop
+Asiento 4: JGDOBLAS se retiró antes del Flop (no apostó)
+Asiento 5: don.corle (botón) se retiró antes del Flop (no apostó)
+Asiento 6: rudik34385 (ciega pequeña) muestra [Jh 7d] y ganó (3.73 €) con full de sietes y jotas

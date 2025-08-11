@@ -1,0 +1,57 @@
+Mano n.º 257236856631 de PokerStars: Torneo n.º 3916267939, 1.38 €+0.12 € EUR Hold'em No Limit - Nivel I (25/50) - 06-08-2025 17:15:51 CET [06-08-2025 11:15:51 ET]
+Mesa "3916267939 1" 8-max El asiento n.º 3 es el botón
+Asiento 1: SrLyce (480 en fichas) 
+Asiento 2: sylvyb (430 en fichas) 
+Asiento 3: Jimyelkaiser (990 en fichas) 
+Asiento 4: soriano73 (430 en fichas) 
+Asiento 5: heretik2b (50 en fichas) 
+Asiento 6: joaquinrecle67 (660 en fichas) 
+Asiento 7: Bernesaragon (480 en fichas) 
+Asiento 8: Zweimoncuvo (480 en fichas) 
+SrLyce: pone el ante 10
+sylvyb: pone el ante 10
+Jimyelkaiser: pone el ante 10
+soriano73: pone el ante 10
+heretik2b: pone el ante 10
+joaquinrecle67: pone el ante 10
+Bernesaragon: pone el ante 10
+Zweimoncuvo: pone el ante 10
+soriano73: pone la ciega pequeña 25
+heretik2b: pone la ciega grande 40 y está all-in
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kc Ks]
+joaquinrecle67: iguala 50
+Bernesaragon: se retira 
+Zweimoncuvo: sube 150 a 200
+SrLyce: sube 270 a 470 y está all-in
+sylvyb: iguala 420 y está all-in
+Jimyelkaiser: se retira 
+soriano73: iguala 395 y está all-in
+joaquinrecle67: se retira 
+Zweimoncuvo: iguala 270 y está all-in
+*** FLOP *** [Jh 6d 5c]
+*** TURN *** [Jh 6d 5c] [Td]
+*** RIVER *** [Jh 6d 5c Td] [7h]
+*** SHOW DOWN ***
+Zweimoncuvo: muestra [3c 3h] (pareja de treses)
+SrLyce: muestra [Kc Ks] (pareja de reyes)
+SrLyce se lleva 100 del bote  secundario-2 
+sylvyb: muestra [Qd Qc] (pareja de damas)
+soriano73: muestra [Ad 8s] (carta alta as)
+SrLyce se lleva 1530 del bote  secundario-1 
+heretik2b: muestra [Th 5d] (doble pareja, dieces y cincos)
+heretik2b se lleva 320 del bote  principal
+Zweimoncuvo ha finalizado el torneo en 6.º posición
+sylvyb ha finalizado el torneo en 7.º posición
+soriano73 ha finalizado el torneo en 7.º posición
+*** RESUMEN ***
+Bote total 1950 Bote principal 320. Bote-1 secundario 1530. Bote-2 secundario 100. | Comisión 0 
+Comunitarias [Jh 6d 5c Td 7h]
+Asiento 1: SrLyce muestra [Kc Ks] y ganó (1630) con pareja de reyes
+Asiento 2: sylvyb muestra [Qd Qc] y perdió con pareja de damas
+Asiento 3: Jimyelkaiser (botón) se retiró antes del Flop (no apostó)
+Asiento 4: soriano73 (ciega pequeña) muestra [Ad 8s] y perdió con carta alta as
+Asiento 5: heretik2b (ciega grande) muestra [Th 5d] y ganó (320) con doble pareja, dieces y cincos
+Asiento 6: joaquinrecle67 se retiró antes del Flop
+Asiento 7: Bernesaragon se retiró antes del Flop (no apostó)
+Asiento 8: Zweimoncuvo muestra [3c 3h] y perdió con pareja de treses

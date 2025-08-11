@@ -1,0 +1,71 @@
+{
+  "hand_id": "257238665812",
+  "date": "06-08-2025 19:18:53",
+  "table": "Adelaide III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9c",
+    "Ts"
+  ],
+  "stacks": {
+    "Alceo27": 103.5,
+    "aliendee07": 43.0,
+    "Macklemore0": 105.5,
+    "SrLyce": 130.0,
+    "ismagonzalez7": 58.0,
+    "McFlash3": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Alceo27 (2.07 € en fichas)",
+      "Asiento 2: aliendee07 (0.86 € en fichas)",
+      "Asiento 3: Macklemore0 (2.11 € en fichas)",
+      "Asiento 4: SrLyce (2.60 € en fichas)",
+      "Asiento 5: ismagonzalez7 (1.16 € en fichas)",
+      "Asiento 6: McFlash3 (2 € en fichas)",
+      "Macklemore0: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "ismagonzalez7: se retira",
+      "McFlash3: se retira",
+      "Alceo27: sube 0.03 € a 0.05 €",
+      "aliendee07: se retira",
+      "Macklemore0: se retira",
+      "SrLyce: iguala 0.03 €"
+    ],
+    "flop": [
+      "SrLyce: apuesta 0.03 €",
+      "Alceo27: iguala 0.03 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "Alceo27: pasa"
+    ],
+    "river": [
+      "SrLyce: apuesta 0.08 €",
+      "Alceo27: iguala 0.08 €",
+      "SrLyce: muestra [9c Ts] (doble pareja, nueves y ochos)",
+      "Alceo27: muestra [Qd 8d] (trío de ochos)",
+      "Asiento 1: Alceo27 muestra [Qd 8d] y ganó (0.31 €) con trío de ochos",
+      "Asiento 2: aliendee07 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: Macklemore0 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: SrLyce (ciega grande) muestra [9c Ts] y perdió con doble pareja, nueves y ochos",
+      "Asiento 5: ismagonzalez7 se retiró antes del Flop (no apostó)",
+      "Asiento 6: McFlash3 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "4d",
+    "8h",
+    "9s",
+    "Ad",
+    "8c"
+  ],
+  "winner": "Alceo27",
+  "win_amount": 15.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238665812 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:18:53 CET [06-08-2025 13:18:53 ET]\nMesa \"Adelaide III\" 6-max El asiento n.º 2 es el botón\nAsiento 1: Alceo27 (2.07 € en fichas) \nAsiento 2: aliendee07 (0.86 € en fichas) \nAsiento 3: Macklemore0 (2.11 € en fichas) \nAsiento 4: SrLyce (2.60 € en fichas) \nAsiento 5: ismagonzalez7 (1.16 € en fichas) \nAsiento 6: McFlash3 (2 € en fichas) \nMacklemore0: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9c Ts]\nismagonzalez7: se retira \nMcFlash3: se retira \nAlceo27: sube 0.03 € a 0.05 €\naliendee07: se retira \nMacklemore0: se retira \nSrLyce: iguala 0.03 €\n*** FLOP *** [4d 8h 9s]\nSrLyce: apuesta 0.03 €\nAlceo27: iguala 0.03 €\n*** TURN *** [4d 8h 9s] [Ad]\nSrLyce: pasa \nAlceo27: pasa \n*** RIVER *** [4d 8h 9s Ad] [8c]\nSrLyce: apuesta 0.08 €\nAlceo27: iguala 0.08 €\n*** SHOW DOWN ***\nSrLyce: muestra [9c Ts] (doble pareja, nueves y ochos)\nAlceo27: muestra [Qd 8d] (trío de ochos)\nAlceo27 se lleva 0.31 € del bote \n*** RESUMEN ***\nBote total 0.33 € | Comisión 0.02 € \nComunitarias [4d 8h 9s Ad 8c]\nAsiento 1: Alceo27 muestra [Qd 8d] y ganó (0.31 €) con trío de ochos\nAsiento 2: aliendee07 (botón) se retiró antes del Flop (no apostó)\nAsiento 3: Macklemore0 (ciega pequeña) se retiró antes del Flop\nAsiento 4: SrLyce (ciega grande) muestra [9c Ts] y perdió con doble pareja, nueves y ochos\nAsiento 5: ismagonzalez7 se retiró antes del Flop (no apostó)\nAsiento 6: McFlash3 se retiró antes del Flop (no apostó)"
+}

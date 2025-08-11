@@ -1,0 +1,74 @@
+{
+  "hand_id": "257148674263",
+  "date": "30-07-2025 21:36:01",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7s",
+    "Jh"
+  ],
+  "stacks": {
+    "gabriella657": 285.0,
+    "Zorgue1080": 106.5,
+    "SrLyce": 95.5,
+    "Davdgoni": 159.5,
+    "DiaZzZ1": 111.0,
+    "berlcht403": 31.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: gabriella657 (5.70 € en fichas) está ausente",
+      "Asiento 1: Zorgue1080 (2.13 € en fichas)",
+      "Asiento 2: SrLyce (1.91 € en fichas)",
+      "Asiento 4: Davdgoni (3.19 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2.22 € en fichas)",
+      "Asiento 6: berlcht403 (0.63 € en fichas)",
+      "berlcht403: pone la ciega pequeña 0.01 €",
+      "Zorgue1080: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "Davdgoni: se retira",
+      "DiaZzZ1: sube 0.03 € a 0.05 €",
+      "berlcht403: iguala 0.04 €",
+      "Zorgue1080: iguala 0.03 €"
+    ],
+    "flop": [
+      "berlcht403: pasa",
+      "Zorgue1080: pasa",
+      "DiaZzZ1: pasa"
+    ],
+    "turn": [
+      "berlcht403: pasa",
+      "Zorgue1080: pasa",
+      "DiaZzZ1: pasa"
+    ],
+    "river": [
+      "berlcht403: pasa",
+      "Zorgue1080: pasa",
+      "DiaZzZ1: apuesta 0.07 €",
+      "berlcht403: se retira",
+      "Zorgue1080: se retira",
+      "DiaZzZ1: no muestra su mano",
+      "Asiento 3: gabriella657",
+      "Asiento 1: Zorgue1080 (ciega grande) se retiró en el River",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 4: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 5: DiaZzZ1 (botón) recaudó (0.14 €)",
+      "Asiento 6: berlcht403 (ciega pequeña) se retiró en el River"
+    ]
+  },
+  "board": [
+    "2c",
+    "3d",
+    "Qd",
+    "2h",
+    "Ah"
+  ],
+  "winner": "DiaZzZ1",
+  "win_amount": 7.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257148674263 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:36:01 CET [30-07-2025 15:36:01 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 5 es el botón\nAsiento 3: gabriella657 (5.70 € en fichas) está ausente\nAsiento 1: Zorgue1080 (2.13 € en fichas) \nAsiento 2: SrLyce (1.91 € en fichas) \nAsiento 4: Davdgoni (3.19 € en fichas) \nAsiento 5: DiaZzZ1 (2.22 € en fichas) \nAsiento 6: berlcht403 (0.63 € en fichas) \nberlcht403: pone la ciega pequeña 0.01 €\nZorgue1080: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7s Jh]\nSrLyce: se retira \nDavdgoni: se retira \nDiaZzZ1: sube 0.03 € a 0.05 €\nberlcht403: iguala 0.04 €\nZorgue1080: iguala 0.03 €\n*** FLOP *** [2c 3d Qd]\nberlcht403: pasa \nZorgue1080: pasa \nDiaZzZ1: pasa \n*** TURN *** [2c 3d Qd] [2h]\nberlcht403: pasa \nZorgue1080: pasa \nDiaZzZ1: pasa \n*** RIVER *** [2c 3d Qd 2h] [Ah]\nberlcht403: pasa \nZorgue1080: pasa \nDiaZzZ1: apuesta 0.07 €\nberlcht403: se retira \nZorgue1080: se retira \nLa apuesta no igualada (0.07 €) ha sido devuelta a DiaZzZ1\nDiaZzZ1 se lleva 0.14 € del bote \nDiaZzZ1: no muestra su mano \n*** RESUMEN ***\nBote total 0.15 € | Comisión 0.01 € \nComunitarias [2c 3d Qd 2h Ah]\nAsiento 3: gabriella657\nAsiento 1: Zorgue1080 (ciega grande) se retiró en el River\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 4: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 5: DiaZzZ1 (botón) recaudó (0.14 €)\nAsiento 6: berlcht403 (ciega pequeña) se retiró en el River"
+}

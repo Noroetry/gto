@@ -1,0 +1,67 @@
+{
+  "hand_id": "257149270215",
+  "date": "30-07-2025 22:20:01",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9c",
+    "8d"
+  ],
+  "stacks": {
+    "ansiedadd": 43.0,
+    "SrLyce": 197.5,
+    "NoahBolete": 117.5,
+    "BPEPMLP": 100.0,
+    "DiaZzZ1": 95.0,
+    "elketefaka1": 4.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: ansiedadd (0.86 € en fichas)",
+      "Asiento 2: SrLyce (3.95 € en fichas)",
+      "Asiento 3: NoahBolete (2.35 € en fichas)",
+      "Asiento 4: BPEPMLP (2 € en fichas)",
+      "Asiento 5: DiaZzZ1 (1.90 € en fichas)",
+      "Asiento 6: elketefaka1 (0.08 € en fichas)",
+      "elketefaka1: pone la ciega pequeña 0.01 €",
+      "ansiedadd: pone la ciega grande 0.02 €",
+      "BPEPMLP: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "NoahBolete: se retira",
+      "BPEPMLP: pasa",
+      "DiaZzZ1: se retira",
+      "elketefaka1: se retira",
+      "ansiedadd: pasa"
+    ],
+    "flop": [
+      "ansiedadd: pasa",
+      "BPEPMLP: pasa"
+    ],
+    "turn": [
+      "ansiedadd: apuesta 0.04 €",
+      "BPEPMLP: se retira",
+      "ansiedadd: no muestra su mano",
+      "Asiento 1: ansiedadd (ciega grande) recaudó (0.05 €)",
+      "Asiento 2: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 3: NoahBolete se retiró antes del Flop (no apostó)",
+      "Asiento 4: BPEPMLP se retiró en el Turn (no apostó)",
+      "Asiento 5: DiaZzZ1 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: elketefaka1 (ciega pequeña) se retiró antes del Flop"
+    ],
+    "river": []
+  },
+  "board": [
+    "9d",
+    "6c",
+    "6d",
+    "8h"
+  ],
+  "winner": "ansiedadd",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257149270215 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:20:01 CET [30-07-2025 16:20:01 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 5 es el botón\nAsiento 1: ansiedadd (0.86 € en fichas) \nAsiento 2: SrLyce (3.95 € en fichas) \nAsiento 3: NoahBolete (2.35 € en fichas) \nAsiento 4: BPEPMLP (2 € en fichas) \nAsiento 5: DiaZzZ1 (1.90 € en fichas) \nAsiento 6: elketefaka1 (0.08 € en fichas) \nelketefaka1: pone la ciega pequeña 0.01 €\nansiedadd: pone la ciega grande 0.02 €\nBPEPMLP: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9c 8d]\nSrLyce: se retira \nNoahBolete: se retira \nBPEPMLP: pasa \nDiaZzZ1: se retira \nelketefaka1: se retira \nansiedadd: pasa \n*** FLOP *** [9d 6c 6d]\nansiedadd: pasa \nBPEPMLP: pasa \n*** TURN *** [9d 6c 6d] [8h]\nansiedadd: apuesta 0.04 €\nBPEPMLP: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a ansiedadd\nansiedadd se lleva 0.05 € del bote \nansiedadd: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nComunitarias [9d 6c 6d 8h]\nAsiento 1: ansiedadd (ciega grande) recaudó (0.05 €)\nAsiento 2: SrLyce se retiró antes del Flop (no apostó)\nAsiento 3: NoahBolete se retiró antes del Flop (no apostó)\nAsiento 4: BPEPMLP se retiró en el Turn (no apostó)\nAsiento 5: DiaZzZ1 (botón) se retiró antes del Flop (no apostó)\nAsiento 6: elketefaka1 (ciega pequeña) se retiró antes del Flop"
+}

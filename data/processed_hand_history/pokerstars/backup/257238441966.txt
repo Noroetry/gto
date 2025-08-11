@@ -1,0 +1,38 @@
+Mano n.º 257238441966 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:59:19 CET [06-08-2025 12:59:19 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 2 es el botón
+Asiento 1: SrLyce (2.76 € en fichas) 
+Asiento 2: zoioachado (0.94 € en fichas) 
+Asiento 3: yonisanlu (2 € en fichas) 
+Asiento 4: serviettski(fr) (2.05 € en fichas) 
+Asiento 5: Nicanor Cast (1.05 € en fichas) 
+Asiento 6: rayao32 (0.87 € en fichas) 
+yonisanlu: pone la ciega pequeña 0.01 €
+serviettski(fr): pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5c 9c]
+Nicanor Cast: se retira 
+rayao32: iguala 0.02 €
+SrLyce: se retira 
+zoioachado: sube 0.07 € a 0.09 €
+yonisanlu: sube 0.17 € a 0.26 €
+serviettski(fr): se retira 
+rayao32: se retira 
+zoioachado: sube 0.68 € a 0.94 € y está all-in
+yonisanlu: iguala 0.68 €
+*** FLOP *** [5d 2d Ks]
+*** TURN *** [5d 2d Ks] [3d]
+*** RIVER *** [5d 2d Ks 3d] [4s]
+*** SHOW DOWN ***
+yonisanlu: muestra [Kh Ac] (escalera, de as a cinco)
+zoioachado: muestra [Js Jd] (pareja de jotas)
+yonisanlu se lleva 1.80 € del bote 
+zoioachado no tiene conexión 
+*** RESUMEN ***
+Bote total 1.92 € | Comisión 0.12 € 
+Comunitarias [5d 2d Ks 3d 4s]
+Asiento 1: SrLyce se retiró antes del Flop (no apostó)
+Asiento 2: zoioachado (botón) muestra [Js Jd] y perdió con pareja de jotas
+Asiento 3: yonisanlu (ciega pequeña) muestra [Kh Ac] y ganó (1.80 €) con escalera, de as a cinco
+Asiento 4: serviettski(fr) (ciega grande) se retiró antes del Flop
+Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)
+Asiento 6: rayao32 se retiró antes del Flop

@@ -1,0 +1,55 @@
+{
+  "hand_id": "257150480032",
+  "date": "30-07-2025 23:44:52",
+  "table": "Martha",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5s",
+    "9h"
+  ],
+  "stacks": {
+    "mivipkr": 106.0,
+    "NovacaineZxc": 117.0,
+    "BudyXXIII": 112.0,
+    "Sigiilo": 102.5,
+    "SrLyce": 100.5,
+    "alexfw300": 101.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: mivipkr (2.12 € en fichas)",
+      "Asiento 2: NovacaineZxc (2.34 € en fichas)",
+      "Asiento 3: BudyXXIII (2.24 € en fichas)",
+      "Asiento 4: Sigiilo (2.05 € en fichas)",
+      "Asiento 5: SrLyce (2.01 € en fichas)",
+      "Asiento 6: alexfw300 (2.02 € en fichas)",
+      "alexfw300: pone la ciega pequeña 0.01 €",
+      "mivipkr: pone la ciega grande 0.02 €",
+      "NovacaineZxc: se retira",
+      "BudyXXIII: sube 0.04 € a 0.06 €",
+      "Sigiilo: se retira",
+      "SrLyce: se retira",
+      "alexfw300: se retira",
+      "mivipkr: se retira",
+      "BudyXXIII: no muestra su mano",
+      "Asiento 1: mivipkr (ciega grande) se retiró antes del Flop",
+      "Asiento 2: NovacaineZxc se retiró antes del Flop (no apostó)",
+      "Asiento 3: BudyXXIII recaudó (0.05 €)",
+      "Asiento 4: Sigiilo se retiró antes del Flop (no apostó)",
+      "Asiento 5: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: alexfw300 (ciega pequeña) se retiró antes del Flop"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "BudyXXIII",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257150480032 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:44:52 CET [30-07-2025 17:44:52 ET]\nMesa \"Martha\" 6-max El asiento n.º 5 es el botón\nAsiento 1: mivipkr (2.12 € en fichas) \nAsiento 2: NovacaineZxc (2.34 € en fichas) \nAsiento 3: BudyXXIII (2.24 € en fichas) \nAsiento 4: Sigiilo (2.05 € en fichas) \nAsiento 5: SrLyce (2.01 € en fichas) \nAsiento 6: alexfw300 (2.02 € en fichas) \nalexfw300: pone la ciega pequeña 0.01 €\nmivipkr: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5s 9h]\nNovacaineZxc: se retira \nBudyXXIII: sube 0.04 € a 0.06 €\nSigiilo: se retira \nSrLyce: se retira \nalexfw300: se retira \nmivipkr: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a BudyXXIII\nBudyXXIII se lleva 0.05 € del bote \nBudyXXIII: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: mivipkr (ciega grande) se retiró antes del Flop\nAsiento 2: NovacaineZxc se retiró antes del Flop (no apostó)\nAsiento 3: BudyXXIII recaudó (0.05 €)\nAsiento 4: Sigiilo se retiró antes del Flop (no apostó)\nAsiento 5: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 6: alexfw300 (ciega pequeña) se retiró antes del Flop"
+}

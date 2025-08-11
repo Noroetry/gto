@@ -1,0 +1,22 @@
+﻿Mano n.º 257189984748 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 0:59:29 CET [02-08-2025 18:59:29 ET]
+Mesa "Polydoros II" 6-max El asiento n.º 5 es el botón
+Asiento 4: SrLyce (2 € en fichas) 
+Asiento 5: etiz870 (1 € en fichas) 
+etiz870: pone la ciega pequeña 0.01 €
+SrLyce: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ks Kc]
+etiz870: iguala 0.01 €
+SrLyce: sube 0.04 € a 0.06 €
+etiz870: iguala 0.04 €
+*** FLOP *** [5h Jd 4c]
+SrLyce: apuesta 0.06 €
+etiz870: se retira 
+La apuesta no igualada (0.06 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.11 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.12 € | Comisión 0.01 € 
+Comunitarias [5h Jd 4c]
+Asiento 4: SrLyce (ciega grande) recaudó (0.11 €)
+Asiento 5: etiz870 (botón) (ciega pequeña) se retiró en el Flop

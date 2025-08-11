@@ -1,0 +1,33 @@
+Mano n.º 257150155781 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:22:09 CET [30-07-2025 17:22:09 ET]
+Mesa "Lobelia" 6-max El asiento n.º 1 es el botón
+Asiento 1: LeVbks (2.33 € en fichas) 
+Asiento 2: fcis666 (0.98 € en fichas) 
+Asiento 3: Dlaguancha (2.25 € en fichas) 
+Asiento 4: SrLyce (2.11 € en fichas) 
+Asiento 5: riverluck444 (1.92 € en fichas) 
+Asiento 6: javipondio (0.29 € en fichas) 
+fcis666: pone la ciega pequeña 0.01 €
+Dlaguancha: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kd 9d]
+SrLyce: se retira 
+riverluck444: se retira 
+javipondio: iguala 0.02 €
+LeVbks: se retira 
+fcis666: se retira 
+Dlaguancha: pasa 
+*** FLOP *** [6d 8h Qd]
+Dlaguancha: pasa 
+javipondio: apuesta 0.05 €
+Dlaguancha: se retira 
+La apuesta no igualada (0.05 €) ha sido devuelta a javipondio
+javipondio se lleva 0.05 € del bote 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Comunitarias [6d 8h Qd]
+Asiento 1: LeVbks (botón) se retiró antes del Flop (no apostó)
+Asiento 2: fcis666 (ciega pequeña) se retiró antes del Flop
+Asiento 3: Dlaguancha (ciega grande) se retiró en el Flop
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: riverluck444 se retiró antes del Flop (no apostó)
+Asiento 6: javipondio recaudó (0.05 €)

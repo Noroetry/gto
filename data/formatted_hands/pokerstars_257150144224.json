@@ -1,0 +1,76 @@
+{
+  "hand_id": "257150144224",
+  "date": "30-07-2025 23:21:20",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "2s",
+    "4d"
+  ],
+  "stacks": {
+    "LeVbks": 117.5,
+    "fcis666": 33.0,
+    "Dlaguancha": 112.5,
+    "SrLyce": 105.5,
+    "riverluck444": 96.0,
+    "javipondio": 31.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (2.35 € en fichas)",
+      "Asiento 2: fcis666 (0.66 € en fichas)",
+      "Asiento 3: Dlaguancha (2.25 € en fichas)",
+      "Asiento 4: SrLyce (2.11 € en fichas)",
+      "Asiento 5: riverluck444 (1.92 € en fichas)",
+      "Asiento 6: javipondio (0.63 € en fichas)",
+      "LeVbks: pone la ciega pequeña 0.01 €",
+      "fcis666: pone la ciega grande 0.02 €",
+      "Dlaguancha: se retira",
+      "SrLyce: se retira",
+      "riverluck444: se retira",
+      "javipondio: iguala 0.02 €",
+      "LeVbks: iguala 0.01 €",
+      "fcis666: pasa"
+    ],
+    "flop": [
+      "LeVbks: pasa",
+      "fcis666: pasa",
+      "javipondio: apuesta 0.06 €",
+      "LeVbks: se retira",
+      "fcis666: iguala 0.06 €"
+    ],
+    "turn": [
+      "fcis666: pasa",
+      "javipondio: apuesta 0.09 €",
+      "fcis666: iguala 0.09 €"
+    ],
+    "river": [
+      "fcis666: pasa",
+      "javipondio: apuesta 0.17 €",
+      "fcis666: iguala 0.17 €",
+      "javipondio: muestra [Jc Qs] (carta alta rey)",
+      "fcis666: muestra [2c Tc] (pareja de dieces)",
+      "Asiento 1: LeVbks (ciega pequeña) se retiró en el Flop",
+      "Asiento 2: fcis666 (ciega grande) muestra [2c Tc] y ganó (0.66 €) con pareja de dieces",
+      "Asiento 3: Dlaguancha se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: riverluck444 se retiró antes del Flop (no apostó)",
+      "Asiento 6: javipondio (botón) muestra [Jc Qs] y perdió con carta alta rey"
+    ]
+  },
+  "board": [
+    "Td",
+    "7h",
+    "Kh",
+    "5c",
+    "6h"
+  ],
+  "winner": "fcis666",
+  "win_amount": 33.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257150144224 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:21:20 CET [30-07-2025 17:21:20 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 6 es el botón\nAsiento 1: LeVbks (2.35 € en fichas) \nAsiento 2: fcis666 (0.66 € en fichas) \nAsiento 3: Dlaguancha (2.25 € en fichas) \nAsiento 4: SrLyce (2.11 € en fichas) \nAsiento 5: riverluck444 (1.92 € en fichas) \nAsiento 6: javipondio (0.63 € en fichas) \nLeVbks: pone la ciega pequeña 0.01 €\nfcis666: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [2s 4d]\nDlaguancha: se retira \nSrLyce: se retira \nriverluck444: se retira \njavipondio: iguala 0.02 €\nLeVbks: iguala 0.01 €\nfcis666: pasa \n*** FLOP *** [Td 7h Kh]\nLeVbks: pasa \nfcis666: pasa \njavipondio: apuesta 0.06 €\nLeVbks: se retira \nfcis666: iguala 0.06 €\n*** TURN *** [Td 7h Kh] [5c]\nfcis666: pasa \njavipondio: apuesta 0.09 €\nfcis666: iguala 0.09 €\n*** RIVER *** [Td 7h Kh 5c] [6h]\nfcis666: pasa \njavipondio: apuesta 0.17 €\nfcis666: iguala 0.17 €\n*** SHOW DOWN ***\njavipondio: muestra [Jc Qs] (carta alta rey)\nfcis666: muestra [2c Tc] (pareja de dieces)\nfcis666 se lleva 0.66 € del bote \n*** RESUMEN ***\nBote total 0.70 € | Comisión 0.04 € \nComunitarias [Td 7h Kh 5c 6h]\nAsiento 1: LeVbks (ciega pequeña) se retiró en el Flop\nAsiento 2: fcis666 (ciega grande) muestra [2c Tc] y ganó (0.66 €) con pareja de dieces\nAsiento 3: Dlaguancha se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: riverluck444 se retiró antes del Flop (no apostó)\nAsiento 6: javipondio (botón) muestra [Jc Qs] y perdió con carta alta rey"
+}

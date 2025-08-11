@@ -1,0 +1,51 @@
+{
+  "hand_id": "257168261819",
+  "date": "01-08-2025 11:15:05",
+  "table": "Atlas",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ah",
+    "2d"
+  ],
+  "stacks": {
+    "SrLyce": 97.5,
+    "Fharock": 92.0,
+    "ecuinas": 99.0,
+    "LxckxStrxkx": 100.0,
+    "Akourdideh": 110.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.95 € en fichas)",
+      "Asiento 2: Fharock (1.84 € en fichas)",
+      "Asiento 3: ecuinas (1.98 € en fichas)",
+      "Asiento 4: LxckxStrxkx (2 € en fichas)",
+      "Asiento 6: Akourdideh (2.21 € en fichas)",
+      "ecuinas: pone la ciega pequeña 0.01 €",
+      "LxckxStrxkx: pone la ciega grande 0.02 €",
+      "Akourdideh: se retira",
+      "SrLyce: se retira",
+      "Fharock: sube 0.04 € a 0.06 €",
+      "ecuinas: se retira",
+      "LxckxStrxkx: se retira",
+      "Fharock: no muestra su mano",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: Fharock (botón) recaudó (0.05 €)",
+      "Asiento 3: ecuinas (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: LxckxStrxkx (ciega grande) se retiró antes del Flop",
+      "Asiento 6: Akourdideh se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "Fharock",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257168261819 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:15:05 CET [01-08-2025 5:15:05 ET]\nMesa \"Atlas\" 6-max El asiento n.º 2 es el botón\nAsiento 1: SrLyce (1.95 € en fichas) \nAsiento 2: Fharock (1.84 € en fichas) \nAsiento 3: ecuinas (1.98 € en fichas) \nAsiento 4: LxckxStrxkx (2 € en fichas) \nAsiento 6: Akourdideh (2.21 € en fichas) \necuinas: pone la ciega pequeña 0.01 €\nLxckxStrxkx: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ah 2d]\nAkourdideh: se retira \nSrLyce: se retira \nFharock: sube 0.04 € a 0.06 €\necuinas: se retira \nLxckxStrxkx: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a Fharock\nFharock se lleva 0.05 € del bote \nFharock: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: Fharock (botón) recaudó (0.05 €)\nAsiento 3: ecuinas (ciega pequeña) se retiró antes del Flop\nAsiento 4: LxckxStrxkx (ciega grande) se retiró antes del Flop\nAsiento 6: Akourdideh se retiró antes del Flop (no apostó)"
+}

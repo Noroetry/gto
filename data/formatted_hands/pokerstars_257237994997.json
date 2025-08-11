@@ -1,0 +1,56 @@
+{
+  "hand_id": "257237994997",
+  "date": "06-08-2025 18:18:40",
+  "table": "Euneus III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4s",
+    "9s"
+  ],
+  "stacks": {
+    "christgear": 100.0,
+    "Il_BM00": 120.0,
+    "djrojas9": 135.0,
+    "lol-in 2000": 98.5,
+    "SrLyce": 135.5,
+    "kcg_rm": 107.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: christgear (2 € en fichas)",
+      "Asiento 2: Il_BM00 (2.40 € en fichas)",
+      "Asiento 3: djrojas9 (2.70 € en fichas)",
+      "Asiento 4: lol-in 2000 (1.97 € en fichas)",
+      "Asiento 5: SrLyce (2.71 € en fichas)",
+      "Asiento 6: kcg_rm (2.14 € en fichas)",
+      "Il_BM00: pone la ciega pequeña 0.01 €",
+      "djrojas9: pone la ciega grande 0.02 €",
+      "lol-in 2000: iguala 0.02 €",
+      "SrLyce: se retira",
+      "kcg_rm: se retira",
+      "christgear: sube 0.08 € a 0.10 €",
+      "Il_BM00: se retira",
+      "djrojas9: se retira",
+      "lol-in 2000: se retira",
+      "christgear: no muestra su mano",
+      "Asiento 1: christgear (botón) recaudó (0.07 €)",
+      "Asiento 2: Il_BM00 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: djrojas9 (ciega grande) se retiró antes del Flop",
+      "Asiento 4: lol-in 2000 se retiró antes del Flop",
+      "Asiento 5: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 6: kcg_rm se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "christgear",
+  "win_amount": 3.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237994997 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:18:40 CET [06-08-2025 12:18:40 ET]\nMesa \"Euneus III\" 6-max El asiento n.º 1 es el botón\nAsiento 1: christgear (2 € en fichas) \nAsiento 2: Il_BM00 (2.40 € en fichas) \nAsiento 3: djrojas9 (2.70 € en fichas) \nAsiento 4: lol-in 2000 (1.97 € en fichas) \nAsiento 5: SrLyce (2.71 € en fichas) \nAsiento 6: kcg_rm (2.14 € en fichas) \nIl_BM00: pone la ciega pequeña 0.01 €\ndjrojas9: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4s 9s]\nlol-in 2000: iguala 0.02 €\nSrLyce: se retira \nkcg_rm: se retira \nchristgear: sube 0.08 € a 0.10 €\nIl_BM00: se retira \ndjrojas9: se retira \nlol-in 2000: se retira \nLa apuesta no igualada (0.08 €) ha sido devuelta a christgear\nchristgear se lleva 0.07 € del bote \nchristgear: no muestra su mano \n*** RESUMEN ***\nBote total 0.07 € | Comisión 0 € \nAsiento 1: christgear (botón) recaudó (0.07 €)\nAsiento 2: Il_BM00 (ciega pequeña) se retiró antes del Flop\nAsiento 3: djrojas9 (ciega grande) se retiró antes del Flop\nAsiento 4: lol-in 2000 se retiró antes del Flop\nAsiento 5: SrLyce se retiró antes del Flop (no apostó)\nAsiento 6: kcg_rm se retiró antes del Flop (no apostó)"
+}

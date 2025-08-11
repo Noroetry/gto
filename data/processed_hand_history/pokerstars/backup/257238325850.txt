@@ -1,0 +1,44 @@
+Mano n.º 257238325850 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:48:02 CET [06-08-2025 12:48:02 ET]
+Mesa "Aidamina II" 6-max El asiento n.º 2 es el botón
+Asiento 1: GarciaTT416 (2 € en fichas) 
+Asiento 2: McFlash3 (2.05 € en fichas) 
+Asiento 3: niyomalo (2.51 € en fichas) 
+Asiento 4: durahimovic (2.67 € en fichas) 
+Asiento 5: JustWin9960 (2.16 € en fichas) 
+Asiento 6: SrLyce (1.66 € en fichas) 
+niyomalo: pone la ciega pequeña 0.01 €
+durahimovic: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Ts Tc]
+JustWin9960: sube 0.02 € a 0.04 €
+SrLyce: sube 0.08 € a 0.12 €
+GarciaTT416: se retira 
+McFlash3: se retira 
+niyomalo: iguala 0.11 €
+durahimovic: se retira 
+JustWin9960: iguala 0.08 €
+*** FLOP *** [4c Td 4d]
+niyomalo: pasa 
+JustWin9960: pasa 
+SrLyce: apuesta 0.12 €
+niyomalo: se retira 
+JustWin9960: sube 0.12 € a 0.24 €
+SrLyce: sube 0.42 € a 0.66 €
+JustWin9960: sube 1.38 € a 2.04 € y está all-in
+SrLyce: iguala 0.88 € y está all-in
+La apuesta no igualada (0.50 €) ha sido devuelta a JustWin9960
+*** TURN *** [4c Td 4d] [7s]
+*** RIVER *** [4c Td 4d 7s] [8s]
+*** SHOW DOWN ***
+JustWin9960: muestra [Ac 8c] (doble pareja, ochos y cuatros)
+SrLyce: muestra [Ts Tc] (full de dieces y cuatros)
+SrLyce se lleva 3.25 € del bote 
+*** RESUMEN ***
+Bote total 3.46 € | Comisión 0.21 € 
+Comunitarias [4c Td 4d 7s 8s]
+Asiento 1: GarciaTT416 se retiró antes del Flop (no apostó)
+Asiento 2: McFlash3 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: niyomalo (ciega pequeña) se retiró en el Flop
+Asiento 4: durahimovic (ciega grande) se retiró antes del Flop
+Asiento 5: JustWin9960 muestra [Ac 8c] y perdió con doble pareja, ochos y cuatros
+Asiento 6: SrLyce muestra [Ts Tc] y ganó (3.25 €) con full de dieces y cuatros

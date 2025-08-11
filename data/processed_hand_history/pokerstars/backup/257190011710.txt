@@ -1,0 +1,17 @@
+Mano n.º 257190011710 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 1:02:02 CET [02-08-2025 19:02:02 ET]
+Mesa "Polydoros II" 6-max El asiento n.º 4 es el botón
+Asiento 4: SrLyce (2.88 € en fichas) 
+Asiento 6: djulkk421 (1.61 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+djulkk421: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4s 5s]
+SrLyce: sube 0.04 € a 0.06 €
+djulkk421: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.04 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 4: SrLyce (botón) (ciega pequeña) recaudó (0.04 €)
+Asiento 6: djulkk421 (ciega grande) se retiró antes del Flop

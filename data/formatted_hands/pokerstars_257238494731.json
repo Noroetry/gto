@@ -1,0 +1,53 @@
+{
+  "hand_id": "257238494731",
+  "date": "06-08-2025 19:04:25",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qd",
+    "Th"
+  ],
+  "stacks": {
+    "zoioachado": 0.0,
+    "SrLyce": 148.0,
+    "yonisanlu": 139.0,
+    "Nicanor Cast": 49.0,
+    "rayao32": 42.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 2: zoioachado (0 € en fichas) está ausente",
+      "Asiento 1: SrLyce (2.96 € en fichas)",
+      "Asiento 3: yonisanlu (2.78 € en fichas)",
+      "Asiento 4: serviettski(fr) (2 € en fichas)",
+      "Asiento 5: Nicanor Cast (0.98 € en fichas)",
+      "Asiento 6: rayao32 (0.85 € en fichas)",
+      "serviettski(fr): pone la ciega pequeña 0.01 €",
+      "Nicanor Cast: pone la ciega grande 0.02 €",
+      "rayao32: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "yonisanlu: se retira",
+      "serviettski(fr): se retira",
+      "Nicanor Cast: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 2: zoioachado",
+      "Asiento 1: SrLyce recaudó (0.05 €)",
+      "Asiento 3: yonisanlu (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: serviettski(fr) (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: Nicanor Cast (ciega grande) se retiró antes del Flop",
+      "Asiento 6: rayao32 se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238494731 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:04:25 CET [06-08-2025 13:04:25 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 3 es el botón\nAsiento 2: zoioachado (0 € en fichas) está ausente\nAsiento 1: SrLyce (2.96 € en fichas) \nAsiento 3: yonisanlu (2.78 € en fichas) \nAsiento 4: serviettski(fr) (2 € en fichas) \nAsiento 5: Nicanor Cast (0.98 € en fichas) \nAsiento 6: rayao32 (0.85 € en fichas) \nserviettski(fr): pone la ciega pequeña 0.01 €\nNicanor Cast: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qd Th]\nrayao32 ha agotado su tiempo\nrayao32: se retira \nSrLyce: sube 0.03 € a 0.05 €\nyonisanlu: se retira \nserviettski(fr): se retira \nNicanor Cast: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.05 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 2: zoioachado\nAsiento 1: SrLyce recaudó (0.05 €)\nAsiento 3: yonisanlu (botón) se retiró antes del Flop (no apostó)\nAsiento 4: serviettski(fr) (ciega pequeña) se retiró antes del Flop\nAsiento 5: Nicanor Cast (ciega grande) se retiró antes del Flop\nAsiento 6: rayao32 se retiró antes del Flop (no apostó)"
+}

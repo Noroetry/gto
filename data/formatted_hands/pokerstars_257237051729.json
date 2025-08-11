@@ -1,0 +1,69 @@
+{
+  "hand_id": "257237051729",
+  "date": "06-08-2025 17:35:12",
+  "table": "Themisto III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qh",
+    "2h"
+  ],
+  "stacks": {
+    "elso253": 67.0,
+    "SrLyce": 119.5,
+    "idigon": 21.5,
+    "fred2d23po": 77.0,
+    "mivipkr": 124.0,
+    "marignamo": 90.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: elso253 (1.34 € en fichas)",
+      "Asiento 2: SrLyce (2.39 € en fichas)",
+      "Asiento 3: idigon (0.43 € en fichas)",
+      "Asiento 4: fred2d23po (1.54 € en fichas)",
+      "Asiento 5: mivipkr (2.48 € en fichas)",
+      "Asiento 6: marignamo (1.81 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "idigon: pone la ciega grande 0.02 €",
+      "fred2d23po: sube 0.02 € a 0.04 €",
+      "mivipkr: se retira",
+      "marignamo: se retira",
+      "elso253: se retira",
+      "SrLyce: iguala 0.03 €",
+      "idigon: iguala 0.02 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "idigon: pasa",
+      "fred2d23po: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €",
+      "idigon: se retira"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "fred2d23po: apuesta 0.12 €",
+      "SrLyce: se retira",
+      "Asiento 1: elso253 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: SrLyce (ciega pequeña) se retiró en el Turn",
+      "Asiento 3: idigon (ciega grande) se retiró en el Flop",
+      "Asiento 4: fred2d23po recaudó (0.23 €)",
+      "Asiento 5: mivipkr se retiró antes del Flop (no apostó)",
+      "Asiento 6: marignamo se retiró antes del Flop (no apostó)"
+    ],
+    "river": []
+  },
+  "board": [
+    "Th",
+    "5d",
+    "2c",
+    "5c"
+  ],
+  "winner": "fred2d23po",
+  "win_amount": 11.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257237051729 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:35:12 CET [06-08-2025 11:35:12 ET]\nMesa \"Themisto III\" 6-max El asiento n.º 1 es el botón\nAsiento 1: elso253 (1.34 € en fichas) \nAsiento 2: SrLyce (2.39 € en fichas) \nAsiento 3: idigon (0.43 € en fichas) \nAsiento 4: fred2d23po (1.54 € en fichas) \nAsiento 5: mivipkr (2.48 € en fichas) \nAsiento 6: marignamo (1.81 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nidigon: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qh 2h]\nfred2d23po: sube 0.02 € a 0.04 €\nmivipkr: se retira \nmarignamo: se retira \nelso253: se retira \nSrLyce: iguala 0.03 €\nidigon: iguala 0.02 €\n*** FLOP *** [Th 5d 2c]\nSrLyce: pasa \nidigon: pasa \nfred2d23po: apuesta 0.06 €\nSrLyce: iguala 0.06 €\nidigon: se retira \n*** TURN *** [Th 5d 2c] [5c]\nSrLyce: pasa \nfred2d23po: apuesta 0.12 €\nSrLyce: se retira \nLa apuesta no igualada (0.12 €) ha sido devuelta a fred2d23po\nfred2d23po se lleva 0.23 € del bote \n*** RESUMEN ***\nBote total 0.24 € | Comisión 0.01 € \nComunitarias [Th 5d 2c 5c]\nAsiento 1: elso253 (botón) se retiró antes del Flop (no apostó)\nAsiento 2: SrLyce (ciega pequeña) se retiró en el Turn\nAsiento 3: idigon (ciega grande) se retiró en el Flop\nAsiento 4: fred2d23po recaudó (0.23 €)\nAsiento 5: mivipkr se retiró antes del Flop (no apostó)\nAsiento 6: marignamo se retiró antes del Flop (no apostó)"
+}

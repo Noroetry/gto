@@ -1,0 +1,30 @@
+Mano n.º 257238438446 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:58:54 CET [06-08-2025 12:58:54 ET]
+Mesa "Alruccabah II" 6-max El asiento n.º 1 es el botón
+Asiento 1: SrLyce (2.73 € en fichas) 
+Asiento 2: zoioachado (0.95 € en fichas) 
+Asiento 3: yonisanlu (2 € en fichas) 
+Asiento 4: serviettski(fr) (2.05 € en fichas) 
+Asiento 5: Nicanor Cast (1.05 € en fichas) 
+Asiento 6: rayao32 (0.87 € en fichas) 
+zoioachado: pone la ciega pequeña 0.01 €
+yonisanlu: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Tc Ts]
+serviettski(fr): se retira 
+Nicanor Cast: se retira 
+rayao32 ha agotado su tiempo
+rayao32: se retira 
+SrLyce: sube 0.03 € a 0.05 €
+zoioachado: se retira 
+yonisanlu: se retira 
+La apuesta no igualada (0.03 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.05 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: SrLyce (botón) recaudó (0.05 €)
+Asiento 2: zoioachado (ciega pequeña) se retiró antes del Flop
+Asiento 3: yonisanlu (ciega grande) se retiró antes del Flop
+Asiento 4: serviettski(fr) se retiró antes del Flop (no apostó)
+Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)
+Asiento 6: rayao32 se retiró antes del Flop (no apostó)

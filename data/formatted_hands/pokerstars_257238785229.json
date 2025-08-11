@@ -1,0 +1,75 @@
+{
+  "hand_id": "257238785229",
+  "date": "06-08-2025 19:28:50",
+  "table": "Leonteus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9c",
+    "Ks"
+  ],
+  "stacks": {
+    "FalcoNaumani": 100.0,
+    "practikal_C23": 48.5,
+    "niyomalo": 101.5,
+    "BuXHexter": 161.5,
+    "Andark47": 209.0,
+    "SrLyce": 73.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: FalcoNaumani (2 € en fichas) está ausente",
+      "Asiento 1: practikal_C23 (0.97 € en fichas)",
+      "Asiento 2: niyomalo (2.03 € en fichas)",
+      "Asiento 4: BuXHexter (3.23 € en fichas)",
+      "Asiento 5: Andark47 (4.18 € en fichas)",
+      "Asiento 6: SrLyce (1.46 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "practikal_C23: pone la ciega grande 0.02 €",
+      "FalcoNaumani: se ausenta",
+      "niyomalo: se retira",
+      "BuXHexter: se retira",
+      "Andark47: sube 0.03 € a 0.05 €",
+      "SrLyce: iguala 0.04 €",
+      "practikal_C23: sube 0.05 € a 0.10 €",
+      "Andark47: se retira",
+      "SrLyce: iguala 0.05 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "practikal_C23: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "practikal_C23: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €"
+    ],
+    "river": [
+      "SrLyce: apuesta 0.23 €",
+      "practikal_C23: iguala 0.23 €",
+      "SrLyce: muestra [9c Ks] (doble pareja, nueves y seises)",
+      "practikal_C23: muestra [As Ad] (doble pareja, ases y seises)",
+      "Asiento 3: FalcoNaumani",
+      "Asiento 1: practikal_C23 (ciega grande) muestra [As Ad] y ganó (0.89 €) con doble pareja, ases y seises",
+      "Asiento 2: niyomalo se retiró antes del Flop (no apostó)",
+      "Asiento 4: BuXHexter se retiró antes del Flop (no apostó)",
+      "Asiento 5: Andark47 (botón) se retiró antes del Flop",
+      "Asiento 6: SrLyce (ciega pequeña) muestra [9c Ks] y perdió con doble pareja, nueves y seises"
+    ]
+  },
+  "board": [
+    "3d",
+    "9d",
+    "Tc",
+    "6d",
+    "6c"
+  ],
+  "winner": "practikal_C23",
+  "win_amount": 44.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 3.0,
+  "raw_text": "Mano n.º 257238785229 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:28:50 CET [06-08-2025 13:28:50 ET]\nMesa \"Leonteus\" 6-max El asiento n.º 5 es el botón\nAsiento 3: FalcoNaumani (2 € en fichas) está ausente\nAsiento 1: practikal_C23 (0.97 € en fichas) \nAsiento 2: niyomalo (2.03 € en fichas) \nAsiento 4: BuXHexter (3.23 € en fichas) \nAsiento 5: Andark47 (4.18 € en fichas) \nAsiento 6: SrLyce (1.46 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\npractikal_C23: pone la ciega grande 0.02 €\nFalcoNaumani: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9c Ks]\nniyomalo: se retira \nBuXHexter: se retira \nAndark47: sube 0.03 € a 0.05 €\nSrLyce: iguala 0.04 €\npractikal_C23: sube 0.05 € a 0.10 €\nAndark47: se retira \nSrLyce: iguala 0.05 €\n*** FLOP *** [3d 9d Tc]\nSrLyce: pasa \npractikal_C23: apuesta 0.06 €\nSrLyce: iguala 0.06 €\n*** TURN *** [3d 9d Tc] [6d]\nSrLyce: pasa \npractikal_C23: apuesta 0.06 €\nSrLyce: iguala 0.06 €\n*** RIVER *** [3d 9d Tc 6d] [6c]\nSrLyce: apuesta 0.23 €\npractikal_C23: iguala 0.23 €\n*** SHOW DOWN ***\nSrLyce: muestra [9c Ks] (doble pareja, nueves y seises)\npractikal_C23: muestra [As Ad] (doble pareja, ases y seises)\npractikal_C23 se lleva 0.89 € del bote \n*** RESUMEN ***\nBote total 0.95 € | Comisión 0.06 € \nComunitarias [3d 9d Tc 6d 6c]\nAsiento 3: FalcoNaumani\nAsiento 1: practikal_C23 (ciega grande) muestra [As Ad] y ganó (0.89 €) con doble pareja, ases y seises\nAsiento 2: niyomalo se retiró antes del Flop (no apostó)\nAsiento 4: BuXHexter se retiró antes del Flop (no apostó)\nAsiento 5: Andark47 (botón) se retiró antes del Flop\nAsiento 6: SrLyce (ciega pequeña) muestra [9c Ks] y perdió con doble pareja, nueves y seises"
+}

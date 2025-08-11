@@ -1,0 +1,36 @@
+Mano n.º 257189988298 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 03-08-2025 0:59:52 CET [02-08-2025 18:59:52 ET]
+Mesa "Polydoros II" 6-max El asiento n.º 4 es el botón
+Asiento 4: SrLyce (2.05 € en fichas) 
+Asiento 5: etiz870 (0.94 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+etiz870: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [6d Kd]
+AFR29 se une a la mesa en el asiento n.º 2 
+SrLyce: sube 0.04 € a 0.06 €
+AFR29 deja la mesa
+etiz870: iguala 0.04 €
+*** FLOP *** [Jd As 5d]
+etiz870: pasa 
+SrLyce: apuesta 0.06 €
+etiz870: sube 0.06 € a 0.12 €
+SrLyce: iguala 0.06 €
+*** TURN *** [Jd As 5d] [2d]
+etiz870: pasa 
+djulkk421 se une a la mesa en el asiento n.º 6 
+SrLyce: apuesta 0.17 €
+etiz870: iguala 0.17 €
+*** RIVER *** [Jd As 5d 2d] [Tc]
+etiz870: pasa 
+SrLyce: apuesta 0.66 €
+etiz870: iguala 0.59 € y está all-in
+La apuesta no igualada (0.07 €) ha sido devuelta a SrLyce
+*** SHOW DOWN ***
+SrLyce: muestra [6d Kd] (color, carta alta rey)
+etiz870: muestra [6c Ah] (pareja de ases)
+SrLyce se lleva 1.78 € del bote 
+*** RESUMEN ***
+Bote total 1.88 € | Comisión 0.10 € 
+Comunitarias [Jd As 5d 2d Tc]
+Asiento 4: SrLyce (botón) (ciega pequeña) muestra [6d Kd] y ganó (1.78 €) con color, carta alta rey
+Asiento 5: etiz870 (ciega grande) muestra [6c Ah] y perdió con pareja de ases

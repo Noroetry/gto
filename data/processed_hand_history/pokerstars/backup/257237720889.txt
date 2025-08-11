@@ -1,0 +1,38 @@
+Mano n.º 257237720889 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:51:32 CET [06-08-2025 11:51:32 ET]
+Mesa "Virtus" 6-max El asiento n.º 4 es el botón
+Asiento 1: Kingzilla87 (3.34 € en fichas) 
+Asiento 2: SrLyce (1.97 € en fichas) 
+Asiento 3: zzranger_03 (3.61 € en fichas) 
+Asiento 4: JGDOBLAS (1.80 € en fichas) 
+Asiento 5: don.corle (2.84 € en fichas) 
+Asiento 6: rudik34385 (1.95 € en fichas) 
+don.corle: pone la ciega pequeña 0.01 €
+rudik34385: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [8d Jc]
+Kingzilla87: sube 0.04 € a 0.06 €
+SrLyce: se retira 
+zzranger_03: se retira 
+JGDOBLAS: se retira 
+don.corle: se retira 
+rudik34385: sube 0.04 € a 0.10 €
+Kingzilla87: iguala 0.04 €
+*** FLOP *** [3d 5d Td]
+rudik34385: pasa 
+Kingzilla87: pasa 
+*** TURN *** [3d 5d Td] [As]
+rudik34385: pasa 
+Kingzilla87: apuesta 0.10 €
+rudik34385: se retira 
+La apuesta no igualada (0.10 €) ha sido devuelta a Kingzilla87
+Kingzilla87 se lleva 0.20 € del bote 
+Kingzilla87: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.21 € | Comisión 0.01 € 
+Comunitarias [3d 5d Td As]
+Asiento 1: Kingzilla87 recaudó (0.20 €)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: zzranger_03 se retiró antes del Flop (no apostó)
+Asiento 4: JGDOBLAS (botón) se retiró antes del Flop (no apostó)
+Asiento 5: don.corle (ciega pequeña) se retiró antes del Flop
+Asiento 6: rudik34385 (ciega grande) se retiró en el Turn

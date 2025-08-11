@@ -1,0 +1,63 @@
+{
+  "hand_id": "257215044120",
+  "date": "04-08-2025 22:20:52",
+  "table": "Anneliese II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Td",
+    "2s"
+  ],
+  "stacks": {
+    "betterrrrrr": 100.0,
+    "niyomalo": 122.0,
+    "ElManu62": 115.0,
+    "SrLyce": 98.5,
+    "Mr_Pkr98": 141.5,
+    "Spotick": 111.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: betterrrrrr (2 € en fichas)",
+      "Asiento 2: niyomalo (2.44 € en fichas)",
+      "Asiento 3: ElManu62 (2.30 € en fichas)",
+      "Asiento 4: SrLyce (1.97 € en fichas)",
+      "Asiento 5: Mr_Pkr98 (2.83 € en fichas)",
+      "Asiento 6: Spotick (2.22 € en fichas)",
+      "ElManu62: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Mr_Pkr98: se retira",
+      "Spotick: se retira",
+      "betterrrrrr: se retira",
+      "niyomalo: iguala 0.02 €",
+      "ElManu62: se retira",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "niyomalo: apuesta 0.05 €",
+      "SrLyce: se retira",
+      "niyomalo: no muestra su mano",
+      "Asiento 1: betterrrrrr se retiró antes del Flop (no apostó)",
+      "Asiento 2: niyomalo (botón) recaudó (0.05 €)",
+      "Asiento 3: ElManu62 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 4: SrLyce (ciega grande) se retiró en el Flop",
+      "Asiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Spotick se retiró antes del Flop (no apostó)"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "9c",
+    "Kc",
+    "9d"
+  ],
+  "winner": "niyomalo",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257215044120 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:20:52 CET [04-08-2025 16:20:52 ET]\nMesa \"Anneliese II\" 6-max El asiento n.º 2 es el botón\nAsiento 1: betterrrrrr (2 € en fichas) \nAsiento 2: niyomalo (2.44 € en fichas) \nAsiento 3: ElManu62 (2.30 € en fichas) \nAsiento 4: SrLyce (1.97 € en fichas) \nAsiento 5: Mr_Pkr98 (2.83 € en fichas) \nAsiento 6: Spotick (2.22 € en fichas) \nElManu62: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Td 2s]\nMr_Pkr98: se retira \nSpotick: se retira \nbetterrrrrr: se retira \nniyomalo: iguala 0.02 €\nElManu62: se retira \nSrLyce: pasa \n*** FLOP *** [9c Kc 9d]\nSrLyce: pasa \nniyomalo: apuesta 0.05 €\nSrLyce: se retira \nLa apuesta no igualada (0.05 €) ha sido devuelta a niyomalo\nniyomalo se lleva 0.05 € del bote \nniyomalo: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nComunitarias [9c Kc 9d]\nAsiento 1: betterrrrrr se retiró antes del Flop (no apostó)\nAsiento 2: niyomalo (botón) recaudó (0.05 €)\nAsiento 3: ElManu62 (ciega pequeña) se retiró antes del Flop\nAsiento 4: SrLyce (ciega grande) se retiró en el Flop\nAsiento 5: Mr_Pkr98 se retiró antes del Flop (no apostó)\nAsiento 6: Spotick se retiró antes del Flop (no apostó)"
+}

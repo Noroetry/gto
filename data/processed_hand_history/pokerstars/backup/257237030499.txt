@@ -1,0 +1,34 @@
+Mano n.º 257237030499 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:33:06 CET [06-08-2025 11:33:06 ET]
+Mesa "Themisto III" 6-max El asiento n.º 3 es el botón
+Asiento 4: fred2d23po (1.60 € en fichas) está ausente
+Asiento 1: elso253 (1.45 € en fichas) 
+Asiento 2: SrLyce (2.03 € en fichas) 
+Asiento 3: idigon (0.54 € en fichas) 
+Asiento 5: mivipkr (2.49 € en fichas) 
+Asiento 6: marignamo (1.92 € en fichas) 
+mivipkr: pone la ciega pequeña 0.01 €
+marignamo: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Jh 8c]
+elso253: sube 0.03 € a 0.05 €
+SrLyce: se retira 
+idigon: iguala 0.05 €
+mivipkr: se retira 
+marignamo: iguala 0.03 €
+*** FLOP *** [4d 7s 9s]
+marignamo: pasa 
+elso253: apuesta 0.08 €
+idigon: se retira 
+marignamo: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a elso253
+elso253 se lleva 0.15 € del bote 
+elso253: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.16 € | Comisión 0.01 € 
+Comunitarias [4d 7s 9s]
+Asiento 4: fred2d23po
+Asiento 1: elso253 recaudó (0.15 €)
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: idigon (botón) se retiró en el Flop
+Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop
+Asiento 6: marignamo (ciega grande) se retiró en el Flop

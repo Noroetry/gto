@@ -1,0 +1,71 @@
+{
+  "hand_id": "257215084562",
+  "date": "04-08-2025 22:23:24",
+  "table": "Aldhafera II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3c",
+    "As"
+  ],
+  "stacks": {
+    "wsx25": 95.0,
+    "BudyXXIII": 266.5,
+    "SrLyce": 67.5,
+    "rhidoxxx": 86.0,
+    "jte-ken": 123.5,
+    "betterrrrrr": 168.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: wsx25 (1.90 € en fichas)",
+      "Asiento 2: BudyXXIII (5.33 € en fichas)",
+      "Asiento 3: SrLyce (1.35 € en fichas)",
+      "Asiento 4: rhidoxxx (1.72 € en fichas)",
+      "Asiento 5: jte-ken (2.47 € en fichas)",
+      "Asiento 6: betterrrrrr (3.36 € en fichas)",
+      "rhidoxxx: pone la ciega pequeña 0.01 €",
+      "jte-ken: pone la ciega grande 0.02 €",
+      "betterrrrrr: se retira",
+      "wsx25: se retira",
+      "BudyXXIII: se retira",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "rhidoxxx: se retira",
+      "jte-ken: iguala 0.04 €"
+    ],
+    "flop": [
+      "jte-ken: pasa",
+      "SrLyce: pasa"
+    ],
+    "turn": [
+      "jte-ken: pasa",
+      "SrLyce: pasa"
+    ],
+    "river": [
+      "jte-ken: pasa",
+      "SrLyce: apuesta 1.29 € y está all-in",
+      "jte-ken: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: wsx25 se retiró antes del Flop (no apostó)",
+      "Asiento 2: BudyXXIII se retiró antes del Flop (no apostó)",
+      "Asiento 3: SrLyce (botón) recaudó (0.12 €)",
+      "Asiento 4: rhidoxxx (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: jte-ken (ciega grande) se retiró en el River",
+      "Asiento 6: betterrrrrr se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Tc",
+    "2d",
+    "Jd",
+    "4c",
+    "5d"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 6.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257215084562 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 04-08-2025 22:23:24 CET [04-08-2025 16:23:24 ET]\nMesa \"Aldhafera II\" 6-max El asiento n.º 3 es el botón\nAsiento 1: wsx25 (1.90 € en fichas) \nAsiento 2: BudyXXIII (5.33 € en fichas) \nAsiento 3: SrLyce (1.35 € en fichas) \nAsiento 4: rhidoxxx (1.72 € en fichas) \nAsiento 5: jte-ken (2.47 € en fichas) \nAsiento 6: betterrrrrr (3.36 € en fichas) \nrhidoxxx: pone la ciega pequeña 0.01 €\njte-ken: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3c As]\nbetterrrrrr: se retira \nwsx25: se retira \nBudyXXIII: se retira \nSrLyce: sube 0.04 € a 0.06 €\nrhidoxxx: se retira \njte-ken: iguala 0.04 €\n*** FLOP *** [Tc 2d Jd]\njte-ken: pasa \nSrLyce: pasa \n*** TURN *** [Tc 2d Jd] [4c]\njte-ken: pasa \nSrLyce: pasa \n*** RIVER *** [Tc 2d Jd 4c] [5d]\njte-ken: pasa \nSrLyce: apuesta 1.29 € y está all-in\njte-ken: se retira \nLa apuesta no igualada (1.29 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.12 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.13 € | Comisión 0.01 € \nComunitarias [Tc 2d Jd 4c 5d]\nAsiento 1: wsx25 se retiró antes del Flop (no apostó)\nAsiento 2: BudyXXIII se retiró antes del Flop (no apostó)\nAsiento 3: SrLyce (botón) recaudó (0.12 €)\nAsiento 4: rhidoxxx (ciega pequeña) se retiró antes del Flop\nAsiento 5: jte-ken (ciega grande) se retiró en el River\nAsiento 6: betterrrrrr se retiró antes del Flop (no apostó)"
+}

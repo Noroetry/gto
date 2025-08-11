@@ -1,0 +1,68 @@
+{
+  "hand_id": "257238168563",
+  "date": "06-08-2025 18:34:09",
+  "table": "Atreus",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Qs",
+    "3d"
+  ],
+  "stacks": {
+    "PrendsCa": 101.0,
+    "JENOFONTE73": 163.5,
+    "Fharock": 91.5,
+    "SrLyce": 124.5,
+    "FishamanReggae": 44.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: PrendsCa (2.02 € en fichas)",
+      "Asiento 3: JENOFONTE73 (3.27 € en fichas)",
+      "Asiento 4: Fharock (1.83 € en fichas)",
+      "Asiento 5: SrLyce (2.49 € en fichas)",
+      "Asiento 6: FishamanReggae (0.89 € en fichas)",
+      "Fharock: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "FishamanReggae: iguala 0.02 €",
+      "PrendsCa: se retira",
+      "JENOFONTE73: se retira",
+      "Fharock: se retira",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "FishamanReggae: apuesta 0.05 €",
+      "SrLyce: iguala 0.05 €"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "FishamanReggae: pasa"
+    ],
+    "river": [
+      "SrLyce: apuesta 0.11 €",
+      "FishamanReggae: iguala 0.11 €",
+      "SrLyce: muestra [Qs 3d] (trío de damas)",
+      "FishamanReggae: descarta su mano sin mostrar",
+      "Asiento 1: PrendsCa se retiró antes del Flop (no apostó)",
+      "Asiento 3: JENOFONTE73 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 4: Fharock (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: SrLyce (ciega grande) muestra [Qs 3d] y ganó (0.35 €) con trío de damas",
+      "Asiento 6: FishamanReggae descartó sin mostrar [Ks 9d]"
+    ]
+  },
+  "board": [
+    "8h",
+    "Qd",
+    "Kd",
+    "Qh",
+    "6h"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 17.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257238168563 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:34:09 CET [06-08-2025 12:34:09 ET]\nMesa \"Atreus\" 6-max El asiento n.º 3 es el botón\nAsiento 1: PrendsCa (2.02 € en fichas) \nAsiento 3: JENOFONTE73 (3.27 € en fichas) \nAsiento 4: Fharock (1.83 € en fichas) \nAsiento 5: SrLyce (2.49 € en fichas) \nAsiento 6: FishamanReggae (0.89 € en fichas) \nFharock: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Qs 3d]\nsnatch_7524100 se une a la mesa en el asiento n.º 2 \nFishamanReggae: iguala 0.02 €\nPrendsCa: se retira \nJENOFONTE73: se retira \nFharock: se retira \nSrLyce: pasa \n*** FLOP *** [8h Qd Kd]\nSrLyce: pasa \nFishamanReggae: apuesta 0.05 €\nSrLyce: iguala 0.05 €\n*** TURN *** [8h Qd Kd] [Qh]\nSrLyce: pasa \nFishamanReggae: pasa \n*** RIVER *** [8h Qd Kd Qh] [6h]\nSrLyce: apuesta 0.11 €\nFishamanReggae: iguala 0.11 €\n*** SHOW DOWN ***\nSrLyce: muestra [Qs 3d] (trío de damas)\nFishamanReggae: descarta su mano sin mostrar \nSrLyce se lleva 0.35 € del bote \n*** RESUMEN ***\nBote total 0.37 € | Comisión 0.02 € \nComunitarias [8h Qd Kd Qh 6h]\nAsiento 1: PrendsCa se retiró antes del Flop (no apostó)\nAsiento 3: JENOFONTE73 (botón) se retiró antes del Flop (no apostó)\nAsiento 4: Fharock (ciega pequeña) se retiró antes del Flop\nAsiento 5: SrLyce (ciega grande) muestra [Qs 3d] y ganó (0.35 €) con trío de damas\nAsiento 6: FishamanReggae descartó sin mostrar [Ks 9d]"
+}

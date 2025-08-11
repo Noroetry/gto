@@ -1,0 +1,41 @@
+Mano n.º 257148649808 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:34:17 CET [30-07-2025 15:34:17 ET]
+Mesa "Esclangona" 6-max El asiento n.º 1 es el botón
+Asiento 3: gabriella657 (5.70 € en fichas) está ausente
+Asiento 1: Zorgue1080 (1.91 € en fichas) 
+Asiento 2: SrLyce (1.92 € en fichas) 
+Asiento 4: Davdgoni (3.36 € en fichas) 
+Asiento 5: DiaZzZ1 (2.08 € en fichas) 
+Asiento 6: berlcht403 (0.86 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+Davdgoni: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [7s 2s]
+DiaZzZ1: sube 0.02 € a 0.04 €
+berlcht403: se retira 
+Zorgue1080: iguala 0.04 €
+SrLyce: se retira 
+Davdgoni: iguala 0.02 €
+*** FLOP *** [Ah 6s Ts]
+Davdgoni: pasa 
+DiaZzZ1: pasa 
+Zorgue1080: pasa 
+*** TURN *** [Ah 6s Ts] [8c]
+Davdgoni: apuesta 0.12 €
+DiaZzZ1: se retira 
+Zorgue1080: iguala 0.12 €
+*** RIVER *** [Ah 6s Ts 8c] [Qd]
+Davdgoni: pasa 
+Zorgue1080: pasa 
+*** SHOW DOWN ***
+Davdgoni: muestra [As 3s] (pareja de ases)
+Zorgue1080: muestra [Ad 9c] (pareja de ases - dama+diez+nueve kicker)
+Zorgue1080 se lleva 0.35 € del bote 
+*** RESUMEN ***
+Bote total 0.37 € | Comisión 0.02 € 
+Comunitarias [Ah 6s Ts 8c Qd]
+Asiento 3: gabriella657
+Asiento 1: Zorgue1080 (botón) muestra [Ad 9c] y ganó (0.35 €) con pareja de ases
+Asiento 2: SrLyce (ciega pequeña) se retiró antes del Flop
+Asiento 4: Davdgoni (ciega grande) muestra [As 3s] y perdió con pareja de ases
+Asiento 5: DiaZzZ1 se retiró en el Turn
+Asiento 6: berlcht403 se retiró antes del Flop (no apostó)

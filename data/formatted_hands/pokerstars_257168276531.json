@@ -1,0 +1,55 @@
+{
+  "hand_id": "257168276531",
+  "date": "01-08-2025 11:17:56",
+  "table": "Jupiter",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6h",
+    "7d"
+  ],
+  "stacks": {
+    "sifilis5": 98.5,
+    "Filou203": 114.0,
+    "SrLyce": 113.5,
+    "LOLA19711971": 31.0,
+    "dadou13mars": 228.5,
+    "Alvii37": 97.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: sifilis5 (1.97 € en fichas)",
+      "Asiento 2: Filou203 (2.28 € en fichas)",
+      "Asiento 3: SrLyce (2.27 € en fichas)",
+      "Asiento 4: LOLA19711971 (0.62 € en fichas)",
+      "Asiento 5: dadou13mars (4.57 € en fichas)",
+      "Asiento 6: Alvii37 (1.94 € en fichas)",
+      "LOLA19711971: pone la ciega pequeña 0.01 €",
+      "dadou13mars: pone la ciega grande 0.02 €",
+      "Alvii37: se retira",
+      "sifilis5: se retira",
+      "Filou203: se retira",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "LOLA19711971: se retira",
+      "dadou13mars: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: sifilis5 se retiró antes del Flop (no apostó)",
+      "Asiento 2: Filou203 se retiró antes del Flop (no apostó)",
+      "Asiento 3: SrLyce (botón) recaudó (0.05 €)",
+      "Asiento 4: LOLA19711971 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: dadou13mars (ciega grande) se retiró antes del Flop",
+      "Asiento 6: Alvii37 se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "SrLyce",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257168276531 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:17:56 CET [01-08-2025 5:17:56 ET]\nMesa \"Jupiter\" 6-max El asiento n.º 3 es el botón\nAsiento 1: sifilis5 (1.97 € en fichas) \nAsiento 2: Filou203 (2.28 € en fichas) \nAsiento 3: SrLyce (2.27 € en fichas) \nAsiento 4: LOLA19711971 (0.62 € en fichas) \nAsiento 5: dadou13mars (4.57 € en fichas) \nAsiento 6: Alvii37 (1.94 € en fichas) \nLOLA19711971: pone la ciega pequeña 0.01 €\ndadou13mars: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6h 7d]\nAlvii37: se retira \nsifilis5: se retira \nFilou203: se retira \nSrLyce: sube 0.04 € a 0.06 €\nLOLA19711971: se retira \ndadou13mars: se retira \nLa apuesta no igualada (0.04 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.05 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 1: sifilis5 se retiró antes del Flop (no apostó)\nAsiento 2: Filou203 se retiró antes del Flop (no apostó)\nAsiento 3: SrLyce (botón) recaudó (0.05 €)\nAsiento 4: LOLA19711971 (ciega pequeña) se retiró antes del Flop\nAsiento 5: dadou13mars (ciega grande) se retiró antes del Flop\nAsiento 6: Alvii37 se retiró antes del Flop (no apostó)"
+}

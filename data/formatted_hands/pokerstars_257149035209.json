@@ -1,0 +1,65 @@
+{
+  "hand_id": "257149035209",
+  "date": "30-07-2025 22:03:26",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4d",
+    "Td"
+  ],
+  "stacks": {
+    "SrLyce": 121.0,
+    "lecontrebandier": 94.5,
+    "christoph363": 209.5,
+    "oliverdu70": 187.0,
+    "NaruchoH1": 100.0,
+    "MitchATP65": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (2.42 € en fichas)",
+      "Asiento 2: lecontrebandier (1.89 € en fichas)",
+      "Asiento 3: christoph363 (4.19 € en fichas)",
+      "Asiento 4: oliverdu70 (3.74 € en fichas)",
+      "Asiento 5: NaruchoH1 (2 € en fichas)",
+      "Asiento 6: MitchATP65 (2 € en fichas)",
+      "NaruchoH1: pone la ciega pequeña 0.01 €",
+      "MitchATP65: pone la ciega grande 0.02 €",
+      "SrLyce: se retira",
+      "lecontrebandier: se retira",
+      "christoph363: sube 0.05 € a 0.07 €",
+      "oliverdu70: iguala 0.07 €",
+      "NaruchoH1: se retira",
+      "MitchATP65: se retira"
+    ],
+    "flop": [
+      "christoph363: pasa",
+      "oliverdu70: pasa"
+    ],
+    "turn": [
+      "christoph363: apuesta 0.16 €",
+      "oliverdu70: se retira",
+      "Asiento 1: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)",
+      "Asiento 3: christoph363 recaudó (0.16 €)",
+      "Asiento 4: oliverdu70 (botón) se retiró en el Turn",
+      "Asiento 5: NaruchoH1 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: MitchATP65 (ciega grande) se retiró antes del Flop"
+    ],
+    "river": []
+  },
+  "board": [
+    "Qh",
+    "Jh",
+    "Ac",
+    "2s"
+  ],
+  "winner": "christoph363",
+  "win_amount": 8.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257149035209 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:03:26 CET [30-07-2025 16:03:26 ET]\nMesa \"Sirona\" 6-max El asiento n.º 4 es el botón\nAsiento 1: SrLyce (2.42 € en fichas) \nAsiento 2: lecontrebandier (1.89 € en fichas) \nAsiento 3: christoph363 (4.19 € en fichas) \nAsiento 4: oliverdu70 (3.74 € en fichas) \nAsiento 5: NaruchoH1 (2 € en fichas) \nAsiento 6: MitchATP65 (2 € en fichas) \nNaruchoH1: pone la ciega pequeña 0.01 €\nMitchATP65: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4d Td]\nSrLyce: se retira \nlecontrebandier: se retira \nchristoph363: sube 0.05 € a 0.07 €\noliverdu70: iguala 0.07 €\nNaruchoH1: se retira \nMitchATP65: se retira \n*** FLOP *** [Qh Jh Ac]\nchristoph363: pasa \noliverdu70: pasa \n*** TURN *** [Qh Jh Ac] [2s]\nchristoph363: apuesta 0.16 €\noliverdu70: se retira \nLa apuesta no igualada (0.16 €) ha sido devuelta a christoph363\nchristoph363 se lleva 0.16 € del bote \n*** RESUMEN ***\nBote total 0.17 € | Comisión 0.01 € \nComunitarias [Qh Jh Ac 2s]\nAsiento 1: SrLyce se retiró antes del Flop (no apostó)\nAsiento 2: lecontrebandier se retiró antes del Flop (no apostó)\nAsiento 3: christoph363 recaudó (0.16 €)\nAsiento 4: oliverdu70 (botón) se retiró en el Turn\nAsiento 5: NaruchoH1 (ciega pequeña) se retiró antes del Flop\nAsiento 6: MitchATP65 (ciega grande) se retiró antes del Flop"
+}

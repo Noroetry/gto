@@ -1,0 +1,51 @@
+{
+  "hand_id": "257150379601",
+  "date": "30-07-2025 23:37:41",
+  "table": "Martha",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5d",
+    "8h"
+  ],
+  "stacks": {
+    "Sigiilo": 100.0,
+    "mivipkr": 100.0,
+    "NovacaineZxc": 127.0,
+    "BudyXXIII": 105.5,
+    "SrLyce": 101.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: Sigiilo (2 € en fichas) está ausente",
+      "Asiento 1: mivipkr (2 € en fichas)",
+      "Asiento 2: NovacaineZxc (2.54 € en fichas)",
+      "Asiento 3: BudyXXIII (2.11 € en fichas)",
+      "Asiento 5: SrLyce (2.02 € en fichas)",
+      "NovacaineZxc: pone la ciega pequeña 0.01 €",
+      "BudyXXIII: pone la ciega grande 0.02 €",
+      "Sigiilo: se ausenta",
+      "SrLyce: se retira",
+      "mivipkr: sube 0.03 € a 0.05 €",
+      "NovacaineZxc: se retira",
+      "BudyXXIII: se retira",
+      "mivipkr: no muestra su mano",
+      "Asiento 4: Sigiilo",
+      "Asiento 1: mivipkr (botón) recaudó (0.05 €)",
+      "Asiento 2: NovacaineZxc (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: BudyXXIII (ciega grande) se retiró antes del Flop",
+      "Asiento 5: SrLyce se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "mivipkr",
+  "win_amount": 2.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257150379601 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:37:41 CET [30-07-2025 17:37:41 ET]\nMesa \"Martha\" 6-max El asiento n.º 1 es el botón\nAsiento 4: Sigiilo (2 € en fichas) está ausente\nAsiento 1: mivipkr (2 € en fichas) \nAsiento 2: NovacaineZxc (2.54 € en fichas) \nAsiento 3: BudyXXIII (2.11 € en fichas) \nAsiento 5: SrLyce (2.02 € en fichas) \nNovacaineZxc: pone la ciega pequeña 0.01 €\nBudyXXIII: pone la ciega grande 0.02 €\nSigiilo: se ausenta \n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5d 8h]\nSrLyce ha agotado su tiempo\nSrLyce: se retira \nmivipkr: sube 0.03 € a 0.05 €\nNovacaineZxc: se retira \nBudyXXIII: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a mivipkr\nmivipkr se lleva 0.05 € del bote \nalexfw300 se une a la mesa en el asiento n.º 6 \nmivipkr: no muestra su mano \n*** RESUMEN ***\nBote total 0.05 € | Comisión 0 € \nAsiento 4: Sigiilo\nAsiento 1: mivipkr (botón) recaudó (0.05 €)\nAsiento 2: NovacaineZxc (ciega pequeña) se retiró antes del Flop\nAsiento 3: BudyXXIII (ciega grande) se retiró antes del Flop\nAsiento 5: SrLyce se retiró antes del Flop (no apostó)"
+}

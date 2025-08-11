@@ -1,0 +1,72 @@
+{
+  "hand_id": "257150507790",
+  "date": "30-07-2025 23:46:53",
+  "table": "Mizuho",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "9d",
+    "Tc"
+  ],
+  "stacks": {
+    "benipoker123": 113.0,
+    "SrLyce": 99.5,
+    "JstLeonel": 120.0,
+    "Ozzy3110": 298.0,
+    "toonsy2010": 98.5,
+    "mivipkr": 166.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: benipoker123 (2.26 € en fichas)",
+      "Asiento 2: SrLyce (1.99 € en fichas)",
+      "Asiento 3: JstLeonel (2.40 € en fichas)",
+      "Asiento 4: Ozzy3110 (5.96 € en fichas)",
+      "Asiento 5: toonsy2010 (1.97 € en fichas)",
+      "Asiento 6: mivipkr (3.33 € en fichas)",
+      "Ozzy3110: pone la ciega pequeña 0.01 €",
+      "toonsy2010: pone la ciega grande 0.02 €",
+      "mivipkr: se retira",
+      "benipoker123: sube 0.04 € a 0.06 €",
+      "SrLyce: iguala 0.06 €",
+      "JstLeonel: iguala 0.06 €",
+      "Ozzy3110: se retira",
+      "toonsy2010: iguala 0.04 €"
+    ],
+    "flop": [
+      "toonsy2010: pasa",
+      "benipoker123: apuesta 0.04 €",
+      "SrLyce: iguala 0.04 €",
+      "JstLeonel: iguala 0.04 €",
+      "toonsy2010: iguala 0.04 €"
+    ],
+    "turn": [
+      "toonsy2010: pasa",
+      "benipoker123: apuesta 0.14 €",
+      "SrLyce: se retira",
+      "JstLeonel: se retira",
+      "toonsy2010: se retira",
+      "benipoker123: no muestra su mano",
+      "Asiento 1: benipoker123 recaudó (0.39 €)",
+      "Asiento 2: SrLyce se retiró en el Turn",
+      "Asiento 3: JstLeonel (botón) se retiró en el Turn",
+      "Asiento 4: Ozzy3110 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 5: toonsy2010 (ciega grande) se retiró en el Turn",
+      "Asiento 6: mivipkr se retiró antes del Flop (no apostó)"
+    ],
+    "river": []
+  },
+  "board": [
+    "5h",
+    "4s",
+    "7s",
+    "3c"
+  ],
+  "winner": "benipoker123",
+  "win_amount": 19.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257150507790 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:46:53 CET [30-07-2025 17:46:53 ET]\nMesa \"Mizuho\" 6-max El asiento n.º 3 es el botón\nAsiento 1: benipoker123 (2.26 € en fichas) \nAsiento 2: SrLyce (1.99 € en fichas) \nAsiento 3: JstLeonel (2.40 € en fichas) \nAsiento 4: Ozzy3110 (5.96 € en fichas) \nAsiento 5: toonsy2010 (1.97 € en fichas) \nAsiento 6: mivipkr (3.33 € en fichas) \nOzzy3110: pone la ciega pequeña 0.01 €\ntoonsy2010: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [9d Tc]\nmivipkr: se retira \nbenipoker123: sube 0.04 € a 0.06 €\nSrLyce: iguala 0.06 €\nJstLeonel: iguala 0.06 €\nOzzy3110: se retira \ntoonsy2010: iguala 0.04 €\n*** FLOP *** [5h 4s 7s]\ntoonsy2010: pasa \nbenipoker123: apuesta 0.04 €\nSrLyce: iguala 0.04 €\nJstLeonel: iguala 0.04 €\ntoonsy2010: iguala 0.04 €\n*** TURN *** [5h 4s 7s] [3c]\ntoonsy2010: pasa \nbenipoker123: apuesta 0.14 €\nSrLyce: se retira \nJstLeonel: se retira \ntoonsy2010: se retira \nLa apuesta no igualada (0.14 €) ha sido devuelta a benipoker123\nbenipoker123 se lleva 0.39 € del bote \nbenipoker123: no muestra su mano \n*** RESUMEN ***\nBote total 0.41 € | Comisión 0.02 € \nComunitarias [5h 4s 7s 3c]\nAsiento 1: benipoker123 recaudó (0.39 €)\nAsiento 2: SrLyce se retiró en el Turn\nAsiento 3: JstLeonel (botón) se retiró en el Turn\nAsiento 4: Ozzy3110 (ciega pequeña) se retiró antes del Flop\nAsiento 5: toonsy2010 (ciega grande) se retiró en el Turn\nAsiento 6: mivipkr se retiró antes del Flop (no apostó)"
+}

@@ -1,0 +1,35 @@
+Mano n.º 257148928342 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:53:56 CET [30-07-2025 15:53:56 ET]
+Mesa "Sirona" 6-max El asiento n.º 4 es el botón
+Asiento 1: SrLyce (2.14 € en fichas) 
+Asiento 2: lecontrebandier (1.96 € en fichas) 
+Asiento 3: christoph363 (4.13 € en fichas) 
+Asiento 4: oliverdu70 (2.88 € en fichas) 
+Asiento 5: NachoAlmirante (2.10 € en fichas) 
+Asiento 6: Dakoo44 (1.48 € en fichas) 
+NachoAlmirante: pone la ciega pequeña 0.01 €
+Dakoo44: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kh Ah]
+SrLyce: sube 0.04 € a 0.06 €
+lecontrebandier: se retira 
+christoph363: se retira 
+oliverdu70: iguala 0.06 €
+NachoAlmirante: se retira 
+Dakoo44: iguala 0.04 €
+*** FLOP *** [8c 6s Kc]
+Dakoo44: pasa 
+SrLyce: apuesta 0.09 €
+oliverdu70: se retira 
+Dakoo44: se retira 
+La apuesta no igualada (0.09 €) ha sido devuelta a SrLyce
+SrLyce se lleva 0.18 € del bote 
+SrLyce: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.19 € | Comisión 0.01 € 
+Comunitarias [8c 6s Kc]
+Asiento 1: SrLyce recaudó (0.18 €)
+Asiento 2: lecontrebandier se retiró antes del Flop (no apostó)
+Asiento 3: christoph363 se retiró antes del Flop (no apostó)
+Asiento 4: oliverdu70 (botón) se retiró en el Flop
+Asiento 5: NachoAlmirante (ciega pequeña) se retiró antes del Flop
+Asiento 6: Dakoo44 (ciega grande) se retiró en el Flop

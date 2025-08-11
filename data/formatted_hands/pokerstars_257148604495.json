@@ -1,0 +1,71 @@
+{
+  "hand_id": "257148604495",
+  "date": "30-07-2025 21:31:06",
+  "table": "Esclangona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7s",
+    "Ac"
+  ],
+  "stacks": {
+    "gabriella657": 285.0,
+    "SrLyce": 98.5,
+    "Davdgoni": 161.5,
+    "DiaZzZ1": 108.0,
+    "berlcht403": 40.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 3: gabriella657 (5.70 € en fichas) está ausente",
+      "Asiento 2: SrLyce (1.97 € en fichas)",
+      "Asiento 4: Davdgoni (3.23 € en fichas)",
+      "Asiento 5: DiaZzZ1 (2.16 € en fichas)",
+      "Asiento 6: berlcht403 (0.81 € en fichas)",
+      "gabriella657: está ausente",
+      "Davdgoni: pone la ciega pequeña 0.01 €",
+      "DiaZzZ1: pone la ciega grande 0.02 €",
+      "berlcht403: se retira",
+      "SrLyce: sube 0.04 € a 0.06 €",
+      "Davdgoni: iguala 0.05 €",
+      "DiaZzZ1: iguala 0.04 €"
+    ],
+    "flop": [
+      "Davdgoni: pasa",
+      "DiaZzZ1: pasa",
+      "SrLyce: pasa"
+    ],
+    "turn": [
+      "Davdgoni: pasa",
+      "DiaZzZ1: pasa",
+      "SrLyce: pasa"
+    ],
+    "river": [
+      "Davdgoni: pasa",
+      "DiaZzZ1: apuesta 0.09 €",
+      "SrLyce: se retira",
+      "Davdgoni: iguala 0.09 €",
+      "DiaZzZ1: muestra [Ah Ts] (carta alta as)",
+      "Davdgoni: muestra [Jd Qc] (pareja de damas)",
+      "Asiento 3: gabriella657",
+      "Asiento 2: SrLyce (botón) se retiró en el River",
+      "Asiento 4: Davdgoni (ciega pequeña) muestra [Jd Qc] y ganó (0.34 €) con pareja de damas",
+      "Asiento 5: DiaZzZ1 (ciega grande) muestra [Ah Ts] y perdió con carta alta as",
+      "Asiento 6: berlcht403 se retiró antes del Flop (no apostó)"
+    ]
+  },
+  "board": [
+    "Qh",
+    "8c",
+    "Kc",
+    "2h",
+    "4h"
+  ],
+  "winner": "Davdgoni",
+  "win_amount": 17.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.0,
+  "raw_text": "Mano n.º 257148604495 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:31:06 CET [30-07-2025 15:31:06 ET]\nMesa \"Esclangona\" 6-max El asiento n.º 2 es el botón\nAsiento 3: gabriella657 (5.70 € en fichas) está ausente\nAsiento 2: SrLyce (1.97 € en fichas) \nAsiento 4: Davdgoni (3.23 € en fichas) \nAsiento 5: DiaZzZ1 (2.16 € en fichas) \nAsiento 6: berlcht403 (0.81 € en fichas) \nMorganKapone deja la mesa\ngabriella657 ha agotado su tiempo mientras siga sin conexión\ngabriella657: está ausente \nDavdgoni: pone la ciega pequeña 0.01 €\nDiaZzZ1: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7s Ac]\nberlcht403: se retira \nSrLyce: sube 0.04 € a 0.06 €\nDavdgoni: iguala 0.05 €\nDiaZzZ1: iguala 0.04 €\n*** FLOP *** [Qh 8c Kc]\nDavdgoni: pasa \nDiaZzZ1: pasa \nSrLyce: pasa \n*** TURN *** [Qh 8c Kc] [2h]\nDavdgoni: pasa \nDiaZzZ1: pasa \nSrLyce: pasa \n*** RIVER *** [Qh 8c Kc 2h] [4h]\nDavdgoni: pasa \nDiaZzZ1: apuesta 0.09 €\nSrLyce: se retira \nDavdgoni: iguala 0.09 €\n*** SHOW DOWN ***\nDiaZzZ1: muestra [Ah Ts] (carta alta as)\nDavdgoni: muestra [Jd Qc] (pareja de damas)\nDavdgoni se lleva 0.34 € del bote \n*** RESUMEN ***\nBote total 0.36 € | Comisión 0.02 € \nComunitarias [Qh 8c Kc 2h 4h]\nAsiento 3: gabriella657\nAsiento 2: SrLyce (botón) se retiró en el River\nAsiento 4: Davdgoni (ciega pequeña) muestra [Jd Qc] y ganó (0.34 €) con pareja de damas\nAsiento 5: DiaZzZ1 (ciega grande) muestra [Ah Ts] y perdió con carta alta as\nAsiento 6: berlcht403 se retiró antes del Flop (no apostó)"
+}

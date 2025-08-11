@@ -1,0 +1,76 @@
+{
+  "hand_id": "257149914581",
+  "date": "30-07-2025 23:05:34",
+  "table": "Lobelia",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "7d",
+    "Kd"
+  ],
+  "stacks": {
+    "LeVbks": 91.5,
+    "fcis666": 57.0,
+    "Dlaguancha": 61.0,
+    "SrLyce": 117.5,
+    "riverluck444": 73.5,
+    "Kiffou39": 56.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: LeVbks (1.83 € en fichas)",
+      "Asiento 2: fcis666 (1.14 € en fichas)",
+      "Asiento 3: Dlaguancha (1.22 € en fichas)",
+      "Asiento 4: SrLyce (2.35 € en fichas)",
+      "Asiento 5: riverluck444 (1.47 € en fichas)",
+      "Asiento 6: Kiffou39 (1.13 € en fichas)",
+      "Dlaguancha: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "riverluck444: se retira",
+      "Kiffou39: iguala 0.02 €",
+      "LeVbks: se retira",
+      "fcis666: se retira",
+      "Dlaguancha: iguala 0.01 €",
+      "SrLyce: pasa"
+    ],
+    "flop": [
+      "Dlaguancha: pasa",
+      "SrLyce: pasa",
+      "Kiffou39: apuesta 0.06 €",
+      "Dlaguancha: iguala 0.06 €",
+      "SrLyce: iguala 0.06 €"
+    ],
+    "turn": [
+      "Dlaguancha: pasa",
+      "SrLyce: pasa",
+      "Kiffou39: pasa"
+    ],
+    "river": [
+      "Dlaguancha: apuesta 0.12 €",
+      "SrLyce: iguala 0.12 €",
+      "Kiffou39: se retira",
+      "Dlaguancha: muestra [Ah 3d] (pareja de ases)",
+      "SrLyce: descarta su mano sin mostrar",
+      "Asiento 1: LeVbks se retiró antes del Flop (no apostó)",
+      "Asiento 2: fcis666 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 3: Dlaguancha (ciega pequeña) muestra [Ah 3d] y ganó (0.45 €) con pareja de ases",
+      "Asiento 4: SrLyce (ciega grande) descartó sin mostrar [7d Kd]",
+      "Asiento 5: riverluck444 se retiró antes del Flop (no apostó)",
+      "Asiento 6: Kiffou39 se retiró en el River"
+    ]
+  },
+  "board": [
+    "Kh",
+    "2s",
+    "4s",
+    "Ac",
+    "Jh"
+  ],
+  "winner": "Dlaguancha",
+  "win_amount": 22.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 1.5,
+  "raw_text": "Mano n.º 257149914581 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:05:34 CET [30-07-2025 17:05:34 ET]\nMesa \"Lobelia\" 6-max El asiento n.º 2 es el botón\nAsiento 1: LeVbks (1.83 € en fichas) \nAsiento 2: fcis666 (1.14 € en fichas) \nAsiento 3: Dlaguancha (1.22 € en fichas) \nAsiento 4: SrLyce (2.35 € en fichas) \nAsiento 5: riverluck444 (1.47 € en fichas) \nAsiento 6: Kiffou39 (1.13 € en fichas) \nDlaguancha: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [7d Kd]\nriverluck444: se retira \nKiffou39: iguala 0.02 €\nLeVbks: se retira \nfcis666: se retira \nDlaguancha: iguala 0.01 €\nSrLyce: pasa \n*** FLOP *** [Kh 2s 4s]\nDlaguancha: pasa \nSrLyce: pasa \nKiffou39: apuesta 0.06 €\nDlaguancha: iguala 0.06 €\nSrLyce: iguala 0.06 €\n*** TURN *** [Kh 2s 4s] [Ac]\nDlaguancha: pasa \nSrLyce: pasa \nKiffou39: pasa \n*** RIVER *** [Kh 2s 4s Ac] [Jh]\nDlaguancha: apuesta 0.12 €\nSrLyce: iguala 0.12 €\nKiffou39: se retira \n*** SHOW DOWN ***\nDlaguancha: muestra [Ah 3d] (pareja de ases)\nSrLyce: descarta su mano sin mostrar \nDlaguancha se lleva 0.45 € del bote \n*** RESUMEN ***\nBote total 0.48 € | Comisión 0.03 € \nComunitarias [Kh 2s 4s Ac Jh]\nAsiento 1: LeVbks se retiró antes del Flop (no apostó)\nAsiento 2: fcis666 (botón) se retiró antes del Flop (no apostó)\nAsiento 3: Dlaguancha (ciega pequeña) muestra [Ah 3d] y ganó (0.45 €) con pareja de ases\nAsiento 4: SrLyce (ciega grande) descartó sin mostrar [7d Kd]\nAsiento 5: riverluck444 se retiró antes del Flop (no apostó)\nAsiento 6: Kiffou39 se retiró en el River"
+}

@@ -1,0 +1,41 @@
+Mano n.º 257168299291 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:22:15 CET [01-08-2025 5:22:15 ET]
+Mesa "Atlas" 6-max El asiento n.º 4 es el botón
+Asiento 1: SrLyce (1.84 € en fichas) 
+Asiento 2: Fharock (1.84 € en fichas) 
+Asiento 3: ecuinas (2.05 € en fichas) 
+Asiento 4: LxckxStrxkx (2.10 € en fichas) 
+Asiento 5: erCampos23 (0.66 € en fichas) 
+Asiento 6: Akourdideh (2.32 € en fichas) 
+erCampos23: pone la ciega pequeña 0.01 €
+Akourdideh: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5d 3c]
+SrLyce: se retira 
+Fharock: sube 0.02 € a 0.04 €
+ecuinas: se retira 
+LxckxStrxkx: se retira 
+erCampos23: se retira 
+Akourdideh: iguala 0.02 €
+*** FLOP *** [Js Ah 8c]
+Akourdideh: pasa 
+Fharock: apuesta 0.04 €
+Akourdideh: iguala 0.04 €
+*** TURN *** [Js Ah 8c] [9s]
+Akourdideh: pasa 
+Fharock: pasa 
+*** RIVER *** [Js Ah 8c 9s] [6c]
+Akourdideh: pasa 
+Fharock: pasa 
+*** SHOW DOWN ***
+Akourdideh: muestra [7h As] (pareja de ases)
+Fharock: descarta su mano sin mostrar 
+Akourdideh se lleva 0.16 € del bote 
+*** RESUMEN ***
+Bote total 0.17 € | Comisión 0.01 € 
+Comunitarias [Js Ah 8c 9s 6c]
+Asiento 1: SrLyce se retiró antes del Flop (no apostó)
+Asiento 2: Fharock descartó sin mostrar [4c 4h]
+Asiento 3: ecuinas se retiró antes del Flop (no apostó)
+Asiento 4: LxckxStrxkx (botón) se retiró antes del Flop (no apostó)
+Asiento 5: erCampos23 (ciega pequeña) se retiró antes del Flop
+Asiento 6: Akourdideh (ciega grande) muestra [7h As] y ganó (0.16 €) con pareja de ases

@@ -1,0 +1,60 @@
+{
+  "hand_id": "257237818114",
+  "date": "06-08-2025 18:02:16",
+  "table": "Euneus III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "6d",
+    "4h"
+  ],
+  "stacks": {
+    "DeMula62": 103.5,
+    "Il_BM00": 106.5,
+    "djrojas9": 146.0,
+    "SrLyce": 114.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: DeMula62 (2.07 € en fichas) está ausente",
+      "Asiento 2: Il_BM00 (2.13 € en fichas)",
+      "Asiento 3: djrojas9 (2.92 € en fichas)",
+      "Asiento 5: SrLyce (2.28 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "DeMula62: está ausente",
+      "Il_BM00: pone la ciega grande 0.02 €",
+      "djrojas9: se retira",
+      "SrLyce: iguala 0.01 €",
+      "Il_BM00: sube 0.04 € a 0.06 €",
+      "SrLyce: iguala 0.04 €"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "Il_BM00: apuesta 0.06 €",
+      "SrLyce: iguala 0.06 €"
+    ],
+    "turn": [
+      "SrLyce: apuesta 0.12 €",
+      "Il_BM00: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: DeMula62",
+      "Asiento 2: Il_BM00 (ciega grande) se retiró en el Turn",
+      "Asiento 3: djrojas9 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: SrLyce (ciega pequeña) recaudó (0.23 €)"
+    ],
+    "river": []
+  },
+  "board": [
+    "Td",
+    "6h",
+    "5d",
+    "Qc"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 11.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257237818114 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:02:16 CET [06-08-2025 12:02:16 ET]\nMesa \"Euneus III\" 6-max El asiento n.º 3 es el botón\nAsiento 1: DeMula62 (2.07 € en fichas) está ausente\nAsiento 2: Il_BM00 (2.13 € en fichas) \nAsiento 3: djrojas9 (2.92 € en fichas) \nAsiento 5: SrLyce (2.28 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nDeMula62: está ausente \nIl_BM00: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [6d 4h]\nDeMula62 deja la mesa\ndjrojas9: se retira \nSrLyce: iguala 0.01 €\nIl_BM00: sube 0.04 € a 0.06 €\nSrLyce: iguala 0.04 €\n*** FLOP *** [Td 6h 5d]\nSrLyce: pasa \nIl_BM00: apuesta 0.06 €\nSrLyce: iguala 0.06 €\n*** TURN *** [Td 6h 5d] [Qc]\nSrLyce: apuesta 0.12 €\nIl_BM00: se retira \nLa apuesta no igualada (0.12 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.23 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.24 € | Comisión 0.01 € \nComunitarias [Td 6h 5d Qc]\nAsiento 1: DeMula62\nAsiento 2: Il_BM00 (ciega grande) se retiró en el Turn\nAsiento 3: djrojas9 (botón) se retiró antes del Flop (no apostó)\nAsiento 5: SrLyce (ciega pequeña) recaudó (0.23 €)"
+}

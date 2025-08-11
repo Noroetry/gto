@@ -1,0 +1,39 @@
+Mano n.º 257168406347 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:41:57 CET [01-08-2025 5:41:57 ET]
+Mesa "Jupiter" 6-max El asiento n.º 1 es el botón
+Asiento 1: sifilis5 (1.97 € en fichas) 
+Asiento 3: SrLyce (2.24 € en fichas) 
+Asiento 4: LOLA19711971 (0.89 € en fichas) 
+Asiento 5: dadou13mars (4.15 € en fichas) 
+Asiento 6: Alvii37 (2.61 € en fichas) 
+SrLyce: pone la ciega pequeña 0.01 €
+LOLA19711971: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [Kh 3h]
+dadou13mars: se retira 
+Alvii37: sube 0.04 € a 0.06 €
+sifilis5: se retira 
+SrLyce: iguala 0.05 €
+Tuerno se une a la mesa en el asiento n.º 2 
+LOLA19711971: se retira 
+*** FLOP *** [2d 6c 3s]
+SrLyce: pasa 
+Alvii37: pasa 
+*** TURN *** [2d 6c 3s] [5d]
+SrLyce: pasa 
+Alvii37: pasa 
+*** RIVER *** [2d 6c 3s 5d] [4c]
+SrLyce: pasa 
+Alvii37: pasa 
+*** SHOW DOWN ***
+SrLyce: muestra [Kh 3h] (escalera, de dos a seis)
+Alvii37: muestra [Tc Ah] (escalera, de dos a seis)
+SrLyce se lleva 0.07 € del bote 
+Alvii37 se lleva 0.06 € del bote 
+*** RESUMEN ***
+Bote total 0.14 € | Comisión 0.01 € 
+Comunitarias [2d 6c 3s 5d 4c]
+Asiento 1: sifilis5 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SrLyce (ciega pequeña) muestra [Kh 3h] y ganó (0.07 €) con escalera, de dos a seis
+Asiento 4: LOLA19711971 (ciega grande) se retiró antes del Flop
+Asiento 5: dadou13mars se retiró antes del Flop (no apostó)
+Asiento 6: Alvii37 muestra [Tc Ah] y ganó (0.06 €) con escalera, de dos a seis

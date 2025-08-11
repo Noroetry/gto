@@ -1,0 +1,69 @@
+{
+  "hand_id": "257168284415",
+  "date": "01-08-2025 11:19:26",
+  "table": "Jupiter",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Td",
+    "6c"
+  ],
+  "stacks": {
+    "LOLA19711971": 30.5,
+    "sifilis5": 86.0,
+    "Filou203": 114.0,
+    "SrLyce": 115.0,
+    "dadou13mars": 227.0,
+    "Alvii37": 108.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 4: LOLA19711971 (0.61 € en fichas) está ausente",
+      "Asiento 1: sifilis5 (1.72 € en fichas)",
+      "Asiento 2: Filou203 (2.28 € en fichas)",
+      "Asiento 3: SrLyce (2.30 € en fichas)",
+      "Asiento 5: dadou13mars (4.54 € en fichas)",
+      "Asiento 6: Alvii37 (2.17 € en fichas)",
+      "Alvii37: pone la ciega pequeña 0.01 €",
+      "sifilis5: pone la ciega grande 0.02 €",
+      "Filou203: sube 0.03 € a 0.05 €",
+      "SrLyce: se retira",
+      "dadou13mars: se retira",
+      "Alvii37: se retira",
+      "sifilis5: iguala 0.03 €"
+    ],
+    "flop": [
+      "sifilis5: pasa",
+      "Filou203: pasa"
+    ],
+    "turn": [
+      "sifilis5: pasa",
+      "Filou203: pasa"
+    ],
+    "river": [
+      "sifilis5: apuesta 0.08 €",
+      "Filou203: se retira",
+      "sifilis5: no muestra su mano",
+      "Asiento 4: LOLA19711971",
+      "Asiento 1: sifilis5 (ciega grande) recaudó (0.10 €)",
+      "Asiento 2: Filou203 se retiró en el River",
+      "Asiento 3: SrLyce se retiró antes del Flop (no apostó)",
+      "Asiento 5: dadou13mars (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 6: Alvii37 (ciega pequeña) se retiró antes del Flop"
+    ]
+  },
+  "board": [
+    "4h",
+    "2s",
+    "Th",
+    "Js",
+    "2d"
+  ],
+  "winner": "sifilis5",
+  "win_amount": 5.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257168284415 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 01-08-2025 11:19:26 CET [01-08-2025 5:19:26 ET]\nMesa \"Jupiter\" 6-max El asiento n.º 5 es el botón\nAsiento 4: LOLA19711971 (0.61 € en fichas) está ausente\nAsiento 1: sifilis5 (1.72 € en fichas) \nAsiento 2: Filou203 (2.28 € en fichas) \nAsiento 3: SrLyce (2.30 € en fichas) \nAsiento 5: dadou13mars (4.54 € en fichas) \nAsiento 6: Alvii37 (2.17 € en fichas) \nAlvii37: pone la ciega pequeña 0.01 €\nsifilis5: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Td 6c]\nFilou203: sube 0.03 € a 0.05 €\nSrLyce: se retira \ndadou13mars: se retira \nAlvii37: se retira \nsifilis5: iguala 0.03 €\n*** FLOP *** [4h 2s Th]\nsifilis5: pasa \nFilou203: pasa \n*** TURN *** [4h 2s Th] [Js]\nsifilis5: pasa \nFilou203: pasa \n*** RIVER *** [4h 2s Th Js] [2d]\nsifilis5: apuesta 0.08 €\nFilou203: se retira \nLa apuesta no igualada (0.08 €) ha sido devuelta a sifilis5\nsifilis5 se lleva 0.10 € del bote \nsifilis5: no muestra su mano \n*** RESUMEN ***\nBote total 0.11 € | Comisión 0.01 € \nComunitarias [4h 2s Th Js 2d]\nAsiento 4: LOLA19711971\nAsiento 1: sifilis5 (ciega grande) recaudó (0.10 €)\nAsiento 2: Filou203 se retiró en el River\nAsiento 3: SrLyce se retiró antes del Flop (no apostó)\nAsiento 5: dadou13mars (botón) se retiró antes del Flop (no apostó)\nAsiento 6: Alvii37 (ciega pequeña) se retiró antes del Flop"
+}

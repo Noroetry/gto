@@ -1,0 +1,56 @@
+{
+  "hand_id": "257237045187",
+  "date": "06-08-2025 17:34:33",
+  "table": "Kale III",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "3h",
+    "6h"
+  ],
+  "stacks": {
+    "x__Nest__x": 87.0,
+    "SrLyce": 112.5,
+    "Dracoline000": 114.5,
+    "Doblea315": 163.5,
+    "Begoton": 114.5,
+    "juanmemol": 100.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: x__Nest__x (1.74 € en fichas)",
+      "Asiento 2: SrLyce (2.25 € en fichas)",
+      "Asiento 3: Dracoline000 (2.29 € en fichas)",
+      "Asiento 4: Doblea315 (3.27 € en fichas)",
+      "Asiento 5: Begoton (2.29 € en fichas)",
+      "Asiento 6: juanmemol (2 € en fichas)",
+      "x__Nest__x: pone la ciega pequeña 0.01 €",
+      "SrLyce: pone la ciega grande 0.02 €",
+      "Dracoline000: sube 0.02 € a 0.04 €",
+      "Doblea315: sube 0.08 € a 0.12 €",
+      "Begoton: se retira",
+      "juanmemol: se retira",
+      "x__Nest__x: se retira",
+      "SrLyce: se retira",
+      "Dracoline000: se retira",
+      "Doblea315: no muestra su mano",
+      "Asiento 1: x__Nest__x (ciega pequeña) se retiró antes del Flop",
+      "Asiento 2: SrLyce (ciega grande) se retiró antes del Flop",
+      "Asiento 3: Dracoline000 se retiró antes del Flop",
+      "Asiento 4: Doblea315 recaudó (0.11 €)",
+      "Asiento 5: Begoton se retiró antes del Flop (no apostó)",
+      "Asiento 6: juanmemol (botón) se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "Doblea315",
+  "win_amount": 5.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257237045187 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 17:34:33 CET [06-08-2025 11:34:33 ET]\nMesa \"Kale III\" 6-max El asiento n.º 6 es el botón\nAsiento 1: x__Nest__x (1.74 € en fichas) \nAsiento 2: SrLyce (2.25 € en fichas) \nAsiento 3: Dracoline000 (2.29 € en fichas) \nAsiento 4: Doblea315 (3.27 € en fichas) \nAsiento 5: Begoton (2.29 € en fichas) \nAsiento 6: juanmemol (2 € en fichas) \nx__Nest__x: pone la ciega pequeña 0.01 €\nSrLyce: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [3h 6h]\nDracoline000: sube 0.02 € a 0.04 €\nDoblea315: sube 0.08 € a 0.12 €\nBegoton: se retira \njuanmemol: se retira \nx__Nest__x: se retira \nSrLyce: se retira \nDracoline000: se retira \nLa apuesta no igualada (0.08 €) ha sido devuelta a Doblea315\nDoblea315 se lleva 0.11 € del bote \nDoblea315: no muestra su mano \n*** RESUMEN ***\nBote total 0.11 € | Comisión 0 € \nAsiento 1: x__Nest__x (ciega pequeña) se retiró antes del Flop\nAsiento 2: SrLyce (ciega grande) se retiró antes del Flop\nAsiento 3: Dracoline000 se retiró antes del Flop\nAsiento 4: Doblea315 recaudó (0.11 €)\nAsiento 5: Begoton se retiró antes del Flop (no apostó)\nAsiento 6: juanmemol (botón) se retiró antes del Flop (no apostó)"
+}

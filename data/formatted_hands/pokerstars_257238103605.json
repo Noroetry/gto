@@ -1,0 +1,53 @@
+{
+  "hand_id": "257238103605",
+  "date": "06-08-2025 18:28:23",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8c",
+    "2c"
+  ],
+  "stacks": {
+    "SrLyce": 97.0,
+    "Davdgoni": 263.0,
+    "PerroBestia": 41.5,
+    "Nicanor Cast": 54.0,
+    "THEBLACK972": 173.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.94 € en fichas)",
+      "Asiento 2: Davdgoni (5.26 € en fichas)",
+      "Asiento 3: PerroBestia (0.83 € en fichas)",
+      "Asiento 4: serviettski(fr) (2.03 € en fichas)",
+      "Asiento 5: Nicanor Cast (1.08 € en fichas)",
+      "Asiento 6: THEBLACK972 (3.47 € en fichas)",
+      "Davdgoni: pone la ciega pequeña 0.01 €",
+      "PerroBestia: pone la ciega grande 0.02 €",
+      "serviettski(fr): se retira",
+      "Nicanor Cast: se retira",
+      "THEBLACK972: se retira",
+      "SrLyce: se retira",
+      "Davdgoni: se retira",
+      "PerroBestia: no muestra su mano",
+      "Asiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: Davdgoni (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: PerroBestia (ciega grande) recaudó (0.02 €)",
+      "Asiento 4: serviettski(fr) se retiró antes del Flop (no apostó)",
+      "Asiento 5: Nicanor Cast se retiró antes del Flop (no apostó)",
+      "Asiento 6: THEBLACK972 se retiró antes del Flop (no apostó)"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": []
+  },
+  "board": [],
+  "winner": "PerroBestia",
+  "win_amount": 1.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.0,
+  "raw_text": "Mano n.º 257238103605 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:28:23 CET [06-08-2025 12:28:23 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 1 es el botón\nAsiento 1: SrLyce (1.94 € en fichas) \nAsiento 2: Davdgoni (5.26 € en fichas) \nAsiento 3: PerroBestia (0.83 € en fichas) \nAsiento 4: serviettski(fr) (2.03 € en fichas) \nAsiento 5: Nicanor Cast (1.08 € en fichas) \nAsiento 6: THEBLACK972 (3.47 € en fichas) \nDavdgoni: pone la ciega pequeña 0.01 €\nPerroBestia: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8c 2c]\nserviettski(fr): se retira \nNicanor Cast: se retira \nTHEBLACK972: se retira \nSrLyce: se retira \nDavdgoni: se retira \nLa apuesta no igualada (0.01 €) ha sido devuelta a PerroBestia\nPerroBestia se lleva 0.02 € del bote \nPerroBestia: no muestra su mano \n*** RESUMEN ***\nBote total 0.02 € | Comisión 0 € \nAsiento 1: SrLyce (botón) se retiró antes del Flop (no apostó)\nAsiento 2: Davdgoni (ciega pequeña) se retiró antes del Flop\nAsiento 3: PerroBestia (ciega grande) recaudó (0.02 €)\nAsiento 4: serviettski(fr) se retiró antes del Flop (no apostó)\nAsiento 5: Nicanor Cast se retiró antes del Flop (no apostó)\nAsiento 6: THEBLACK972 se retiró antes del Flop (no apostó)"
+}

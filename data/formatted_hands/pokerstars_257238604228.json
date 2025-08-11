@@ -1,0 +1,72 @@
+{
+  "hand_id": "257238604228",
+  "date": "06-08-2025 19:13:45",
+  "table": "Herculina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "4s",
+    "Ac"
+  ],
+  "stacks": {
+    "Alceo27": 100.0,
+    "David98X": 173.5,
+    "JJer11": 199.5,
+    "SrLyce": 100.0,
+    "Macklemore0": 103.0,
+    "ScarvBlack": 120.5
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: Alceo27 (2 € en fichas)",
+      "Asiento 2: David98X (3.47 € en fichas)",
+      "Asiento 3: JJer11 (3.99 € en fichas)",
+      "Asiento 4: SrLyce (2 € en fichas)",
+      "Asiento 5: Macklemore0 (2.06 € en fichas)",
+      "Asiento 6: ScarvBlack (2.41 € en fichas)",
+      "Macklemore0: pone la ciega pequeña 0.01 €",
+      "ScarvBlack: pone la ciega grande 0.02 €",
+      "Alceo27: sube 0.03 € a 0.05 €",
+      "David98X: se retira",
+      "JJer11: se retira",
+      "SrLyce: iguala 0.05 €",
+      "Macklemore0: se retira",
+      "ScarvBlack: iguala 0.03 €"
+    ],
+    "flop": [
+      "ScarvBlack: apuesta 0.06 €",
+      "Alceo27: iguala 0.06 €",
+      "SrLyce: se retira"
+    ],
+    "turn": [
+      "ScarvBlack: apuesta 0.18 €",
+      "Alceo27: iguala 0.18 €"
+    ],
+    "river": [
+      "ScarvBlack: pasa",
+      "Alceo27: pasa",
+      "ScarvBlack: muestra [5s As] (pareja de doses)",
+      "Alceo27: muestra [Jc Ad] (doble pareja, jotas y doses)",
+      "Asiento 1: Alceo27 muestra [Jc Ad] y ganó (0.60 €) con doble pareja, jotas y doses",
+      "Asiento 2: David98X se retiró antes del Flop (no apostó)",
+      "Asiento 3: JJer11 se retiró antes del Flop (no apostó)",
+      "Asiento 4: SrLyce (botón) se retiró en el Flop",
+      "Asiento 5: Macklemore0 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: ScarvBlack (ciega grande) muestra [5s As] y perdió con pareja de doses"
+    ]
+  },
+  "board": [
+    "2s",
+    "Jh",
+    "7s",
+    "3h",
+    "2d"
+  ],
+  "winner": "Alceo27",
+  "win_amount": 30.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 2.0,
+  "raw_text": "Mano n.º 257238604228 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 19:13:45 CET [06-08-2025 13:13:45 ET]\nMesa \"Herculina II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: Alceo27 (2 € en fichas) \nAsiento 2: David98X (3.47 € en fichas) \nAsiento 3: JJer11 (3.99 € en fichas) \nAsiento 4: SrLyce (2 € en fichas) \nAsiento 5: Macklemore0 (2.06 € en fichas) \nAsiento 6: ScarvBlack (2.41 € en fichas) \nMacklemore0: pone la ciega pequeña 0.01 €\nScarvBlack: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [4s Ac]\nAlceo27: sube 0.03 € a 0.05 €\nDavid98X: se retira \nJJer11: se retira \nSrLyce: iguala 0.05 €\nMacklemore0: se retira \nScarvBlack: iguala 0.03 €\n*** FLOP *** [2s Jh 7s]\nScarvBlack: apuesta 0.06 €\nAlceo27: iguala 0.06 €\nSrLyce: se retira \n*** TURN *** [2s Jh 7s] [3h]\nScarvBlack: apuesta 0.18 €\nAlceo27: iguala 0.18 €\n*** RIVER *** [2s Jh 7s 3h] [2d]\nScarvBlack: pasa \nAlceo27: pasa \n*** SHOW DOWN ***\nScarvBlack: muestra [5s As] (pareja de doses)\nAlceo27: muestra [Jc Ad] (doble pareja, jotas y doses)\nAlceo27 se lleva 0.60 € del bote \n*** RESUMEN ***\nBote total 0.64 € | Comisión 0.04 € \nComunitarias [2s Jh 7s 3h 2d]\nAsiento 1: Alceo27 muestra [Jc Ad] y ganó (0.60 €) con doble pareja, jotas y doses\nAsiento 2: David98X se retiró antes del Flop (no apostó)\nAsiento 3: JJer11 se retiró antes del Flop (no apostó)\nAsiento 4: SrLyce (botón) se retiró en el Flop\nAsiento 5: Macklemore0 (ciega pequeña) se retiró antes del Flop\nAsiento 6: ScarvBlack (ciega grande) muestra [5s As] y perdió con pareja de doses"
+}

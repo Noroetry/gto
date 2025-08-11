@@ -1,0 +1,66 @@
+{
+  "hand_id": "257148688094",
+  "date": "30-07-2025 21:36:59",
+  "table": "Sirona",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "5c",
+    "6c"
+  ],
+  "stacks": {
+    "SrLyce": 95.5,
+    "lecontrebandier": 98.5,
+    "christoph363": 179.5,
+    "oliverdu70": 100.0,
+    "olibellier": 32.5,
+    "Dakoo44": 109.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.91 € en fichas)",
+      "Asiento 2: lecontrebandier (1.97 € en fichas)",
+      "Asiento 3: christoph363 (3.59 € en fichas)",
+      "Asiento 4: oliverdu70 (2 € en fichas)",
+      "Asiento 5: olibellier (0.65 € en fichas)",
+      "Asiento 6: Dakoo44 (2.18 € en fichas)",
+      "SrLyce: pone la ciega pequeña 0.01 €",
+      "lecontrebandier: pone la ciega grande 0.02 €",
+      "christoph363: se retira",
+      "oliverdu70: sube 0.06 € a 0.08 €",
+      "olibellier: se retira",
+      "Dakoo44: se retira",
+      "SrLyce: iguala 0.07 €",
+      "lecontrebandier: se retira"
+    ],
+    "flop": [
+      "SrLyce: pasa",
+      "oliverdu70: pasa"
+    ],
+    "turn": [
+      "SrLyce: pasa",
+      "oliverdu70: apuesta 0.09 €",
+      "SrLyce: se retira",
+      "Asiento 1: SrLyce (ciega pequeña) se retiró en el Turn",
+      "Asiento 2: lecontrebandier (ciega grande) se retiró antes del Flop",
+      "Asiento 3: christoph363 se retiró antes del Flop (no apostó)",
+      "Asiento 4: oliverdu70 recaudó (0.17 €)",
+      "Asiento 5: olibellier se retiró antes del Flop (no apostó)",
+      "Asiento 6: Dakoo44 (botón) se retiró antes del Flop (no apostó)"
+    ],
+    "river": []
+  },
+  "board": [
+    "Jd",
+    "Qs",
+    "Th",
+    "Kc"
+  ],
+  "winner": "oliverdu70",
+  "win_amount": 8.5,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257148688094 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 21:36:59 CET [30-07-2025 15:36:59 ET]\nMesa \"Sirona\" 6-max El asiento n.º 6 es el botón\nAsiento 1: SrLyce (1.91 € en fichas) \nAsiento 2: lecontrebandier (1.97 € en fichas) \nAsiento 3: christoph363 (3.59 € en fichas) \nAsiento 4: oliverdu70 (2 € en fichas) \nAsiento 5: olibellier (0.65 € en fichas) \nAsiento 6: Dakoo44 (2.18 € en fichas) \nSrLyce: pone la ciega pequeña 0.01 €\nlecontrebandier: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [5c 6c]\nchristoph363: se retira \noliverdu70: sube 0.06 € a 0.08 €\nolibellier: se retira \nDakoo44: se retira \nSrLyce: iguala 0.07 €\nlecontrebandier: se retira \n*** FLOP *** [Jd Qs Th]\nSrLyce: pasa \noliverdu70: pasa \n*** TURN *** [Jd Qs Th] [Kc]\nSrLyce: pasa \noliverdu70: apuesta 0.09 €\nSrLyce: se retira \nLa apuesta no igualada (0.09 €) ha sido devuelta a oliverdu70\noliverdu70 se lleva 0.17 € del bote \n*** RESUMEN ***\nBote total 0.18 € | Comisión 0.01 € \nComunitarias [Jd Qs Th Kc]\nAsiento 1: SrLyce (ciega pequeña) se retiró en el Turn\nAsiento 2: lecontrebandier (ciega grande) se retiró antes del Flop\nAsiento 3: christoph363 se retiró antes del Flop (no apostó)\nAsiento 4: oliverdu70 recaudó (0.17 €)\nAsiento 5: olibellier se retiró antes del Flop (no apostó)\nAsiento 6: Dakoo44 (botón) se retiró antes del Flop (no apostó)"
+}

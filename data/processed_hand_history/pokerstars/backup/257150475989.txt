@@ -1,0 +1,43 @@
+Mano n.º 257150475989 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 23:44:34 CET [30-07-2025 17:44:34 ET]
+Mesa "Lobelia" 6-max El asiento n.º 5 es el botón
+Asiento 1: LeVbks (2.38 € en fichas) 
+Asiento 2: fcis666 (0.75 € en fichas) 
+Asiento 3: Dlaguancha (2.55 € en fichas) 
+Asiento 4: SrLyce (2.04 € en fichas) 
+Asiento 5: riverluck444 (1.62 € en fichas) 
+Asiento 6: javipondio (0.96 € en fichas) 
+javipondio: pone la ciega pequeña 0.01 €
+LeVbks: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [5c Qh]
+fcis666: sube 0.04 € a 0.06 €
+Dlaguancha: se retira 
+SrLyce: se retira 
+riverluck444: se retira 
+javipondio: se retira 
+LeVbks: iguala 0.04 €
+*** FLOP *** [Jd 6s Tc]
+LeVbks: pasa 
+fcis666: apuesta 0.04 €
+LeVbks: iguala 0.04 €
+*** TURN *** [Jd 6s Tc] [3c]
+LeVbks: pasa 
+fcis666: apuesta 0.08 €
+LeVbks: iguala 0.08 €
+*** RIVER *** [Jd 6s Tc 3c] [7h]
+LeVbks: pasa 
+fcis666: apuesta 0.14 €
+LeVbks: iguala 0.14 €
+*** SHOW DOWN ***
+fcis666: muestra [Ks Ac] (carta alta as)
+LeVbks: muestra [Qd Td] (pareja de dieces)
+LeVbks se lleva 0.61 € del bote 
+*** RESUMEN ***
+Bote total 0.65 € | Comisión 0.04 € 
+Comunitarias [Jd 6s Tc 3c 7h]
+Asiento 1: LeVbks (ciega grande) muestra [Qd Td] y ganó (0.61 €) con pareja de dieces
+Asiento 2: fcis666 muestra [Ks Ac] y perdió con carta alta as
+Asiento 3: Dlaguancha se retiró antes del Flop (no apostó)
+Asiento 4: SrLyce se retiró antes del Flop (no apostó)
+Asiento 5: riverluck444 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: javipondio (ciega pequeña) se retiró antes del Flop

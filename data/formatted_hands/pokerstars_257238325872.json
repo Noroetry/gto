@@ -1,0 +1,62 @@
+{
+  "hand_id": "257238325872",
+  "date": "06-08-2025 18:48:03",
+  "table": "Alruccabah II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "Ah",
+    "6c"
+  ],
+  "stacks": {
+    "SrLyce": 97.0,
+    "Davdgoni": 282.0,
+    "tatinette35": 100.0,
+    "Nicanor Cast": 56.0,
+    "rayao32": 52.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: SrLyce (1.94 € en fichas)",
+      "Asiento 2: Davdgoni (5.64 € en fichas)",
+      "Asiento 3: tatinette35 (2 € en fichas)",
+      "Asiento 4: serviettski(fr) (2 € en fichas)",
+      "Asiento 5: Nicanor Cast (1.12 € en fichas)",
+      "Asiento 6: rayao32 (1.04 € en fichas)",
+      "Nicanor Cast: pone la ciega pequeña 0.01 €",
+      "rayao32: pone la ciega grande 0.02 €",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "Davdgoni: se retira",
+      "tatinette35: se retira",
+      "serviettski(fr): se retira",
+      "Nicanor Cast: se retira",
+      "rayao32: iguala 0.03 €"
+    ],
+    "flop": [
+      "rayao32: pasa",
+      "SrLyce: apuesta 0.03 €",
+      "rayao32: se retira",
+      "SrLyce: no muestra su mano",
+      "Asiento 1: SrLyce recaudó (0.10 €)",
+      "Asiento 2: Davdgoni se retiró antes del Flop (no apostó)",
+      "Asiento 3: tatinette35 se retiró antes del Flop (no apostó)",
+      "Asiento 4: serviettski(fr) (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 5: Nicanor Cast (ciega pequeña) se retiró antes del Flop",
+      "Asiento 6: rayao32 (ciega grande) se retiró en el Flop"
+    ],
+    "turn": [],
+    "river": []
+  },
+  "board": [
+    "9c",
+    "7s",
+    "8s"
+  ],
+  "winner": "SrLyce",
+  "win_amount": 5.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 0.5,
+  "raw_text": "Mano n.º 257238325872 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:48:03 CET [06-08-2025 12:48:03 ET]\nMesa \"Alruccabah II\" 6-max El asiento n.º 4 es el botón\nAsiento 1: SrLyce (1.94 € en fichas) \nAsiento 2: Davdgoni (5.64 € en fichas) \nAsiento 3: tatinette35 (2 € en fichas) \nAsiento 4: serviettski(fr) (2 € en fichas) \nAsiento 5: Nicanor Cast (1.12 € en fichas) \nAsiento 6: rayao32 (1.04 € en fichas) \nNicanor Cast: pone la ciega pequeña 0.01 €\nrayao32: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [Ah 6c]\nSrLyce: sube 0.03 € a 0.05 €\nDavdgoni: se retira \ntatinette35: se retira \nserviettski(fr): se retira \nNicanor Cast: se retira \nrayao32: iguala 0.03 €\n*** FLOP *** [9c 7s 8s]\nrayao32: pasa \nSrLyce: apuesta 0.03 €\nrayao32: se retira \nLa apuesta no igualada (0.03 €) ha sido devuelta a SrLyce\nSrLyce se lleva 0.10 € del bote \nSrLyce: no muestra su mano \n*** RESUMEN ***\nBote total 0.11 € | Comisión 0.01 € \nComunitarias [9c 7s 8s]\nAsiento 1: SrLyce recaudó (0.10 €)\nAsiento 2: Davdgoni se retiró antes del Flop (no apostó)\nAsiento 3: tatinette35 se retiró antes del Flop (no apostó)\nAsiento 4: serviettski(fr) (botón) se retiró antes del Flop (no apostó)\nAsiento 5: Nicanor Cast (ciega pequeña) se retiró antes del Flop\nAsiento 6: rayao32 (ciega grande) se retiró en el Flop"
+}

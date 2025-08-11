@@ -1,0 +1,64 @@
+{
+  "hand_id": "257238260789",
+  "date": "06-08-2025 18:42:21",
+  "table": "Aidamina II",
+  "game_type": "holdem",
+  "hero": "SrLyce",
+  "hero_position": "",
+  "hero_cards": [
+    "8h",
+    "Ah"
+  ],
+  "stacks": {
+    "GarciaTT416": 98.5,
+    "McFlash3": 100.0,
+    "niyomalo": 69.0,
+    "durahimovic": 133.0,
+    "Abrelatas787": 148.0,
+    "SrLyce": 129.0
+  },
+  "actions": {
+    "preflop": [
+      "Asiento 1: GarciaTT416 (1.97 € en fichas)",
+      "Asiento 2: McFlash3 (2 € en fichas)",
+      "Asiento 3: niyomalo (1.38 € en fichas)",
+      "Asiento 4: durahimovic (2.66 € en fichas)",
+      "Asiento 5: Abrelatas787 (2.96 € en fichas)",
+      "Asiento 6: SrLyce (2.58 € en fichas)",
+      "McFlash3: pone la ciega pequeña 0.01 €",
+      "niyomalo: pone la ciega grande 0.02 €",
+      "durahimovic: se retira",
+      "Abrelatas787: se retira",
+      "SrLyce: sube 0.03 € a 0.05 €",
+      "GarciaTT416: se retira",
+      "McFlash3: se retira",
+      "niyomalo: sube 1.33 € a 1.38 € y está all-in",
+      "SrLyce: iguala 1.33 €"
+    ],
+    "flop": [],
+    "turn": [],
+    "river": [
+      "niyomalo: muestra [Ac Qh] (carta alta as)",
+      "SrLyce: muestra [8h Ah] (carta alta as - menor kicker)",
+      "Asiento 1: GarciaTT416 (botón) se retiró antes del Flop (no apostó)",
+      "Asiento 2: McFlash3 (ciega pequeña) se retiró antes del Flop",
+      "Asiento 3: niyomalo (ciega grande) muestra [Ac Qh] y ganó (2.60 €) con carta alta as",
+      "Asiento 4: durahimovic se retiró antes del Flop (no apostó)",
+      "Asiento 5: Abrelatas787 se retiró antes del Flop (no apostó)",
+      "Asiento 6: SrLyce muestra [8h Ah] y perdió con carta alta as"
+    ]
+  },
+  "board": [
+    "2h",
+    "7c",
+    "Kh",
+    "3c",
+    "4c"
+  ],
+  "winner": "niyomalo",
+  "win_amount": 130.0,
+  "sb": 0.01,
+  "bb": 0.02,
+  "rake": 8.5,
+  "raw_text": "Mano n.º 257238260789 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 06-08-2025 18:42:21 CET [06-08-2025 12:42:21 ET]\nMesa \"Aidamina II\" 6-max El asiento n.º 1 es el botón\nAsiento 1: GarciaTT416 (1.97 € en fichas) \nAsiento 2: McFlash3 (2 € en fichas) \nAsiento 3: niyomalo (1.38 € en fichas) \nAsiento 4: durahimovic (2.66 € en fichas) \nAsiento 5: Abrelatas787 (2.96 € en fichas) \nAsiento 6: SrLyce (2.58 € en fichas) \nMcFlash3: pone la ciega pequeña 0.01 €\nniyomalo: pone la ciega grande 0.02 €\n*** CARTAS DE MANO ***\nRepartidas a SrLyce [8h Ah]\ndurahimovic: se retira \nAbrelatas787: se retira \nSrLyce: sube 0.03 € a 0.05 €\nGarciaTT416: se retira \nMcFlash3: se retira \nniyomalo: sube 1.33 € a 1.38 € y está all-in\nSrLyce: iguala 1.33 €\n*** FLOP *** [2h 7c Kh]\n*** TURN *** [2h 7c Kh] [3c]\n*** RIVER *** [2h 7c Kh 3c] [4c]\n*** SHOW DOWN ***\nniyomalo: muestra [Ac Qh] (carta alta as)\nSrLyce: muestra [8h Ah] (carta alta as - menor kicker)\nniyomalo se lleva 2.60 € del bote \n*** RESUMEN ***\nBote total 2.77 € | Comisión 0.17 € \nComunitarias [2h 7c Kh 3c 4c]\nAsiento 1: GarciaTT416 (botón) se retiró antes del Flop (no apostó)\nAsiento 2: McFlash3 (ciega pequeña) se retiró antes del Flop\nAsiento 3: niyomalo (ciega grande) muestra [Ac Qh] y ganó (2.60 €) con carta alta as\nAsiento 4: durahimovic se retiró antes del Flop (no apostó)\nAsiento 5: Abrelatas787 se retiró antes del Flop (no apostó)\nAsiento 6: SrLyce muestra [8h Ah] y perdió con carta alta as"
+}

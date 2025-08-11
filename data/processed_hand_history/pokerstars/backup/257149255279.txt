@@ -1,0 +1,36 @@
+Mano n.º 257149255279 de PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 30-07-2025 22:18:58 CET [30-07-2025 16:18:58 ET]
+Mesa "Leverrier" 6-max El asiento n.º 3 es el botón
+Asiento 1: adrian15540 (1.86 € en fichas) 
+Asiento 2: SrLyce (1.99 € en fichas) 
+Asiento 3: igonpar (1.95 € en fichas) 
+Asiento 4: futur64 (1.91 € en fichas) 
+Asiento 5: denkweise (2.04 € en fichas) 
+Asiento 6: NaruchoH1 (2.31 € en fichas) 
+futur64: pone la ciega pequeña 0.01 €
+denkweise: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a SrLyce [4d Kc]
+NaruchoH1: sube 0.04 € a 0.06 €
+adrian15540: iguala 0.06 €
+SrLyce: se retira 
+igonpar: se retira 
+futur64: se retira 
+denkweise: se retira 
+*** FLOP *** [Qd 4s 9d]
+NaruchoH1: apuesta 0.05 €
+adrian15540: iguala 0.05 €
+*** TURN *** [Qd 4s 9d] [Td]
+NaruchoH1: apuesta 0.12 €
+adrian15540: se retira 
+La apuesta no igualada (0.12 €) ha sido devuelta a NaruchoH1
+NaruchoH1 se lleva 0.23 € del bote 
+NaruchoH1: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 € 
+Comunitarias [Qd 4s 9d Td]
+Asiento 1: adrian15540 se retiró en el Turn
+Asiento 2: SrLyce se retiró antes del Flop (no apostó)
+Asiento 3: igonpar (botón) se retiró antes del Flop (no apostó)
+Asiento 4: futur64 (ciega pequeña) se retiró antes del Flop
+Asiento 5: denkweise (ciega grande) se retiró antes del Flop
+Asiento 6: NaruchoH1 recaudó (0.23 €)

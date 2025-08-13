@@ -1,7 +1,9 @@
-> Desarrollar en el pokerstars parser el showdown y el resumen
-> Asignar a los players las cartas, si las muestran en el showdown
-> Pasar json a un sqlite para liberar memoria
---> Añadir tablas preflop y crear una función que compruebe si hemos abierto bien o no
+> Hacer un estudio de nuestras jugadas preflop, total que abrimos bien, total que abrimos mal y cuando, hacer una especie de tabla
 
 BUGS:
 > Para alguna lectura de manos está cogiendo position None
+> Coge los OR de BB
+
+NEXT:
+- DISEÑAR MODO DE ALMACENAR MANOS E INFORMACIÓN DE ANÁLISIS POR DÍAS, PARA QUE NO SE SOLAPEN, POR EJEMPLO, VER CADA DÍA TU ANÁLISIS DE PREFLOP, FLOP, ETC
+- 3BET PARA CADA POSICIÓN

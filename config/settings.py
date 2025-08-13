@@ -9,6 +9,6 @@ PROCESSED_HAND_HISTORIES_DIR = os.path.join(BASE_DIR, 'data', 'processed_hand_hi
 FORMATTED_HANDS_DIR = os.path.join(BASE_DIR, 'data', 'formatted_hands')
 ANALYZED_HANDS_DIR = os.path.join(BASE_DIR, 'data', 'analyzed_hands')
 
-#POKERSTARS_HAND_HISTORY_PATH = r"C:\Users\Pablo\AppData\Local\PokerStars.ES\HandHistory\SrLyce"
-POKERSTARS_HAND_HISTORY_PATH = r"C:\Users\PABLO\Documents\projects\SrLyce"
+POKERSTARS_HAND_HISTORY_PATH = r"C:\Users\Pablo\AppData\Local\PokerStars.ES\HandHistory\SrLyce"
+#POKERSTARS_HAND_HISTORY_PATH = r"C:\Users\PABLO\Documents\projects\SrLyce"
 POKERSTARS_HERO_NAME = "SrLyce"

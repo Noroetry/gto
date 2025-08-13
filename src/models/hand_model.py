@@ -1,21 +1,20 @@
 from dataclasses import dataclass, field
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
+
 
 @dataclass
 class StandardHand:
     hand_id: str
-    date: str
-    table: str
     game_type: str
-    hero: str
-    hero_position: str
-    hero_cards: List[str]
-    stacks: Dict[str, float]
-    actions: Dict[str, List[str]]
-    board: List[str]
-    winner: Optional[str]
-    win_amount: float      # En BB
-    sb: float              # En euros
-    bb: float              # En euros
-    rake: float            # En BB
-    raw_text: str = field(repr=False)
+    sb: float = 0.0          # En euros
+    bb: float = 0.0          # En euros
+    date_played: str = ""
+    table_name: str = ""
+    table_size: int = 0
+    players: List[Dict[str, Any]] = field(default_factory=list)
+    actions: Dict[str, List[str]] = field(default_factory=dict)
+    board: List[str] = field(default_factory=list)
+    winner: Optional[str] = None
+    win_amount: float = 0.0  # En BB
+    rake: float = 0.0        # En BB
+    raw_text: str = field(default="", repr=False)

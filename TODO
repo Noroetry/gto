@@ -1,0 +1,7 @@
+> Desarrollar en el pokerstars parser el showdown y el resumen
+> Asignar a los players las cartas, si las muestran en el showdown
+> Pasar json a un sqlite para liberar memoria
+--> Añadir tablas preflop y crear una función que compruebe si hemos abierto bien o no
+
+BUGS:
+> Para alguna lectura de manos está cogiendo position None

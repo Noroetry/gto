@@ -11,8 +11,8 @@ class PokerStarsRoom(object):
     def __init__(self):
         self.name_room = 'pokerstars'
 
-        self.collector = PokerStarsCollector(self.name_room, active=True)
-        self.parser = PokerStarsParser(self.name_room, active=True)
+        self.collector = PokerStarsCollector(self.name_room, active=False)
+        self.parser = PokerStarsParser(self.name_room, active=False)
         self.analyzer = PokerStarsAnalyzer(self.name_room, active=True)
 
         room_logger.debug("PokerStars Room initializated.")

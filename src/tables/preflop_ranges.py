@@ -14,6 +14,7 @@ preflop_ranges = {
         "K4s", "K5s", "K6s", "K7s", "K8s", "K9s", "KTs", "KJs", "KQs",
         "KTo", "KJo", "KQo",
         "Q9s", "QTs", "QJs",
+        "QJo",
         "JTs"
     },
     "CO": {
@@ -23,7 +24,7 @@ preflop_ranges = {
         "K3s", "K4s", "K5s", "K6s", "K7s", "K8s", "K9s", "KTs", "KJs", "KQs",
         "KTo", "KJo", "KQo", 
         "Q9s", "QTs", "QJs", 
-        "QTo", 
+        "QTo", "QJo",
         "J9s", "JTs",
         "JTo",
         "T9o"
@@ -32,10 +33,10 @@ preflop_ranges = {
         "44", "55", "66", "77", "88", "99", "TT", "JJ", "QQ", "KK", "AA",
         "A2s", "A3s", "A4s", "A5s", "A6s", "A7s", "A8s", "A9s", "ATs", "AJs", "AQs", "AKs",
         "A3o", "A4o", "A5o", "A6o", "A7o", "A8o", "A9o", "ATo", "AJo", "AQo", "AKo",
-        "K9o", "KTo", "KJo", "KQo",
+        "K8o", "K9o", "KTo", "KJo", "KQo",
         "K2s", "K3s", "K4s", "K5s", "K6s", "K7s", "K8s", "K9s", "KTs", "KJs", "KQs",
         "Q5s", "Q6s", "Q7s", "Q8s", "Q9s", "QTs", "QJs", 
-        "QTo", "Q9o",
+        "Q9o", "QTo", "QJo",
         "J5s", "J7s", "J8s", "J9s", "JTs", 
         "JTo", "J9o",
         "T7s", "T8s", "T9s",
@@ -50,7 +51,7 @@ preflop_ranges = {
         "K8o", "K9o", "KTo", "KJo", "KQo",
         "K2s", "K3s", "K4s", "K5s", "K6s", "K7s", "K8s", "K9s", "KTs", "KJs", "KQs",
         "Q2s", "Q3s", "Q4s", "Q5s", "Q6s", "Q7s", "Q8s", "Q9s", "QTs", "QJs", 
-        "QTo", "Q9o",
+        "Q9o", "QTo", "QJo",
         "J5s", "J6s", "J7s", "J8s", "J9s", "JTs", "JTo", 
         "JTo", "J9o",
         "T6s", "T7s", "T8s", "T9s",

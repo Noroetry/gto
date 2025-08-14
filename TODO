@@ -1,9 +1,4 @@
-> Hacer un estudio de nuestras jugadas preflop, total que abrimos bien, total que abrimos mal y cuando, hacer una especie de tabla
-
-BUGS:
-> Para alguna lectura de manos está cogiendo position None
-> Coge los OR de BB
+> CLEAN CODE & REVISION PREFLOP
 
 NEXT:
-- DISEÑAR MODO DE ALMACENAR MANOS E INFORMACIÓN DE ANÁLISIS POR DÍAS, PARA QUE NO SE SOLAPEN, POR EJEMPLO, VER CADA DÍA TU ANÁLISIS DE PREFLOP, FLOP, ETC
 - 3BET PARA CADA POSICIÓN

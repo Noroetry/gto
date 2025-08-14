@@ -102,6 +102,8 @@ class PokerStarsAnalyzer(BaseAnalyzer):
                 if action["player"] == hero:
                     hand_str = normalize_hand(hero_info.get("cards", []))
                     position = hero_info.get("position")
+                    if position == 'BB':
+                        return None  # No se analiza el BB
                     date_played = hand_data.get("date_played", "")
                     allowed_hands = preflop_ranges.get(position, set())
 

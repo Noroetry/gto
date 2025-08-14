@@ -119,7 +119,7 @@ class PokerStarsParser(BaseParser):
     
     def assign_remaining_positions(self, button_seat: Optional[int] = None, overwrite: bool = False, table_size: int = 6, players: Optional[List[Dict[str, Any]]] = None) -> List[Dict[str, Any]]:
         positions_map = {
-            2: ["BTN/SB", "BB"],
+            2: ["SB", "BB"],
             3: ["BTN", "SB", "BB"],
             4: ["BTN", "SB", "BB", "CO"],
             5: ["BTN", "SB", "BB", "UTG", "CO"],
@@ -129,28 +129,30 @@ class PokerStarsParser(BaseParser):
             9: ["BTN", "SB", "BB", "EP1", "EP2", "MP1", "MP2", "HJ", "CO"]
         }
 
+        if players is None:
+            pokerstars_parser_logger.error("No players data provided for position assignment.")
+            return []
+
         # Filtrar jugadores activos con seat válido
-        active_players = [p for p in players if p.get("active", True) and p.get("seat") is not None]
+        active_players = [p for p in players if p.get("active", False) and p.get("seat") is not None]
         num_active = len(active_players)
-        if num_active < 2:
+        pokerstars_parser_logger.debug(f"Number of active players: {num_active}")
+        if num_active <= 2:
             return  players
 
         positions_order = positions_map.get(num_active, positions_map[9])
+        pokerstars_parser_logger.debug(f"Positions order for {num_active} players: {positions_order}")
 
         # 1) Buscar BTN ya marcado por el parser
-        btn_player = next((p for p in active_players if p.get("position") in ("BTN", "BTN/SB")), None)
+        btn_player = next((p for p in active_players if p.get("position") == "BTN"), None)
 
-        # 2) Si no hay BTN pero el caller pasa button_seat, usarlo
-        if btn_player is None and button_seat is not None:
-            btn_player = next((p for p in active_players if p.get("seat") == button_seat), None)
-
-        if btn_player is None:
-            # No podemos determinar botón, salimos sin tocar nada.
-            return players
+        if not btn_player:
+            pokerstars_parser_logger.critical("No BTN player found in active players. Cannot assign positions.")
+            return []
 
         btn_seat = btn_player["seat"]
 
-        # 3) Construir la lista de asientos activos en orden horario empezando por BTN,
+        # 2) Construir la lista de asientos activos en orden horario empezando por BTN,
         #    usando table_size para wrap-around.
         seats_order = []
         seat = btn_seat
@@ -219,8 +221,15 @@ class PokerStarsParser(BaseParser):
 
         pokerstars_parser_logger.debug(f"Mesa: {table_name}, Tamaño: {table_size}-max, Botón en asiento: {button_seat}")
 
+        preflop_actions_start_index = hand_text.find("*** CARTAS DE MANO ***")
+        if preflop_actions_start_index == -1:
+            pokerstars_parser_logger.critical("No se encontró el inicio de las cartas de mano. No se puede procesar.")
+            return None
+
+        initial_text = hand_text[:preflop_actions_start_index]
+
         players = []
-        for m in re.finditer(r"Asiento (\d+): ([^\(]+)\(([\d\.,]+)[^\d]+en fichas\)( está ausente)?", hand_text):
+        for m in re.finditer(r"Asiento (\d+):\s*(.+?)\s+\(([\d\.,]+).+en fichas\)( está ausente)?", initial_text):
             seat = int(m.group(1))
             player_name = m.group(2).strip()
             stack_eur = float(m.group(3).replace(',', '.'))
@@ -238,6 +247,7 @@ class PokerStarsParser(BaseParser):
                 "cards": [],
                 "active": is_active
             })
+            pokerstars_parser_logger.debug(f"Jugador encontrado: {player_name}, Asiento: {seat}, Stack: {stack_bb} BB, Activo: {is_active}")
 
         # 3. Detectar jugadores que se han ido
         out_patterns = [
@@ -245,11 +255,17 @@ class PokerStarsParser(BaseParser):
             r"^([^\:]+) ha agotado su tiempo mientras siga sin conexión",
             r"^([^\:]+): está ausente$"
         ]
-
+        
+        out_players = set()
         for pattern in out_patterns:
-            for m in re.finditer(pattern, hand_text, flags=re.MULTILINE):
+            for m in re.finditer(pattern, initial_text, flags=re.MULTILINE):
                 out_player = m.group(1).strip()
-                players = [p for p in players if p["name"] != out_player]
+                out_players.add(out_player)
+
+        # Actualizar la lista de jugadores
+        for p in players:
+            if p["name"] in out_players:
+                p["active"] = False
 
         # 4. Detectar posiciones SB y BB
         for m in re.finditer(r"^(.+?): pone la ciega pequeña", hand_text, flags=re.MULTILINE):
@@ -263,6 +279,7 @@ class PokerStarsParser(BaseParser):
             for p in players:
                 if p["name"] == bb_player:
                     p["position"] = "BB"
+        pokerstars_parser_logger.debug(f"Jugadores antes de asignación automática: {players}")
 
         # 5. Asignar posiciones a los jugadores restantes
         players = self.assign_remaining_positions(button_seat=button_seat, overwrite=True, table_size=table_size, players=players)

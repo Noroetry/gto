@@ -6,9 +6,9 @@ root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if root_dir not in sys.path:
     sys.path.insert(0, root_dir)
 
-from config import settings
 from src.utils.logger_config import setup_logging
 from src.rooms.pokerstars_room import PokerStarsRoom
+from src.analyzers.analyzer import Analyzer
 
 main_logger = logging.getLogger(__name__)
 
@@ -17,7 +17,9 @@ def main():
     main_logger.info("Inicio de aplicación")
     main_logger.debug("Inicio de debug")
 
-    rooms = [ PokerStarsRoom() ]
+    rooms = [ PokerStarsRoom(True) ]
+    
+    analyzers = Analyzer(active=True)
 
     for room in rooms:
         main_logger.info(f"Procesando sala: {room.name_room}")

@@ -10,8 +10,8 @@ from typing import Optional, List, Dict, Any
 pokerstars_parser_logger = logging.getLogger(__name__)
 
 class PokerStarsParser(BaseParser):
-    def __init__(self, name_room: str, active: bool):
-        self.hero_name = settings.POKERSTARS_HERO_NAME
+    def __init__(self, name_room: str, hero_name: str, active: bool):
+        self.hero_name = hero_name
         self.name_room = name_room
         self.source_dir = os.path.join(settings.RAW_HAND_HISTORIES_DIR, name_room)
         self.processed_dir = os.path.join(settings.PROCESSED_HAND_HISTORIES_DIR, name_room)
@@ -463,6 +463,7 @@ class PokerStarsParser(BaseParser):
         # 9. Crear objeto StandardHand
         hand = StandardHand(
             hand_id=hand_id,
+            room_name=self.name_room,
             game_type=game_type,
             sb=sb,
             bb=bb,

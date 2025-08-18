@@ -1,8 +1,7 @@
 import abc
 
 class BaseAnalyzer(abc.ABC):
-    def __init__(self, source_dir: str, formatted_dir: str, analyzed_dir: str):
-        self.source_dir = source_dir
+    def __init__(self, formatted_dir: str, analyzed_dir: str):
         self.formatted_dir = formatted_dir
         self.analyzed_dir = analyzed_dir
 

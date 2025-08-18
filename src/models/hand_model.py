@@ -5,6 +5,7 @@ from typing import List, Dict, Optional, Any
 @dataclass
 class StandardHand:
     hand_id: str
+    room_name: str
     game_type: str
     sb: float = 0.0          # En euros
     bb: float = 0.0          # En euros

@@ -26,8 +26,7 @@ preflop_ranges = {
         "Q9s", "QTs", "QJs", 
         "QTo", "QJo",
         "J9s", "JTs",
-        "JTo",
-        "T9o"
+        "JTo"
     },
     "BTN": {
         "44", "55", "66", "77", "88", "99", "TT", "JJ", "QQ", "KK", "AA",

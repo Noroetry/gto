@@ -97,29 +97,68 @@ class PokerStarsAnalyzer(BaseAnalyzer):
             else:
                 return f"{r1}{r2}{suited}"
 
-        for action in preflop_actions:
-            if action["action"] in ("BET", "RAISE"):
-                if action["player"] == hero:
-                    hand_str = normalize_hand(hero_info.get("cards", []))
-                    position = hero_info.get("position")
-                    if position == 'BB':
-                        return None  # No se analiza el BB
-                    date_played = hand_data.get("date_played", "")
-                    allowed_hands = preflop_ranges.get(position, set())
+        hero_hand_str = normalize_hand(hero_info.get("cards", []))
+        hero_position = hero_info.get("position")
+        date_played = hand_data.get("date_played", "")
 
-                    correct_open = hand_str in allowed_hands if hand_str else False
+        # El BB no tiene la oportunidad de hacer un open raise
+        if hero_position == 'BB':
+            return None
 
-                    return {
-                        "position": position,
-                        "cards": hero_info.get("cards", []),
-                        "hand_str": hand_str,
-                        "bet_size_bb": action["amount"],
-                        "correct_open": correct_open,
-                        "date_played": date_played,
-                    }
-                else:
-                    return None
+        # Encontrar la posición de hero en el orden de acciones
+        hero_action_index = -1
+        for i, action in enumerate(preflop_actions):
+            if action["player"] == hero:
+                hero_action_index = i
+                break
 
+        # Si hero no ha actuado, no hay nada que analizar
+        if hero_action_index == -1:
+            return None
+            
+        # Comprobar si hero es el primer jugador en enfrentar una acción (excluyendo ciegas y folds)
+        previous_raises = False
+        for i in range(hero_action_index):
+            if preflop_actions[i]["action"] in ("RAISE", "BET"):
+                previous_raises = True
+                break
+        
+        # Si hubo un raise previo, el análisis no es de un open raise.
+        if previous_raises:
+            return None
+
+        # Si no hubo raise previo, hero tuvo la oportunidad de hacer un OR.
+        hero_action = preflop_actions[hero_action_index]
+        
+        allowed_hands = preflop_ranges.get(hero_position, set())
+        
+        # Caso 1: Hero hizo un Open Raise
+        if hero_action["action"] in ("RAISE", "BET"):
+            correct_open = hero_hand_str in allowed_hands if hero_hand_str else False
+            return {
+                "position": hero_position,
+                "cards": hero_info.get("cards", []),
+                "hand_str": hero_hand_str,
+                "bet_size_bb": hero_action["amount"],
+                "correct_open": correct_open,
+                "date_played": date_played,
+                "action_type": "OR_made", # Open Raise realizado
+            }
+
+        # Caso 2: Hero hizo un Fold cuando debió hacer un Open Raise
+        if hero_action["action"] == "FOLD":
+            if hero_hand_str in allowed_hands:
+                return {
+                    "position": hero_position,
+                    "cards": hero_info.get("cards", []),
+                    "hand_str": hero_hand_str,
+                    "bet_size_bb": None,
+                    "correct_open": False,
+                    "date_played": date_played,
+                    "action_type": "OR_missed", # Open Raise perdido
+                }
+
+        # En cualquier otro caso (call, check, etc.), no hay un error de OR.
         return None
 
     def generate_daily_or_reports(self):
@@ -139,12 +178,16 @@ class PokerStarsAnalyzer(BaseAnalyzer):
 
             reports_by_day = defaultdict(lambda: {
                 "correct_opens": 0,
-                "incorrect_opens": set()
+                "incorrect_opens": set(),
+                "made_opens": 0,
+                "missed_opens": 0
             })
             pokerstars_analyzer_logger.debug(f"Procesando {len(data)} jugadas en total.")
 
             total_correct_global = 0
             total_incorrect_global = 0
+            total_made_global = 0
+            total_missed_global = 0
 
             for item in data:
                 preflop = item.get("preflop", {})
@@ -160,21 +203,35 @@ class PokerStarsAnalyzer(BaseAnalyzer):
                 except ValueError:
                     pokerstars_analyzer_logger.error(f"Formato de fecha inválido para '{date_played_str}'. Saltando...")
                     continue
-
+                
+                action_type = preflop.get("action_type")
                 correct_open = preflop.get("correct_open", False)
 
                 if correct_open:
                     reports_by_day[formated_date]["correct_opens"] += 1
+                    reports_by_day[formated_date]["made_opens"] += 1
                     total_correct_global += 1
+                    total_made_global += 1
                 else:
                     position = preflop.get("position", "Unknown")
                     hand_str = preflop.get("hand_str", "Xx")
-                    incorrect_play_string = f"{position} {hand_str}"
+                    
+                    # Modificación clave: añadir el tipo de acción
+                    if action_type == "OR_missed":
+                        incorrect_play_string = f"{position} {hand_str} OR missed"
+                        reports_by_day[formated_date]["missed_opens"] += 1
+                        total_missed_global += 1
+                    else: # OR_made con mano incorrecta
+                        incorrect_play_string = f"{position} {hand_str} OR made"
+                        reports_by_day[formated_date]["made_opens"] += 1
+                        total_made_global += 1
+                    
                     reports_by_day[formated_date]["incorrect_opens"].add(incorrect_play_string)
                     total_incorrect_global += 1
             
             pokerstars_analyzer_logger.debug(f"Reports sets for days: {reports_by_day}")
 
+            # --- GENERACIÓN DEL INFORME DIARIO ---
             for date, report_data in reports_by_day.items():
                 output_filename = f"{date} - OR.txt"
                 output_file_path = os.path.join(path_or_results, output_filename)
@@ -187,17 +244,23 @@ class PokerStarsAnalyzer(BaseAnalyzer):
                     correct_count = report_data["correct_opens"]
                     incorrect_plays = report_data["incorrect_opens"]
                     incorrect_count = len(incorrect_plays)
+                    made_count = report_data["made_opens"]
+                    missed_count = report_data["missed_opens"]
 
+                    total_plays = made_count + missed_count
+                    
                     improvement_index = (
-                        (correct_count / (correct_count + incorrect_count)) * 100
-                        if (correct_count + incorrect_count) > 0
+                        (correct_count / total_plays) * 100
+                        if total_plays > 0
                         else 0
                     )
 
-                    f.write(f"Total: {correct_count + incorrect_count} jugadas\n")
+                    f.write(f"Total: {total_plays} jugadas\n")
                     f.write(f"Total de manos correctas: {correct_count}\n")
                     f.write(f"Total de manos incorrectas: {incorrect_count}\n")
                     f.write(f"Perfección: {improvement_index:.2f}%\n\n")
+                    f.write(f"Total OR realizados: {made_count}\n")
+                    f.write(f"Total OR perdidos: {missed_count}\n\n")
 
                     if incorrect_count > 0:
                         f.write("Detalles de las manos incorrectas:\n")
@@ -212,7 +275,7 @@ class PokerStarsAnalyzer(BaseAnalyzer):
             brief_report_path = os.path.join(path_or_results, brief_report_filename)
 
             with open(brief_report_path, "w", encoding="utf-8") as f:
-                total_plays_global = total_correct_global + total_incorrect_global
+                total_plays_global = total_made_global + total_missed_global
                 improvement_index_total = (
                     (total_correct_global / total_plays_global) * 100
                     if total_plays_global > 0
@@ -226,6 +289,8 @@ class PokerStarsAnalyzer(BaseAnalyzer):
                 f.write(f"Correctas: {total_correct_global}\n")
                 f.write(f"Incorrectas: {total_incorrect_global}\n")
                 f.write(f"Perfección: {improvement_index_total:.2f}%\n")
+                f.write(f"Total OR realizados: {total_made_global}\n")
+                f.write(f"Total OR perdidos: {total_missed_global}\n")
             
             pokerstars_analyzer_logger.info("Informes de Open Raises generados correctamente.")
             pokerstars_analyzer_logger.debug(f"Informe general guardado en: {brief_report_path}")
@@ -236,4 +301,3 @@ class PokerStarsAnalyzer(BaseAnalyzer):
             pokerstars_analyzer_logger.critical(f"Error: No se pudo decodificar el JSON del archivo '{json_file}'.")
         except Exception as e:
             pokerstars_analyzer_logger.critical(f"Ocurrió un error inesperado: {e}")
-

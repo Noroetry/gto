@@ -12,7 +12,9 @@ class Analyzer():
         self.formatted_dir = settings.FORMATTED_HANDS_DIR
         self.analyzed_dir = settings.ANALYZED_HANDS_DIR
 
-        self.analyzers = [PreflopAnalyzer(self.analyzed_dir, self.formatted_dir, self.hero_name)]
+        self.analyzers = [
+            PreflopAnalyzer(self.analyzed_dir, self.formatted_dir, self.hero_name)
+        ]
 
         analyzer_logger.debug("PokerStars Analyzer initializated.")
         analyzer_logger.debug(f"Formatted path: {self.formatted_dir}")

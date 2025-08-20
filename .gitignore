@@ -1,3 +1,6 @@
-data/
-config/settings.py
+data/analyzed_hands/
+data/formatted_hands/
+data/processed_hand_history/*/
+data/raw_hand_history/*/
 logs/
+__pycache__/

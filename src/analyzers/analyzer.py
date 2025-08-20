@@ -3,6 +3,7 @@ from config import settings
 import os
 import logging
 from src.analyzers.preflop_analyzer import PreflopAnalyzer
+from src.analyzers.pot_analyzer import PotAnalyzer
 
 analyzer_logger = logging.getLogger(__name__)
 
@@ -13,7 +14,8 @@ class Analyzer():
         self.analyzed_dir = settings.ANALYZED_HANDS_DIR
 
         self.analyzers = [
-            PreflopAnalyzer(self.analyzed_dir, self.formatted_dir, self.hero_name)
+            PreflopAnalyzer(self.analyzed_dir, self.formatted_dir, self.hero_name),
+            PotAnalyzer(self.analyzed_dir, self.formatted_dir, self.hero_name)
         ]
 
         analyzer_logger.debug("PokerStars Analyzer initializated.")
